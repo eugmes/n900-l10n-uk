@@ -8,12 +8,14 @@ XS-Vcs-Svn: https://n900-extra-translations.googlecode.com/svn/
 XS-Vcs-Browser: http://code.google.com/p/n900-extra-translations/source/browse/
 XSBC-Bugtracker: http://code.google.com/p/n900-extra-translations/issues/list
 XSBC-Maemo-Display-Name: Ukrainian localization
+XSBC-Maemo-Display-Name-uk_UA: Українська локалізація
  
 Package: n900-l10n-uk
 Architecture: all
 Depends: ${misc:Depends}
 Description: Ukrainian UI translation for Maemo 5
  This is an unofficial Ukrainian translation for Maemo 5 UI on N900.
+XB-Description-uk_UA: Український переклад інтерфейсу для Maemo 5
 XB-Maemo-Icon-26:
  iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
  AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAABlSURB
