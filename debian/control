@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Eugeniy Meshcheryakov <eugen@debian.org>
 Standards-Version: 3.6.2
 Build-Depends: debhelper7 (>= 7), gettext
-XS-Vcs-Svn: https://n900-extra-translations.googlecode.com/svn/
-XS-Vcs-Browser: http://code.google.com/p/n900-extra-translations/source/browse/
-XSBC-Bugtracker: http://code.google.com/p/n900-extra-translations/issues/list
+Vcs-Git: git://github.com/eugmes/n900-l10n-uk.git
+Vcs-Browser: https://github.com/eugmes/n900-l10n-uk
+XSBC-Bugtracker: https://github.com/eugmes/n900-l10n-uk/issues
 XSBC-Maemo-Display-Name: Ukrainian localization
 XSBC-Maemo-Display-Name-uk_UA: Українська локалізація
  
