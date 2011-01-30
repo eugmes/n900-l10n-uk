@@ -1,0 +1,11 @@
+This package is based on n900-locales-extras by Evan JIANG <firstfan@gmail.com>
+
+---------------------------------------------------------------------
+This package was modified from posix-locales
+Copyright (c) 2005 Nokia Corporation.
+https://stage.maemo.org/svn/maemo/projects/haf/trunk/posix-locales
+
+n900-extras-translations:
+All files under po/ are licensed under the terms of BSD.
+Other files are licensed under the terms of the GNU LGPL.
+---------------------------------------------------------------------

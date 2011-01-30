@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-certman 20091109114416\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cema_ap_application_title"
+msgstr "Certificate manager"
+
+msgid "cer_ib_incorrect"
+msgstr "Incorrect password"
+
+msgid "cert_bd_c_delete"
+msgstr "Delete"
+
+msgid "cert_bd_cd_install"
+msgstr "Install"
+
+msgid "cert_bd_change_password"
+msgstr "Password"
+
+msgid "cert_bd_trust_settings_ok"
+msgstr "Select"
+
+msgid "cert_error_cert_exist"
+msgstr "Certificate already installed"
+
+msgid "cert_error_install"
+msgstr ""
+"Invalid certificate.\n"
+"Unable to install."
+
+msgid "cert_error_not_valid_server_certificate"
+msgstr "Server certificate %s (serial number: %s) not valid"
+
+msgid "cert_error_not_valid_user_certificate"
+msgstr "User certificate %s (serial number: %s) not valid"
+
+msgid "cert_fi_certmang_expired"
+msgstr "Valid until"
+
+msgid "cert_fi_certmang_fingerprint"
+msgstr "Fingerprint (%s)"
+
+msgid "cert_fi_certmang_issued_by"
+msgstr "Issued by"
+
+msgid "cert_fi_certmang_issued_to"
+msgstr "Issued to"
+
+msgid "cert_fi_certmang_self_signed"
+msgstr "Self signed"
+
+msgid "cert_fi_certmang_valid"
+msgstr "Valid from"
+
+msgid "cert_ia_explain_file_password"
+msgstr "%s is password protected"
+
+msgid "cert_ia_password"
+msgstr "Password:"
+
+msgid "cert_ib_installed_certificate"
+msgstr "Certificate successfully installed"
+
+msgid "cert_ib_installed_certificates"
+msgstr "Certificates successfully installed"
+
+msgid "cert_ib_uninstalled"
+msgstr "Certificate deleted"
+
+msgid "cert_li_certificate_signing"
+msgstr "Signing certificate"
+
+msgid "cert_li_certificate_user"
+msgstr "User certificate"
+
+msgid "cert_nc_confirm_dialog"
+msgstr ""
+"Delete certificate?\n"
+"%s"
+
+msgid "cert_nc_expired"
+msgstr ""
+"Certificate not currently valid.\n"
+"Check date and time settings."
+
+msgid "cert_nc_purpose_email_smime"
+msgstr "E-mail"
+
+msgid "cert_nc_purpose_ssl_tls"
+msgstr "Server"
+
+msgid "cert_nc_purpose_wlan_eap"
+msgstr "Wi-Fi "
+
+msgid "cert_ti_application_trust"
+msgstr "Select purpose"
+
+msgid "cert_ti_enter_file_password"
+msgstr "Enter file password"
+
+msgid "cert_ti_enter_password"
+msgstr "Enter certificate password"
+
+msgid "cert_ti_install_certificate"
+msgstr "Install certificate"
+
+msgid "cert_ti_install_certificates"
+msgstr "Install certificates"
+
+msgid "cert_ti_key_password"
+msgstr "Enter private key password"
+
+msgid "cert_ti_main_notebook_allusers"
+msgstr "All users"
+
+msgid "cert_ti_main_notebook_authorities"
+msgstr "Authorities"
+
+msgid "cert_ti_main_notebook_import"
+msgstr "Import certificate"
+
+msgid "cert_ti_main_notebook_user"
+msgstr "User"
+
+msgid "cert_ti_main_notebook_validfor"
+msgstr "Valid for"
+
+msgid "cert_ti_viewing_dialog"
+msgstr "Certificate details"

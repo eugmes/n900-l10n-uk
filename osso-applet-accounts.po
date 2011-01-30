@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-accounts 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2009.07.06 09:42+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "account_if_advanced_require_encryption"
+msgstr "Encryption required"
+
+msgid "accounts_ap_accounts"
+msgstr "VoIP and IM accounts"
+
+msgid "accounts_bd_advanced_settings"
+msgstr "Advanced settings"
+
+msgid "accounts_bd_create_new"
+msgstr "Register new account"
+
+msgid "accounts_bd_facebook_username"
+msgstr "Define Facebook user name"
+
+msgid "accounts_bd_forgot_password"
+msgstr "Recover forgotten password"
+
+msgid "accounts_bd_new"
+msgstr "New"
+
+msgid "accounts_bd_register"
+msgstr "Register"
+
+msgid "accounts_bd_sign_in"
+msgstr "Sign in"
+
+msgid "accounts_fi_advanced_settings"
+msgstr "Advanced settings"
+
+msgid "accounts_fi_avatar"
+msgstr "Avatar"
+
+msgid "accounts_fi_delete_account_offline"
+msgstr "Delete account? %s"
+
+msgid "accounts_fi_delete_account_online"
+msgstr "Delete account? %s"
+
+msgid "accounts_fi_device_memory_full_error"
+msgstr "Unable to create account."
+
+msgid "accounts_fi_disable_confirmation"
+msgstr ""
+"Disable account?\n"
+"%s\n"
+"The account will be signed out."
+
+msgid "accounts_fi_disabled"
+msgstr "Disabled"
+
+msgid "accounts_fi_draft"
+msgstr "Not signed in"
+
+msgid "accounts_fi_edit_account_title"
+msgstr "Edit account for %s"
+
+msgid "accounts_fi_edit_personal_info"
+msgstr "Edit personal info"
+
+msgid "accounts_fi_enabled"
+msgstr "Enabled"
+
+msgid "accounts_fi_enter_address_and_password_fields_first"
+msgstr "Enter address and password first"
+
+msgid "accounts_fi_enter_fields_first"
+msgstr "Enter user name and password first"
+
+msgid "accounts_fi_facebook_use_username"
+msgstr "Use user name instead of e-mail address."
+
+msgid "accounts_fi_password"
+msgstr "Password"
+
+msgid "accounts_fi_port_out_of_range"
+msgstr "Port number out of range (1-65535)"
+
+msgid "accounts_fi_problems_service_connection"
+msgstr "Problems connecting to the service. Try again later."
+
+msgid "accounts_fi_reconnect_account"
+msgstr "Reconnect?"
+
+msgid "accounts_fi_retype_password"
+msgstr "Verify password"
+
+msgid "accounts_fi_screen_name"
+msgstr "Screen name"
+
+msgid "accounts_fi_user_name"
+msgstr "User name"
+
+msgid "accounts_fi_user_name_sip"
+msgstr "Address"
+
+msgid "accounts_fi_username_exists"
+msgstr "Account with user name %s already exists for %s"
+
+msgid "accounts_ia_account_setup_successful_with_conn"
+msgstr "%s is signed in."
+
+msgid "accounts_ia_account_setup_successful_with_conn_nokia"
+msgstr "Chat, sharing and web services activated."
+
+msgid "accounts_ia_no_accounts"
+msgstr "(no accounts)"
+
+msgid "accounts_ia_use_for_cellular_calls"
+msgstr "Use for telephone numbers"
+
+msgid "accounts_nc_activate_account"
+msgstr ""
+"Only one %s account can be active. Disable account\n"
+"%s?"
+
+msgid "accounts_ti_accounts"
+msgstr "VoIP and IM accounts"
+
+msgid "accounts_ti_auth_failed"
+msgstr "User name or password incorrect"
+
+msgid "accounts_ti_completed_with_conn"
+msgstr "Signed into Ovi by Nokia: %s"
+
+msgid "accounts_ti_new_jabber_account"
+msgstr "Account setup - New Jabber account:"
+
+msgid "accounts_ti_registering"
+msgstr "Registering %s"
+
+msgid "accounts_ti_signing_in"
+msgstr "Signing in %s"
+
+msgid "accounts_ti_username_in_use"
+msgstr "User name already in use. Try another."
+
+msgid "accountwizard_fi_discover_public_address"
+msgstr "Discover public address"
+
+msgid "accountwizard_fi_keep_alive_mechanism"
+msgstr "Keep-alive mechanism"
+
+msgid "accountwizard_fi_keepalive_period"
+msgstr "Keep-alive period"
+
+msgid "accountwizard_fi_keepalive_period_va_15_min"
+msgstr "15 minutes"
+
+msgid "accountwizard_fi_keepalive_period_va_1_min"
+msgstr "1 minute"
+
+msgid "accountwizard_fi_keepalive_period_va_2_min"
+msgstr "2 minutes"
+
+msgid "accountwizard_fi_keepalive_period_va_30_sec"
+msgstr "30 seconds"
+
+msgid "accountwizard_fi_keepalive_period_va_60_min"
+msgstr "60 minutes"
+
+msgid "accountwizard_fi_keepalive_period_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_fi_loose_routing"
+msgstr "Loose routing"
+
+msgid "accountwizard_fi_outbound_proxy"
+msgstr "Outbound proxy"
+
+msgid "accountwizard_fi_transport"
+msgstr "Transport"
+
+msgid "accountwizard_ib_illegal_character"
+msgstr "User name unable to contain '%s'"
+
+msgid "accountwizard_ib_illegal_character_resource"
+msgstr "Field unable to contain characters %s"
+
+msgid "accountwizard_ib_illegal_character_space"
+msgstr "Field unable to contain spaces"
+
+msgid "accountwizard_ib_illegal_empty_space_resource"
+msgstr "Field unable to contain spaces"
+
+msgid "accountwizard_ib_illegal_server_address"
+msgstr ""
+"Invalid domain address.\n"
+"Change address and try again."
+
+msgid "accountwizard_ib_passwords_do_not_match"
+msgstr "Passwords do not match. Type password again."
+
+msgid "accountwizard_if_advanced_force_ssl"
+msgstr "Force old SSL"
+
+msgid "accountwizard_if_advanced_ignore_slll_certificate_errors"
+msgstr "Ignore SSL certificate errors"
+
+msgid "accountwizard_if_advanced_port"
+msgstr "Port"
+
+msgid "accountwizard_keepalive_va_auto"
+msgstr "Auto"
+
+msgid "accountwizard_keepalive_va_off"
+msgstr "Off"
+
+msgid "accountwizard_li_advanced_autodetect_stun"
+msgstr "Auto-detect STUN"
+
+msgid "accountwizard_li_advanced_connect_server"
+msgstr "Connect to server"
+
+msgid "accountwizard_li_advanced_resource"
+msgstr "Resource"
+
+msgid "accountwizard_li_advanced_stun_port"
+msgstr "STUN port"
+
+msgid "accountwizard_li_advanced_stun_server"
+msgstr "STUN server"
+
+msgid "accountwizard_ti_advanced_settings"
+msgstr "Advanced %s settings"
+
+msgid "accountwizard_ti_login"
+msgstr "Account setup: %s"
+
+msgid "accountwizard_ti_select_service"
+msgstr "Account setup: Select service"
+
+msgid "accountwizard_transport_va_auto"
+msgstr "Auto"
+
+msgid "skype_nc_activate_account"
+msgstr ""
+"Only one Skype account can be active.\n"
+"Log %s out?"

@@ -1,0 +1,22 @@
+#!/bin/sh
+set -e
+LOCALE=uk_UA
+
+case "$1" in
+  configure)
+    add_remove_language add $LOCALE;
+    mkdir -p /usr/share/nokia-maps/html/medos/i18n/uk;
+    ln -sf /usr/share/nokia-maps/html/medos/i18n/en/us /usr/share/nokia-maps/html/medos/i18n/uk/ua;
+    exit 0
+  ;;
+  
+  abort-upgrade|abort-remove|abort-deconfigure)
+  ;;
+
+  *)
+    echo "postinst called with unknown argument \`$1'" >&2
+    exit 1
+  ;;
+esac
+
+exit 0

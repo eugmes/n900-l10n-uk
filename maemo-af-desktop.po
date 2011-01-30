@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20091013120339\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "Unable to load"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – resuming"
+
+msgid "home_ia_imageset_prefix"
+msgstr "Image set"
+
+msgid "home_ia_theme_prefix"
+msgstr "Тема"
+
+msgid "home_li_get_ovi"
+msgstr "Get more from Ovi Store"
+
+msgid "home_li_no_images"
+msgstr "(no images)"
+
+msgid "home_me_change_background"
+msgstr "Change background"
+
+msgid "home_me_manage_views"
+msgstr "Manage views"
+
+msgid "home_me_select_bookmarks"
+msgstr "Додати закладку"
+
+msgid "home_me_select_contacts"
+msgstr "Додати контакт"
+
+msgid "home_me_select_shortcuts"
+msgstr "Додати скорочення"
+
+msgid "home_me_select_widgets"
+msgstr "Додати віджет"
+
+msgid "home_ti_add_image"
+msgstr "Додати зображення"
+
+msgid "home_ti_change_backgr"
+msgstr "Choose background image"
+
+msgid "home_ti_desktop_menu"
+msgstr "Desktop menu"
+
+msgid "home_ti_manage_views"
+msgstr "Activate views"
+
+msgid "home_ti_select_bookmark"
+msgstr "Add bookmark"
+
+msgid "home_ti_select_contact"
+msgstr "Add contact"
+
+msgid "home_ti_select_shortcut"
+msgstr "Add shortcut"
+
+msgid "home_ti_select_widgets"
+msgstr "Add widget"
+
+msgid "tana_ap_ovi_store"
+msgstr "Store"
+
+msgid "tana_ap_user_guide"
+msgstr "User Guide"
+
+msgid "tana_fi_applications"
+msgstr "More…"
+
+msgid "tana_fi_authorization"
+msgstr "Authorization request"
+
+msgid "tana_fi_group_invitation"
+msgstr "Group chat invitation"
+
+msgid "tana_fi_invitation"
+msgstr "Chat room invitation"
+
+msgid "tana_fi_missed_call"
+msgstr "Missed call"
+
+msgid "tana_fi_reorder"
+msgstr "Select an application then tap on a new position"
+
+msgid "tana_fi_unknown_number"
+msgstr "Unknown number"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Unknown sender"
+
+msgid "tana_fi_voice_mail"
+msgstr "Voicemail"
+
+msgid "tana_fi_voicemailbox"
+msgstr "Voicemail"
+
+msgid "tana_ib_apkil_responded"
+msgstr "%s responded"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s shut down"
+
+msgid "tana_li_of_noapps"
+msgstr "(no applications)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr ""
+"%s is not responding.\n"
+"Close application?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "This software is not from Nokia. Install %s?"
+
+msgid "tana_nc_install_application"
+msgstr "Install %s?"
+
+msgid "tutor_widget"
+msgstr "Get started"

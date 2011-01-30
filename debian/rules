@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+
+PATH := /usr/bin/dh7:$(PATH)
+export PATH
+SBOX_REDIRECT_IGNORE = /usr/bin/perl
+export SBOX_REDIRECT_IGNORE
+
+%:
+	dh $@

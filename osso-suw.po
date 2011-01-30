@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-suw 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "startup_bd_timedi_12"
+msgstr "12 hrs"
+
+msgid "startup_bd_timedi_24"
+msgstr "24 hrs"
+
+msgid "startup_bd_timedi_am"
+msgstr "AM"
+
+msgid "startup_bd_timedi_pm"
+msgstr "PM"
+
+msgid "startup_datedi_month"
+msgstr "Month"
+
+msgid "startup_datedi_text"
+msgstr "Select correct date by panning through month, day and year"
+
+msgid "startup_datedi_title"
+msgstr "Date"
+
+msgid "startup_datedi_year"
+msgstr "Year"
+
+msgid "startup_fi_regdi_location"
+msgstr "Location:"
+
+msgid "startup_fi_regdi_settings"
+msgstr "Current settings:"
+
+msgid "startup_ia_clicking_outside"
+msgstr ""
+"Tapping outside the dialog box allows you to exit without saving any settings"
+
+msgid "startup_ia_pressbutton"
+msgstr "Tap an option to change a setting"
+
+msgid "startup_ia_regdi_text"
+msgstr ""
+"Choose preferred location by sliding finger up/down to scroll through list"
+
+msgid "startup_ia_startup_screen_text"
+msgstr "Device loading. Please wait."
+
+msgid "startup_lang_slidefinger"
+msgstr "Slide finger up/down to scroll through the list."
+
+msgid "startup_lang_text"
+msgstr "Choose the preferred language using your finger."
+
+msgid "startup_lang_title"
+msgstr "Language"
+
+msgid "startup_regdi_timezone"
+msgstr "Time zone:"
+
+msgid "startup_regdi_timezone_value"
+msgstr "GMT %d"
+
+msgid "startup_sel_date_btn"
+msgstr "Date"
+
+msgid "startup_sel_infotext"
+msgstr "This device has the following settings"
+
+msgid "startup_sel_lang_btn"
+msgstr "Language"
+
+msgid "startup_sel_reg_btn"
+msgstr "Region"
+
+msgid "startup_sel_time_btn"
+msgstr "Time"
+
+msgid "startup_startup_screen_title"
+msgstr "Welcome"
+
+msgid "startup_ti_regdi_title"
+msgstr "Region"
+
+msgid "startup_timedi_digital_clock"
+msgstr "%d:%d"
+
+msgid "startup_timedi_text"
+msgstr "Use finger to move clock hands to correct time"
+
+msgid "startup_timedi_title"
+msgstr "Time"
+
+msgid "startup_timezonedi_title"
+msgstr "Select time zone (%s)"
+
+msgid "startup_va_datedi_day"
+msgstr "Day"
+
+msgid "startup_va_timezonedi_values"
+msgstr "%s (%s)"

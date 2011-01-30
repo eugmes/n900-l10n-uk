@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-location-ui 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Прийняти"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Відхилити"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Pair new device"
+
+msgid "loca_fi_device"
+msgstr "GPS-пристрій"
+
+msgid "loca_fi_disclaimer"
+msgstr ""
+"This device enables positioning and use of location-based features and/or "
+"services by using the cellular network positioning and GPS.\n"
+"\n"
+"Positioning and/or location-based services and their accuracy are dependent, "
+"among other things, on availability of wireless networks and satellite "
+"systems. They may not function in all areas or at all times. Furthermore, "
+"digital cartography can be inaccurate. Never rely solely on any of these "
+"features, e.g. for essential communications like emergencies.\n"
+"\n"
+" Positioning and location-based services and their contents are intended for "
+"non-commercial use only. Using the location-based services and its contents "
+"may involve the transmission of large amounts of data through your service "
+"provider’s network. Contact your service provider for information about data "
+"transmission charges.\n"
+"\n"
+"Please pay attention to the service-specific notices that include additional "
+"valuable information with respect to the positioning and/or location-based "
+"services.\n"
+"\n"
+"To the maximum extent permitted by applicable law, Nokia Corporation, its "
+"subsidiaries and licensors hereby disclaim all liability arising out of any "
+"use of the positioning and/or any available location-based service and their "
+"contents."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Увімкнути"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Увімкнути"
+
+msgid "loca_fi_location_server"
+msgstr "Сервер локалізації"
+
+msgid "loca_fi_network"
+msgstr "Network positioning"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Положення"
+
+msgid "loca_in_default_supl_used"
+msgstr "Unable to contact user-defined location server. Using %s instead."
+
+msgid "loca_in_no_data"
+msgstr "Unable to download map data"
+
+msgid "loca_in_no_fix"
+msgstr "Unable to obtain GPS fix"
+
+msgid "loca_li_device_internal"
+msgstr "Внутрішній GPS"
+
+msgid "loca_li_device_none"
+msgstr "None"
+
+msgid "loca_me_location_home_applet"
+msgstr "Положення"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "The Bluetooth GPS connection is lost. Try to reconnect?"
+
+msgid "loca_nc_request_default_accept"
+msgstr ""
+"Accept location request? Requester: %s, client: %s. Accepted by default "
+"after time-out."
+
+msgid "loca_nc_request_default_reject"
+msgstr ""
+"Accept location request? Requester: %s, client: %s. Rejected by default "
+"after time-out."
+
+msgid "loca_nc_request_no_default"
+msgstr "Accept location request? Requester: %s, client: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "Дозволити GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "Enable GPS and network-based positioning?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Enable network-based positioning?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Unable to accept request"
+
+msgid "loca_ni_accepted"
+msgstr ""
+"Network accepted request on your behalf. Your location was sent to "
+"requester: %s, client: %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "Unable to reject request"
+
+msgid "loca_ni_rejected"
+msgstr ""
+"Network rejected request on your behalf. Your location was not sent to "
+"requester: %s, client: %s"
+
+msgid "loca_ni_req_sent"
+msgstr "Network sent your location to requester %s, client %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "NOTICE AND DISCLAIMER"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Положення"
+
+msgid "loca_ti_services"
+msgstr "Network positioning"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Enable positioning?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Пошук"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Coarse accuracy"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Fine accuracy"
+
+msgid "loca_va_unknown"
+msgstr "Unknown"
+
+msgid "loca_va_unknown_device"
+msgstr "Невідомий пристрій"

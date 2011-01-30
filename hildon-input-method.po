@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-input-method 20090515151312\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2009.05.15 15:13+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "inpu_ib_mode_fn_locked"
+msgstr "Fn is locked"
+
+msgid "inpu_ib_mode_shift_locked"
+msgstr "Caps lock on"
+
+msgid "inpu_ib_quick_layout_language"
+msgstr "Input language switched"
+
+msgid "inpu_ib_quick_layout_switch"
+msgstr "Keyboard layout switched"
+
+msgid "inpu_nc_common_menu_copy"
+msgstr "Copy"
+
+msgid "inpu_nc_common_menu_cut"
+msgstr "Cut"
+
+msgid "inpu_nc_common_menu_method"
+msgstr "Keyboard menu"
+
+msgid "inpu_nc_common_menu_paste"
+msgstr "Paste"
+
+msgid "thum_me_main_menu_help"
+msgstr "Help"
+
+msgid "thum_me_main_menu_select_language"
+msgstr "Select language"
+
+msgid "thum_me_menu_edit_copy"
+msgstr "Copy"
+
+msgid "thum_me_menu_edit_cut"
+msgstr "Cut"
+
+msgid "thum_me_menu_edit_paste"
+msgstr "Paste"

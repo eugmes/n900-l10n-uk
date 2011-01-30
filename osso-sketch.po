@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Replace existing file of same name?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Save sketch before closing?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Sketch"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(no sketches)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Sketch"
+
+msgid "sket_fi_details_height"
+msgstr "Height"
+
+msgid "sket_fi_details_pixels"
+msgstr " pixels"
+
+msgid "sket_fi_details_width"
+msgstr "Width"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Recovering autosaved file failed"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Maximum canvas size reached"
+
+msgid "sket_ib_saved"
+msgstr "Saved"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Unable to crop"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Fine"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Medium"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Thick"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Thin"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Canvas size"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Add to bottom"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Crop"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Add to left"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Add to right"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Add to top"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Details"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "New"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Open"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Save"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Save as"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Not enough memory to display sketch"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Unable to open.\n"
+"File format not supported."
+
+msgid "sket_ti_details_title"
+msgstr "Sketch details"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Open sketch"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Save sketch"

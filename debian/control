@@ -1,0 +1,22 @@
+Source: n900-l10n-uk
+Section: user/system
+Priority: optional
+Maintainer: Eugeniy Meshcheryakov <eugen@debian.org>
+Standards-Version: 3.6.2
+Build-Depends: debhelper7 (>= 7), gettext
+XS-Vcs-Svn: https://n900-extra-translations.googlecode.com/svn/
+XS-Vcs-Browser: http://code.google.com/p/n900-extra-translations/source/browse/
+XSBC-Bugtracker: http://code.google.com/p/n900-extra-translations/issues/list
+XSBC-Maemo-Display-Name: Ukrainian localization
+ 
+Package: n900-l10n-uk
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ukrainian UI translation for Maemo 5
+ This is an unofficial Ukrainian translation for Maemo 5 UI on N900.
+XB-Maemo-Icon-26:
+ iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+ AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAABlSURB
+ VGiB7dnRCQAgDMTQ1jUd1Tmcpw7hRzjIm6ChUBB7ZirZogf4ZQDNAFp8QNc+0Xc0fgMG0AygGUAz
+ gGYAzQCaAbSeW74HSAbQDKAZQDOAZgDNAJoBtPabFWYAzQCaAbT4gAep+gs/4reJTQAAAABJRU5E
+ rkJggg==

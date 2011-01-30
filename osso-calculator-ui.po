@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgid "calc_ap_calculator"
+msgstr "Калькулятор"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Неможна дільти на ноль"
+
+msgid "calc_ap_input_illegal"
+msgstr "Неприпустимий ввід"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Cache already cleared"
+
+msgid "calc_ap_large_no_result"
+msgstr "No calculation to show"
+
+msgid "calc_ap_large_power"
+msgstr "Максимальний степінь — 1000"
+
+msgid "calc_ap_memory"
+msgstr "Пам'ять = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Пам'ять порожня"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Немає що стирати"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Можна вставляти тільки числа"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Результат завеликий для показу"
+
+msgid "calc_ap_square_neg"
+msgstr "Неможна обчислити корінь з від'ємного числа"
+
+msgid "calc_ap_title_calculator"
+msgstr "Калькулятор"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Помилка"
+
+msgid "calc_ib_only12"
+msgstr "Неможна вставити більше 12 чисел"
+
+msgid "calc_ib_unable_copy"
+msgstr "Неможливо копіювати"
+
+msgid "calc_ib_unable_paste"
+msgstr "Неможливо вставити"
+
+msgid "calc_ib_unable_select"
+msgstr "Неможливо вибрати"
+
+msgid "calc_me_basic"
+msgstr "Простий"
+
+msgid "calc_me_calc_cont"
+msgstr "Calculation line"
+
+msgid "calc_me_clear_cache"
+msgstr "Clear last calculation cache"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Clear adding machine tape"
+
+msgid "calc_me_close"
+msgstr "Закрити"
+
+msgid "calc_me_copy"
+msgstr "Копіювати"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Додати до пам'яті (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Очистити пам'ять"
+
+msgid "calc_me_dmem_recall"
+msgstr "Викликати з пам'яті (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Зберегти в пам'ять (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Відняти від пам'яті (M-)"
+
+msgid "calc_me_edit"
+msgstr "Редагувати"
+
+msgid "calc_me_help"
+msgstr "Допомога"
+
+msgid "calc_me_memory"
+msgstr "Пам'ять"
+
+msgid "calc_me_paste"
+msgstr "Вставити"
+
+msgid "calc_me_roll_cont"
+msgstr "Adding machine tape content"
+
+msgid "calc_me_scientific"
+msgstr "Науковий"
+
+msgid "calc_me_select"
+msgstr "Вибрати"
+
+msgid "calc_me_show_last"
+msgstr "Показати останнє обчислення"
+
+msgid "calc_me_view"
+msgstr "View"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

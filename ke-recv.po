@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Only device storage connected. %s already in use."
+
+msgid "card_connected_via_usb_device"
+msgstr "Only %s connected. Device storage in use."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Memory is read-only until fixed.\n"
+"Try fixing memory with a PC after plugging in USB cable.\n"
+"Create data backup first to save existing memory contents."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formatting complete"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Memory card format unsupported"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Device storage format unsupported"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB cable disconnected"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Unable to connect via USB.\n"
+"Device storage in use."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Unable to connect via USB.\n"
+"Memories in use.\n"
+"Device storage\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formatting memory card"
+
+msgid "card_ti_corrupted_card"
+msgstr "Memory card corrupted"
+
+msgid "card_ti_corrupted_device"
+msgstr "Device storage corrupted"
+
+msgid "cards_connected_via_usb"
+msgstr "Connected via USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Device storage full.\n"
+"Remove data to free memory."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Memory card full.\n"
+"Remove data to free memory."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Device system storage full.\n"
+"Remove applications via Application manager to free memory."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Stop"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Close"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Too many applications open.\n"
+"Unable to open additional applications without closing some others."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Too many applications open.\n"
+"Unable to switch to requested application without closing some others."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Operation temporarily disabled due to low memory"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Internal error. Application '%s' closed."
+
+msgid "memr_ti_close_applications"
+msgstr "Close applications"

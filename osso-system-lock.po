@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20090529140926\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "lock_ap_application_title"
+msgstr "Device lock"
+
+msgid "lock_error_alphanumeric"
+msgstr "Code must contain both numbers and letters."
+
+msgid "lock_error_emergencycallfails"
+msgstr "Emergency call not established"
+
+msgid "lock_error_history"
+msgstr "Previously used codes can not be reused."
+
+msgid "lock_error_internalstorageread"
+msgstr ""
+"Unable to read the lock code.\n"
+"Default lock code will be restored."
+
+msgid "lock_error_internalstoragewrite"
+msgstr ""
+"Unable to save lock code.\n"
+"Default lock code will be restored."
+
+msgid "lock_error_nonalphabetical"
+msgstr "Code must contain at least %d numbers or symbols"
+
+msgid "lock_error_toosimple"
+msgstr "Code must not contain only numbers."
+
+msgid "secu_application_title"
+msgstr "Enter lock code"
+
+msgid "secu_application_title_changelock1"
+msgstr "Lock code"
+
+msgid "secu_ib_autolock_required"
+msgstr "Automatic device lock is required by Exchange security policy."
+
+msgid "secu_ib_codedonotmatch"
+msgstr "Codes do not match"
+
+msgid "secu_ib_lock_code_shorter_than"
+msgstr "Code length must be at least %d characters."
+
+msgid "secu_ib_lockcodechanged"
+msgstr "Lock code changed"
+
+msgid "secu_ib_lockcodenotchanged"
+msgstr "Lock code not changed"
+
+msgid "secu_ib_lockcodetooshort"
+msgstr "Enter 5 digits or more"
+
+msgid "secu_in_device_wipe_one_try"
+msgstr ""
+"Incorrect code. All data will be removed from device after one more "
+"incorrect entry."
+
+msgid "secu_in_device_wipe_two_tries"
+msgstr ""
+"Incorrect code. All data will be removed from device after two more "
+"incorrect entries."
+
+msgid "secu_info_closedevice"
+msgstr "Switch off device?"
+
+msgid "secu_info_codeaccepted"
+msgstr "Code accepted"
+
+msgid "secu_info_enterlock"
+msgstr "Enter lock code to lock device"
+
+msgid "secu_info_incorrectcode"
+msgstr "Incorrect code"
+
+msgid "secu_info_locked"
+msgstr "Device locked"
+
+msgid "secu_info_notlocked"
+msgstr "Device not locked"
+
+msgid "secu_lock_code_dialog_emergency_call"
+msgstr "Emergency call"
+
+msgid "secu_security_autolock_dialog_change_lock_code"
+msgstr "Change lock code"
+
+msgid "secu_security_dialog_title"
+msgstr "Device lock"
+
+msgid "secu_security_ti_autolock"
+msgstr "Autolock"
+
+msgid "secu_swipe_to_unlock"
+msgstr "Swipe to unlock"
+
+msgid "secu_ti_changelock_1"
+msgstr "Enter current lock code"
+
+msgid "secu_ti_changelock_2"
+msgstr "Enter new lock code"
+
+msgid "secu_ti_changelock_3"
+msgstr "Verify new lock code"
+
+msgid "secu_va_10minutes"
+msgstr "After 10 minutes"
+
+msgid "secu_va_1hour"
+msgstr "After 1 hour"
+
+msgid "secu_va_30minutes"
+msgstr "After 30 minutes"
+
+msgid "secu_va_5minutes"
+msgstr "After 5 minutes"
+
+msgid "secu_va_disabled"
+msgstr "Disabled"

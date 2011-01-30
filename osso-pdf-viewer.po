@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-pdf-viewer 20090225160729\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.25 16:07+0200\n"
+"PO-Revision-Date: 2009.02.25 16:07+0200\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_ti_save_object_doc"
+msgstr "Save document"
+
+msgid "mmc_ib_please_wait"
+msgstr ""
+"Please wait.\n"
+"Memory card currently in use."
+
+msgid "pdfv_ap_pdf_viewer_name"
+msgstr "PDF reader"
+
+msgid "pdfv_bd_switch_page_ok"
+msgstr "Go"
+
+msgid "pdfv_error_documentcorrupted"
+msgstr ""
+"Unable to open.\n"
+"Document corrupted."
+
+msgid "pdfv_error_memorycard"
+msgstr ""
+"Opening or saving interrupted.\n"
+"Memory card cover open."
+
+msgid "pdfv_error_notenoughmemorysave"
+msgstr "Not enough memory to save file"
+
+msgid "pdfv_error_pagenumber"
+msgstr "Page number must be between %1$d and %2$d"
+
+msgid "pdfv_error_savefail"
+msgstr "Unable to save"
+
+msgid "pdfv_error_successfulsave"
+msgstr "Saved"
+
+msgid "pdfv_fi_document_details_author"
+msgstr "Author"
+
+msgid "pdfv_fi_document_details_keywords"
+msgstr "Keywords"
+
+msgid "pdfv_fi_document_details_subject"
+msgstr "Subject"
+
+msgid "pdfv_fi_document_details_title"
+msgstr "Title"
+
+msgid "pdfv_fi_switch_page_amount"
+msgstr "Current page:     %1$d / %2$d"
+
+msgid "pdfv_fi_switch_page_description"
+msgstr "Enter page number:"
+
+msgid "pdfv_ib_encrypted_file"
+msgstr "Document encrypted. Enter user password"
+
+msgid "pdfv_ib_fileinuse"
+msgstr "Unable to open. File in use."
+
+msgid "pdfv_ib_first_page_reached"
+msgstr "First page reached"
+
+msgid "pdfv_ib_incorrect_interface"
+msgstr "No document open"
+
+msgid "pdfv_ib_incorrect_password"
+msgstr "Incorrect password"
+
+msgid "pdfv_ib_last_page_reached"
+msgstr "Last page reached"
+
+msgid "pdfv_ib_maximum_zoom"
+msgstr "Maximum zoom level reached"
+
+msgid "pdfv_ib_menu_not_available"
+msgstr "Not available"
+
+msgid "pdfv_ib_minimum_zoom"
+msgstr "Minimum zoom level reached"
+
+msgid "pdfv_ib_opening"
+msgstr "Opening"
+
+msgid "pdfv_ib_saving"
+msgstr "Saving"
+
+msgid "pdfv_me_main_menu_document"
+msgstr "Document"
+
+msgid "pdfv_me_main_menu_page"
+msgstr "Page"
+
+msgid "pdfv_me_main_menu_recent"
+msgstr "Recent"
+
+msgid "pdfv_me_main_menu_view"
+msgstr "View"
+
+msgid "pdfv_me_menu_document_details"
+msgstr "Details"
+
+msgid "pdfv_me_menu_document_open"
+msgstr "Open"
+
+msgid "pdfv_me_menu_document_save"
+msgstr "Save as"
+
+msgid "pdfv_me_menu_page_first"
+msgstr "First page"
+
+msgid "pdfv_me_menu_page_last"
+msgstr "Last page"
+
+msgid "pdfv_me_menu_page_next"
+msgstr "Next page"
+
+msgid "pdfv_me_menu_page_previous"
+msgstr "Previous page"
+
+msgid "pdfv_me_menu_page_switch_to"
+msgstr "Go to page"
+
+msgid "pdfv_me_menu_screen_show_images"
+msgstr "Show images"
+
+msgid "pdfv_me_menu_screen_zoom"
+msgstr "Zoom"
+
+msgid "pdfv_me_menu_screen_zoom_in"
+msgstr "Zoom in"
+
+msgid "pdfv_me_menu_screen_zoom_out"
+msgstr "Zoom out"
+
+msgid "pdfv_me_menu_screen_zoom_page"
+msgstr "Fit page"
+
+msgid "pdfv_me_menu_screen_zoom_width"
+msgstr "Fit width"
+
+msgid "pdfv_ni_document_not_found"
+msgstr "Document not found"
+
+msgid "pdfv_ni_not_enough_memory"
+msgstr "Not enough memory to display document"
+
+msgid "pdfv_ni_not_enough_memory_page"
+msgstr "Not enough memory to display page"
+
+msgid "pdfv_ni_unsupported_file"
+msgstr ""
+"Unable to open.\n"
+"File format not supported."
+
+msgid "pdfv_pb_hide_images"
+msgstr "Hiding images"
+
+msgid "pdfv_pb_show_images"
+msgstr "Showing images"
+
+msgid "pdfv_pb_zooming"
+msgstr "Zooming"
+
+msgid "pdfv_tb_zoom_level"
+msgstr "%d %%"
+
+msgid "pdfv_ti_open_document"
+msgstr "Open PDF document"
+
+msgid "pdfv_ti_switch_page_title"
+msgstr "Go to page"
+
+msgid "pdvi_ap_application_title"
+msgstr "PDF reader"

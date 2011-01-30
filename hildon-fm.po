@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-fm 20090622130112\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "New"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "New "
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Save"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Save"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "Location"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "Name"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Date"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Name"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "File is read-only"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Size"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Time"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Type"
+
+msgid "ckdg_ti_change_folder"
+msgstr "Change folder"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "Move to folder"
+
+msgid "ckdg_ti_open_file"
+msgstr "Open file"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Folder"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f GB"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_property_unknown"
+msgstr "Unknown"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "File"
+
+msgid "docm_bd_deleting_files"
+msgstr "Stop"
+
+msgid "docm_bd_moving_files"
+msgstr "Stop"
+
+msgid "docm_bd_opening_files"
+msgstr "Stop"
+
+msgid "docm_bd_saving_files"
+msgstr "Stop"
+
+msgid "docm_nc_replace_file"
+msgstr "Replace existing file of same name?"
+
+msgid "docm_nc_replace_multiple"
+msgstr "Replace existing folder contents of same name?"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Save audio clip before closing?"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "Save document before closing?"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "Save file before closing?"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "Save image before closing?"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "Save note before closing?"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "Save video clip before closing?"
+
+msgid "docm_nw_deleting_file"
+msgstr "Deleting"
+
+msgid "docm_nw_deleting_files"
+msgstr "Deleting %1$d/%2$d"
+
+msgid "docm_nw_moving_files"
+msgstr "Moving %1$d/%2$d"
+
+msgid "docm_nw_opening_file"
+msgstr "Opening"
+
+msgid "docm_nw_opening_files"
+msgstr "Opening %1$d/%2$d"
+
+msgid "docm_nw_saving_file"
+msgstr "Saving"
+
+msgid "docm_nw_saving_files"
+msgstr "Saving %1$d/%2$d"
+
+msgid "docm_pb_stopping"
+msgstr "Stopping"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "No memory card inserted"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(no files/folders)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Save"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Storage"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Location"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Type"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "Items"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "Location"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "Unable to connect to device"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "Unable to cut some items"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "Unable to delete this file"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "Unable to move this file"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "Unable to copy"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "Not allowed"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "File already saved in this location"
+
+msgid "sfil_ib_file_not_found"
+msgstr "File not found"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "Folder not found"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "Name unable to start with '.'"
+
+msgid "sfil_ib_items_not_found"
+msgstr "Items not found"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr ""
+"Device in offline mode.\n"
+"Connection not allowed."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "Unable to open"
+
+msgid "sfil_ib_readonly_location"
+msgstr "Selected location is read-only"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "Unable to rename"
+
+msgid "sfil_ib_save_file_first"
+msgstr "Save file first"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "Not allowed"
+
+msgid "sfil_ib_select_file"
+msgstr "Select file first"
+
+msgid "sfil_li_folder_camera"
+msgstr "Камера"
+
+msgid "sfil_li_folder_documents"
+msgstr "Документи"
+
+msgid "sfil_li_folder_images"
+msgstr "Зображення"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "Аудіо-кліпи"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "User guides"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "Відео-кліпи"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "Карта пам'яті"
+
+msgid "sfil_li_shared_media"
+msgstr "Shared media"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f GB"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_kb"
+msgstr "%d kB"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "Delete file?"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr ""
+"Unable to save to selected location.\n"
+"Save to device memory?"
+
+msgid "sfil_nc_recover_file"
+msgstr ""
+"File was saved automatically when application was closed.\n"
+"Do you want to keep it?"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Save game before closing?"
+
+msgid "sfil_nw_moving_file"
+msgstr "Moving"
+
+msgid "sfil_ti_file_details"
+msgstr "Details"
+
+msgid "sfil_ti_save_file"
+msgstr "Зберегти файл"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "Зберегти файли"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d application"
+msgstr[1] "%d applications"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d attachment"
+msgstr[1] "%d attachments"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d bookmark"
+msgstr[1] "%d bookmarks"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d certificate"
+msgstr[1] "%d certificates"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d document"
+msgstr[1] "%d documents"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d file"
+msgstr[1] "%d files"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d game"
+msgstr[1] "%d games"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d HTML document"
+msgstr[1] "%d HTML documents"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d image"
+msgstr[1] "%d images"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d message"
+msgstr[1] "%d messages"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d note"
+msgstr[1] "%d notes"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d presentation"
+msgstr[1] "%d presentations"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d shortcut"
+msgstr[1] "%d shortcuts"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d sketch"
+msgstr[1] "%d sketches"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d audio clip"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d audio clips"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d video clip"
+msgstr[1] "%d video clips"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d workbook"
+msgstr[1] "%d workbooks"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d XML document"
+msgstr[1] "%d XML documents"

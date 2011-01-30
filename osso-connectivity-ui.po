@@ -1,0 +1,1415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-connectivity-ui 20091102095704\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Менеджер з'єднань"
+
+msgid "conn_bd_device_details_connect"
+msgstr "З'єднатися"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Роз'єднатися"
+
+msgid "conn_bd_devices_delete"
+msgstr "Видалити"
+
+msgid "conn_bd_devices_edit"
+msgstr "Редагувати"
+
+msgid "conn_bd_devices_new"
+msgstr "New"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Devices"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Emergency call"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Select"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Пропустити"
+
+msgid "conn_bd_pair"
+msgstr "Pair"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Select contact"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Очистити"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Disable warning"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Роз'єднатися зараз"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Enable transfer warning"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Data counter"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Roaming network data counter"
+
+msgid "conn_bd_receive_ok"
+msgstr "Save"
+
+msgid "conn_del_iap_fi_delete"
+msgstr ""
+"Delete connection?\n"
+"%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "Disconnect and delete connection %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Назва мого пристрою"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N800"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth увімкнено"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Видимий"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Verify new password"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "З'єднання"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Новий пароль"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Старий пароль"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Ім'я користувача"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "Від'єднатися від %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Прихований Wi-Fi"
+
+msgid "conn_fi_iap_select_text"
+msgstr ""
+"Cellular access point settings received from operator. Select access point "
+"to save. Consult operator to receive settings again in future."
+
+msgid "conn_fi_no_conn_available"
+msgstr "No connections available"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(no paired devices)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Call forwarding"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "No answer in 20 seconds, unavailable or busy"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Forward to"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Call waiting"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Received"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Cleared"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Sent"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Data transferred in home network"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Data transferred in roaming network"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Display warning for every"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "МБ"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Data roaming"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Network mode"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN-код"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "Запит PIN-коду"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Network selection"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Send my caller ID"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Налаштування з'єднання"
+
+msgid "conn_fi_receive_device"
+msgstr "Пристрій:"
+
+msgid "conn_fi_receive_file"
+msgstr "Отримати файл через Bluetooth?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Файл:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Unknown"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Open file after saving"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s Б"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s ГБ"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s кБ"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s МБ"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Response"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Delete"
+
+msgid "conn_iaps_bd_done"
+msgstr "Done"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Edit"
+
+msgid "conn_iaps_bd_new"
+msgstr "New"
+
+msgid "conn_iaps_ti_connections"
+msgstr "З'єднання"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Cellular access point settings updated"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "No application for opening this file"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth set on"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "З'єднано до %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Від'єднано від %s"
+
+msgid "conn_ib_compl_all"
+msgstr "Fill in all required fields first"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Connection name already in use"
+
+msgid "conn_ib_correct_pin"
+msgstr "PIN code correct"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "Enter dial-up number first"
+
+msgid "conn_ib_enter_name"
+msgstr "Enter name first"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Enter valid IP address first"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Offline mode activated"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "Pairing complete"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "Unable to delete while connected to Internet"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Incorrect PIN. SIM locked with PUK code."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Incorrect PIN code. 1 attempt remaining."
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Incorrect PIN code. 2 attempts remaining."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Codes do not match"
+
+msgid "conn_ib_incorrect_puk"
+msgstr "Incorrect PUK code"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Невірний PUK-код. Залишилась %d спроба."
+msgstr[1] "Невірний PUK-код. Залишилась %d спроби."
+msgstr[2] "Невірний PUK-код. Залишилась %d спроб."
+
+msgid "conn_ib_invalid_number"
+msgstr "Invalid number"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Maximum number of characters reached"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Maximum number of characters reached"
+
+msgid "conn_ib_min8val_req"
+msgstr "At least 8 characters must be entered"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Automatic connection disabled"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "No saved connections available"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "New password and confirmed password do not match"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "Old password is incorrect"
+
+msgid "conn_ib_net_no_conn"
+msgstr "No active connection"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "No ongoing connection to phone"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "No phone paired"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "No data call connections saved"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "No connections saved"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "No phone connections saved"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "No GPRS connections saved"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "No Wi-Fi connections saved"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "Transmission power for all Wi-Fi connections changed to 10 mW"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "Transmission power for all Wi-Fi connections changed to 100 mW"
+
+msgid "conn_ib_network_selected"
+msgstr "Network selected: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "No connection to delete"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "No connection to edit"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "No paired devices"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "Normal mode activated"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Not available while Bluetooth set off"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Only ASCII characters allowed"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "Pairing canceled"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "Receiving canceled"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Receiving complete"
+
+msgid "conn_ib_sending_canceled"
+msgstr "Sending canceled"
+
+msgid "conn_ib_sending_complete"
+msgstr "Sending complete"
+
+msgid "conn_ib_settings_saved"
+msgstr "Settings saved"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Settings saved. Reconnecting."
+
+msgid "conn_ib_suspended"
+msgstr "Cellular data not available"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Invalid characters. Check WEP key."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Invalid WEP key length. Check WEP key"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "Authentication failed"
+
+msgid "conn_in_ap_settings_equal"
+msgstr ""
+"Cellular access point settings not updated. Received settings identical to "
+"current ones."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Bluetooth address:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Device name"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Supported profiles:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Trusted device"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Device type:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "Audio/Video"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "Hands-free"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Computer"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Camera"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Printer"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "LAN/Network access point"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Computer (laptop)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Miscellaneous"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Peripheral"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Keyboard"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Телефон"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Uncategorized"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Confirm that same code is shown on both devices:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Pair with device"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Passcode"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Set as trusted device"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Retrieving device name"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Change"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Select connection"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Disconnect"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "OK"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "Primary DNS address:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "Secondary DNS address:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Connection:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Default gateway:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP address:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Netmask:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(none)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "IP address details"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "No connection"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Duration:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Phone:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Received:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Sent:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Signal:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Status:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Data being transferred"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "Connecting"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Connected"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s using link-local IP address"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Internet connection:"
+
+msgid "conn_mngr_fi_type"
+msgstr "Connection type:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Data call using phone"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "GPRS using phone"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Ad hoc Wi-Fi"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Close"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Help"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Connectivity"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Tools"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Internet connection"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Change connection"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Select connection"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Disconnect"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP address"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Mobile operator setup wizard"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Телефон"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Disconnect from phone"
+
+msgid "conn_mngr_ti_title"
+msgstr "Connection manager"
+
+msgid "conn_nc_bt_connect_device"
+msgstr ""
+"Accept connection with device?\n"
+"%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr ""
+"Delete device?\n"
+"%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Cancel receiving from %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Cancel sending to %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr ""
+"Internet connection failed. Incompatible Wi-Fi network.\n"
+"Try again?"
+
+msgid "conn_nc_pairing_failed"
+msgstr ""
+"Pairing failed.\n"
+"Try again?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr ""
+"Pairing failed. Authentication failed.\n"
+"Try again?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr ""
+"Pairing failed. Device rejected authentication.\n"
+"Try again?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr ""
+"Pairing failed. Device resources exceeded.\n"
+"Try again?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr ""
+"Pairing failed. Not enough time elapsed since last pairing attempt.\n"
+"Try again?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr ""
+"Pairing failed. Authentication time-out.\n"
+"Try again?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Allow data roaming?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr ""
+"Changing to this value increases power consumption significantly.\n"
+"Change anyway?"
+
+msgid "conn_nc_retry_connection"
+msgstr ""
+"Internet connection failed.\n"
+"Try again?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr ""
+"Authentication failed.\n"
+"Try again?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr ""
+"Connection failed to device %s.\n"
+"Try again?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr ""
+"Network connection error.\n"
+"Try again?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr ""
+"Remote server error.\n"
+"Try again?"
+
+msgid "conn_nc_roaming"
+msgstr ""
+"Automatically enable data connection when outside of your cellular "
+"operator’s network (roaming) and no Wi-Fi connection\n"
+"is available?\n"
+"\n"
+"Choosing 'Yes' automatically creates and maintains a data connection when "
+"roaming. This may involve additional costs. Choosing 'No' offers a prompt "
+"whenever a data connection to a foreign cellular network is required. You "
+"can change this later\n"
+"via Settings."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr ""
+" Automatically enable packet data connection (cellular data connection) when "
+"no Wi-Fi connection is available?\n"
+"\n"
+"By choosing Yes, the device automatically creates and maintains a packet "
+"data connection to your network service operator’s network (where "
+"available). Contact your network service provider for information about data "
+"transmission charges. By choosing No, you will be informed whenever a packet "
+"data connection is needed. You can change this later via Settings."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "Connection failed to %s"
+
+msgid "conn_ni_link_local_ip"
+msgstr ""
+"Internet connection failed. Unable to retrieve IP address from server.\n"
+"Try again?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr ""
+"Internet connection failed. Unable to retrieve IP address from server. WEP "
+"key may be incorrect.\n"
+"Try again?"
+
+msgid "conn_ni_modem_failure"
+msgstr "Unable to establish network connection. Contact service."
+
+msgid "conn_ni_no_access"
+msgstr "No access"
+
+msgid "conn_ni_no_bt"
+msgstr "Exit offline mode?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Cellular network not available"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "PIN code not entered. SIM card unavailable."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "No SIM card inserted"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Pairing failed."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Pairing failed. Authentication failed."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Pairing failed. Device rejected authentication."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Pairing failed. Device resources exceeded."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "Pairing failed. Not enough time elapsed since last pairing attempt."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Pairing failed. Authentication time-out."
+
+msgid "conn_ni_select_network"
+msgstr "Select network in Phone settings."
+
+msgid "conn_ni_sim_failure"
+msgstr ""
+"All telephony functions, including emergency calls, are disabled due to a "
+"communication error. To recover, you might have to reboot the device."
+
+msgid "conn_ni_sim_lock"
+msgstr "Unable to use this SIM card in device"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "SIM card not accepted. Contact your operator."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "SIM card registration failed"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM card rejected"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Connecting to %s"
+
+msgid "conn_pb_connecting"
+msgstr "Connecting"
+
+msgid "conn_pb_pairing"
+msgstr "Pairing"
+
+msgid "conn_pb_searching"
+msgstr "Searching"
+
+msgid "conn_pb_settings"
+msgstr "Retrieving settings"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Connections"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Always ask"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Any connection"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Connect automatically"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "None"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Search interval"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Switch to Wi-Fi when available"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Advanced"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Connection type:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN method"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Access point name"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Web address"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "Auto-retrieve IP address"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "Primary DNS address"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "Secondary DNS address"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP address"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Default gateway"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Subnet mask"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "Auto-retrieve DNS"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Automatic"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Ad hoc channel"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Power saving"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "On (maximum)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "On (intermediate)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Off"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "Wi-Fi transmission power"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "WPA2-only mode"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "Do not use proxy for"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Port number"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP proxy"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Automatic configuration"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Use proxy"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Prompt password at every login"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Connection name"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Connection %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr ""
+"Connection setup complete.\n"
+"Tap 'Finish' to save or close the dialog to discard the settings.\n"
+"Tap 'Advanced' to edit the advanced settings."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Password"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "GPRS"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Scan for available Wi-Fi networks?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr ""
+"Unable to scan for available Wi-Fi networks during offline mode.\n"
+"Set connection manually."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "Tap 'Next' to continue"
+
+msgid "conn_set_iap_fi_username"
+msgstr "User name"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr ""
+"Connection setup wizard allows you to define a Wi-Fi connection on your "
+"device"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "Network is hidden"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Network mode"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Infrastructure"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Security method"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "None"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA with EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "WPA pre-shared key"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Network name (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Prompt password at every login"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Manual user name"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Network"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Password"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP method"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "Require client authentication"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Select certificate"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP method"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Use manual user name"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "User name"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP key 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP key 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP key 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEP key 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "Default WEP key"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "WEP key length"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 characters (ASCII 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 characters (HEX 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 characters (ASCII 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 characters (HEX 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP key"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP type"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Pre-shared key"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr ""
+"Push a button on wireless station to initiate easy setup process and tap "
+"'Done'"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "Pre-shared key"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "Enter the following digits on wireless station and tap 'Done':"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Skip Wi-Fi Protected Setup"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Connection setup: Advanced settings"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP Addresses"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Other"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Proxies"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Connection setup: Complete"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Connection setup: Name and type"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Connection setup: GPRS"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Connection setup: Welcome"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Connection setup: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "Enter WEP key"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Enter WPA pre-shared key"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "Enter SSID of hidden network"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Connection setup: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "Select EAP type"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Connection setup: WEP key"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Connection setup: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Enter user name"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "User name & password"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Connection setup: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Connection setup: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "WPA EAP PEAP authentication"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Connection setup: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS authentication"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Connection setup: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS authentication"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Connection setup: WPA EAP type"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Connection setup: WPA key"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Wi-Fi Protected Setup"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "Enter WPS pre-shared key"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Wi-Fi protected setup PIN method "
+
+msgid "conn_set_ti_conn_set"
+msgstr "Internet connections"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Never"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 minutes"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 minutes"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 minutes"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 minutes"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Bluetooth devices"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "Change EAP-MSCHAPv2 password"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Select connection"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Disconnect or change connection"
+
+msgid "conn_ti_device_details"
+msgstr "Device details"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Enter current PIN code"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Enter new PIN code"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "Enter PIN code"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "Enter PUK code"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "Enter code for unlocking SIM card"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Incorrect PIN code"
+
+msgid "conn_ti_iap_select"
+msgstr "Save access point?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Enter PIN for access point"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Pair with device"
+
+msgid "conn_ti_phone_call"
+msgstr "Call"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Телефон"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Network data"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Data transfer warning"
+
+msgid "conn_ti_phone_network"
+msgstr "Network"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Roaming network data"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Select network"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM card"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Re-enter new PIN code"
+
+msgid "conn_ti_receive"
+msgstr "Receive file"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Enter EAP-GTC response"
+
+msgid "conn_ti_roaming"
+msgstr "Enable automatic data roaming?"
+
+msgid "conn_ti_select_device"
+msgstr "Select a device"
+
+msgid "conn_ti_send_to_device"
+msgstr "Send to a device"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Enable automatic cellular data connection?"
+
+msgid "conn_ti_username_pw"
+msgstr "User name & password"
+
+msgid "conn_va_phone_clir_network"
+msgstr "Let network choose"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Never"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "Dual"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Always allow"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Always ask"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Automatic"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Manual"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Cellular data"
+
+msgid "conn_va_wps_complient"
+msgstr "Wi-Fi Protected Setup compliant"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Hidden"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: visible"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "Receiving from %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "Sending to %s"
+
+msgid "stab_me_bt_off"
+msgstr "Off"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Internet connection"
+
+msgid "stab_me_internet_disconnected"
+msgstr "Not connected"
+
+msgid "stab_me_internet_suspended"
+msgstr "Cellular data not available"
