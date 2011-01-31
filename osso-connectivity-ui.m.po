@@ -1,18 +1,20 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-connectivity-ui 20091102095704\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.02 09:57+0200\n"
-"PO-Revision-Date: 2009.11.02 09:57+0200\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-01-31 16:38+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
 "X-Source-Language: C\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "conn_ap_connmanager"
 msgid "Connection manager"
@@ -60,7 +62,7 @@ msgstr ""
 
 msgctxt "conn_bd_phone_call_divert_contact"
 msgid "Select contact"
-msgstr ""
+msgstr "Вибрати контакт"
 
 msgctxt "conn_bd_phone_dc_reset"
 msgid "Clear"
@@ -80,7 +82,7 @@ msgstr ""
 
 msgctxt "conn_bd_phone_network_data_counter"
 msgid "Data counter"
-msgstr ""
+msgstr "Лічильник даних"
 
 msgctxt "conn_bd_phone_roaming_network_data_counter"
 msgid "Roaming network data counter"
@@ -106,11 +108,11 @@ msgstr "Назва мого пристрою"
 
 msgctxt "conn_fi_bluetooth_device_name_default"
 msgid "Nokia N800"
-msgstr ""
+msgstr "Nokia N800"
 
 msgctxt "conn_fi_bluetooth_on"
 msgid "Bluetooth on"
-msgstr "Bluetooth увімкнено"
+msgstr "Увімкнути Bluetooth"
 
 msgctxt "conn_fi_bluetooth_visible"
 msgid "Visible"
@@ -118,7 +120,7 @@ msgstr "Видимий"
 
 msgctxt "conn_fi_change_eap_msc_pw_confirmpw"
 msgid "Verify new password"
-msgstr ""
+msgstr "Підтвердження нового пароля"
 
 msgctxt "conn_fi_change_eap_msc_pw_conn"
 msgid "Connection"
@@ -150,7 +152,7 @@ msgstr ""
 
 msgctxt "conn_fi_no_conn_available"
 msgid "No connections available"
-msgstr ""
+msgstr "Немає доступних з'єднань"
 
 msgctxt "conn_fi_no_paired_devices"
 msgid "(no paired devices)"
@@ -250,7 +252,7 @@ msgstr ""
 
 msgctxt "conn_fi_receive_open_and_save"
 msgid "Open file after saving"
-msgstr ""
+msgstr "Відкрити файл після збереження"
 
 msgctxt "conn_fi_received_sent_byte"
 msgid "%s B"
@@ -322,7 +324,7 @@ msgstr ""
 
 msgctxt "conn_ib_correct_pin"
 msgid "PIN code correct"
-msgstr ""
+msgstr "PIN-код вірний"
 
 msgctxt "conn_ib_enter_dialup_num"
 msgid "Enter dial-up number first"
@@ -338,7 +340,7 @@ msgstr ""
 
 msgctxt "conn_ib_flight_mode_activated"
 msgid "Offline mode activated"
-msgstr ""
+msgstr "Активовано офлайновий режим"
 
 msgctxt "conn_ib_gw_pairing_complete"
 msgid "Pairing complete"
@@ -350,23 +352,23 @@ msgstr ""
 
 msgctxt "conn_ib_incorrect_pin_0_tries"
 msgid "Incorrect PIN. SIM locked with PUK code."
-msgstr ""
+msgstr "Невірний PIN. SIM-карту заблоковано PUK-кодом."
 
 msgctxt "conn_ib_incorrect_pin_1_tries"
 msgid "Incorrect PIN code. 1 attempt remaining."
-msgstr ""
+msgstr "Невірний PIN. Залишилась 1 спроба."
 
 msgctxt "conn_ib_incorrect_pin_2_tries"
 msgid "Incorrect PIN code. 2 attempts remaining."
-msgstr ""
+msgstr "Невірний PIN. Залишилось 2 спроби."
 
 msgctxt "conn_ib_incorrect_pin_change"
 msgid "Codes do not match"
-msgstr ""
+msgstr "Коди не збігаються."
 
 msgctxt "conn_ib_incorrect_puk"
 msgid "Incorrect PUK code"
-msgstr ""
+msgstr "Невірний PUK-код"
 
 msgctxt "conn_ib_incorrect_puk_final|conn_ib_incorrect_puk"
 msgid "Incorrect PUK code. %d attempt remaining."
@@ -465,7 +467,7 @@ msgstr ""
 
 msgctxt "conn_ib_normal_mode_activated"
 msgid "Normal mode activated"
-msgstr ""
+msgstr "Активовано нормальний режим"
 
 msgctxt "conn_ib_not_available_bt_off"
 msgid "Not available while Bluetooth set off"
@@ -525,39 +527,39 @@ msgstr ""
 
 msgctxt "conn_li_device_details_d_a2dp"
 msgid "A2DP"
-msgstr ""
+msgstr "A2DP"
 
 msgctxt "conn_li_device_details_d_bt_addr"
 msgid "Bluetooth address:"
-msgstr ""
+msgstr "Bluetooth адреса:"
 
 msgctxt "conn_li_device_details_d_dun"
 msgid "DUN"
-msgstr ""
+msgstr "DUN"
 
 msgctxt "conn_li_device_details_d_ftp"
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 msgctxt "conn_li_device_details_d_hfp"
 msgid "HFP"
-msgstr ""
+msgstr "HFP"
 
 msgctxt "conn_li_device_details_d_hid"
 msgid "HID"
-msgstr ""
+msgstr "HID"
 
 msgctxt "conn_li_device_details_d_hsp"
 msgid "HSP"
-msgstr ""
+msgstr "HSP"
 
 msgctxt "conn_li_device_details_d_name"
 msgid "Device name"
-msgstr ""
+msgstr "Назва пристрою"
 
 msgctxt "conn_li_device_details_d_opp"
 msgid "OPP"
-msgstr ""
+msgstr "OPP"
 
 msgctxt "conn_li_device_details_d_profiles"
 msgid "Supported profiles:"
@@ -565,11 +567,11 @@ msgstr ""
 
 msgctxt "conn_li_device_details_d_sap"
 msgid "SAP"
-msgstr ""
+msgstr "SAP"
 
 msgctxt "conn_li_device_details_d_spp"
 msgid "SPP"
-msgstr ""
+msgstr "SPP"
 
 msgctxt "conn_li_device_details_d_trust"
 msgid "Trusted device"
@@ -577,11 +579,11 @@ msgstr ""
 
 msgctxt "conn_li_device_details_d_type"
 msgid "Device type:"
-msgstr ""
+msgstr "Тип пристрою"
 
 msgctxt "conn_li_device_details_d_type_av"
 msgid "Audio/Video"
-msgstr ""
+msgstr "Аудіо/Відео"
 
 msgctxt "conn_li_device_details_d_type_av_handsfree"
 msgid "Hands-free"
@@ -589,15 +591,15 @@ msgstr ""
 
 msgctxt "conn_li_device_details_d_type_compu"
 msgid "Computer"
-msgstr ""
+msgstr "Комп'ютер"
 
 msgctxt "conn_li_device_details_d_type_img_camera"
 msgid "Camera"
-msgstr ""
+msgstr "Камера"
 
 msgctxt "conn_li_device_details_d_type_img_printer"
 msgid "Printer"
-msgstr ""
+msgstr "Принтер"
 
 msgctxt "conn_li_device_details_d_type_lanap"
 msgid "LAN/Network access point"
@@ -605,15 +607,15 @@ msgstr ""
 
 msgctxt "conn_li_device_details_d_type_laptop"
 msgid "Computer (laptop)"
-msgstr ""
+msgstr "Комп'ютер (лептоп)"
 
 msgctxt "conn_li_device_details_d_type_misc"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Різне"
 
 msgctxt "conn_li_device_details_d_type_pda"
 msgid "PDA"
-msgstr ""
+msgstr "PDA"
 
 msgctxt "conn_li_device_details_d_type_peri"
 msgid "Peripheral"
@@ -621,7 +623,7 @@ msgstr ""
 
 msgctxt "conn_li_device_details_d_type_peri_keyboard"
 msgid "Keyboard"
-msgstr ""
+msgstr "Клавіатура"
 
 msgctxt "conn_li_device_details_d_type_phone"
 msgid "Phone"
@@ -665,7 +667,7 @@ msgstr ""
 
 msgctxt "conn_mngr_dia_bd_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "conn_mngr_dia_fi_adv_ip_dns_prim"
 msgid "Primary DNS address:"
@@ -713,35 +715,35 @@ msgstr ""
 
 msgctxt "conn_mngr_fi_received"
 msgid "Received:"
-msgstr ""
+msgstr "Отримано:"
 
 msgctxt "conn_mngr_fi_received_sent_byte"
 msgid "%s B"
-msgstr ""
+msgstr "%s Б"
 
 msgctxt "conn_mngr_fi_received_sent_gigabyte"
 msgid "%s GB"
-msgstr ""
+msgstr "%s ГБ"
 
 msgctxt "conn_mngr_fi_received_sent_kilobyte"
 msgid "%s kB"
-msgstr ""
+msgstr "%s кБ"
 
 msgctxt "conn_mngr_fi_received_sent_megabyte"
 msgid "%s MB"
-msgstr ""
+msgstr "%s МБ"
 
 msgctxt "conn_mngr_fi_sent"
 msgid "Sent:"
-msgstr ""
+msgstr "Надіслано:"
 
 msgctxt "conn_mngr_fi_signal"
 msgid "Signal:"
-msgstr ""
+msgstr "Сигнал:"
 
 msgctxt "conn_mngr_fi_status"
 msgid "Status:"
-msgstr ""
+msgstr "Стан:"
 
 msgctxt "conn_mngr_fi_status_active"
 msgid "Data being transferred"
@@ -781,11 +783,11 @@ msgstr ""
 
 msgctxt "conn_mngr_fi_type_wimax"
 msgid "WiMAX"
-msgstr ""
+msgstr "WiMAX"
 
 msgctxt "conn_mngr_fi_type_wlan"
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 msgctxt "conn_mngr_fi_type_wlan_adhoc"
 msgid "Ad hoc Wi-Fi"
@@ -793,7 +795,7 @@ msgstr ""
 
 msgctxt "conn_mngr_me_bluetooth"
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgctxt "conn_mngr_me_close"
 msgid "Close"
@@ -801,7 +803,7 @@ msgstr ""
 
 msgctxt "conn_mngr_me_conn_help"
 msgid "Help"
-msgstr ""
+msgstr "Довідка"
 
 msgctxt "conn_mngr_me_conn_set"
 msgid "Connectivity"
@@ -809,27 +811,27 @@ msgstr ""
 
 msgctxt "conn_mngr_me_conn_tools"
 msgid "Tools"
-msgstr ""
+msgstr "Інструменти"
 
 msgctxt "conn_mngr_me_int_conn"
 msgid "Internet connection"
-msgstr ""
+msgstr "З'єднання з Internet"
 
 msgctxt "conn_mngr_me_int_conn_change_iap"
 msgid "Change connection"
-msgstr ""
+msgstr "Змінити з'єднання"
 
 msgctxt "conn_mngr_me_int_conn_connect_iap"
 msgid "Select connection"
-msgstr ""
+msgstr "Вибрати з'єднання"
 
 msgctxt "conn_mngr_me_int_conn_disconnect_iap"
 msgid "Disconnect"
-msgstr ""
+msgstr "Від'єднатися"
 
 msgctxt "conn_mngr_me_int_conn_ip_address"
 msgid "IP address"
-msgstr ""
+msgstr "IP-адреса"
 
 msgctxt "conn_mngr_me_operator_wizard"
 msgid "Mobile operator setup wizard"
@@ -858,6 +860,8 @@ msgid ""
 "Delete device?\n"
 "%s"
 msgstr ""
+"Видалити пристрій?\n"
+"%s"
 
 msgctxt "conn_nc_cancel_bt_receive"
 msgid "Cancel receiving from %s?"
@@ -991,7 +995,7 @@ msgstr ""
 
 msgctxt "conn_ni_no_bt"
 msgid "Exit offline mode?"
-msgstr ""
+msgstr "Вийти з офлайнового режиму?"
 
 msgctxt "conn_ni_no_cell_network"
 msgid "Cellular network not available"
@@ -1091,7 +1095,7 @@ msgstr ""
 
 msgctxt "conn_set_fi_conn_set_device_psd"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "conn_set_fi_conn_set_none"
 msgid "None"
@@ -1107,7 +1111,7 @@ msgstr ""
 
 msgctxt "conn_set_fi_conn_set_wlan"
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 msgctxt "conn_set_iap_bd_advanced"
 msgid "Advanced"
@@ -1187,11 +1191,11 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_adv_misc_txpower_2"
 msgid "10 mW"
-msgstr ""
+msgstr "10 мВт"
 
 msgctxt "conn_set_iap_fi_adv_misc_txpower_3"
 msgid "100 mW"
-msgstr ""
+msgstr "100 мВт"
 
 msgctxt "conn_set_iap_fi_adv_misc_wpa2"
 msgid "WPA2-only mode"
@@ -1254,7 +1258,7 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_psd"
 msgid "GPRS"
-msgstr ""
+msgstr "GPRS"
 
 msgctxt "conn_set_iap_fi_scan_wlan"
 msgid "Scan for available Wi-Fi networks?"
@@ -1280,7 +1284,7 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan"
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 msgctxt "conn_set_iap_fi_wlan_ap_hidden_ssid"
 msgid "Network is hidden"
@@ -1308,11 +1312,11 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_ap_security_wep"
 msgid "WEP"
-msgstr ""
+msgstr "WEP"
 
 msgctxt "conn_set_iap_fi_wlan_ap_security_wpa_eap"
 msgid "WPA with EAP"
-msgstr ""
+msgstr "WPA з EAP"
 
 msgctxt "conn_set_iap_fi_wlan_ap_security_wpa_psk"
 msgid "WPA pre-shared key"
@@ -1332,7 +1336,7 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_hidden_ssid"
 msgid "SSID"
-msgstr ""
+msgstr "SSID"
 
 msgctxt "conn_set_iap_fi_wlan_network"
 msgid "Network"
@@ -1348,11 +1352,11 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_peap_meth_gtc"
 msgid "EAP GTC"
-msgstr ""
+msgstr "EAP GTC"
 
 msgctxt "conn_set_iap_fi_wlan_peap_meth_mschapv2"
 msgid "EAP MSCHAPv2"
-msgstr ""
+msgstr "EAP MSCHAPv2"
 
 msgctxt "conn_set_iap_fi_wlan_req_cli_auth"
 msgid "Require client authentication"
@@ -1368,15 +1372,15 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_ttls_meth_gtc"
 msgid "EAP GTC"
-msgstr ""
+msgstr "EAP GTC"
 
 msgctxt "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
 msgid "EAP MSCHAPv2"
-msgstr ""
+msgstr "EAP MSCHAPv2"
 
 msgctxt "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
 msgid "MSCHAPv2"
-msgstr ""
+msgstr "MSCHAPv2"
 
 msgctxt "conn_set_iap_fi_wlan_use_man_eap_id"
 msgid "Use manual user name"
@@ -1408,19 +1412,19 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_wepk_ind_value1"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_ind_value2"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_ind_value3"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_ind_value4"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_length"
 msgid "WEP key length"
@@ -1448,15 +1452,15 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_wpa_eap_type_peap"
 msgid "PEAP"
-msgstr ""
+msgstr "PEAP"
 
 msgctxt "conn_set_iap_fi_wlan_wpa_eap_type_tls"
 msgid "TLS"
-msgstr ""
+msgstr "TLS"
 
 msgctxt "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
 msgid "TTLS"
-msgstr ""
+msgstr "TTLS"
 
 msgctxt "conn_set_iap_fi_wlan_wpa_eap_type_txt"
 msgid "EAP type"
@@ -1488,7 +1492,7 @@ msgstr ""
 
 msgctxt "conn_set_iap_ti_adv_eap"
 msgid "EAP"
-msgstr ""
+msgstr "EAP"
 
 msgctxt "conn_set_iap_ti_adv_ip"
 msgid "IP Addresses"
@@ -1616,27 +1620,27 @@ msgstr ""
 
 msgctxt "conn_set_va_conn_set_search_2"
 msgid "5 minutes"
-msgstr ""
+msgstr "5 хвилин"
 
 msgctxt "conn_set_va_conn_set_search_3"
 msgid "10 minutes"
-msgstr ""
+msgstr "10 хвилин"
 
 msgctxt "conn_set_va_conn_set_search_4"
 msgid "30 minutes"
-msgstr ""
+msgstr "30 хвилин"
 
 msgctxt "conn_set_va_conn_set_search_5"
 msgid "60 minutes"
-msgstr ""
+msgstr "60 хвилин"
 
 msgctxt "conn_ti_bluetooth_cpa"
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgctxt "conn_ti_bluetooth_devices"
 msgid "Bluetooth devices"
-msgstr ""
+msgstr "Bluetooth пристрої"
 
 msgctxt "conn_ti_change_eap_msc_pw"
 msgid "Change EAP-MSCHAPv2 password"
@@ -1764,11 +1768,11 @@ msgstr ""
 
 msgctxt "conn_va_phone_network_mode_2g"
 msgid "GSM"
-msgstr ""
+msgstr "GSM"
 
 msgctxt "conn_va_phone_network_mode_3g"
 msgid "3G"
-msgstr ""
+msgstr "3G"
 
 msgctxt "conn_va_phone_network_mode_b"
 msgid "Dual"
@@ -1800,7 +1804,7 @@ msgstr ""
 
 msgctxt "stab_me_bt"
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgctxt "stab_me_bt__device_hidden"
 msgid "Hidden"
@@ -1808,7 +1812,7 @@ msgstr ""
 
 msgctxt "stab_me_bt_device_visible"
 msgid "%s: visible"
-msgstr ""
+msgstr "%s: видимий"
 
 msgctxt "stab_me_bt_file_receiving"
 msgid "Receiving from %s"
@@ -1820,20 +1824,21 @@ msgstr ""
 
 msgctxt "stab_me_bt_off"
 msgid "Off"
-msgstr ""
+msgstr "Вимкнено"
 
 msgctxt "stab_me_internet_connected_to"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "stab_me_internet_connection"
 msgid "Internet connection"
-msgstr ""
+msgstr "З'єднання з Internet"
 
 msgctxt "stab_me_internet_disconnected"
 msgid "Not connected"
-msgstr ""
+msgstr "Не з'єднано"
 
 msgctxt "stab_me_internet_suspended"
 msgid "Cellular data not available"
 msgstr ""
+
