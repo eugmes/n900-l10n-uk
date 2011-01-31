@@ -1,65 +1,68 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: hildon-input-method 20090515151312\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.15 15:13+0300\n"
-"PO-Revision-Date: 2009.05.15 15:13+0300\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-01-31 02:03+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "inpu_ib_mode_fn_locked"
 msgid "Fn is locked"
-msgstr ""
+msgstr "Fn заблоковано"
 
 msgctxt "inpu_ib_mode_shift_locked"
 msgid "Caps lock on"
-msgstr ""
+msgstr "Caps lock увімкнено"
 
 msgctxt "inpu_ib_quick_layout_language"
 msgid "Input language switched"
-msgstr ""
+msgstr "Мову вводу змінено"
 
 msgctxt "inpu_ib_quick_layout_switch"
 msgid "Keyboard layout switched"
-msgstr ""
+msgstr "Розкладку клавіатури змінено"
 
 msgctxt "inpu_nc_common_menu_copy"
 msgid "Copy"
-msgstr ""
+msgstr "Копіювати"
 
 msgctxt "inpu_nc_common_menu_cut"
 msgid "Cut"
-msgstr ""
+msgstr "Вирізати"
 
 msgctxt "inpu_nc_common_menu_method"
 msgid "Keyboard menu"
-msgstr ""
+msgstr "Меню клавіатури"
 
 msgctxt "inpu_nc_common_menu_paste"
 msgid "Paste"
-msgstr ""
+msgstr "Вставити"
 
 msgctxt "thum_me_main_menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Довідка"
 
 msgctxt "thum_me_main_menu_select_language"
 msgid "Select language"
-msgstr ""
+msgstr "Виберіть мову"
 
 msgctxt "thum_me_menu_edit_copy"
 msgid "Copy"
-msgstr ""
+msgstr "Копіювати"
 
 msgctxt "thum_me_menu_edit_cut"
 msgid "Cut"
-msgstr ""
+msgstr "Вирізати"
 
 msgctxt "thum_me_menu_edit_paste"
 msgid "Paste"
-msgstr ""
+msgstr "Вставити"
+
