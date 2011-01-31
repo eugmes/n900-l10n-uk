@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: osso-clock 20090629141146\n"
 "Report-Msgid-Bugs-To: eugen@debian.org\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2011-01-25 16:49+0100\n"
+"PO-Revision-Date: 2011-01-31 01:41+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,6 +14,7 @@ msgstr ""
 "X-Language: uk_UA\n"
 "X-Source-Language: C\n"
 "X-Generator: Lokalize 1.0\n"
+"Language-Team: Ukrainian <>\n"
 
 msgctxt "cloc_alarm_settings_title"
 msgid "Alarm settings"
@@ -53,7 +54,7 @@ msgstr "Місцевий час"
 
 msgctxt "cloc_fi_location"
 msgid "%s, %s"
-msgstr ""
+msgstr "%s, %s"
 
 msgctxt "cloc_fi_no_matches"
 msgid "No matches"
@@ -93,19 +94,19 @@ msgstr "Різниця часу"
 
 msgctxt "cloc_fi_timezone"
 msgid "GMT %+d"
-msgstr ""
+msgstr "GMT %+d"
 
 msgctxt "cloc_fi_timezone_minutes"
 msgid "GMT %+d:%d"
-msgstr ""
+msgstr "GMT %+d:%d"
 
 msgctxt "cloc_fi_timezonefull"
 msgid "GMT %+d (%s, %s)"
-msgstr ""
+msgstr "GMT %+d (%s, %s)"
 
 msgctxt "cloc_fi_timezonefull_minutes"
 msgid "GMT %+d:%d (%s, %s)"
-msgstr ""
+msgstr "GMT %+d:%d (%s, %s)"
 
 msgctxt "cloc_ia_choose_time_zone"
 msgid "Choose time zone"
@@ -214,7 +215,7 @@ msgstr[2] "%s і %d годин"
 
 msgctxt "cloc_va_diff_hours"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "cloc_va_diff_hours_mins"
 msgid "%s %d minutes"
@@ -222,11 +223,11 @@ msgstr "%s %d хвилин"
 
 msgctxt "cloc_va_every_dayname"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "cloc_va_every_dayname_short"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "cloc_va_everyday"
 msgid "Every day"
@@ -335,3 +336,5 @@ msgstr "15 хвилин"
 msgctxt "dati_va_snooze_5"
 msgid "5 minutes"
 msgstr "5 хвилин"
+
+
