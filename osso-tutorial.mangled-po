@@ -1,0 +1,221 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "tuto_bd_continue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "tuto_bd_exit"
+msgid "Exit"
+msgstr ""
+
+msgctxt "tuto_bd_replay"
+msgid "Replay"
+msgstr ""
+
+msgctxt "tuto_bd_watch_more"
+msgid "Watch more tutorials"
+msgstr ""
+
+msgctxt "tuto_ia_1_multiple_desktops"
+msgid "Use multiple desktops"
+msgstr ""
+
+msgctxt "tuto_ia_check_status"
+msgid "Check status"
+msgstr ""
+
+msgctxt "tuto_ia_closing_words1"
+msgid "That's all you need to know…"
+msgstr ""
+
+msgctxt "tuto_ia_closing_words2"
+msgid "to get started with the Nokia N900"
+msgstr ""
+
+msgctxt "tuto_ia_is_connected"
+msgid "The Nokia N900 is connected"
+msgstr ""
+
+msgctxt "tuto_ia_launch_apps"
+msgid "Launch applications"
+msgstr ""
+
+msgctxt "tuto_ia_people"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "tuto_ia_switch_tasks"
+msgid "Switching tasks"
+msgstr ""
+
+msgctxt "tuto_ia_tap_application"
+msgid "Tap again to open the Application menu"
+msgstr ""
+
+msgctxt "tuto_ia_tap_empty"
+msgid "Tap the empty area to return to Desktop"
+msgstr ""
+
+msgctxt "tuto_ia_tap_empty2"
+msgid "Tap outside the dialog to return"
+msgstr ""
+
+msgctxt "tuto_ia_web"
+msgid "Web"
+msgstr ""
+
+msgctxt "tuto_ia_welcome_text"
+msgid "Meet the Nokia N900"
+msgstr ""
+
+msgctxt "tuto_ti_all_contacts"
+msgid "All contacts"
+msgstr ""
+
+msgctxt "tuto_ti_app_manager"
+msgid "Application manager"
+msgstr ""
+
+msgctxt "tuto_ti_applications"
+msgid "More..."
+msgstr ""
+
+msgctxt "tuto_ti_battery"
+msgid "Battery"
+msgstr ""
+
+msgctxt "tuto_ti_battery_status"
+msgid "5 hours of active use"
+msgstr ""
+
+msgctxt "tuto_ti_bluetooth"
+msgid "Bluetooth"
+msgstr ""
+
+msgctxt "tuto_ti_bluetooth_status"
+msgid "off"
+msgstr ""
+
+msgctxt "tuto_ti_calculator"
+msgid "Calculator"
+msgstr ""
+
+msgctxt "tuto_ti_calendar"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "tuto_ti_camera"
+msgid "Camera"
+msgstr ""
+
+msgctxt "tuto_ti_clock"
+msgid "Clock"
+msgstr ""
+
+msgctxt "tuto_ti_clock_alarms"
+msgid "Clock & Alarms"
+msgstr ""
+
+msgctxt "tuto_ti_contacts"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "tuto_ti_date"
+msgid "Sunday February 15, 2011"
+msgstr ""
+
+msgctxt "tuto_ti_disconnect_wlan"
+msgid "Disconnect Skynet free Wi-Fi"
+msgstr ""
+
+msgctxt "tuto_ti_disconnet_or_change"
+msgid "Disconnect or change connection"
+msgstr ""
+
+msgctxt "tuto_ti_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "tuto_ti_get_started"
+msgid "Get started"
+msgstr ""
+
+msgctxt "tuto_ti_get_started_with_nokia"
+msgid "Get started with the Nokia N900"
+msgstr ""
+
+msgctxt "tuto_ti_internet_connection"
+msgid "Internet connection"
+msgstr ""
+
+msgctxt "tuto_ti_media_player"
+msgid "Media player"
+msgstr ""
+
+msgctxt "tuto_ti_messaging"
+msgid "Messaging"
+msgstr ""
+
+msgctxt "tuto_ti_nokia_maps"
+msgid "Maps"
+msgstr ""
+
+msgctxt "tuto_ti_operator"
+msgid "Operator"
+msgstr ""
+
+msgctxt "tuto_ti_ovi_chat"
+msgid "Ovi IM"
+msgstr ""
+
+msgctxt "tuto_ti_phone"
+msgid "Phone"
+msgstr ""
+
+msgctxt "tuto_ti_photos"
+msgid "Photos"
+msgstr ""
+
+msgctxt "tuto_ti_profile"
+msgid "Profile"
+msgstr ""
+
+msgctxt "tuto_ti_profile_status"
+msgid "General"
+msgstr ""
+
+msgctxt "tuto_ti_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "tuto_ti_skype_call"
+msgid "Skype call"
+msgstr ""
+
+msgctxt "tuto_ti_skype_chat"
+msgid "Skype IM"
+msgstr ""
+
+msgctxt "tuto_ti_sms"
+msgid "SMS"
+msgstr ""
+
+msgctxt "tuto_ti_web"
+msgid "Web"
+msgstr ""
+
+msgctxt "tuto_ti_web_page"
+msgid "Web page"
+msgstr ""

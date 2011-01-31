@@ -1,0 +1,662 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-libs 20091109114411\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "ckct_ib_date_does_not_exist"
+msgid "Invalid date"
+msgstr ""
+
+msgctxt "ckct_ib_find_enter_the_text"
+msgid "Enter the text to be found"
+msgstr ""
+
+msgctxt "ckct_ib_find_no_matches"
+msgid "No matches found"
+msgstr ""
+
+msgctxt "ckct_ib_find_search_complete"
+msgid "Search complete"
+msgstr ""
+
+msgctxt "ckct_ib_max_allowed_duration_d"
+msgid "Maximum allowed duration is %d"
+msgstr ""
+
+msgctxt "ckct_ib_max_allowed_duration_ddd"
+msgid "Maximum allowed duration is %1$02d:%2$02d:%3$02d"
+msgstr ""
+
+msgctxt "ckct_ib_max_allowed_duration_hts"
+msgid "Maximum allowed duration is %1$02d:%2$02d:%3$02d"
+msgstr ""
+
+msgctxt "ckct_ib_maximum_value"
+msgid "Maximum value is %d"
+msgstr ""
+
+msgctxt "ckct_ib_min_allowed_duration_d"
+msgid "Minimum allowed duration is %d"
+msgstr ""
+
+msgctxt "ckct_ib_min_allowed_duration_ddd"
+msgid "Minimum allowed duration is %1$02d:%2$02d:%3$02d"
+msgstr ""
+
+msgctxt "ckct_ib_min_allowed_duration_hts"
+msgid "Minimum allowed duration is %1$02d:%2$02d:%3$02d"
+msgstr ""
+
+msgctxt "ckct_ib_minimum_value"
+msgid "Minimum value is %d"
+msgstr ""
+
+msgctxt "ckct_ib_set_a_value_within_range"
+msgid "Value must be between %1$d and %2$d"
+msgstr ""
+
+msgctxt "ckct_wi_grid_no_icons"
+msgid "No icons"
+msgstr ""
+
+msgctxt "ckct_wi_grid_no_items"
+msgid "No items"
+msgstr ""
+
+msgctxt "ckct_wi_range_separator"
+msgid "-"
+msgstr ""
+
+msgctxt "ckdg_bd_rename_object_dialog_ok"
+msgid "Rename"
+msgstr ""
+
+msgctxt "ckdg_fi_dialog_c_passwd_new_pwd"
+msgid "Enter new password:"
+msgstr ""
+
+msgctxt "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgid "Password protected:"
+msgstr ""
+
+msgctxt "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgid "Verify password:"
+msgstr ""
+
+msgctxt "ckdg_fi_new_name"
+msgid "Name:"
+msgstr ""
+
+msgctxt "ckdg_fi_rename_name"
+msgid "Name:"
+msgstr ""
+
+msgctxt "ckdg_fi_sort_field"
+msgid "Sort by:"
+msgstr "Сортувати за:"
+
+msgctxt "ckdg_fi_sort_order"
+msgid "Order:"
+msgstr ""
+
+msgctxt "ckdg_ti_dialog_c_passwd_change_password"
+msgid "Change password"
+msgstr ""
+
+msgctxt "ckdg_ti_new_application"
+msgid "New application"
+msgstr ""
+
+msgctxt "ckdg_ti_new_bookmark"
+msgid "New bookmark"
+msgstr ""
+
+msgctxt "ckdg_ti_new_certificate"
+msgid "New certificate"
+msgstr ""
+
+msgctxt "ckdg_ti_new_default"
+msgid "New"
+msgstr ""
+
+msgctxt "ckdg_ti_new_document"
+msgid "New document"
+msgstr ""
+
+msgctxt "ckdg_ti_new_folder"
+msgid "New folder"
+msgstr ""
+
+msgctxt "ckdg_ti_new_html"
+msgid "New HTML document"
+msgstr ""
+
+msgctxt "ckdg_ti_new_image"
+msgid "New image"
+msgstr ""
+
+msgctxt "ckdg_ti_new_link"
+msgid "New shortcut"
+msgstr ""
+
+msgctxt "ckdg_ti_new_message"
+msgid "New message"
+msgstr ""
+
+msgctxt "ckdg_ti_new_presentation"
+msgid "New presentation"
+msgstr ""
+
+msgctxt "ckdg_ti_new_sound"
+msgid "New audio clip"
+msgstr ""
+
+msgctxt "ckdg_ti_new_video"
+msgid "New video clip"
+msgstr ""
+
+msgctxt "ckdg_ti_new_workbook"
+msgid "New workbook"
+msgstr ""
+
+msgctxt "ckdg_ti_new_xml"
+msgid "New XML document"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_application"
+msgid "Rename application"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_bookmark"
+msgid "Rename bookmark"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_certificate"
+msgid "Rename certificate"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_default"
+msgid "Rename"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_document"
+msgid "Rename document"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_folder"
+msgid "Rename folder"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_html"
+msgid "Rename HTML document"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_image"
+msgid "Rename image"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_link"
+msgid "Rename shortcut"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_message"
+msgid "Rename message"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_presentation"
+msgid "Rename presentation"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_sound"
+msgid "Rename audio clip"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_video"
+msgid "Rename video clip"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_workbook"
+msgid "Rename workbook"
+msgstr ""
+
+msgctxt "ckdg_ti_rename_xml"
+msgid "Rename XML document"
+msgstr ""
+
+msgctxt "ckdg_ti_sort"
+msgid "Sort"
+msgstr ""
+
+msgctxt "ckdg_va_sort_ascending"
+msgid "Ascending"
+msgstr ""
+
+msgctxt "ckdg_va_sort_date"
+msgid "Date"
+msgstr ""
+
+msgctxt "ckdg_va_sort_descending"
+msgid "Descending"
+msgstr ""
+
+msgctxt "ckdg_va_sort_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "ckdg_va_sort_size"
+msgid "Size"
+msgstr ""
+
+msgctxt "ecdg_bd_colour_selector_modify"
+msgid "Modify"
+msgstr ""
+
+msgctxt "ecdg_bd_font_dialog_preview"
+msgid "Preview"
+msgstr ""
+
+msgctxt "ecdg_fi_5bit_colour_selector_blue"
+msgid "Blue"
+msgstr ""
+
+msgctxt "ecdg_fi_5bit_colour_selector_green"
+msgid "Green"
+msgstr ""
+
+msgctxt "ecdg_fi_5bit_colour_selector_red"
+msgid "Red"
+msgstr ""
+
+msgctxt "ecdg_fi_font_bold"
+msgid "Bold:"
+msgstr ""
+
+msgctxt "ecdg_fi_font_colour_selector"
+msgid "Color:"
+msgstr ""
+
+msgctxt "ecdg_fi_font_font"
+msgid "Font face:"
+msgstr ""
+
+msgctxt "ecdg_fi_font_italic"
+msgid "Italic:"
+msgstr ""
+
+msgctxt "ecdg_fi_font_size"
+msgid "Font size:"
+msgstr ""
+
+msgctxt "ecdg_fi_font_special"
+msgid "Positioning:"
+msgstr ""
+
+msgctxt "ecdg_fi_font_strikethrough"
+msgid "Strikethrough:"
+msgstr ""
+
+msgctxt "ecdg_fi_font_underline"
+msgid "Underline:"
+msgstr ""
+
+msgctxt "ecdg_fi_get_old_pwd_enter_pwd"
+msgid "Password:"
+msgstr ""
+
+msgctxt "ecdg_fi_preview_font_preview_reference"
+msgid "Reference: "
+msgstr ""
+
+msgctxt "ecdg_fi_preview_font_preview_text"
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr ""
+
+msgctxt "ecdg_fi_set_passwd_confirm"
+msgid "Verify password"
+msgstr ""
+
+msgctxt "ecdg_fi_set_passwd_enter_pwd"
+msgid "Enter new password"
+msgstr ""
+
+msgctxt "ecdg_fi_verify_pwd_enter_pwd"
+msgid "Password:"
+msgstr ""
+
+msgctxt "ecdg_fi_wizard_description"
+msgid ""
+"%s wizard allows you to %s.\n"
+"\n"
+"Tap 'Next' to continue."
+msgstr ""
+
+msgctxt "ecdg_ib_colour_selector_predefined"
+msgid "Unable to modify color"
+msgstr ""
+
+msgctxt "ecdg_ti_5bit_colour_selector"
+msgid "Modify color"
+msgstr ""
+
+msgctxt "ecdg_ti_aboutdialog_title"
+msgid "About application"
+msgstr ""
+
+msgctxt "ecdg_ti_caption_separator"
+msgid ":"
+msgstr ""
+
+msgctxt "ecdg_ti_colour_selector"
+msgid "Color palette"
+msgstr ""
+
+msgctxt "ecdg_ti_duration_editor_separator"
+msgid ":"
+msgstr ""
+
+msgctxt "ecdg_ti_find_toolbar_label"
+msgid "Find:"
+msgstr ""
+
+msgctxt "ecdg_ti_font"
+msgid "Font"
+msgstr ""
+
+msgctxt "ecdg_ti_font_dialog_format"
+msgid "Formatting"
+msgstr ""
+
+msgctxt "ecdg_ti_font_dialog_other"
+msgid "Other"
+msgstr ""
+
+msgctxt "ecdg_ti_font_dialog_style"
+msgid "Style"
+msgstr ""
+
+msgctxt "ecdg_ti_get_old_password"
+msgid "Current password"
+msgstr ""
+
+msgctxt "ecdg_ti_preview_font"
+msgid "Preview"
+msgstr ""
+
+msgctxt "ecdg_ti_set_password"
+msgid "Set password"
+msgstr ""
+
+msgctxt "ecdg_ti_time_picker_separator"
+msgid ":"
+msgstr ""
+
+msgctxt "ecdg_ti_verify_password"
+msgid "Password needed"
+msgstr ""
+
+msgctxt "ecdg_ti_wizard_welcome"
+msgid "%s: Welcome"
+msgstr ""
+
+msgctxt "ecdg_va_font_printpos_1"
+msgid "Normal"
+msgstr ""
+
+msgctxt "ecdg_va_font_printpos_2"
+msgid "Superscript"
+msgstr ""
+
+msgctxt "ecdg_va_font_printpos_3"
+msgid "Subscript"
+msgstr ""
+
+msgctxt "ecdg_va_font_size_trailer"
+msgid " pt"
+msgstr ""
+
+msgctxt "frw_ti_get_user_name_and_pwd"
+msgid "Password needed"
+msgstr ""
+
+msgctxt "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgid "Password:"
+msgstr ""
+
+msgctxt "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgid "User name"
+msgstr ""
+
+msgctxt "wdgt_bd_add"
+msgid "More"
+msgstr "Більше"
+
+msgctxt "wdgt_bd_back"
+msgid "Back"
+msgstr "Назад"
+
+msgctxt "wdgt_bd_delete"
+msgid "Delete"
+msgstr "Видалити"
+
+msgctxt "wdgt_bd_done"
+msgid "Done"
+msgstr "Готово"
+
+msgctxt "wdgt_bd_edit"
+msgid "Edit"
+msgstr "Редагувати"
+
+msgctxt "wdgt_bd_finish"
+msgid "Finish"
+msgstr "Завершити"
+
+msgctxt "wdgt_bd_move"
+msgid "Move"
+msgstr "Перемістити"
+
+msgctxt "wdgt_bd_new"
+msgid "New"
+msgstr ""
+
+msgctxt "wdgt_bd_next"
+msgid "Next"
+msgstr ""
+
+msgctxt "wdgt_bd_no"
+msgid "No"
+msgstr "Ні"
+
+msgctxt "wdgt_bd_previous"
+msgid "Previous"
+msgstr ""
+
+msgctxt "wdgt_bd_rename"
+msgid "Rename"
+msgstr ""
+
+msgctxt "wdgt_bd_save"
+msgid "Save"
+msgstr "Зберегти"
+
+msgctxt "wdgt_bd_search"
+msgid "Search"
+msgstr "Шукати"
+
+msgctxt "wdgt_bd_share"
+msgid "Share"
+msgstr ""
+
+msgctxt "wdgt_bd_sort"
+msgid "Sort"
+msgstr "Сортувати"
+
+msgctxt "wdgt_bd_stop"
+msgid "Stop"
+msgstr "Стоп"
+
+msgctxt "wdgt_bd_view"
+msgid "View"
+msgstr ""
+
+msgctxt "wdgt_bd_yes"
+msgid "Yes"
+msgstr "Так"
+
+msgctxt "wdgt_ib_volume"
+msgid "Volume %d%%"
+msgstr ""
+
+msgctxt "wdgt_ib_zoom"
+msgid "Zoom %d%%"
+msgstr ""
+
+msgctxt "wdgt_ti_date"
+msgid "Date"
+msgstr "Дата"
+
+msgctxt "wdgt_ti_time"
+msgid "Time"
+msgstr "Час"
+
+msgctxt "wdgt_va_12h_hours"
+msgid "%l"
+msgstr ""
+
+msgctxt "wdgt_va_12h_time_am"
+msgid "%l:%M am"
+msgstr ""
+
+msgctxt "wdgt_va_12h_time_pm"
+msgid "%l:%M pm"
+msgstr ""
+
+msgctxt "wdgt_va_24h_hours"
+msgid "%H"
+msgstr ""
+
+msgctxt "wdgt_va_24h_time"
+msgid "%H:%M"
+msgstr ""
+
+msgctxt "wdgt_va_ago_one_day|wdgt_va_ago_days"
+msgid "1 day ago"
+msgid_plural "%d days ago"
+msgstr[0] "1 день тому"
+msgstr[1] "%d дні тому"
+msgstr[2] "%d днів тому"
+
+msgctxt "wdgt_va_ago_one_hour|wdgt_va_ago_hours"
+msgid "1 hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "1 година тому"
+msgstr[1] "%d години тому"
+msgstr[2] "%d годин тому"
+
+msgctxt "wdgt_va_ago_one_minute|wdgt_va_ago_minutes"
+msgid "1 minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "1 хвилина тому"
+msgstr[1] "%d хвилини тому"
+msgstr[2] "%d хвилин тому"
+
+msgctxt "wdgt_va_ago_one_year|wdgt_va_ago_years"
+msgid "1 year ago"
+msgid_plural "%d years ago"
+msgstr[0] "1 рік тому"
+msgstr[1] "%d роки тому"
+msgstr[2] "%d років тому"
+
+msgctxt "wdgt_va_am"
+msgid "am"
+msgstr ""
+
+msgctxt "wdgt_va_date"
+msgid "%m/%d/%Y"
+msgstr ""
+
+msgctxt "wdgt_va_date_day_name_short"
+msgid "%a %m/%d"
+msgstr ""
+
+msgctxt "wdgt_va_date_long"
+msgid "%A, %B %e, %Y"
+msgstr ""
+
+msgctxt "wdgt_va_date_medium"
+msgid "%B %e, %Y"
+msgstr ""
+
+msgctxt "wdgt_va_date_short"
+msgid "%m/%d"
+msgstr ""
+
+msgctxt "wdgt_va_day_numeric"
+msgid "%e"
+msgstr ""
+
+msgctxt "wdgt_va_full_24h_time"
+msgid "%T"
+msgstr ""
+
+msgctxt "wdgt_va_fulldate_day_name_short"
+msgid "%a %m/%d/%y"
+msgstr ""
+
+msgctxt "wdgt_va_fullmonth_year"
+msgid "%B %Y"
+msgstr ""
+
+msgctxt "wdgt_va_minutes"
+msgid "%M"
+msgstr ""
+
+msgctxt "wdgt_va_minutes_seconds"
+msgid "%M:%S"
+msgstr ""
+
+msgctxt "wdgt_va_month"
+msgid "%B"
+msgstr ""
+
+msgctxt "wdgt_va_month_name_short"
+msgid "%b"
+msgstr ""
+
+msgctxt "wdgt_va_pm"
+msgid "pm"
+msgstr ""
+
+msgctxt "wdgt_va_seconds"
+msgid "%S"
+msgstr ""
+
+msgctxt "wdgt_va_week"
+msgid "%A"
+msgstr ""
+
+msgctxt "wdgt_va_week_name_short"
+msgid "%a"
+msgstr ""
+
+msgctxt "wdgt_va_week_number"
+msgid "%V"
+msgstr ""
+
+msgctxt "wdgt_va_week_number_sunday_first"
+msgid "%U"
+msgstr ""
+
+msgctxt "wdgt_va_year"
+msgid "%Y"
+msgstr ""

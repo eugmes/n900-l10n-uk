@@ -1,0 +1,394 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "sync_ap_name"
+msgid "Transfer & sync"
+msgstr ""
+
+msgctxt "sync_bd_method_retrieve"
+msgid "Retrieve"
+msgstr ""
+
+msgctxt "sync_bd_method_send"
+msgid "Send"
+msgstr ""
+
+msgctxt "sync_bd_method_sync"
+msgid "Sync"
+msgstr ""
+
+msgctxt "sync_bd_new"
+msgid "New"
+msgstr ""
+
+msgctxt "sync_bd_wizard_choose_device"
+msgid "Select device"
+msgstr ""
+
+msgctxt "sync_fi_calendar_used"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "sync_fi_conduit_title"
+msgid "%s"
+msgstr ""
+
+msgctxt "sync_fi_content"
+msgid "Content"
+msgstr ""
+
+msgctxt "sync_fi_device"
+msgid "Device"
+msgstr ""
+
+msgctxt "sync_fi_last_update"
+msgid "Last update"
+msgstr ""
+
+msgctxt "sync_fi_method"
+msgid "Method"
+msgstr ""
+
+msgctxt "sync_fi_note"
+msgid "Note"
+msgstr ""
+
+msgctxt "sync_fi_state_deleted"
+msgid "Deleted"
+msgstr ""
+
+msgctxt "sync_fi_state_edited"
+msgid "Edited"
+msgstr ""
+
+msgctxt "sync_fi_time_unknown"
+msgid "(time unknown)"
+msgstr ""
+
+msgctxt "sync_fi_wizard_method_migrate_retrieve"
+msgid "Retrieve data"
+msgstr ""
+
+msgctxt "sync_fi_wizard_method_migrate_send"
+msgid "Send data"
+msgstr ""
+
+msgctxt "sync_fi_wizard_method_sync"
+msgid "Synchronize data"
+msgstr ""
+
+msgctxt "sync_ia_calendar_bluetooth"
+msgid "Select calendar for '%s' calendar data"
+msgstr ""
+
+msgctxt "sync_ia_content_to_keep"
+msgid "Edited information on both devices. Choose which version to keep. Newest version selected."
+msgstr ""
+
+msgctxt "sync_ia_wizard_calendartext"
+msgid "Device supports multiple calendars. Possible to create new calendar or use existing calendar."
+msgstr ""
+
+msgctxt "sync_ia_wizard_calendartext2"
+msgid "Select calendar to send"
+msgstr ""
+
+msgctxt "sync_ia_wizard_complete"
+msgid "You can edit this configuration via 'Settings: Transfer & sync'. Discard the settings by tapping outside the wizard."
+msgstr ""
+
+msgctxt "sync_ia_wizard_contenttext"
+msgid "Select data to include"
+msgstr ""
+
+msgctxt "sync_ia_wizard_intro"
+msgid ""
+"This wizard allows you to set up a transfer or synchronization process with other devices.\n"
+"\n"
+"NOTE: Use PC for PC Suite synchronization."
+msgstr ""
+
+msgctxt "sync_ia_wizard_methodtext"
+msgid "Transfer or synchronize?"
+msgstr ""
+
+msgctxt "sync_ia_wizard_setup_complete"
+msgid "Tap 'Finish' to save settings. A channel will be created and data will start to transfer immediately."
+msgstr ""
+
+msgctxt "sync_ib_setting_failed"
+msgid "Unable to save settings"
+msgstr ""
+
+msgctxt "sync_ic_calendar_content"
+msgid "This channel only includes contacts. Select a calendar to add to it."
+msgstr ""
+
+msgctxt "sync_ic_calendar_content_send"
+msgid "This channel only includes contacts. Select calendar to send."
+msgstr ""
+
+msgctxt "sync_nc_error_retrieve"
+msgid ""
+"Retrieving not supported. Synchronize data instead?\n"
+"\n"
+"Data from this device will be sent."
+msgstr ""
+
+msgctxt "sync_nc_error_send"
+msgid ""
+"Sending not supported. Synchronize data instead?\n"
+"\n"
+"Data from other device will be added."
+msgstr ""
+
+msgctxt "sync_nc_import_web"
+msgid "Subscribe to '%s'? New calendar and channel will be created."
+msgstr ""
+
+msgctxt "sync_nc_remove_conduit"
+msgid ""
+"Delete channel '%s'?\n"
+"No data will be deleted. "
+msgstr ""
+
+msgctxt "sync_ni_content_duplicate"
+msgid ""
+"Similar channel already exists.\n"
+"Unable to use same configuration twice."
+msgstr ""
+
+msgctxt "sync_ti_calendar_select"
+msgid "Transfer & sync: Select calendar"
+msgstr ""
+
+msgctxt "sync_ti_canceled"
+msgid "Canceled"
+msgstr ""
+
+msgctxt "sync_ti_canceling"
+msgid "Stopping"
+msgstr ""
+
+msgctxt "sync_ti_conflict_resolution"
+msgid "Conflict resolution"
+msgstr ""
+
+msgctxt "sync_ti_progress_1"
+msgid "Started"
+msgstr ""
+
+msgctxt "sync_ti_progress_10"
+msgid "Synchronizing contacts"
+msgstr ""
+
+msgctxt "sync_ti_progress_11"
+msgid "Sending calendar entries"
+msgstr ""
+
+msgctxt "sync_ti_progress_12"
+msgid "Receiving calendar entries"
+msgstr ""
+
+msgctxt "sync_ti_progress_13"
+msgid "Synchronizing calendar entries"
+msgstr ""
+
+msgctxt "sync_ti_progress_14"
+msgid "Sending notes"
+msgstr ""
+
+msgctxt "sync_ti_progress_15"
+msgid "Receiving notes"
+msgstr ""
+
+msgctxt "sync_ti_progress_16"
+msgid "Synchronizing notes"
+msgstr ""
+
+msgctxt "sync_ti_progress_17"
+msgid "Finalizing"
+msgstr ""
+
+msgctxt "sync_ti_progress_2"
+msgid "Connecting"
+msgstr ""
+
+msgctxt "sync_ti_progress_3"
+msgid "Connected"
+msgstr ""
+
+msgctxt "sync_ti_progress_4"
+msgid "Initializing"
+msgstr ""
+
+msgctxt "sync_ti_progress_5"
+msgid "Sending"
+msgstr ""
+
+msgctxt "sync_ti_progress_6"
+msgid "Receiving"
+msgstr ""
+
+msgctxt "sync_ti_progress_7"
+msgid "Synchronizing"
+msgstr ""
+
+msgctxt "sync_ti_progress_8"
+msgid "Sending contacts"
+msgstr ""
+
+msgctxt "sync_ti_progress_9"
+msgid "Receiving contacts"
+msgstr ""
+
+msgctxt "sync_ti_sync_conflicts"
+msgid "Conflicts"
+msgstr ""
+
+msgctxt "sync_ti_sync_error"
+msgid "Failed"
+msgstr ""
+
+msgctxt "sync_ti_today"
+msgid "Today"
+msgstr ""
+
+msgctxt "sync_ti_updating"
+msgid "Updating"
+msgstr ""
+
+msgctxt "sync_ti_wizard"
+msgid "Transfer & sync"
+msgstr ""
+
+msgctxt "sync_ti_wizard_bluetooth"
+msgid "Bluetooth"
+msgstr ""
+
+msgctxt "sync_ti_wizard_calendar"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "sync_ti_wizard_complete"
+msgid "Complete"
+msgstr ""
+
+msgctxt "sync_ti_wizard_content"
+msgid "Content"
+msgstr ""
+
+msgctxt "sync_ti_wizard_method"
+msgid "Method"
+msgstr ""
+
+msgctxt "sync_va_alarm"
+msgid "Alarm conflict"
+msgstr ""
+
+msgctxt "sync_va_alarm2"
+msgid "Alarm set"
+msgstr ""
+
+msgctxt "sync_va_bluetooth"
+msgid "Bluetooth"
+msgstr ""
+
+msgctxt "sync_va_contacts"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "sync_va_events_tasks"
+msgid "Calendar events and tasks"
+msgstr ""
+
+msgctxt "sync_va_from"
+msgid "From"
+msgstr ""
+
+msgctxt "sync_va_info_pcsuite"
+msgid "Settings can be edited via computer"
+msgstr ""
+
+msgctxt "sync_va_menu_plugin_conduit"
+msgid "Updating %s"
+msgstr ""
+
+msgctxt "sync_va_method_receive"
+msgid "Retrieve"
+msgstr ""
+
+msgctxt "sync_va_method_send"
+msgid "Send"
+msgstr ""
+
+msgctxt "sync_va_method_sync"
+msgid "Sync"
+msgstr ""
+
+msgctxt "sync_va_method_web"
+msgid "Update"
+msgstr ""
+
+msgctxt "sync_va_newcalendar"
+msgid "Create new calendar"
+msgstr ""
+
+msgctxt "sync_va_no_conduits"
+msgid "(no channels)"
+msgstr ""
+
+msgctxt "sync_va_noalarm"
+msgid "No alarm"
+msgstr ""
+
+msgctxt "sync_va_norepeats"
+msgid "Not repeated"
+msgstr ""
+
+msgctxt "sync_va_notes"
+msgid "Calendar notes"
+msgstr ""
+
+msgctxt "sync_va_pcsuite"
+msgid "PC Suite"
+msgstr ""
+
+msgctxt "sync_va_repeat"
+msgid "Repeat conflict"
+msgstr ""
+
+msgctxt "sync_va_repeated"
+msgid "Repeated"
+msgstr ""
+
+msgctxt "sync_va_to"
+msgid "To"
+msgstr ""
+
+msgctxt "sync_va_use"
+msgid "Use '%s' calendar"
+msgstr ""
+
+msgctxt "sync_va_web"
+msgid "Web"
+msgstr ""
+
+msgctxt "sync_va_wizard_device_none"
+msgid "(no device selected)"
+msgstr ""
+
+msgctxt "sync_va_wizard_device_used"
+msgid "This device is already used for another channel"
+msgstr ""

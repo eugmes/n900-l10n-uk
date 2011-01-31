@@ -1,0 +1,33 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-statusbar-sound 20090409122110\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.04.09 12:21+0300\n"
+"PO-Revision-Date: 2009.04.09 12:21+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "stab_me_sound_bt_headset_label"
+msgid "Bluetooth audio device"
+msgstr ""
+
+msgctxt "stab_me_sound_fm_transmitter"
+msgid "FM transmitter"
+msgstr ""
+
+msgctxt "stab_nc_disconnect_bt_headset"
+msgid "Disconnect %s?"
+msgstr ""
+
+msgctxt "stab_va_sound_bt_headset_connected"
+msgid "%s"
+msgstr ""
+
+msgctxt "stab_va_sound_fm_frequency"
+msgid "Frequency: %s MHz"
+msgstr ""

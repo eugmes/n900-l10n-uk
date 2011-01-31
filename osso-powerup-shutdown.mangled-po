@@ -1,0 +1,129 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "cherry_bt_terms_conditions"
+msgid "Terms and Conditions"
+msgstr ""
+
+msgctxt "dpup_ia_battery_full"
+msgid "Battery full"
+msgstr "Батарею заряджено"
+
+msgctxt "dpup_ia_charging"
+msgid "Charging"
+msgstr "Зарядження"
+
+msgctxt "dpup_ia_remove_charger"
+msgid "Disconnect charger from power supply to save energy"
+msgstr ""
+
+msgctxt "dpup_ia_thermal_shutdown"
+msgid "Device too hot and will be shut down. Slide keyboard out to help cooling."
+msgstr ""
+
+msgctxt "dpup_ib_cannot_charge_battery"
+msgid "Not charging"
+msgstr ""
+
+msgctxt "powerup_by_continuing"
+msgid "By continuing, you accept Nokia’s terms."
+msgstr ""
+
+msgctxt "powerup_ib_device_lock_not_available"
+msgid "Unable to lock device during a call"
+msgstr ""
+
+msgctxt "powerup_ib_general_activated"
+msgid "Activated profile: General"
+msgstr "Активовано профіль: Загальний"
+
+msgctxt "powerup_ib_silent_activated"
+msgid "Activated profile: Silent"
+msgstr "Активовано профіль: Тихий"
+
+msgctxt "powerup_in_do_not_switch_off"
+msgid "Device is being used via USB. Disconnect device from the PC and try switching device off again."
+msgstr ""
+
+msgctxt "powerup_memain_endcurrenttask"
+msgid "End current task"
+msgstr "Завершити поточну задачу"
+
+msgctxt "powerup_memainmenu_flightmode"
+msgid "Offline mode"
+msgstr ""
+
+msgctxt "powerup_memainmenu_general"
+msgid "General"
+msgstr "Загальний"
+
+msgctxt "powerup_memainmenu_lockdevice"
+msgid "Secure device"
+msgstr "Заблокувати пристрій"
+
+msgctxt "powerup_memainmenu_lockscreen"
+msgid "Lock screen and keys"
+msgstr "Блокувати екран і клавіші"
+
+msgctxt "powerup_memainmenu_normalmode"
+msgid "Normal mode"
+msgstr "Нормальний режим"
+
+msgctxt "powerup_memainmenu_poweroff"
+msgid "Switch off!"
+msgstr "Вимкнути!"
+
+msgctxt "powerup_memainmenu_silent"
+msgid "Silent"
+msgstr "Тихий"
+
+msgctxt "powerup_nc_exit_flight_mode"
+msgid "Exit offline mode?"
+msgstr ""
+
+msgctxt "powerup_sign_up_register"
+msgid "Sign up"
+msgstr ""
+
+msgctxt "powerup_thank_you"
+msgid "Thank you for choosing Nokia. Your Nokia includes Ovi Store with hundreds of applications & games."
+msgstr ""
+
+msgctxt "powerup_thank_you2"
+msgid "Thank you for choosing Nokia. To get most out of your new Nokia you can sign up for tips & support messages"
+msgstr ""
+
+msgctxt "powerup_to_get_most"
+msgid "To get the most out of your new Nokia you will receive tips & support messages. By continuing, you accept Nokia’s terms."
+msgstr ""
+
+msgctxt "qtn_pa_confirmation_sf"
+msgid ""
+"Your sign-up failed.\n"
+"See 'My Nokia' in Settings to try again. For more information, visit www.nokia.com/mynokia"
+msgstr ""
+
+msgctxt "qtn_pa_confirmation_ss1_1"
+msgid ""
+"Welcome to My Nokia.\n"
+"You will shortly start receiving Tips and Support for your Nokia via SMS. To unsubscribe see 'My Nokia' in Settings."
+msgstr ""
+
+msgctxt "qtn_pa_confirmation_ss2_1"
+msgid ""
+"Welcome back! \n"
+"You are already registered to My Nokia. You will now start receiving Tips for your new Nokia."
+msgstr ""

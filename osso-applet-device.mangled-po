@@ -1,0 +1,43 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-device 20081201084631\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.12.01 08:46+0200\n"
+"PO-Revision-Date: 2008.12.01 08:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "about_ia_bluetooth_address"
+msgid "Bluetooth address: %s"
+msgstr "Адреса Bluetooth: %s"
+
+msgctxt "about_ia_imei"
+msgid "IMEI: %s"
+msgstr ""
+
+msgctxt "about_ia_version"
+msgid "Version:"
+msgstr "Версія:"
+
+msgctxt "about_ia_wimax_mac"
+msgid "WiMAX MAC address: %s"
+msgstr "WiMAX MAC-адреса: %s"
+
+msgctxt "about_ia_wlan_mac"
+msgid "Wi-Fi MAC address: %s"
+msgstr "Wi-Fi MAC-адреса: %s"
+
+msgctxt "about_ti_device"
+msgid "About product"
+msgstr "Про продукт"
+
+msgctxt "devi_ap_application_title"
+msgid "About product"
+msgstr "Про продукт"

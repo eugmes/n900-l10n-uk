@@ -1,0 +1,382 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "back_ap_feature_name"
+msgid "Backup"
+msgstr ""
+
+msgctxt "back_ap_feature_title"
+msgid "Backup"
+msgstr ""
+
+msgctxt "back_bd_007_restore_button"
+msgid "Yes"
+msgstr ""
+
+msgctxt "back_bd_backup"
+msgid "New backup"
+msgstr ""
+
+msgctxt "back_bd_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "back_bd_dia002_ok"
+msgid "Proceed"
+msgstr ""
+
+msgctxt "back_bd_dia003_ok"
+msgid "Select"
+msgstr ""
+
+msgctxt "back_bd_dia010_ok"
+msgid "Finish"
+msgstr ""
+
+msgctxt "back_bd_dia026_continue_button"
+msgid "Yes"
+msgstr ""
+
+msgctxt "back_bd_overwrite"
+msgid "Yes"
+msgstr ""
+
+msgctxt "back_bd_overwrite_all"
+msgid "Yes to all"
+msgstr ""
+
+msgctxt "back_bd_rename"
+msgid "Rename"
+msgstr ""
+
+msgctxt "back_bd_restore"
+msgid "Restore"
+msgstr ""
+
+msgctxt "back_bd_skip"
+msgid "No"
+msgstr ""
+
+msgctxt "back_fi_application_list"
+msgid "Application list"
+msgstr ""
+
+msgctxt "back_fi_application_list_found"
+msgid ""
+"Application manager required to re-install applications.\n"
+"Start Application manager now?"
+msgstr ""
+
+msgctxt "back_fi_are_you_sure_applications_will_close"
+msgid ""
+"Restore %s?\n"
+"All applications will be closed"
+msgstr ""
+
+msgctxt "back_fi_are_you_sure_you_would_like"
+msgid ""
+"Restore '%s'?\n"
+"Before the system restarts itself all applications will close, with functions disabled (no emergency calls)."
+msgstr ""
+
+msgctxt "back_fi_backed_up_version_prompt"
+msgid "Backed-up version: %s"
+msgstr ""
+
+msgctxt "back_fi_backup_general_error"
+msgid "Backup error occurred"
+msgstr ""
+
+msgctxt "back_fi_backup_incompatible"
+msgid ""
+"Unable to backup.\n"
+"Backup to be updated is incompatible with device."
+msgstr ""
+
+msgctxt "back_fi_backup_memory_card_insufficient_space"
+msgid ""
+"Not enough memory on memory card to complete backup.\n"
+"Available memory: %s\n"
+"Required memory: %s"
+msgstr ""
+
+msgctxt "back_fi_backup_memory_card_not_found"
+msgid ""
+"Memory card not found.\n"
+"Reinsert the memory card and start again."
+msgstr ""
+
+msgctxt "back_fi_backup_memory_card_protected"
+msgid ""
+"Memory card or destination folder is read-only.\n"
+"Insert a different card or change folder."
+msgstr ""
+
+msgctxt "back_fi_bookmarks"
+msgid "Bookmarks"
+msgstr ""
+
+msgctxt "back_fi_communication_calendar"
+msgid "Communication and Calendar"
+msgstr ""
+
+msgctxt "back_fi_corrupt_backup"
+msgid "Backup corrupted"
+msgstr ""
+
+msgctxt "back_fi_delete_backup"
+msgid ""
+"Delete backup?\n"
+"%s"
+msgstr ""
+
+msgctxt "back_fi_dia001_content"
+msgid "Content:"
+msgstr ""
+
+msgctxt "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgid ""
+"Memory card not available.\n"
+"USB cable connected."
+msgstr ""
+
+msgctxt "back_fi_dia001_no_memory_card_present"
+msgid "No memory card inserted"
+msgstr ""
+
+msgctxt "back_fi_dia001_this_backup_was_taken_on"
+msgid "Backups"
+msgstr ""
+
+msgctxt "back_fi_dia002_bkp_name"
+msgid "Backup name"
+msgstr ""
+
+msgctxt "back_fi_dia002_location"
+msgid "Location"
+msgstr ""
+
+msgctxt "back_fi_dia002_memorycard_external"
+msgid "External memory card"
+msgstr ""
+
+msgctxt "back_fi_dia009_text_2"
+msgid ""
+"Device contains a folder of same name.\n"
+"Rename the folder from the backup to prevent loss of data?"
+msgstr ""
+
+msgctxt "back_fi_dia009_text_3"
+msgid "Device contains a file of same name. Rename the file from the backup to prevent loss of data?"
+msgstr ""
+
+msgctxt "back_fi_dia009a_text"
+msgid "Device contains a more recent version of this file:"
+msgstr ""
+
+msgctxt "back_fi_dia009b_text"
+msgid "Replace the recent version with the older backup file?"
+msgstr ""
+
+msgctxt "back_fi_dia010_data_restored"
+msgid "%s restored"
+msgstr ""
+
+msgctxt "back_fi_dia010_text"
+msgid "Restore of following data incomplete:"
+msgstr ""
+
+msgctxt "back_fi_general_error"
+msgid "Error"
+msgstr ""
+
+msgctxt "back_fi_memory_full"
+msgid "Target memory full"
+msgstr ""
+
+msgctxt "back_fi_newer_version_prompt"
+msgid "Most recent version: %s"
+msgstr ""
+
+msgctxt "back_fi_no_backups_present"
+msgid "(no backups available)"
+msgstr ""
+
+msgctxt "back_fi_nodata_tobackup"
+msgid "No data to backup"
+msgstr ""
+
+msgctxt "back_fi_not011_backup_successfully_completed"
+msgid ""
+"Backup complete.\n"
+"%s backed up."
+msgstr ""
+
+msgctxt "back_fi_not013_restore_successfully_completed"
+msgid ""
+"Restoring complete.\n"
+"%s restored."
+msgstr ""
+
+msgctxt "back_fi_not026_msg"
+msgid "The older backup from %s at %s will be lost. Proceed?"
+msgstr ""
+
+msgctxt "back_fi_not028_msg"
+msgid ""
+"Backup canceled.\n"
+"%1$d of %2$d files successfully backed up."
+msgstr ""
+
+msgctxt "back_fi_not029_msg"
+msgid ""
+"Restoring canceled.\n"
+"%1$d of %2$d files successfully restored."
+msgstr ""
+
+msgctxt "back_fi_other"
+msgid "Other files"
+msgstr ""
+
+msgctxt "back_fi_password_protect"
+msgid "Password protect"
+msgstr ""
+
+msgctxt "back_fi_restore_general_error"
+msgid "Restore error occurred"
+msgstr ""
+
+msgctxt "back_fi_restore_incompatible"
+msgid ""
+"Unable to restore.\n"
+"Incompatible backup."
+msgstr ""
+
+msgctxt "back_fi_restore_insufficient_space"
+msgid ""
+"Not enough storage memory on device.\n"
+"Delete some data first and try again."
+msgstr ""
+
+msgctxt "back_fi_restore_memory_card_not_found"
+msgid ""
+"No memory card detected.\n"
+"Insert a card and try again."
+msgstr ""
+
+msgctxt "back_fi_restore_memory_card_removed"
+msgid ""
+"Memory card removed during operation.\n"
+"Reinsert card and try again."
+msgstr ""
+
+msgctxt "back_fi_restoring_cancelled"
+msgid "Canceled"
+msgstr ""
+
+msgctxt "back_fi_select_oneoption"
+msgid "At least 1 option must be selected"
+msgstr ""
+
+msgctxt "back_fi_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "back_fi_unknown_error"
+msgid "Unknown error"
+msgstr ""
+
+msgctxt "back_ia_dia002_name"
+msgid "Backup"
+msgstr ""
+
+msgctxt "back_ib_password_incorrect"
+msgid "Incorrect password"
+msgstr ""
+
+msgctxt "back_li_de_size_10mb_1gb"
+msgid "%.1f MB"
+msgstr ""
+
+msgctxt "back_li_de_size_1mb_10mb"
+msgid "%.2f MB"
+msgstr ""
+
+msgctxt "back_li_de_size_larger_than_1gb"
+msgid "%.2f GB"
+msgstr ""
+
+msgctxt "back_li_de_size_max_999kb"
+msgid "%d kB"
+msgstr ""
+
+msgctxt "back_li_size_100kb_10mb"
+msgid "%.1f MB"
+msgstr ""
+
+msgctxt "back_li_size_10mb_1gb"
+msgid "%3d MB"
+msgstr ""
+
+msgctxt "back_li_size_larger_than_1gb"
+msgid "%.1f GB"
+msgstr ""
+
+msgctxt "back_li_size_max_99kb"
+msgid "%d kB"
+msgstr ""
+
+msgctxt "back_ti_backup_filter"
+msgid "Select data for backup"
+msgstr ""
+
+msgctxt "back_ti_dia002_title"
+msgid "New backup"
+msgstr ""
+
+msgctxt "back_ti_dia010_restore_incomplete"
+msgid "Restore incomplete"
+msgstr ""
+
+msgctxt "back_ti_restore_filter"
+msgid "Select data to restore"
+msgstr ""
+
+msgctxt "back_ti_restore_query"
+msgid "Version conflict"
+msgstr ""
+
+msgctxt "back_va_backed_up_category"
+msgid ""
+"Backing up\n"
+"%s"
+msgstr ""
+
+msgctxt "back_va_finalizing_restore"
+msgid "Finalizing"
+msgstr ""
+
+msgctxt "back_va_initializing_restore"
+msgid "Initializing"
+msgstr ""
+
+msgctxt "back_va_restoring_category"
+msgid ""
+"Restoring\n"
+"%s"
+msgstr ""
+
+msgctxt "calc_va_percentage"
+msgid "%d%%"
+msgstr ""

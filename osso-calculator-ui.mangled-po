@@ -1,0 +1,251 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "calc_ap_calculator"
+msgid "Calculator"
+msgstr "Калькулятор"
+
+msgctxt "calc_ap_divide_byzero"
+msgid "Unable to divide by zero"
+msgstr "Неможна дільти на ноль"
+
+msgctxt "calc_ap_input_illegal"
+msgid "Illegal input"
+msgstr "Неприпустимий ввід"
+
+msgctxt "calc_ap_large_cache_clear"
+msgid "Cache already cleared"
+msgstr ""
+
+msgctxt "calc_ap_large_no_result"
+msgid "No calculation to show"
+msgstr ""
+
+msgctxt "calc_ap_large_power"
+msgid "Maximum power is 1000"
+msgstr "Максимальний степінь — 1000"
+
+msgctxt "calc_ap_memory"
+msgid "Memory = %s"
+msgstr "Пам'ять = %s"
+
+msgctxt "calc_ap_memory_empty"
+msgid "Memory empty"
+msgstr "Пам'ять порожня"
+
+msgctxt "calc_ap_nothing_to_clear"
+msgid "Nothing to clear"
+msgstr "Немає що стирати"
+
+msgctxt "calc_ap_paste_onlynumber"
+msgid "Only numbers can be pasted"
+msgstr "Можна вставляти тільки числа"
+
+msgctxt "calc_ap_result_toolarge"
+msgid "Result too large to display"
+msgstr "Результат завеликий для показу"
+
+msgctxt "calc_ap_square_neg"
+msgid "Unable to calculate the square root of a negative number"
+msgstr "Неможна обчислити корінь з від'ємного числа"
+
+msgctxt "calc_ap_title_calculator"
+msgid "Calculator"
+msgstr "Калькулятор"
+
+msgctxt "calc_bv_desk_ac"
+msgid "AC"
+msgstr ""
+
+msgctxt "calc_bv_desk_c"
+msgid "C"
+msgstr ""
+
+msgctxt "calc_bv_tr_add"
+msgid "+"
+msgstr ""
+
+msgctxt "calc_bv_tr_closebracket"
+msgid ")"
+msgstr ""
+
+msgctxt "calc_bv_tr_decimal"
+msgid "."
+msgstr ""
+
+msgctxt "calc_bv_tr_divide"
+msgid "÷"
+msgstr ""
+
+msgctxt "calc_bv_tr_equals"
+msgid "="
+msgstr ""
+
+msgctxt "calc_bv_tr_min"
+msgid "MS"
+msgstr ""
+
+msgctxt "calc_bv_tr_mminus"
+msgid "M−"
+msgstr ""
+
+msgctxt "calc_bv_tr_mplus"
+msgid "M+"
+msgstr ""
+
+msgctxt "calc_bv_tr_mr"
+msgid "MR"
+msgstr ""
+
+msgctxt "calc_bv_tr_multiply"
+msgid "*"
+msgstr ""
+
+msgctxt "calc_bv_tr_openbracket"
+msgid "("
+msgstr ""
+
+msgctxt "calc_bv_tr_percent"
+msgid "%%"
+msgstr ""
+
+msgctxt "calc_bv_tr_powerof"
+msgid "x^y"
+msgstr ""
+
+msgctxt "calc_bv_tr_reciprocal"
+msgid "1/x"
+msgstr ""
+
+msgctxt "calc_bv_tr_sqroot"
+msgid "√"
+msgstr ""
+
+msgctxt "calc_bv_tr_subtract"
+msgid "−"
+msgstr ""
+
+msgctxt "calc_bv_tr_unaryminus"
+msgid "+/−"
+msgstr ""
+
+msgctxt "calc_gi_e"
+msgid "Error"
+msgstr "Помилка"
+
+msgctxt "calc_ib_only12"
+msgid "Unable to paste more than 12 digits"
+msgstr "Неможна вставити більше 12 чисел"
+
+msgctxt "calc_ib_unable_copy"
+msgid "Unable to copy"
+msgstr "Неможливо копіювати"
+
+msgctxt "calc_ib_unable_paste"
+msgid "Unable to paste"
+msgstr "Неможливо вставити"
+
+msgctxt "calc_ib_unable_select"
+msgid "Unable to select"
+msgstr "Неможливо вибрати"
+
+msgctxt "calc_me_basic"
+msgid "Basic"
+msgstr "Простий"
+
+msgctxt "calc_me_calc_cont"
+msgid "Calculation line"
+msgstr ""
+
+msgctxt "calc_me_clear_cache"
+msgid "Clear last calculation cache"
+msgstr ""
+
+msgctxt "calc_me_clear_till_roll"
+msgid "Clear adding machine tape"
+msgstr ""
+
+msgctxt "calc_me_close"
+msgid "Close"
+msgstr "Закрити"
+
+msgctxt "calc_me_copy"
+msgid "Copy"
+msgstr "Копіювати"
+
+msgctxt "calc_me_dmem_add_to"
+msgid "Add to memory (M+)"
+msgstr "Додати до пам'яті (M+)"
+
+msgctxt "calc_me_dmem_clear"
+msgid "Clear memory"
+msgstr "Очистити пам'ять"
+
+msgctxt "calc_me_dmem_recall"
+msgid "Recall from memory (MR)"
+msgstr "Викликати з пам'яті (MR)"
+
+msgctxt "calc_me_dmem_save_in"
+msgid "Save to memory (MS)"
+msgstr "Зберегти в пам'ять (MS)"
+
+msgctxt "calc_me_dmem_subtract_from"
+msgid "Subtract from memory (M-)"
+msgstr "Відняти від пам'яті (M-)"
+
+msgctxt "calc_me_edit"
+msgid "Edit"
+msgstr "Редагувати"
+
+msgctxt "calc_me_help"
+msgid "Help"
+msgstr "Допомога"
+
+msgctxt "calc_me_memory"
+msgid "Memory"
+msgstr "Пам'ять"
+
+msgctxt "calc_me_paste"
+msgid "Paste"
+msgstr "Вставити"
+
+msgctxt "calc_me_roll_cont"
+msgid "Adding machine tape content"
+msgstr ""
+
+msgctxt "calc_me_scientific"
+msgid "Scientific"
+msgstr "Науковий"
+
+msgctxt "calc_me_select"
+msgid "Select"
+msgstr "Вибрати"
+
+msgctxt "calc_me_show_last"
+msgid "Show last calculation"
+msgstr "Показати останнє обчислення"
+
+msgctxt "calc_me_view"
+msgid "View"
+msgstr ""
+
+msgctxt "calc_va_format_tr_percentage_format"
+msgid "_%%"
+msgstr ""
+
+msgctxt "calc_va_memory"
+msgid "M"
+msgstr ""

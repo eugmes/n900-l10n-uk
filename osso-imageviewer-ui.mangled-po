@@ -1,0 +1,845 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20091013120337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "imag_ap_images"
+msgid "Photos"
+msgstr "Фото"
+
+msgctxt "imag_bd_brightness_and_contrast"
+msgid "Brightness and contrast"
+msgstr ""
+
+msgctxt "imag_bd_clear"
+msgid "Clear"
+msgstr ""
+
+msgctxt "imag_bd_continue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "imag_bd_crop_confirm_button"
+msgid "Crop"
+msgstr ""
+
+msgctxt "imag_bd_crop_ratio_button"
+msgid "Crop ratio"
+msgstr ""
+
+msgctxt "imag_bd_date_custom_range"
+msgid "Custom date range"
+msgstr ""
+
+msgctxt "imag_bd_date_off"
+msgid "No date filtering"
+msgstr ""
+
+msgctxt "imag_bd_date_one_day"
+msgid "Pick date"
+msgstr ""
+
+msgctxt "imag_bd_date_one_day_number_of_images"
+msgid ", pictures: %d"
+msgstr ""
+
+msgctxt "imag_bd_date_range_from"
+msgid "From"
+msgstr ""
+
+msgctxt "imag_bd_date_range_to"
+msgid "To"
+msgstr ""
+
+msgctxt "imag_bd_details_edit_tags"
+msgid "Tags"
+msgstr ""
+
+msgctxt "imag_bd_discard"
+msgid "Discard"
+msgstr ""
+
+msgctxt "imag_bd_edit_tags"
+msgid "Edit tags"
+msgstr ""
+
+msgctxt "imag_bd_flip_horizontal"
+msgid "Flip horizontally"
+msgstr ""
+
+msgctxt "imag_bd_flip_vertical"
+msgid "Flip vertically"
+msgstr ""
+
+msgctxt "imag_bd_folder_all_images"
+msgid "All images"
+msgstr ""
+
+msgctxt "imag_bd_folder_camera"
+msgid "Camera default folder"
+msgstr ""
+
+msgctxt "imag_bd_folder_custom"
+msgid "Custom folder"
+msgstr ""
+
+msgctxt "imag_bd_new_geotag_type_city"
+msgid "City"
+msgstr ""
+
+msgctxt "imag_bd_new_geotag_type_country"
+msgid "Country"
+msgstr ""
+
+msgctxt "imag_bd_new_geotag_type_suburb"
+msgid "District"
+msgstr ""
+
+msgctxt "imag_bd_new_tag"
+msgid "New"
+msgstr ""
+
+msgctxt "imag_bd_red_eye_removal"
+msgid "Red eye removal"
+msgstr ""
+
+msgctxt "imag_bd_resize"
+msgid "Resize"
+msgstr ""
+
+msgctxt "imag_bd_resize_confirm_button"
+msgid "Resize"
+msgstr ""
+
+msgctxt "imag_bd_resize_percentage_button"
+msgid "Resize to"
+msgstr ""
+
+msgctxt "imag_bd_save_as"
+msgid "Save as"
+msgstr ""
+
+msgctxt "imag_bd_settings_slideshow_fast"
+msgid "Fast"
+msgstr ""
+
+msgctxt "imag_bd_settings_slideshow_medium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "imag_bd_settings_slideshow_slow"
+msgid "Slow"
+msgstr ""
+
+msgctxt "imag_bd_settings_sorting_alphabetical"
+msgid "By name"
+msgstr ""
+
+msgctxt "imag_bd_settings_sorting_chronological"
+msgid "By date"
+msgstr ""
+
+msgctxt "imag_bd_share"
+msgid "Share"
+msgstr ""
+
+msgctxt "imag_bd_show_on_map"
+msgid "Show on map"
+msgstr ""
+
+msgctxt "imag_bd_tags_edit_geotags"
+msgid "Geotags"
+msgstr ""
+
+msgctxt "imag_fi_crop_free"
+msgid "Free ratio"
+msgstr ""
+
+msgctxt "imag_fi_crop_original"
+msgid "Original"
+msgstr ""
+
+msgctxt "imag_fi_crop_screen"
+msgid "Screen ratio"
+msgstr ""
+
+msgctxt "imag_fi_crop_square"
+msgid "Square"
+msgstr ""
+
+msgctxt "imag_fi_details_abbreviation_ev"
+msgid "EV"
+msgstr ""
+
+msgctxt "imag_fi_details_abbreviation_mm"
+msgid "mm"
+msgstr ""
+
+msgctxt "imag_fi_details_abbreviation_sec"
+msgid "sec"
+msgstr ""
+
+msgctxt "imag_fi_details_aperturevalue"
+msgid "Aperture"
+msgstr ""
+
+msgctxt "imag_fi_details_camera"
+msgid "Camera"
+msgstr ""
+
+msgctxt "imag_fi_details_common"
+msgid "General"
+msgstr ""
+
+msgctxt "imag_fi_details_creator"
+msgid "Creator"
+msgstr ""
+
+msgctxt "imag_fi_details_datetimeoriginal"
+msgid "Date and time taken"
+msgstr ""
+
+msgctxt "imag_fi_details_description"
+msgid "Description"
+msgstr ""
+
+msgctxt "imag_fi_details_dimensions"
+msgid "Dimensions"
+msgstr ""
+
+msgctxt "imag_fi_details_dimensions_value"
+msgid "%d * %d pixels"
+msgstr ""
+
+msgctxt "imag_fi_details_exposurebias"
+msgid "Exposure bias"
+msgstr ""
+
+msgctxt "imag_fi_details_exposuretime"
+msgid "Exposure time"
+msgstr ""
+
+msgctxt "imag_fi_details_flash"
+msgid "Flash"
+msgstr ""
+
+msgctxt "imag_fi_details_flash_auto"
+msgid "Auto mode"
+msgstr ""
+
+msgctxt "imag_fi_details_flash_forced_off"
+msgid "Forced off mode"
+msgstr ""
+
+msgctxt "imag_fi_details_flash_forced_on"
+msgid "Forced on mode"
+msgstr ""
+
+msgctxt "imag_fi_details_flash_off"
+msgid "Not fired"
+msgstr ""
+
+msgctxt "imag_fi_details_flash_on"
+msgid "Fired"
+msgstr ""
+
+msgctxt "imag_fi_details_flash_red_eye_reduction"
+msgid "Red eye reduction"
+msgstr ""
+
+msgctxt "imag_fi_details_focallength"
+msgid "Focal length"
+msgstr ""
+
+msgctxt "imag_fi_details_gpsaltitude"
+msgid "GPS altitude"
+msgstr ""
+
+msgctxt "imag_fi_details_gpsaltitude_value"
+msgid "%d m"
+msgstr ""
+
+msgctxt "imag_fi_details_gpslatitude"
+msgid "GPS latitude"
+msgstr ""
+
+msgctxt "imag_fi_details_gpslongitude"
+msgid "GPS longitude"
+msgstr ""
+
+msgctxt "imag_fi_details_iso"
+msgid "ISO"
+msgstr ""
+
+msgctxt "imag_fi_details_jpeg_quality"
+msgid "Jpeg quality"
+msgstr ""
+
+msgctxt "imag_fi_details_maker"
+msgid "Camera maker"
+msgstr ""
+
+msgctxt "imag_fi_details_metadata"
+msgid "Metadata"
+msgstr ""
+
+msgctxt "imag_fi_details_metering_average"
+msgid "Average"
+msgstr ""
+
+msgctxt "imag_fi_details_metering_center_weighted_average"
+msgid "Center-weighted average"
+msgstr ""
+
+msgctxt "imag_fi_details_metering_multi_spot"
+msgid "Multi-spot"
+msgstr ""
+
+msgctxt "imag_fi_details_metering_multisegment"
+msgid "Multi-segment"
+msgstr ""
+
+msgctxt "imag_fi_details_metering_partial"
+msgid "Partial"
+msgstr ""
+
+msgctxt "imag_fi_details_metering_spot"
+msgid "Spot"
+msgstr ""
+
+msgctxt "imag_fi_details_meteringmode"
+msgid "Metering mode"
+msgstr ""
+
+msgctxt "imag_fi_details_model"
+msgid "Camera model"
+msgstr ""
+
+msgctxt "imag_fi_details_no_camera"
+msgid "No camera information available"
+msgstr ""
+
+msgctxt "imag_fi_details_no_common"
+msgid "No general information available"
+msgstr ""
+
+msgctxt "imag_fi_details_no_metadata"
+msgid "Metadata information not supported by file format"
+msgstr ""
+
+msgctxt "imag_fi_details_thumbnail"
+msgid "Thumbnail"
+msgstr ""
+
+msgctxt "imag_fi_details_thumbnail_value"
+msgid "%d * %d pixels"
+msgstr ""
+
+msgctxt "imag_fi_details_title"
+msgid "Title"
+msgstr ""
+
+msgctxt "imag_fi_details_unknown_value"
+msgid "Unknown value"
+msgstr ""
+
+msgctxt "imag_fi_details_whitebalance"
+msgid "White balance"
+msgstr ""
+
+msgctxt "imag_fi_details_whitebalance_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "imag_fi_details_whitebalance_manual"
+msgid "Manual"
+msgstr ""
+
+msgctxt "imag_fi_edit_toolbar_brightness"
+msgid "Brightness"
+msgstr ""
+
+msgctxt "imag_fi_edit_toolbar_contrast"
+msgid "Contrast"
+msgstr ""
+
+msgctxt "imag_fi_edit_toolbar_height"
+msgid "H:"
+msgstr ""
+
+msgctxt "imag_fi_edit_toolbar_pixels"
+msgid "px"
+msgstr ""
+
+msgctxt "imag_fi_edit_toolbar_width"
+msgid "W:"
+msgstr ""
+
+msgctxt "imag_fi_filter_date_sub_number_of_pictures"
+msgid "%d pictures"
+msgstr ""
+
+msgctxt "imag_fi_filter_date_sub_one_picture"
+msgid "1 picture"
+msgstr ""
+
+msgctxt "imag_fi_geotags_city"
+msgid "City:"
+msgstr ""
+
+msgctxt "imag_fi_geotags_country"
+msgid "Country:"
+msgstr ""
+
+msgctxt "imag_fi_geotags_suburb"
+msgid "District:"
+msgstr ""
+
+msgctxt "imag_fi_new_geotag_type"
+msgid "Type"
+msgstr ""
+
+msgctxt "imag_fi_save_changes"
+msgid ""
+"Save changes?\n"
+"'Save' will overwrite original file, 'Save as' will save changes to a new file and 'Discard' will reject all changes."
+msgstr ""
+
+msgctxt "imag_fi_tags"
+msgid "Tags:"
+msgstr ""
+
+msgctxt "imag_ia_no_images"
+msgid "(no images)"
+msgstr ""
+
+msgctxt "imag_ib_file_metadata_read_only"
+msgid "File is read-only. Unable to edit metadata."
+msgstr ""
+
+msgctxt "imag_ib_file_metadata_unsupported_fileformat"
+msgid "File format does not support metadata editing"
+msgstr ""
+
+msgctxt "imag_ib_file_rename_readonly"
+msgid "File is read-only. Unable to rename."
+msgstr ""
+
+msgctxt "imag_ib_file_save_readonly"
+msgid "Selected location is read-only. Saving canceled."
+msgstr ""
+
+msgctxt "imag_ib_files_metadata_fail"
+msgid "Unable to update metadata for %s"
+msgstr ""
+
+msgctxt "imag_ib_files_metadata_fail_all"
+msgid "Unable to update metadata of selected files"
+msgstr ""
+
+msgctxt "imag_ib_files_metadata_fail_some"
+msgid "Unable to update metadata for %d/%d files"
+msgstr ""
+
+msgctxt "imag_ib_files_metadata_read_only"
+msgid "Files are read-only. Unable to edit metadata."
+msgstr ""
+
+msgctxt "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgid "Selected files either read-only or have file formats that do not support metadata editing"
+msgstr ""
+
+msgctxt "imag_ib_files_metadata_unsupported_fileformats"
+msgid "File formats of selected files do not support metadata editing"
+msgstr ""
+
+msgctxt "imag_ib_image_no_longer_available"
+msgid "Image is no longer available"
+msgstr ""
+
+msgctxt "imag_ib_invalid_value"
+msgid "Invalid value"
+msgstr ""
+
+msgctxt "imag_ib_loading"
+msgid "Loading image %d/%d"
+msgstr ""
+
+msgctxt "imag_ib_memory_full"
+msgid "Memory full. Operation canceled."
+msgstr ""
+
+msgctxt "imag_ib_no_details"
+msgid "No details available"
+msgstr ""
+
+msgctxt "imag_ib_no_images_available_anymore"
+msgid "Images are no longer available"
+msgstr ""
+
+msgctxt "imag_ib_no_images_selected"
+msgid "No images selected"
+msgstr ""
+
+msgctxt "imag_ib_not_available"
+msgid "Not available"
+msgstr ""
+
+msgctxt "imag_ib_not_enough_memory"
+msgid "Not enough memory to perform selected operation"
+msgstr ""
+
+msgctxt "imag_ib_not_enough_memory_for_image"
+msgid "Not enough memory to display image"
+msgstr ""
+
+msgctxt "imag_ib_operation_failed"
+msgid "Operation failed"
+msgstr ""
+
+msgctxt "imag_ib_resize_cancelled_size"
+msgid "Image width or height must be at least 1 pixel"
+msgstr ""
+
+msgctxt "imag_ib_save_failed"
+msgid "Saving failed"
+msgstr ""
+
+msgctxt "imag_ib_slideshow_ended"
+msgid "Slideshow ended"
+msgstr ""
+
+msgctxt "imag_ib_slideshow_started"
+msgid "Slideshow started"
+msgstr ""
+
+msgctxt "imag_ib_unable_to_delete"
+msgid "Unable to delete file"
+msgstr ""
+
+msgctxt "imag_ib_unable_to_delete_multiple_none"
+msgid "Unable to delete selected files"
+msgstr ""
+
+msgctxt "imag_ib_unable_to_delete_multiple_some"
+msgid "Unable to delete %d of selected files"
+msgstr ""
+
+msgctxt "imag_ib_unable_to_show_image"
+msgid "Unable to display image"
+msgstr ""
+
+msgctxt "imag_ib_zooming"
+msgid "Zooming"
+msgstr ""
+
+msgctxt "imag_me_date_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "imag_me_date_title"
+msgid "Filter by date"
+msgstr ""
+
+msgctxt "imag_me_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "imag_me_details"
+msgid "Details"
+msgstr ""
+
+msgctxt "imag_me_edit_image"
+msgid "Edit image"
+msgstr ""
+
+msgctxt "imag_me_filter_tags_favourite"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "imag_me_filter_tags_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "imag_me_filter_tags_title"
+msgid "Filter by tags"
+msgstr ""
+
+msgctxt "imag_me_folder_all_images"
+msgid "All images"
+msgstr ""
+
+msgctxt "imag_me_folder_camera"
+msgid "Camera default folder"
+msgstr ""
+
+msgctxt "imag_me_folder_title"
+msgid "Filter by folder"
+msgstr ""
+
+msgctxt "imag_me_mark_favourite"
+msgid "Mark as favorite"
+msgstr ""
+
+msgctxt "imag_me_multiple_delete"
+msgid "Delete images"
+msgstr ""
+
+msgctxt "imag_me_multiple_share"
+msgid "Share images"
+msgstr ""
+
+msgctxt "imag_me_multiple_tags"
+msgid "Edit images' tags"
+msgstr ""
+
+msgctxt "imag_me_rename"
+msgid "Rename"
+msgstr ""
+
+msgctxt "imag_me_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "imag_me_save_as"
+msgid "Save as"
+msgstr ""
+
+msgctxt "imag_me_set_as_avatar"
+msgid "Set as avatar"
+msgstr ""
+
+msgctxt "imag_me_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "imag_me_share"
+msgid "Share"
+msgstr ""
+
+msgctxt "imag_me_unmark_favourite"
+msgid "Unmark as favorite"
+msgstr ""
+
+msgctxt "imag_me_use_as_wallpaper"
+msgid "Set as background image"
+msgstr ""
+
+msgctxt "imag_nc_confirm_overwrite"
+msgid "Overwrite original file?"
+msgstr ""
+
+msgctxt "imag_nc_delete_multiple"
+msgid "Delete %d images?"
+msgstr ""
+
+msgctxt "imag_nc_delete_multiple_read_only"
+msgid "Delete %d images, including %d marked as read-only?"
+msgstr ""
+
+msgctxt "imag_nc_delete_single"
+msgid "Delete image '%s'?"
+msgstr ""
+
+msgctxt "imag_nc_delete_single_read_only"
+msgid ""
+"Delete read-only file?\n"
+"%s"
+msgstr ""
+
+msgctxt "imag_ni_memory_full"
+msgid "Memory full. Saving canceled."
+msgstr ""
+
+msgctxt "imag_ni_memory_read_only"
+msgid ""
+"Memory card is read-only.\n"
+"Change saving location."
+msgstr ""
+
+msgctxt "imag_ni_non_local_files"
+msgid "Unable to open non-local files"
+msgstr ""
+
+msgctxt "imag_ni_save_read_only_file"
+msgid "Original image file is read-only. Edited image must be saved as a new file."
+msgstr ""
+
+msgctxt "imag_ni_tags_read_only_files"
+msgid ""
+"Status of %d/%d files is read-only.\n"
+"Only able to update tags of the other files."
+msgstr ""
+
+msgctxt "imag_ni_tags_read_only_unsupported_fileformats"
+msgid ""
+"Some of the files selected are read-only or have file formats that do not support metadata editing.\n"
+"Only able to update tags of %d/%d files."
+msgstr ""
+
+msgctxt "imag_ni_tags_unsupported_fileformats"
+msgid ""
+"File format of %d/%d files does not support tags.\n"
+"Only able to update tags of the other files."
+msgstr ""
+
+msgctxt "imag_ni_unsupported_file"
+msgid ""
+"Unable to open.\n"
+"File format not supported."
+msgstr ""
+
+msgctxt "imag_ni_unsupported_save_format"
+msgid ""
+"Unable to save in original format.\n"
+"Alternative format required."
+msgstr ""
+
+msgctxt "imag_nw_saving"
+msgid "Saving image %s"
+msgstr ""
+
+msgctxt "imag_nw_saving_tags"
+msgid "Saving tags"
+msgstr ""
+
+msgctxt "imag_ti_crop_avatar"
+msgid "Crop avatar"
+msgstr ""
+
+msgctxt "imag_ti_dates"
+msgid "dates"
+msgstr ""
+
+msgctxt "imag_ti_details"
+msgid "Details"
+msgstr ""
+
+msgctxt "imag_ti_details_favourite"
+msgid "Favorite"
+msgstr ""
+
+msgctxt "imag_ti_edit_brightness_and_contrast"
+msgid "Adjust brightness and contrast"
+msgstr ""
+
+msgctxt "imag_ti_edit_crop"
+msgid "Crop image"
+msgstr ""
+
+msgctxt "imag_ti_edit_geotags"
+msgid "Edit geotags"
+msgstr ""
+
+msgctxt "imag_ti_edit_image"
+msgid "Edit image"
+msgstr ""
+
+msgctxt "imag_ti_edit_red_eye_removal"
+msgid "Remove red eyes by tapping them"
+msgstr ""
+
+msgctxt "imag_ti_edit_resize"
+msgid "Resize image"
+msgstr ""
+
+msgctxt "imag_ti_filter_date"
+msgid "Filter by date"
+msgstr ""
+
+msgctxt "imag_ti_filter_date_sub_custom_range"
+msgid "Give custom date range"
+msgstr ""
+
+msgctxt "imag_ti_filter_date_sub_one_day"
+msgid "Pick date"
+msgstr ""
+
+msgctxt "imag_ti_filter_folder"
+msgid "Filter by folder"
+msgstr ""
+
+msgctxt "imag_ti_filter_tags"
+msgid "Filter by tags"
+msgstr ""
+
+msgctxt "imag_ti_filter_tags_favourite_on"
+msgid "Filter by tags - Favorites"
+msgstr ""
+
+msgctxt "imag_ti_folder_all_images"
+msgid "All images"
+msgstr ""
+
+msgctxt "imag_ti_folder_camera"
+msgid "Camera default folder"
+msgstr ""
+
+msgctxt "imag_ti_grid_multiselection"
+msgid "Select images"
+msgstr ""
+
+msgctxt "imag_ti_new_geotag"
+msgid "New geotag"
+msgstr ""
+
+msgctxt "imag_ti_rename"
+msgid "Rename image"
+msgstr ""
+
+msgctxt "imag_ti_save_as"
+msgid "Save image as %s"
+msgstr ""
+
+msgctxt "imag_ti_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "imag_ti_settings_grouping"
+msgid "Group by month"
+msgstr ""
+
+msgctxt "imag_ti_settings_metadata"
+msgid "Display metadata indicators"
+msgstr ""
+
+msgctxt "imag_ti_settings_slideshow"
+msgid "Slideshow"
+msgstr ""
+
+msgctxt "imag_ti_settings_sorting"
+msgid "Sort"
+msgstr ""
+
+msgctxt "imag_ti_tags"
+msgid "tags"
+msgstr ""
+
+msgctxt "imag_ti_tags_edit"
+msgid "Edit tags"
+msgstr ""
+
+msgctxt "imag_ti_tags_edit_favourite"
+msgid "Edit tags - Favorite"
+msgstr ""
+
+msgctxt "imag_ti_tags_edit_multiple_favourite_all"
+msgid "Edit tags - Favorites"
+msgstr ""
+
+msgctxt "imag_ti_tags_edit_multiple_favourite_some"
+msgid "Edit tags - Favorites*"
+msgstr ""
+
+msgctxt "imag_ti_tags_new"
+msgid "New tag"
+msgstr ""

@@ -1,0 +1,790 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: modest-nokiamessaging-plugin 20090818210000\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.08.18 21:00-0400\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "nm_account_authentication"
+msgid "Authentication"
+msgstr ""
+
+msgctxt "nm_account_existing"
+msgid "Existing account"
+msgstr ""
+
+msgctxt "nm_account_existing_intro"
+msgid "Nokia Messaging account to forward e-mail to this device already exists."
+msgstr ""
+
+msgctxt "nm_account_existing_no_info"
+msgid "You can check for new messages manually"
+msgstr ""
+
+msgctxt "nm_account_existing_rb_no"
+msgid "Create separate mailbox"
+msgstr ""
+
+msgctxt "nm_account_existing_rb_yes"
+msgid "Add this address to account"
+msgstr ""
+
+msgctxt "nm_account_setup_complete"
+msgid ""
+"Account setup is complete.\n"
+"\n"
+"Tap 'Finish' to save. You can edit these settings via 'Edit Accounts' in the menu."
+msgstr ""
+
+msgctxt "nm_account_setup_completing_email_setup"
+msgid "Completing e-mail setup"
+msgstr ""
+
+msgctxt "nm_account_setup_contacting_email_server"
+msgid "Contacting e-mail server"
+msgstr ""
+
+msgctxt "nm_account_setup_email_adv_details"
+msgid "Advanced settings"
+msgstr ""
+
+msgctxt "nm_account_setup_email_delivery"
+msgid "E-mail delivery"
+msgstr ""
+
+msgctxt "nm_account_setup_email_details"
+msgid "E-mail details"
+msgstr ""
+
+msgctxt "nm_account_setup_getting_email_settings"
+msgid "Acquiring e-mail settings"
+msgstr ""
+
+msgctxt "nm_account_setup_retrieving_terms_conditions"
+msgid "Retrieving Terms of Service"
+msgstr ""
+
+msgctxt "nm_account_setup_terms_conditions"
+msgid "Terms of Service"
+msgstr ""
+
+msgctxt "nm_account_setup_validating"
+msgid "Validating"
+msgstr ""
+
+msgctxt "nm_authentication_failed"
+msgid "Incorrect user name or password. Please check credentials and try again."
+msgstr ""
+
+msgctxt "nm_authentication_subscriptionexpired"
+msgid "Your subscription has expired. Contact Nokia Care or your Internet service provider."
+msgstr ""
+
+msgctxt "nm_authentication_trialexpired"
+msgid "Your trial has expired. Contact Nokia Care or your Internet service provider."
+msgstr ""
+
+msgctxt "nm_bd_dialog_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "nm_bd_dialog_ok"
+msgid "Continue"
+msgstr ""
+
+msgctxt "nm_bd_mailboxes"
+msgid "Mailboxes"
+msgstr ""
+
+msgctxt "nm_bd_reset"
+msgid "Reset account"
+msgstr ""
+
+msgctxt "nm_bd_service_info"
+msgid "Service info"
+msgstr ""
+
+msgctxt "nm_bd_synchronization"
+msgid "Synchronization"
+msgstr ""
+
+msgctxt "nm_cancel_not_allowed"
+msgid "Operation in progress. Please wait."
+msgstr ""
+
+msgctxt "nm_ckdg_ib_maximum_characters_reached"
+msgid "Maximum number of characters reached"
+msgstr ""
+
+msgctxt "nm_error_title"
+msgid "Error"
+msgstr ""
+
+msgctxt "nm_fi_day_friday"
+msgid "Friday"
+msgstr ""
+
+msgctxt "nm_fi_day_monday"
+msgid "Monday"
+msgstr ""
+
+msgctxt "nm_fi_day_saturday"
+msgid "Saturday"
+msgstr ""
+
+msgctxt "nm_fi_day_sunday"
+msgid "Sunday"
+msgstr ""
+
+msgctxt "nm_fi_day_thursday"
+msgid "Thursday"
+msgstr ""
+
+msgctxt "nm_fi_day_tuesday"
+msgid "Tuesday"
+msgstr ""
+
+msgctxt "nm_fi_day_wednesday"
+msgid "Wednesday"
+msgstr ""
+
+msgctxt "nm_fi_emailsetup_servername"
+msgid "Server name"
+msgstr ""
+
+msgctxt "nm_fi_end_time"
+msgid "End time"
+msgstr ""
+
+msgctxt "nm_fi_options_access_point"
+msgid "Access point"
+msgstr ""
+
+msgctxt "nm_fi_options_addnewmailbox"
+msgid "Add new mailbox"
+msgstr ""
+
+msgctxt "nm_fi_options_days"
+msgid "Days"
+msgstr ""
+
+msgctxt "nm_fi_options_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "nm_fi_options_drafts"
+msgid "Sync drafts"
+msgstr ""
+
+msgctxt "nm_fi_options_edit"
+msgid "Edit"
+msgstr ""
+
+msgctxt "nm_fi_options_email_download_size"
+msgid "Download size"
+msgstr ""
+
+msgctxt "nm_fi_options_email_download_size_full_message"
+msgid "Full message"
+msgstr ""
+
+msgctxt "nm_fi_options_email_download_size_headers_only"
+msgid "Headers only"
+msgstr ""
+
+msgctxt "nm_fi_options_email_download_size_headers_plus"
+msgid "Partial message"
+msgstr ""
+
+msgctxt "nm_fi_options_email_remove_older_than"
+msgid "Remove items older than"
+msgstr ""
+
+msgctxt "nm_fi_options_hours"
+msgid "Hours"
+msgstr ""
+
+msgctxt "nm_fi_options_inbox"
+msgid "Sync inbox"
+msgstr ""
+
+msgctxt "nm_fi_options_password"
+msgid "Password"
+msgstr ""
+
+msgctxt "nm_fi_options_password_required"
+msgid "Password required to change name"
+msgstr ""
+
+msgctxt "nm_fi_options_reset_data"
+msgid "Reset data"
+msgstr ""
+
+msgctxt "nm_fi_options_sent_items"
+msgid "Sync sent items"
+msgstr ""
+
+msgctxt "nm_fi_options_server_name"
+msgid "Server name"
+msgstr ""
+
+msgctxt "nm_fi_options_signature"
+msgid "Signature"
+msgstr ""
+
+msgctxt "nm_fi_options_start"
+msgid "Start"
+msgstr ""
+
+msgctxt "nm_fi_options_sync_days"
+msgid "Nokia Messaging: Sync days"
+msgstr ""
+
+msgctxt "nm_fi_options_sync_interval"
+msgid "Send and receive"
+msgstr ""
+
+msgctxt "nm_fi_options_sync_power"
+msgid "Disable sync when"
+msgstr ""
+
+msgctxt "nm_fi_options_sync_while_roaming"
+msgid "Sync while roaming"
+msgstr ""
+
+msgctxt "nm_fi_options_use_secure_login_incoming"
+msgid "Use secure login for incoming server"
+msgstr ""
+
+msgctxt "nm_fi_options_use_secure_login_outgoing"
+msgid "Use secure login for outgoing server"
+msgstr ""
+
+msgctxt "nm_fi_options_user_name"
+msgid "User name"
+msgstr ""
+
+msgctxt "nm_fi_start_time"
+msgid "Start time"
+msgstr ""
+
+msgctxt "nm_fi_sync_days_all"
+msgid "Every day"
+msgstr ""
+
+msgctxt "nm_fi_sync_days_custom"
+msgid "Customized"
+msgstr ""
+
+msgctxt "nm_fi_sync_days_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "nm_fi_sync_days_weekdays"
+msgid "Weekdays"
+msgstr ""
+
+msgctxt "nm_fi_sync_days_weekends"
+msgid "Weekends"
+msgstr ""
+
+msgctxt "nm_fi_sync_drafts"
+msgid "Sync drafts"
+msgstr ""
+
+msgctxt "nm_fi_sync_inbox"
+msgid "Sync inbox"
+msgstr ""
+
+msgctxt "nm_fi_sync_read_server_enabled"
+msgid "Mark messages as read on server"
+msgstr ""
+
+msgctxt "nm_fi_sync_sent_items"
+msgid "Sync sent items"
+msgstr ""
+
+msgctxt "nm_ib_advsetup_settings_saved"
+msgid "Settings saved"
+msgstr ""
+
+msgctxt "nm_ib_daemon_not_connected"
+msgid "Nokia messaging daemon unavailable"
+msgstr ""
+
+msgctxt "nm_imum_nc_wizard_confirm_lose_changes"
+msgid ""
+"All changes made to the settings will be lost.\n"
+"Continue anyway?"
+msgstr ""
+
+msgctxt "nm_initializing_synchronization"
+msgid "Initializing synchronization"
+msgstr ""
+
+msgctxt "nm_invalid_server_settings"
+msgid "Unable to contact the email provider. Please check your settings."
+msgstr ""
+
+msgctxt "nm_mail_de_intro_bundle"
+msgid "Accept the Terms of Service to activate your Nokia Messaging account and get your e-mail delivered automatically."
+msgstr ""
+
+msgctxt "nm_mail_de_intro_default"
+msgid "Nokia Messaging is a subscription service that automatically forwards your e-mail to your inbox. You can sign up now for no extra fee."
+msgstr ""
+
+msgctxt "nm_mail_de_intro_isp"
+msgid "Nokia Messaging is a subscription service that works with your e-mail service provider and automatically forwards your e-mail to your inbox. You can sign up now for no extra fee."
+msgstr ""
+
+msgctxt "nm_mail_de_no"
+msgid "No thanks"
+msgstr ""
+
+msgctxt "nm_mail_de_password"
+msgid "Password"
+msgstr ""
+
+msgctxt "nm_mail_de_tos_link"
+msgid "By tapping 'Next', I accept all [Terms of Service] for this trial."
+msgstr ""
+
+msgctxt "nm_mail_de_tos_link_bundle"
+msgid "By tapping 'Next', I accept all [Nokia Messaging Terms of Service]."
+msgstr ""
+
+msgctxt "nm_mail_de_tos_link_manual_text"
+msgid "You can check for new messages manually."
+msgstr ""
+
+msgctxt "nm_mail_de_yes"
+msgid "Yes! I'd like to sign up."
+msgstr ""
+
+msgctxt "nm_mail_de_yes_bundle"
+msgid "Activate my account"
+msgstr ""
+
+msgctxt "nm_mail_fi_email_address"
+msgid "E-mail address"
+msgstr ""
+
+msgctxt "nm_mail_fi_incoming_port"
+msgid "Incoming port"
+msgstr ""
+
+msgctxt "nm_mail_fi_incoming_server"
+msgid "Incoming server"
+msgstr ""
+
+msgctxt "nm_mail_fi_mailbox_name"
+msgid "Mailbox name"
+msgstr ""
+
+msgctxt "nm_mail_fi_my_name"
+msgid "My name"
+msgstr ""
+
+msgctxt "nm_mail_fi_outgoing_port"
+msgid "Outgoing port"
+msgstr ""
+
+msgctxt "nm_mail_fi_outgoing_server"
+msgid "Outgoing server"
+msgstr ""
+
+msgctxt "nm_mail_fi_password"
+msgid "Password"
+msgstr ""
+
+msgctxt "nm_mail_fi_password_prompt"
+msgid "The password entered is incorrect. Enter correct password to complete Nokia Messaging account setup."
+msgstr ""
+
+msgctxt "nm_mail_fi_user_name"
+msgid "User name"
+msgstr ""
+
+msgctxt "nm_mail_fi_username"
+msgid "User name"
+msgstr ""
+
+msgctxt "nm_mail_fi_username_hint"
+msgid "Required by some ISPs"
+msgstr ""
+
+msgctxt "nm_mail_fi_username_password_prompt"
+msgid "E-mail address already associated with a Nokia Messaging account. Enter Nokia Messaging account credentials to complete e-mail setup."
+msgstr ""
+
+msgctxt "nm_mail_ib_setting_failed"
+msgid "Unable to save settings"
+msgstr ""
+
+msgctxt "nm_mail_type"
+msgid "E-mail type"
+msgstr ""
+
+msgctxt "nm_mail_type_imap"
+msgid "IMAP"
+msgstr ""
+
+msgctxt "nm_mail_type_pop"
+msgid "POP"
+msgstr ""
+
+msgctxt "nm_me_folder_drafts"
+msgid "Drafts"
+msgstr ""
+
+msgctxt "nm_me_folder_inbox"
+msgid "Inbox"
+msgstr ""
+
+msgctxt "nm_me_folder_sent"
+msgid "Sent items"
+msgstr ""
+
+msgctxt "nm_me_inbox_options"
+msgid "Settings"
+msgstr ""
+
+msgctxt "nm_me_inbox_options_global"
+msgid "<Native protocol>"
+msgstr ""
+
+msgctxt "nm_me_inbox_options_nes"
+msgid "Nokia Messaging"
+msgstr ""
+
+msgctxt "nm_nms_cannot_download_attachment"
+msgid "Attachment too large to download"
+msgstr ""
+
+msgctxt "nm_nms_downloading_attachment"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "nm_nms_password_prompt"
+msgid "Enter Nokia Messaging password. This is the password for the first e-mail address set up for Nokia Messaging."
+msgstr ""
+
+msgctxt "nm_ods_email_intro"
+msgid "Your mail address along with other technical information such as device ID will be sent to Nokia. Nokia will not process or store any personal identifiable information after the activation without your consent."
+msgstr ""
+
+msgctxt "nm_ods_error_account_locked"
+msgid "Account blocked following excessive failed logins. Contact Nokia Care or your Internet service provider."
+msgstr ""
+
+msgctxt "nm_ods_error_cant_setup"
+msgid "Problem setting up mailbox. Please check settings and try again later."
+msgstr ""
+
+msgctxt "nm_ods_error_generic"
+msgid "Problem setting up mailbox. Please check settings and try again later. (%04x)"
+msgstr ""
+
+msgctxt "nm_ods_error_restart"
+msgid "Setup will restart (%04lX)"
+msgstr ""
+
+msgctxt "nm_ods_phone_number"
+msgid "Phone number"
+msgstr ""
+
+msgctxt "nm_ods_phone_number_required"
+msgid "Enter your phone number to authenticate e-mail setup"
+msgstr ""
+
+msgctxt "nm_ods_setup_failed_emailid_exists_else_where"
+msgid "E-mail address already registered with another Nokia Messaging account"
+msgstr ""
+
+msgctxt "nm_ods_setup_failed_notenabled"
+msgid "Your account is not enabled. Contact Nokia Care or your Internet service provider."
+msgstr ""
+
+msgctxt "nm_ods_unable_to_connect"
+msgid "Setup wizard unable to connect to e-mail server with the information provided."
+msgstr ""
+
+msgctxt "nm_reset_account"
+msgid "Reset"
+msgstr ""
+
+msgctxt "nm_set_up_mail_at_later_time"
+msgid "Set up later"
+msgstr ""
+
+msgctxt "nm_set_up_mailbox_anyway"
+msgid "Set up mailbox anyway"
+msgstr ""
+
+msgctxt "nm_set_up_mailbox_anyway_help_text"
+msgid "Connection may be possible after checking password or adjusting other settings."
+msgstr ""
+
+msgctxt "nm_sync_hours_customize"
+msgid "Customize"
+msgstr ""
+
+msgctxt "nm_sync_hours_on_all_day"
+msgid "All day long"
+msgstr ""
+
+msgctxt "nm_synchronizing"
+msgid "Synchronizing"
+msgstr ""
+
+msgctxt "nm_ti_intellisync_settings"
+msgid "Settings for Nokia Messaging"
+msgstr ""
+
+msgctxt "nm_ti_intellisync_settings_mailboxes"
+msgid "Nokia Messaging: Mailboxes"
+msgstr ""
+
+msgctxt "nm_ti_intellisync_settings_synchronization"
+msgid "Nokia Messaging: Synchronization"
+msgstr ""
+
+msgctxt "nm_ti_mailbox_settings"
+msgid "Mailbox settings"
+msgstr ""
+
+msgctxt "nm_ti_options_mailbox_account"
+msgid "Account"
+msgstr ""
+
+msgctxt "nm_ti_options_mailbox_user_info"
+msgid "User info"
+msgstr ""
+
+msgctxt "nm_ti_options_mailboxes"
+msgid "Mailboxes"
+msgstr ""
+
+msgctxt "nm_ti_options_native_protocol"
+msgid "Settings for <Native protocol>"
+msgstr ""
+
+msgctxt "nm_ti_options_nokia_email"
+msgid "Settings for Nokia Messaging"
+msgstr ""
+
+msgctxt "nm_ti_options_service_info"
+msgid "Service info"
+msgstr ""
+
+msgctxt "nm_ti_options_serviceinfo"
+msgid "Service info"
+msgstr ""
+
+msgctxt "nm_ti_options_what_to_sync"
+msgid "What to sync"
+msgstr ""
+
+msgctxt "nm_ti_options_when_to_sync"
+msgid "When to sync"
+msgstr ""
+
+msgctxt "nm_try_different_email_address"
+msgid "Try a different e-mail address"
+msgstr ""
+
+msgctxt "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgid "Unable to set up this mailbox with the information provided"
+msgstr ""
+
+msgctxt "nm_use_secure_login"
+msgid "Use secure login"
+msgstr ""
+
+msgctxt "nm_va_delete_message_service"
+msgid "Delete Nokia Messaging service and all associated mailboxes?"
+msgstr ""
+
+msgctxt "nm_va_delete_multimail_mailbox"
+msgid ""
+"Remove from device?\n"
+"'%s'"
+msgstr ""
+
+msgctxt "nm_va_delete_nokia_messaging"
+msgid "Remove Nokia Messaging service and all associated mailboxes from device?"
+msgstr ""
+
+msgctxt "nm_va_deleting_multimail_mailbox"
+msgid ""
+"Deleting mailbox\n"
+"'%s'"
+msgstr ""
+
+msgctxt "nm_va_intellisync"
+msgid "Nokia Messaging"
+msgstr ""
+
+msgctxt "nm_va_multimail_mailbox_added_message"
+msgid "New mailbox will be available after next sync with mail server"
+msgstr ""
+
+msgctxt "nm_va_multimail_mailbox_delete_failed"
+msgid "Mailbox deletion failed"
+msgstr ""
+
+msgctxt "nm_va_multimail_mailbox_password_change_failed"
+msgid "Name change failed. Please check password and try again."
+msgstr ""
+
+msgctxt "nm_va_multimail_mailbox_removed_message"
+msgid "The selected mailbox will be removed after the next sync with the mail server."
+msgstr ""
+
+msgctxt "nm_va_options_access_point_default"
+msgid "Default"
+msgstr ""
+
+msgctxt "nm_va_options_older_than_1_month"
+msgid "1 month"
+msgstr ""
+
+msgctxt "nm_va_options_older_than_1_week"
+msgid "1 week"
+msgstr ""
+
+msgctxt "nm_va_options_older_than_2_weeks"
+msgid "2 weeks"
+msgstr ""
+
+msgctxt "nm_va_options_older_than_3_days"
+msgid "3 days"
+msgstr ""
+
+msgctxt "nm_va_options_older_than_5_days"
+msgid "5 days"
+msgstr ""
+
+msgctxt "nm_va_options_server_name"
+msgid "Server name"
+msgstr ""
+
+msgctxt "nm_va_options_service_info"
+msgid "Nokia Messaging: Service info"
+msgstr ""
+
+msgctxt "nm_va_options_signature"
+msgid "Signature"
+msgstr ""
+
+msgctxt "nm_va_options_signature_default_text"
+msgid "Sent from my mobile computer using Nokia Messaging"
+msgstr ""
+
+msgctxt "nm_va_options_signature_for_mailbox_name"
+msgid "Signature for %s"
+msgstr ""
+
+msgctxt "nm_va_options_sync_hours_all_day"
+msgid "All day long"
+msgstr ""
+
+msgctxt "nm_va_options_sync_hours_custom_time"
+msgid "Nokia Messaging: Sync hours"
+msgstr ""
+
+msgctxt "nm_va_options_sync_hours_customize"
+msgid "Customize"
+msgstr ""
+
+msgctxt "nm_va_options_sync_interval_12_hours"
+msgid "Every 12 hours"
+msgstr ""
+
+msgctxt "nm_va_options_sync_interval_1_day"
+msgid "Every 24 hours"
+msgstr ""
+
+msgctxt "nm_va_options_sync_interval_1_hour"
+msgid "Every hour"
+msgstr ""
+
+msgctxt "nm_va_options_sync_interval_4_hours"
+msgid "Every 4 hours"
+msgstr ""
+
+msgctxt "nm_va_options_sync_interval_half_hour"
+msgid "Every 30 minutes"
+msgstr ""
+
+msgctxt "nm_va_options_sync_interval_push"
+msgid "As soon as possible"
+msgstr ""
+
+msgctxt "nm_va_options_sync_interval_qtr_hour"
+msgid "Every 15 minutes"
+msgstr ""
+
+msgctxt "nm_va_options_sync_power_20"
+msgid "Battery at 20%"
+msgstr ""
+
+msgctxt "nm_va_options_sync_power_5"
+msgid "Battery at 5%"
+msgstr ""
+
+msgctxt "nm_va_options_sync_power_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "nm_va_options_sync_power_server"
+msgid "Server value"
+msgstr ""
+
+msgctxt "nm_va_options_sync_power_server_battery_level"
+msgid "Battery at %ld%%"
+msgstr ""
+
+msgctxt "nm_va_options_use_signature"
+msgid "Use signature"
+msgstr ""
+
+msgctxt "nm_va_options_user_name"
+msgid "User name"
+msgstr ""
+
+msgctxt "nm_va_reset_data"
+msgid "Replacing data on device with data from server may take several minutes. Continue?"
+msgstr ""
+
+msgctxt "nm_va_saving_multimail_mailbox_settings"
+msgid "Verifying changed settings"
+msgstr ""
+
+msgctxt "nm_wdgt_bd_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "nm_wdgt_bd_done"
+msgid "Done"
+msgstr ""
+
+msgctxt "nm_wdgt_bd_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "nm_wdgt_rb_no"
+msgid "No"
+msgstr ""
+
+msgctxt "nm_wdgt_rb_yes"
+msgid "Yes"
+msgstr ""

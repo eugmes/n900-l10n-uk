@@ -1,0 +1,699 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: calendar 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "cal_ap_name"
+msgid "Calendar"
+msgstr "Календар"
+
+msgctxt "cal_ap_name_short"
+msgid "Calendar"
+msgstr "Календар"
+
+msgctxt "cal_bd_edit_calendars"
+msgid "Edit calendars"
+msgstr "Редагувати календарі"
+
+msgctxt "cal_bd_export"
+msgid "Export"
+msgstr "Експортувати"
+
+msgctxt "cal_bd_jump"
+msgid "Jump"
+msgstr "Перейти"
+
+msgctxt "cal_bd_monthview_week"
+msgid "w%s"
+msgstr ""
+
+msgctxt "cal_bd_new_calendar"
+msgid "New"
+msgstr ""
+
+msgctxt "cal_bd_new_event"
+msgid "New event"
+msgstr ""
+
+msgctxt "cal_bd_new_note"
+msgid "New note"
+msgstr ""
+
+msgctxt "cal_bd_new_task"
+msgid "New task"
+msgstr ""
+
+msgctxt "cal_bd_transfer"
+msgid "Transfer"
+msgstr ""
+
+msgctxt "cal_fi_alarm"
+msgid "Alarm"
+msgstr ""
+
+msgctxt "cal_fi_alarm_tone"
+msgid "Alarm tone"
+msgstr ""
+
+msgctxt "cal_fi_allday_event|cal_fi_allday_events"
+msgid "%d all-day event"
+msgid_plural "%d all-day events"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "cal_fi_calendar"
+msgid "Calendar"
+msgstr "Календар"
+
+msgctxt "cal_fi_color"
+msgid "Color"
+msgstr "Колір"
+
+msgctxt "cal_fi_date"
+msgid "Date"
+msgstr "Дата"
+
+msgctxt "cal_fi_done"
+msgid "Done"
+msgstr ""
+
+msgctxt "cal_fi_enddate"
+msgid "To"
+msgstr ""
+
+msgctxt "cal_fi_enddate2"
+msgid "to"
+msgstr ""
+
+msgctxt "cal_fi_hide_done_tasks"
+msgid "Hide done tasks"
+msgstr ""
+
+msgctxt "cal_fi_location"
+msgid "Where"
+msgstr ""
+
+msgctxt "cal_fi_no_events"
+msgid "No events or tasks"
+msgstr ""
+
+msgctxt "cal_fi_pcsuite"
+msgid "(used by PC Suite)"
+msgstr ""
+
+msgctxt "cal_fi_remove_items"
+msgid "Delete items"
+msgstr ""
+
+msgctxt "cal_fi_repeat"
+msgid "Repeat"
+msgstr ""
+
+msgctxt "cal_fi_repeat_complex"
+msgid "(Complex repeat. Unable to edit.)"
+msgstr ""
+
+msgctxt "cal_fi_repeat_until"
+msgid "Until"
+msgstr ""
+
+msgctxt "cal_fi_set_alarm_tone1"
+msgid "Chime"
+msgstr ""
+
+msgctxt "cal_fi_startdate"
+msgid "From"
+msgstr ""
+
+msgctxt "cal_fi_tasks_undone_plural|cal_fi_tasks_undone"
+msgid "%d task undone"
+msgid_plural "%d tasks undone"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "cal_fi_visible"
+msgid "Visible"
+msgstr ""
+
+msgctxt "cal_fi_week_start_day"
+msgid "First day of week"
+msgstr ""
+
+msgctxt "cal_fi_wizard_placeholder_title"
+msgid "Title"
+msgstr ""
+
+msgctxt "cal_fi_wizard_type_local"
+msgid "Local calendar"
+msgstr ""
+
+msgctxt "cal_fi_wizard_type_smart"
+msgid "Birthdays smart calendar"
+msgstr ""
+
+msgctxt "cal_ia_wizard_complete"
+msgid "Tap 'Finish' to save or discard settings by tapping outside of the wizard. You can later change your settings via 'Settings' in the menu."
+msgstr ""
+
+msgctxt "cal_ia_wizard_intro"
+msgid ""
+"Calendar wizard allows you to create new calendars.\n"
+"\n"
+"Tap 'Next' to continue."
+msgstr ""
+
+msgctxt "cal_ia_wizard_setup_complete"
+msgid "Calendar wizard complete."
+msgstr ""
+
+msgctxt "cal_ia_wizard_typetext"
+msgid "Choose calendar type"
+msgstr ""
+
+msgctxt "cal_ib_add_title"
+msgid "Add title"
+msgstr ""
+
+msgctxt "cal_ib_alarm_early"
+msgid "Alarm time unable to be in past"
+msgstr ""
+
+msgctxt "cal_ib_calendar_added_web"
+msgid "Calendar subscription %s added"
+msgstr ""
+
+msgctxt "cal_ib_calendar_saved"
+msgid "Calendar %s saved"
+msgstr ""
+
+msgctxt "cal_ib_date_earlier"
+msgid "Event end date must be later than start date"
+msgstr ""
+
+msgctxt "cal_ib_date_earlier_until"
+msgid "Last repeat date must be later than event start date"
+msgstr ""
+
+msgctxt "cal_ib_import_duplicate"
+msgid "Item already in calendar"
+msgstr ""
+
+msgctxt "cal_ib_import_duplicates"
+msgid "Some items already in calendar"
+msgstr ""
+
+msgctxt "cal_ib_last_event"
+msgid "No more events"
+msgstr ""
+
+msgctxt "cal_ib_setting_failed"
+msgid "Unable to save settings"
+msgstr ""
+
+msgctxt "cal_ib_time_earlier"
+msgid "Event end time must be later than start time"
+msgstr ""
+
+msgctxt "cal_ib_title_exists"
+msgid "Calendar with same title already exists"
+msgstr ""
+
+msgctxt "cal_ib_unix"
+msgid "Date limit exceeded"
+msgstr ""
+
+msgctxt "cal_ib_visible"
+msgid "At least one calendar must be visible"
+msgstr ""
+
+msgctxt "cal_me_agenda_home_applet"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "cal_me_go_to_notes"
+msgid "Go to notes"
+msgstr ""
+
+msgctxt "cal_me_go_to_tasks"
+msgid "Go to tasks"
+msgstr ""
+
+msgctxt "cal_me_jump_to_today"
+msgid "Jump to today"
+msgstr ""
+
+msgctxt "cal_me_new_event"
+msgid "New event"
+msgstr ""
+
+msgctxt "cal_me_next_day"
+msgid "Next day"
+msgstr ""
+
+msgctxt "cal_me_next_event"
+msgid "Next event"
+msgstr ""
+
+msgctxt "cal_me_next_month"
+msgid "Next month"
+msgstr ""
+
+msgctxt "cal_me_next_week"
+msgid "Next week"
+msgstr ""
+
+msgctxt "cal_me_previous_day"
+msgid "Previous day"
+msgstr ""
+
+msgctxt "cal_me_previous_event"
+msgid "Previous event"
+msgstr ""
+
+msgctxt "cal_me_previous_month"
+msgid "Previous month"
+msgstr ""
+
+msgctxt "cal_me_previous_week"
+msgid "Previous week"
+msgstr ""
+
+msgctxt "cal_me_toggle_agenda"
+msgid "Agenda"
+msgstr ""
+
+msgctxt "cal_me_toggle_month"
+msgid "Month"
+msgstr ""
+
+msgctxt "cal_me_toggle_week"
+msgid "Week"
+msgstr ""
+
+msgctxt "cal_more_events"
+msgid "More"
+msgstr ""
+
+msgctxt "cal_nc_delete_event"
+msgid ""
+"Delete event?\n"
+"%s"
+msgstr ""
+
+msgctxt "cal_nc_delete_event_repeat"
+msgid ""
+"Delete event and all repetitions?\n"
+"'%s'"
+msgstr ""
+
+msgctxt "cal_nc_delete_note"
+msgid "Delete note?"
+msgstr ""
+
+msgctxt "cal_nc_delete_task"
+msgid ""
+"Delete task?\n"
+"%s"
+msgstr ""
+
+msgctxt "cal_nc_edit_complex_last"
+msgid ""
+"You are editing event\n"
+"%s\n"
+"that is unable to be fully edited. New repeat rule must be set first. Any exception rules will be lost.\n"
+"Continue?"
+msgstr ""
+
+msgctxt "cal_nc_edit_complex_recurrence"
+msgid ""
+"You are changing a repeat rule for event\n"
+"%s\n"
+"that is unable to be fully edited. Any exception rules will be lost. Continue?"
+msgstr ""
+
+msgctxt "cal_nc_permanent_delete"
+msgid "'%s' calendar can not be deleted. Delete all calendar content instead?"
+msgstr ""
+
+msgctxt "cal_nc_permanent_sync_delete"
+msgid ""
+"Data might also be deleted from other devices.\n"
+"\n"
+"'%s' calendar can not be deleted. Delete all calendar content instead?"
+msgstr ""
+
+msgctxt "cal_nc_remove_calendar"
+msgid ""
+"Delete this calendar and its events, tasks and notes?\n"
+"'%s'"
+msgstr ""
+
+msgctxt "cal_nc_smart_delete"
+msgid "Delete smart calendar? No original data will be deleted."
+msgstr ""
+
+msgctxt "cal_nc_synced_delete"
+msgid "Calendar ‘%s’ is synchronized. Delete anyway?"
+msgstr ""
+
+msgctxt "cal_ni_export_nospace"
+msgid "Not enough space to export"
+msgstr ""
+
+msgctxt "cal_ni_ical_invalid"
+msgid "Invalid calendar file"
+msgstr ""
+
+msgctxt "cal_ni_internal_error"
+msgid "Error occurred"
+msgstr ""
+
+msgctxt "cal_ni_web_invalid"
+msgid "Calendar unable to open this address"
+msgstr ""
+
+msgctxt "cal_task_summary"
+msgid "%d tasks"
+msgstr ""
+
+msgctxt "cal_ti_agenda"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "cal_ti_alarm_tone"
+msgid "Choose alarm tone"
+msgstr ""
+
+msgctxt "cal_ti_calendar_private"
+msgid "Private"
+msgstr ""
+
+msgctxt "cal_ti_context_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "cal_ti_context_edit"
+msgid "Edit"
+msgstr ""
+
+msgctxt "cal_ti_edit_calendar"
+msgid "Edit calendar"
+msgstr ""
+
+msgctxt "cal_ti_edit_calendars"
+msgid "Edit calendars"
+msgstr ""
+
+msgctxt "cal_ti_edit_event"
+msgid "Edit event"
+msgstr ""
+
+msgctxt "cal_ti_edit_note"
+msgid "Edit note"
+msgstr ""
+
+msgctxt "cal_ti_edit_task"
+msgid "Edit task"
+msgstr ""
+
+msgctxt "cal_ti_event"
+msgid "Event"
+msgstr ""
+
+msgctxt "cal_ti_import"
+msgid "Select calendar"
+msgstr ""
+
+msgctxt "cal_ti_import_info"
+msgid "Adding %s"
+msgstr ""
+
+msgctxt "cal_ti_invited_attendees"
+msgid "Invited attendees"
+msgstr ""
+
+msgctxt "cal_ti_jump_to"
+msgid "Jump to"
+msgstr ""
+
+msgctxt "cal_ti_no_notes"
+msgid "(no notes)"
+msgstr ""
+
+msgctxt "cal_ti_no_tasks"
+msgid "(no tasks)"
+msgstr ""
+
+msgctxt "cal_ti_notes"
+msgid "Notes"
+msgstr ""
+
+msgctxt "cal_ti_open_sound_clip"
+msgid "Add alarm tone"
+msgstr ""
+
+msgctxt "cal_ti_organiser"
+msgid "Organizer"
+msgstr ""
+
+msgctxt "cal_ti_remove_event"
+msgid "Delete event"
+msgstr ""
+
+msgctxt "cal_ti_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "cal_ti_smart_birthdays"
+msgid "Birthdays"
+msgstr ""
+
+msgctxt "cal_ti_tasks"
+msgid "Tasks"
+msgstr ""
+
+msgctxt "cal_ti_title"
+msgid "Title"
+msgstr ""
+
+msgctxt "cal_ti_weekview"
+msgid "Week %s (%s)"
+msgstr ""
+
+msgctxt "cal_ti_weekview_jump"
+msgid "Week %s"
+msgstr ""
+
+msgctxt "cal_ti_welcome"
+msgid "Calendar empty"
+msgstr ""
+
+msgctxt "cal_ti_welcome_info"
+msgid ""
+"Transfer data from old phone?\n"
+"\n"
+"This can be done later via Transfer & sync in Settings."
+msgstr ""
+
+msgctxt "cal_ti_wizard"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "cal_ti_wizard_complete"
+msgid "Complete"
+msgstr ""
+
+msgctxt "cal_ti_wizard_details"
+msgid "Details"
+msgstr ""
+
+msgctxt "cal_ti_wizard_type"
+msgid "Type"
+msgstr ""
+
+msgctxt "cal_va_0_min"
+msgid "0 minutes before"
+msgstr ""
+
+msgctxt "cal_va_15_min"
+msgid "15 minutes before"
+msgstr ""
+
+msgctxt "cal_va_1_hour"
+msgid "1 hour before"
+msgstr ""
+
+msgctxt "cal_va_30_min"
+msgid "30 minutes before"
+msgstr ""
+
+msgctxt "cal_va_3_hours"
+msgid "3 hours before"
+msgstr ""
+
+msgctxt "cal_va_5_min"
+msgid "5 minutes before"
+msgstr ""
+
+msgctxt "cal_va_allday"
+msgid ""
+"All\n"
+"day"
+msgstr ""
+
+msgctxt "cal_va_allday_home"
+msgid "Today"
+msgstr ""
+
+msgctxt "cal_va_allday_long"
+msgid "All day"
+msgstr ""
+
+msgctxt "cal_va_amount_event|cal_va_amount_events"
+msgid "%d event"
+msgid_plural "%d events"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "cal_va_amount_note|cal_va_amount_notes"
+msgid "%d note"
+msgid_plural "%d notes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "cal_va_amount_task|cal_va_amount_tasks"
+msgid "%d task"
+msgid_plural "%d tasks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "cal_va_and"
+msgid "and"
+msgstr ""
+
+msgctxt "cal_va_calendar"
+msgid "Use '%s'"
+msgstr ""
+
+msgctxt "cal_va_calendar_visible|cal_va_calendars"
+msgid "%d visible"
+msgid_plural "%d visible"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "cal_va_count_event|cal_va_count_events"
+msgid "%d event"
+msgid_plural "%d events"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "cal_va_day_before"
+msgid "Day before"
+msgstr ""
+
+msgctxt "cal_va_every_day"
+msgid "Every day"
+msgstr ""
+
+msgctxt "cal_va_every_month"
+msgid "Every month"
+msgstr ""
+
+msgctxt "cal_va_every_week"
+msgid "Every week"
+msgstr ""
+
+msgctxt "cal_va_every_workday"
+msgid "Every workday"
+msgstr ""
+
+msgctxt "cal_va_every_year"
+msgid "Every year"
+msgstr ""
+
+msgctxt "cal_va_local"
+msgid "Local"
+msgstr ""
+
+msgctxt "cal_va_monday"
+msgid "Monday"
+msgstr ""
+
+msgctxt "cal_va_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "cal_va_newcalendar"
+msgid "Create new calendar"
+msgstr ""
+
+msgctxt "cal_va_none"
+msgid "None"
+msgstr ""
+
+msgctxt "cal_va_note_saved"
+msgid "Last saved %s"
+msgstr ""
+
+msgctxt "cal_va_older_1_month"
+msgid "Older than 1 month"
+msgstr ""
+
+msgctxt "cal_va_older_1_week"
+msgid "Older than 1 week"
+msgstr ""
+
+msgctxt "cal_va_older_1_year"
+msgid "Older than 1 year"
+msgstr ""
+
+msgctxt "cal_va_older_2_weeks"
+msgid "Older than 2 weeks"
+msgstr ""
+
+msgctxt "cal_va_placeholder_description"
+msgid "Description"
+msgstr ""
+
+msgctxt "cal_va_placeholder_note"
+msgid "Note"
+msgstr "Нотаток"
+
+msgctxt "cal_va_placeholder_title"
+msgid "Title"
+msgstr ""
+
+msgctxt "cal_va_repeat_complex"
+msgid "(Complex repeat. Unable to edit.)"
+msgstr ""
+
+msgctxt "cal_va_select_object_no_sound_clips"
+msgid "(no files)"
+msgstr ""
+
+msgctxt "cal_va_smart"
+msgid "Smart"
+msgstr ""
+
+msgctxt "cal_va_sunday"
+msgid "Sunday"
+msgstr ""
+
+msgctxt "cal_va_synchronized"
+msgid "Synchronized"
+msgstr ""
+
+msgctxt "cal_va_today"
+msgid "%s (today)"
+msgstr ""

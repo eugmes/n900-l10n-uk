@@ -1,0 +1,57 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-fm-transmitter 20090323103922\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.23 10:39+0200\n"
+"PO-Revision-Date: 2009.03.23 10:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "fmtx_fi_fmtx_on_off"
+msgid "FM transmitter on"
+msgstr ""
+
+msgctxt "fmtx_fi_frequency"
+msgid "Frequency"
+msgstr ""
+
+msgctxt "fmtx_ib_general_error"
+msgid "Unable to use FM transmitter"
+msgstr ""
+
+msgctxt "fmtx_ni_cable_error"
+msgid ""
+"Unable to use FM transmitter while headset or TV out cable is connected.\n"
+"Unplug cable to continue using FM transmitter."
+msgstr ""
+
+msgctxt "fmtx_ni_disabled"
+msgid "FM transmitter disabled"
+msgstr ""
+
+msgctxt "fmtx_ni_usb_error"
+msgid ""
+"Unable to use FM transmitter while USB is connected.\n"
+"Unplug USB to continue using FM transmitter."
+msgstr ""
+
+msgctxt "fmtx_ti_fm_transmitter"
+msgid "FM transmitter"
+msgstr ""
+
+msgctxt "fmtx_ti_select_frequency"
+msgid "Select frequency"
+msgstr ""
+
+msgctxt "fmtx_va_frequency"
+msgid "%s MHz"
+msgstr ""
+
+msgctxt "fmxt_ap_fm_transmitter"
+msgid "FM transmitter"
+msgstr ""

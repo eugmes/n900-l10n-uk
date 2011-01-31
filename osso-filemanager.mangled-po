@@ -1,0 +1,329 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "docm_li_sort_date_newest"
+msgid "Date (most recent first)"
+msgstr ""
+
+msgctxt "docm_li_sort_date_oldest"
+msgid "Date (oldest first)"
+msgstr ""
+
+msgctxt "docm_li_sort_name_az"
+msgid "Name (A-Z)"
+msgstr ""
+
+msgctxt "docm_li_sort_name_za"
+msgid "Name (Z-A)"
+msgstr ""
+
+msgctxt "docm_li_sort_size_largest"
+msgid "Size (largest first)"
+msgstr ""
+
+msgctxt "docm_li_sort_size_smallest"
+msgid "Size (smallest first)"
+msgstr ""
+
+msgctxt "docm_nc_delete_file"
+msgid "Delete file?"
+msgstr ""
+
+msgctxt "docm_nc_delete_files"
+msgid "Delete selected files?"
+msgstr ""
+
+msgctxt "docm_nc_delete_folder"
+msgid "Delete folder and its contents?"
+msgstr ""
+
+msgctxt "docm_nc_delete_folder_and_file"
+msgid "Delete selected folder and file?"
+msgstr ""
+
+msgctxt "docm_nc_delete_folder_and_files"
+msgid "Delete selected folder and files?"
+msgstr ""
+
+msgctxt "docm_nc_delete_folders"
+msgid "Delete selected folders and their contents?"
+msgstr ""
+
+msgctxt "docm_nc_delete_folders_and_file"
+msgid "Delete selected folders and file?"
+msgstr ""
+
+msgctxt "docm_nc_delete_folders_and_files"
+msgid "Delete selected folders and files?"
+msgstr ""
+
+msgctxt "docm_nc_replace_folder"
+msgid "Replace existing folder of same name?"
+msgstr ""
+
+msgctxt "docm_nw_duplicating_file"
+msgid "Copying"
+msgstr ""
+
+msgctxt "hfil_ai_formatted_memory_card"
+msgid "Memory card"
+msgstr ""
+
+msgctxt "hfil_fi_folder_details_contents"
+msgid "Contents"
+msgstr ""
+
+msgctxt "hfil_fi_folder_details_date"
+msgid "Date"
+msgstr ""
+
+msgctxt "hfil_fi_folder_details_device"
+msgid "Storage"
+msgstr ""
+
+msgctxt "hfil_fi_folder_details_location"
+msgid "Location"
+msgstr ""
+
+msgctxt "hfil_fi_folder_details_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "hfil_fi_folder_details_size"
+msgid "Size"
+msgstr ""
+
+msgctxt "hfil_fi_folder_details_time"
+msgid "Time"
+msgstr ""
+
+msgctxt "hfil_ia_select_application_information"
+msgid ""
+"Select an application from the list to open file\n"
+"'%s'"
+msgstr ""
+
+msgctxt "hfil_me_copy"
+msgid "Copy"
+msgstr ""
+
+msgctxt "hfil_me_details"
+msgid "Details"
+msgstr ""
+
+msgctxt "hfil_me_format"
+msgid "Format"
+msgstr ""
+
+msgctxt "hfil_me_memory_usage"
+msgid "Memory usage"
+msgstr ""
+
+msgctxt "hfil_me_move"
+msgid "Move"
+msgstr ""
+
+msgctxt "hfil_me_new_folder"
+msgid "New folder"
+msgstr ""
+
+msgctxt "hfil_me_rename"
+msgid "Rename"
+msgstr ""
+
+msgctxt "hfil_me_sort"
+msgid "Sort"
+msgstr ""
+
+msgctxt "hfil_nc_format_mmc"
+msgid "Format memory card? All memory card data will be deleted during formatting."
+msgstr ""
+
+msgctxt "hfil_nw_preparing"
+msgid "Preparing"
+msgstr ""
+
+msgctxt "hfil_ti_copy_to"
+msgid "Copy to folder"
+msgstr ""
+
+msgctxt "hfil_ti_edit_copy_to"
+msgid "Choose items to copy"
+msgstr ""
+
+msgctxt "hfil_ti_edit_delete"
+msgid "Choose items to delete"
+msgstr ""
+
+msgctxt "hfil_ti_edit_move_to"
+msgid "Choose items to move"
+msgstr ""
+
+msgctxt "hfil_ti_edit_share"
+msgid "Choose items to share"
+msgstr ""
+
+msgctxt "hfil_ti_folder_details"
+msgid "Folder details"
+msgstr ""
+
+msgctxt "hfil_ti_select_application"
+msgid "Select application"
+msgstr ""
+
+msgctxt "hfil_va_folder_details_size_bytes%d"
+msgid "%d B"
+msgstr ""
+
+msgctxt "hfil_va_folder_details_size_kb%d"
+msgid "%d kB"
+msgstr ""
+
+msgctxt "sfil_ap_name"
+msgid "File manager"
+msgstr ""
+
+msgctxt "sfil_fi_folder_details_contents"
+msgid "%s, %s"
+msgstr ""
+
+msgctxt "sfil_fi_folder_details_contents_00"
+msgid "None"
+msgstr ""
+
+msgctxt "sfil_fi_folder_details_contents_file|sfil_fi_folder_details_contents_files"
+msgid "%d file"
+msgid_plural "%d files"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "sfil_fi_folder_details_contents_folder|sfil_fi_folder_details_contents_folders"
+msgid "%d folder"
+msgid_plural "%d folders"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "sfil_ib_cannot_duplicate_file"
+msgid "Unable to copy file"
+msgstr ""
+
+msgctxt "sfil_ib_cannot_duplicate_folder"
+msgid "Unable to copy folder"
+msgstr ""
+
+msgctxt "sfil_ib_card_name_in_use_for_file"
+msgid "Name already in use for item in root folder"
+msgstr ""
+
+msgctxt "sfil_ib_not_allowed"
+msgid "Not allowed"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_continue_read_only_folder"
+msgid ""
+"Unable to continue.\n"
+"Read-only folder %s"
+msgstr ""
+
+msgctxt "sfil_nc_delete_partially_read_only_items"
+msgid ""
+"Some items are read-only.\n"
+"Delete selected items?"
+msgstr ""
+
+msgctxt "sfil_ni_cannot_copy_some_items"
+msgid "Unable to copy some items"
+msgstr ""
+
+msgctxt "sfil_ni_cannot_delete_some_items"
+msgid "Unable to delete some items"
+msgstr ""
+
+msgctxt "sfil_ni_cannot_duplicate_file_not_found"
+msgid ""
+"Unable to copy.\n"
+"File not found."
+msgstr ""
+
+msgctxt "sfil_ni_cannot_duplicate_folder_not_found"
+msgid ""
+"Unable to copy.\n"
+"Folder not found."
+msgstr ""
+
+msgctxt "sfil_ni_cannot_move_file_not_found"
+msgid ""
+"Unable to move.\n"
+"File not found."
+msgstr ""
+
+msgctxt "sfil_ni_cannot_move_items_not_found"
+msgid ""
+"Unable to move.\n"
+"Items not found."
+msgstr ""
+
+msgctxt "sfil_ni_cannot_move_no_connection"
+msgid ""
+"Moving interrupted.\n"
+"Connection failed."
+msgstr ""
+
+msgctxt "sfil_ni_cannot_move_some_items"
+msgid "Unable to move some items"
+msgstr ""
+
+msgctxt "sfil_ni_cannot_open_no_resource"
+msgid ""
+"Unable to open.\n"
+"Not enough system resources."
+msgstr ""
+
+msgctxt "sfil_ni_cannot_rename_folder_not_found"
+msgid ""
+"Unable to rename.\n"
+"Folder not found."
+msgstr ""
+
+msgctxt "sfil_ni_mmc_format_mmc_in_use"
+msgid ""
+"Unable to format.\n"
+"Memory card in use."
+msgstr ""
+
+msgctxt "sfil_ni_mmc_rename_mmc_in_use"
+msgid ""
+"Unable to rename.\n"
+"Memory card in use."
+msgstr ""
+
+msgctxt "sfil_ni_selected_item_in_use"
+msgid "Selected item is in use"
+msgstr ""
+
+msgctxt "sfil_ni_selected_items_in_use"
+msgid "Selected items are in use"
+msgstr ""
+
+msgctxt "sfil_ni_some_selected_items_in_use"
+msgid "Some of the selected items are in use"
+msgstr ""
+
+msgctxt "sfil_ti_name"
+msgid "File manager"
+msgstr ""
+
+msgctxt "sfil_ti_rename_mmc"
+msgid "Rename memory card"
+msgstr ""

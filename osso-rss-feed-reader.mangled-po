@@ -1,0 +1,569 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "rss_ap_news_reader"
+msgid "RSS"
+msgstr ""
+
+msgctxt "rss_bd_browse"
+msgid "Browse"
+msgstr ""
+
+msgctxt "rss_bd_change_folder"
+msgid "Change folder"
+msgstr ""
+
+msgctxt "rss_bd_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "rss_bd_new"
+msgid "New"
+msgstr ""
+
+msgctxt "rss_bd_refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "rss_bd_rename"
+msgid "Rename"
+msgstr ""
+
+msgctxt "rss_bd_subscribe"
+msgid "Subscribe"
+msgstr ""
+
+msgctxt "rss_bd_unsubscribe"
+msgid "Unsubscribe"
+msgstr ""
+
+msgctxt "rss_fi_automatic_scrolling"
+msgid "Automatic scrolling"
+msgstr ""
+
+msgctxt "rss_fi_download_img"
+msgid "Download images"
+msgstr ""
+
+msgctxt "rss_fi_open_posts_to"
+msgid "Open posts using"
+msgstr ""
+
+msgctxt "rss_ia_add_to_folder"
+msgid "Folder"
+msgstr ""
+
+msgctxt "rss_ia_all_feeds"
+msgid "All feeds"
+msgstr ""
+
+msgctxt "rss_ia_category"
+msgid "Category"
+msgstr ""
+
+msgctxt "rss_ia_device_name"
+msgid "%s"
+msgstr ""
+
+msgctxt "rss_ia_feed_address"
+msgid "Address"
+msgstr ""
+
+msgctxt "rss_ia_feed_folder"
+msgid "Folder"
+msgstr ""
+
+msgctxt "rss_ia_feed_title"
+msgid "Title"
+msgstr ""
+
+msgctxt "rss_ia_feeds_never_refreshed"
+msgid "Feeds have never been refreshed"
+msgstr ""
+
+msgctxt "rss_ia_img_cache_size"
+msgid "Image cache size"
+msgstr ""
+
+msgctxt "rss_ia_item_found|rss_ia_items_found"
+msgid "%d item found"
+msgid_plural "%d items found"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "rss_ia_last_refresh_on_date_at_time"
+msgid "Last refreshed on %1$s at %2$s"
+msgstr ""
+
+msgctxt "rss_ia_loading"
+msgid "Loading"
+msgstr ""
+
+msgctxt "rss_ia_location"
+msgid "Location"
+msgstr ""
+
+msgctxt "rss_ia_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "rss_ia_news_feed_folders"
+msgid "RSS feed folders"
+msgstr ""
+
+msgctxt "rss_ia_no_feeds"
+msgid "(no feeds)"
+msgstr ""
+
+msgctxt "rss_ia_no_posts"
+msgid "(no posts)"
+msgstr ""
+
+msgctxt "rss_ia_no_subscribed_feeds"
+msgid "No subscribed feeds"
+msgstr ""
+
+msgctxt "rss_ia_refresh"
+msgid "Refresh:"
+msgstr ""
+
+msgctxt "rss_ia_save_for_later"
+msgid "Keep for later"
+msgstr ""
+
+msgctxt "rss_ia_searching"
+msgid "Searching"
+msgstr ""
+
+msgctxt "rss_ia_selected_feed_only"
+msgid "Selected feed only"
+msgstr ""
+
+msgctxt "rss_ia_subscribed"
+msgid "Subscribed"
+msgstr ""
+
+msgctxt "rss_ia_there_are_n_unread_post|rss_ia_there_are_n_unread_posts"
+msgid "%d unread post"
+msgid_plural "%d unread posts"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "rss_ia_update_feeds_automatically"
+msgid "Automatically"
+msgstr ""
+
+msgctxt "rss_ia_update_interval"
+msgid "Update interval"
+msgstr ""
+
+msgctxt "rss_ia_update_when_connected"
+msgid "When connected to"
+msgstr ""
+
+msgctxt "rss_ia_you_have_saved_n_item|rss_ia_you_have_saved_n_items"
+msgid "%d post kept for later reference"
+msgid_plural "%d posts kept for later reference"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "rss_ia_you_have_subscribed_to_n_feed|rss_ia_you_have_subscribed_to_n_feeds"
+msgid "You have subscribed to %d feed"
+msgid_plural "You have subscribed to %d feeds"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "rss_ib_cannot_start_refresh"
+msgid "Unable to start refresh while searching"
+msgstr ""
+
+msgctxt "rss_ib_enter_key_words"
+msgid "Enter keywords"
+msgstr ""
+
+msgctxt "rss_ib_feed_auto_update_disabled"
+msgid "Automatic feed updating not enabled"
+msgstr ""
+
+msgctxt "rss_ib_no_feed_selected"
+msgid "No feed selected"
+msgstr ""
+
+msgctxt "rss_ib_no_previous_search_results"
+msgid ""
+"No previous search results.\n"
+"Start new search."
+msgstr ""
+
+msgctxt "rss_ib_nothing_to_paste"
+msgid "Nothing to paste"
+msgstr ""
+
+msgctxt "rss_ib_refresh_already_started"
+msgid "Refresh operation already in progress"
+msgstr ""
+
+msgctxt "rss_ib_search_completed"
+msgid "Search completed"
+msgstr ""
+
+msgctxt "rss_ib_search_interrupted"
+msgid "Search canceled"
+msgstr ""
+
+msgctxt "rss_ib_subcribe_already_started"
+msgid "Subscribe operation already in progress"
+msgstr ""
+
+msgctxt "rss_ib_unable_add_feed"
+msgid "Unable to add feed while refreshing"
+msgstr ""
+
+msgctxt "rss_ib_unable_add_feed_searching"
+msgid "Unable to add feed while searching"
+msgstr ""
+
+msgctxt "rss_ib_unable_change_tg_subscribe"
+msgid "Unable to change target folder during subscribing"
+msgstr ""
+
+msgctxt "rss_ib_unable_edit"
+msgid "Unable to edit details while refreshing"
+msgstr ""
+
+msgctxt "rss_ib_unable_edit_searching"
+msgid "Unable to edit details while searching"
+msgstr ""
+
+msgctxt "rss_ib_unable_managefolders_searching"
+msgid "Unable to manage folders while searching"
+msgstr ""
+
+msgctxt "rss_ib_unable_refresh_open"
+msgid "Unable to open while refreshing"
+msgstr ""
+
+msgctxt "rss_ib_unable_search_open"
+msgid "Unable to open while searching"
+msgstr ""
+
+msgctxt "rss_ib_unable_to_add_feed_into"
+msgid "Unable to add feed to selected folder"
+msgstr ""
+
+msgctxt "rss_ib_unable_to_create_folder_into"
+msgid "Unable to create folder in selected folder"
+msgstr ""
+
+msgctxt "rss_ib_unable_to_move_feed"
+msgid "Unable to move selected feed"
+msgstr ""
+
+msgctxt "rss_ib_unable_to_move_items_here"
+msgid "Unable to move items here"
+msgstr ""
+
+msgctxt "rss_ib_unable_to_paste"
+msgid "Unable to paste here"
+msgstr ""
+
+msgctxt "rss_ib_unable_unsubscribe"
+msgid "Unable to unsubscribe while refreshing"
+msgstr ""
+
+msgctxt "rss_ib_unable_unsubscribe_searching"
+msgid "Unable to unsubscribe while searching"
+msgstr ""
+
+msgctxt "rss_ib_unsubscribing_feed_not_allowed"
+msgid "Unable to unsubscribe from selected feed"
+msgstr ""
+
+msgctxt "rss_me_add_a_feed"
+msgid "Add"
+msgstr ""
+
+msgctxt "rss_me_clear_image_cache"
+msgid "Clear image cache"
+msgstr ""
+
+msgctxt "rss_me_copy_link"
+msgid "Copy link location"
+msgstr ""
+
+msgctxt "rss_me_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "rss_me_edit"
+msgid "Edit"
+msgstr ""
+
+msgctxt "rss_me_feed"
+msgid "Feed"
+msgstr ""
+
+msgctxt "rss_me_feed_directory"
+msgid "Feed directory"
+msgstr ""
+
+msgctxt "rss_me_folders"
+msgid "Folders"
+msgstr ""
+
+msgctxt "rss_me_load_image"
+msgid "Load image"
+msgstr ""
+
+msgctxt "rss_me_manage_folders"
+msgid "Manage folders"
+msgstr ""
+
+msgctxt "rss_me_new_folder"
+msgid "New folder"
+msgstr ""
+
+msgctxt "rss_me_refresh"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "rss_me_refresh_feeds"
+msgid "Refresh feeds"
+msgstr ""
+
+msgctxt "rss_me_rename"
+msgid "Rename"
+msgstr ""
+
+msgctxt "rss_me_save_image"
+msgid "Save image as"
+msgstr ""
+
+msgctxt "rss_me_search_results"
+msgid "Search results"
+msgstr ""
+
+msgctxt "rss_me_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "rss_me_sort"
+msgid "Sort"
+msgstr ""
+
+msgctxt "rss_me_tools"
+msgid "Tools"
+msgstr ""
+
+msgctxt "rss_me_view"
+msgid "View"
+msgstr ""
+
+msgctxt "rss_nc_are_you_sure_unsubscribe"
+msgid "Unsubscribe from feed? %s"
+msgstr ""
+
+msgctxt "rss_nc_clear_image_cache"
+msgid "Clear all content from image cache?"
+msgstr ""
+
+msgctxt "rss_ni_adding_failed"
+msgid "Unable to add feed. Address invalid."
+msgstr ""
+
+msgctxt "rss_ni_connection_timeout"
+msgid "Unable to add one or more feeds. Connection time-out."
+msgstr ""
+
+msgctxt "rss_ni_connection_was_lost"
+msgid "Unable to complete refreshing feeds"
+msgstr ""
+
+msgctxt "rss_ni_connecton_was_lost_one_feed"
+msgid "Unable to complete refreshing feed"
+msgstr ""
+
+msgctxt "rss_ni_directory_adding_failed"
+msgid "Unable to add one or more feeds. Address invalid."
+msgstr ""
+
+msgctxt "rss_ni_error_refreshing_all_feeds"
+msgid "Unable to refresh one or more feeds. Try again later."
+msgstr ""
+
+msgctxt "rss_ni_error_resfreshing_one_feed"
+msgid "Unable to refresh selected feed. Try again later."
+msgstr ""
+
+msgctxt "rss_ni_errors_loading_directory"
+msgid "Errors occurred while loading this directory"
+msgstr ""
+
+msgctxt "rss_ni_errors_while_parsing_feed"
+msgid "Errors occurred while parsing this feed"
+msgstr ""
+
+msgctxt "rss_ni_no_title_for_feed"
+msgid "Enter feed name first"
+msgstr ""
+
+msgctxt "rss_ni_no_web_address_for_feed"
+msgid "Enter address first"
+msgstr ""
+
+msgctxt "rss_ni_unable_increase_img_cache"
+msgid "Unable to increase image cache size. Not enough free memory in %s."
+msgstr ""
+
+msgctxt "rss_ni_unable_load_image"
+msgid ""
+"Unable to open image.\n"
+"File not found from server."
+msgstr ""
+
+msgctxt "rss_nw_saving"
+msgid "Saving"
+msgstr ""
+
+msgctxt "rss_pb_toolbar_connecting"
+msgid "Connecting"
+msgstr ""
+
+msgctxt "rss_pb_toolbar_receiving"
+msgid "Loading %d/%d"
+msgstr ""
+
+msgctxt "rss_pb_toolbar_receiving_file"
+msgid "Loading"
+msgstr ""
+
+msgctxt "rss_pb_toolbar_refreshing"
+msgid "Refreshing"
+msgstr ""
+
+msgctxt "rss_ti_add_a_feed"
+msgid "Add feed"
+msgstr ""
+
+msgctxt "rss_ti_change_folder"
+msgid "Change folder"
+msgstr ""
+
+msgctxt "rss_ti_feed_details"
+msgid "Feed details"
+msgstr ""
+
+msgctxt "rss_ti_feed_directory"
+msgid "Feed directory"
+msgstr ""
+
+msgctxt "rss_ti_feed_select_opml_file"
+msgid "Select OPML file"
+msgstr ""
+
+msgctxt "rss_ti_home_applet"
+msgid "RSS Desktop Widget"
+msgstr ""
+
+msgctxt "rss_ti_manage_folders"
+msgid "Manage folders"
+msgstr ""
+
+msgctxt "rss_ti_new_folder"
+msgid "New folder"
+msgstr ""
+
+msgctxt "rss_ti_newsreader"
+msgid "RSS"
+msgstr ""
+
+msgctxt "rss_ti_refresh_feeds"
+msgid "Refresh feeds"
+msgstr ""
+
+msgctxt "rss_ti_rename_folder"
+msgid "Rename folder"
+msgstr ""
+
+msgctxt "rss_ti_search"
+msgid "Search"
+msgstr ""
+
+msgctxt "rss_ti_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "rss_ti_updating"
+msgid "Updating"
+msgstr ""
+
+msgctxt "rss_va_img_cache_1"
+msgid "1 MB"
+msgstr ""
+
+msgctxt "rss_va_img_cache_2"
+msgid "2 MB"
+msgstr ""
+
+msgctxt "rss_va_img_cache_4"
+msgid "4 MB"
+msgstr ""
+
+msgctxt "rss_va_img_cache_8"
+msgid "8 MB"
+msgstr ""
+
+msgctxt "rss_va_img_cache_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "rss_va_open_posts_to_rss"
+msgid "RSS"
+msgstr ""
+
+msgctxt "rss_va_open_posts_to_web"
+msgid "Web"
+msgstr ""
+
+msgctxt "rss_va_update_interval_1"
+msgid "1 hour"
+msgstr ""
+
+msgctxt "rss_va_update_interval_15"
+msgid "15 minutes"
+msgstr ""
+
+msgctxt "rss_va_update_interval_2"
+msgid "2 hours"
+msgstr ""
+
+msgctxt "rss_va_update_interval_30"
+msgid "30 minutes"
+msgstr ""
+
+msgctxt "rss_va_update_interval_4"
+msgid "4 hours"
+msgstr ""
+
+msgctxt "rss_va_update_interval_8"
+msgid "8 hours"
+msgstr ""
+
+msgctxt "rss_va_update_when_connected_any"
+msgid "Any connection"
+msgstr ""
+
+msgctxt "rss_va_update_when_connected_wlan"
+msgid "Wi-Fi"
+msgstr ""

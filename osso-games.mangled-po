@@ -1,0 +1,648 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-games 20090202110755\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.02.02 11:07+0200\n"
+"PO-Revision-Date: 2009.02.02 11:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "game_ap_blocks_name"
+msgid "Blocks"
+msgstr ""
+
+msgctxt "game_ap_chess_name"
+msgid "Chess"
+msgstr ""
+
+msgctxt "game_ap_mahjong_name"
+msgid "Mahjong"
+msgstr ""
+
+msgctxt "game_ap_marbles_name"
+msgid "Marbles"
+msgstr ""
+
+msgctxt "game_ap_startup_name"
+msgid "Start-up"
+msgstr ""
+
+msgctxt "game_bd_blocks_main_exit_to_menu"
+msgid "Exit to menu"
+msgstr ""
+
+msgctxt "game_bd_blocks_main_restart"
+msgid "Restart"
+msgstr ""
+
+msgctxt "game_bd_change_level_cancel"
+msgid "No"
+msgstr ""
+
+msgctxt "game_bd_change_level_ok"
+msgid "Yes"
+msgstr ""
+
+msgctxt "game_bd_chess_end_game_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "game_bd_chess_promote_pawn_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "game_bd_lmarbles_congratulations_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "game_bd_mahjong_end_game_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "game_bd_mahjong_high_scores_close"
+msgid "Close"
+msgstr ""
+
+msgctxt "game_bd_reset_game_progress_cancel"
+msgid "No"
+msgstr ""
+
+msgctxt "game_bd_reset_game_progress_ok"
+msgid "Yes"
+msgstr ""
+
+msgctxt "game_bd_restart_game_cancel"
+msgid "No"
+msgstr ""
+
+msgctxt "game_bd_restart_game_ok"
+msgid "Yes"
+msgstr ""
+
+msgctxt "game_bu_mahjong_settings_high_scores"
+msgid "Best times"
+msgstr ""
+
+msgctxt "game_bv_startup_continue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "game_bv_startup_play"
+msgid "Play"
+msgstr ""
+
+msgctxt "game_bv_startup_restart"
+msgid "Restart"
+msgstr ""
+
+msgctxt "game_fi_blocks_end_game_description"
+msgid "Tap 'Restart' to try again"
+msgstr ""
+
+msgctxt "game_fi_blocks_main_level"
+msgid "Level"
+msgstr ""
+
+msgctxt "game_fi_blocks_main_lines"
+msgid "Lines"
+msgstr ""
+
+msgctxt "game_fi_blocks_main_next"
+msgid "Next"
+msgstr ""
+
+msgctxt "game_fi_blocks_main_score"
+msgid "Score"
+msgstr ""
+
+msgctxt "game_fi_blocks_settings_difficulty"
+msgid "Block speed"
+msgstr ""
+
+msgctxt "game_fi_blocks_settings_noise_height"
+msgid "Starting height"
+msgstr ""
+
+msgctxt "game_fi_blocks_settings_noise_level"
+msgid "Starting density"
+msgstr ""
+
+msgctxt "game_fi_chess_computer_title"
+msgid "Computer"
+msgstr ""
+
+msgctxt "game_fi_chess_end_game_description%s"
+msgid "Checkmate – %s wins!"
+msgstr ""
+
+msgctxt "game_fi_chess_end_game_tie_description"
+msgid "Stalemate – A draw"
+msgstr ""
+
+msgctxt "game_fi_chess_player_1_title"
+msgid "Player 1"
+msgstr ""
+
+msgctxt "game_fi_chess_player_2_title"
+msgid "Player 2"
+msgstr ""
+
+msgctxt "game_fi_chess_promote_pawn_description"
+msgid "Promote to:"
+msgstr ""
+
+msgctxt "game_fi_chess_settings_human"
+msgid "Player 1"
+msgstr ""
+
+msgctxt "game_fi_chess_settings_legal_moves"
+msgid "Show legal moves"
+msgstr ""
+
+msgctxt "game_fi_chess_settings_opponent"
+msgid "Opponent"
+msgstr ""
+
+msgctxt "game_fi_chess_settings_sound"
+msgid "Sound effects"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_congratulations_description"
+msgid "You have successfully completed the game!"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_main_chapter_level"
+msgid "Chapter %d, Level %d"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_main_high_score"
+msgid "High score: %d"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_main_level_bonus"
+msgid "Level bonus:"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_main_move_bonus"
+msgid "Move bonus:"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_main_moves"
+msgid "Moves: %d"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_main_score"
+msgid "Score: %d"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_main_total_score"
+msgid "Total score:"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_settings_difficulty"
+msgid "Difficulty level"
+msgstr ""
+
+msgctxt "game_fi_lmarbles_settings_sound"
+msgid "Sound effects"
+msgstr ""
+
+msgctxt "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
+msgid ""
+"Board: %s\n"
+"Board cleared in %.2d:%.2d\n"
+"\n"
+"Best time for board: %.2d:%.2d"
+msgstr ""
+
+msgctxt "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
+msgid ""
+"Board: %s\n"
+"Board cleared in %.2d:%.2d\n"
+"\n"
+"New personal best!\n"
+"Previous best: %.2d:%.2d"
+msgstr ""
+
+msgctxt "game_fi_mahjong_end_game_description3%s%.2d%.2d"
+msgid ""
+"Board: %s\n"
+"Board cleared in %.2d:%.2d\n"
+"\n"
+"New personal best!"
+msgstr ""
+
+msgctxt "game_fi_mahjong_game_board_1"
+msgid "Standard"
+msgstr ""
+
+msgctxt "game_fi_mahjong_game_board_2"
+msgid "Lotus flower"
+msgstr ""
+
+msgctxt "game_fi_mahjong_game_board_3"
+msgid "Confounding cross"
+msgstr ""
+
+msgctxt "game_fi_mahjong_game_board_4"
+msgid "Pyramid's walls"
+msgstr ""
+
+msgctxt "game_fi_mahjong_game_board_5"
+msgid "Tic-tac-toe"
+msgstr ""
+
+msgctxt "game_fi_mahjong_game_board_6"
+msgid "Cloud"
+msgstr ""
+
+msgctxt "game_fi_mahjong_game_board_7"
+msgid "Red dragon"
+msgstr ""
+
+msgctxt "game_fi_mahjong_game_board_8"
+msgid "Four bridges"
+msgstr ""
+
+msgctxt "game_fi_mahjong_settings_board"
+msgid "Board"
+msgstr ""
+
+msgctxt "game_fi_mahjong_settings_sound"
+msgid "Sound effects"
+msgstr ""
+
+msgctxt "game_ia_startup_not_started"
+msgid "Game not started yet"
+msgstr ""
+
+msgctxt "game_ia_startup_paused"
+msgid "Game paused"
+msgstr ""
+
+msgctxt "game_ib_changes_effect_next_game"
+msgid "Changes will come into effect in next game"
+msgstr ""
+
+msgctxt "game_ib_chess_check"
+msgid "Check!"
+msgstr ""
+
+msgctxt "game_ib_chess_check_mate"
+msgid "Checkmate!"
+msgstr ""
+
+msgctxt "game_ib_not_available"
+msgid "Not available"
+msgstr ""
+
+msgctxt "game_me_blocks_main_menu_game"
+msgid "Game"
+msgstr ""
+
+msgctxt "game_me_blocks_menu_game_play"
+msgid "Play"
+msgstr ""
+
+msgctxt "game_me_blocks_menu_game_restart"
+msgid "Restart"
+msgstr ""
+
+msgctxt "game_me_chess_main_menu_game"
+msgid "Game"
+msgstr ""
+
+msgctxt "game_me_chess_main_menu_recent"
+msgid "Recent"
+msgstr ""
+
+msgctxt "game_me_chess_main_menu_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "game_me_chess_menu_game_open"
+msgid "Open"
+msgstr ""
+
+msgctxt "game_me_chess_menu_game_play"
+msgid "Play"
+msgstr ""
+
+msgctxt "game_me_chess_menu_game_restart"
+msgid "Restart"
+msgstr ""
+
+msgctxt "game_me_chess_menu_game_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "game_me_chess_menu_game_save_as"
+msgid "Save as"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_human"
+msgid "Player 1"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_human_black"
+msgid "Black"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_human_white"
+msgid "White"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_legal_moves"
+msgid "Show legal moves"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_opponent"
+msgid "Opponent"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_opponent_1"
+msgid "Easy"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_opponent_2"
+msgid "Medium"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_opponent_3"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_opponent_4"
+msgid "Expert"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_opponent_human"
+msgid "Player 2"
+msgstr ""
+
+msgctxt "game_me_chess_menu_settings_sound"
+msgid "Sound"
+msgstr ""
+
+msgctxt "game_me_lmarbles_main_menu_game"
+msgid "Game"
+msgstr ""
+
+msgctxt "game_me_lmarbles_main_menu_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "game_me_lmarbles_menu_game_play"
+msgid "Play"
+msgstr ""
+
+msgctxt "game_me_lmarbles_menu_game_restart"
+msgid "Restart"
+msgstr ""
+
+msgctxt "game_me_lmarbles_menu_settings_brainstorm"
+msgid "Brainstorm"
+msgstr ""
+
+msgctxt "game_me_lmarbles_menu_settings_easy"
+msgid "Easy"
+msgstr ""
+
+msgctxt "game_me_lmarbles_menu_settings_hard"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "game_me_lmarbles_menu_settings_normal"
+msgid "Normal"
+msgstr ""
+
+msgctxt "game_me_lmarbles_menu_settings_reset"
+msgid "Reset"
+msgstr ""
+
+msgctxt "game_me_lmarbles_menu_settings_reset_progress"
+msgid "Reset game progress"
+msgstr ""
+
+msgctxt "game_me_lmarbles_menu_settings_sound"
+msgid "Sound"
+msgstr ""
+
+msgctxt "game_me_mahjong_main_menu_board"
+msgid "Board"
+msgstr ""
+
+msgctxt "game_me_mahjong_main_menu_game"
+msgid "Game"
+msgstr ""
+
+msgctxt "game_me_mahjong_main_menu_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "game_me_mahjong_main_menu_tools"
+msgid "Tools"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_board_1"
+msgid "Standard"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_board_2"
+msgid "Lotus flower"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_board_3"
+msgid "Confounding cross"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_board_4"
+msgid "Pyramid's walls"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_board_5"
+msgid "Tic-tac-toe"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_board_6"
+msgid "Cloud"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_board_7"
+msgid "Red dragon"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_board_8"
+msgid "Four bridges"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_game_play"
+msgid "Play"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_game_restart"
+msgid "Restart"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_settings_sound"
+msgid "Sound"
+msgstr ""
+
+msgctxt "game_me_mahjong_menu_tools_high_scores"
+msgid "Best times"
+msgstr ""
+
+msgctxt "game_me_main_menu_close"
+msgid "Close"
+msgstr ""
+
+msgctxt "game_nc_change_level"
+msgid "Enter level %d of chapter %d?"
+msgstr ""
+
+msgctxt "game_nc_reset_game_progress"
+msgid "Resetting the game will close all opened levels. Continue anyway?"
+msgstr ""
+
+msgctxt "game_nc_restart_game"
+msgid "Start new game?"
+msgstr ""
+
+msgctxt "game_ni_unsupported_file%s"
+msgid ""
+"Unable to open %s.\n"
+"File format not supported."
+msgstr ""
+
+msgctxt "game_ti_blocks_end_game_title"
+msgid "Game over"
+msgstr ""
+
+msgctxt "game_ti_chess_end_game_title"
+msgid "Game over"
+msgstr ""
+
+msgctxt "game_ti_chess_promote_pawn_title"
+msgid "Promote pawn"
+msgstr ""
+
+msgctxt "game_ti_lmarbles_congratulations_title"
+msgid "Congratulations!"
+msgstr ""
+
+msgctxt "game_ti_load_game_title"
+msgid "Load game"
+msgstr ""
+
+msgctxt "game_ti_mahjong_end_game_title"
+msgid "Game over"
+msgstr ""
+
+msgctxt "game_ti_mahjong_high_scores_date"
+msgid "Date"
+msgstr ""
+
+msgctxt "game_ti_mahjong_high_scores_level"
+msgid "Board"
+msgstr ""
+
+msgctxt "game_ti_mahjong_high_scores_time"
+msgid "Best time"
+msgstr ""
+
+msgctxt "game_ti_mahjong_high_scores_title"
+msgid "Best times"
+msgstr ""
+
+msgctxt "game_ti_save_game_title"
+msgid "Save game"
+msgstr ""
+
+msgctxt "game_va_chess_settings_human_black"
+msgid "Black"
+msgstr ""
+
+msgctxt "game_va_chess_settings_human_white"
+msgid "White"
+msgstr ""
+
+msgctxt "game_va_chess_settings_opponent_easy"
+msgid "Easy"
+msgstr ""
+
+msgctxt "game_va_chess_settings_opponent_expert"
+msgid "Expert"
+msgstr ""
+
+msgctxt "game_va_chess_settings_opponent_hard"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "game_va_chess_settings_opponent_human"
+msgid "Player 2"
+msgstr ""
+
+msgctxt "game_va_chess_settings_opponent_medium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "game_va_lmarbles_settings_difficulty_1"
+msgid "Easy"
+msgstr ""
+
+msgctxt "game_va_lmarbles_settings_difficulty_2"
+msgid "Normal"
+msgstr ""
+
+msgctxt "game_va_lmarbles_settings_difficulty_3"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "game_va_lmarbles_settings_difficulty_4"
+msgid "Brainstorm"
+msgstr ""
+
+msgctxt "game_va_mahjong_settings_board_1"
+msgid "Standard"
+msgstr ""
+
+msgctxt "game_va_mahjong_settings_board_2"
+msgid "Lotus flower"
+msgstr ""
+
+msgctxt "game_va_mahjong_settings_board_3"
+msgid "Confounding cross"
+msgstr ""
+
+msgctxt "game_va_mahjong_settings_board_4"
+msgid "Pyramid's walls"
+msgstr ""
+
+msgctxt "game_va_mahjong_settings_board_5"
+msgid "Tic-tac-toe"
+msgstr ""
+
+msgctxt "game_va_mahjong_settings_board_6"
+msgid "Cloud"
+msgstr ""
+
+msgctxt "game_va_mahjong_settings_board_7"
+msgid "Red dragon"
+msgstr ""
+
+msgctxt "game_va_mahjong_settings_board_8"
+msgid "Four bridges"
+msgstr ""
+
+msgctxt "sfil_va_save_object_name_stub_chess"
+msgid "Chess"
+msgstr ""
+
+msgctxt "sfil_va_select_object_no_objects_games"
+msgid "(no games)"
+msgstr ""

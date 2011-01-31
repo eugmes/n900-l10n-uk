@@ -1,0 +1,985 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-cities 20091015124643\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.15 12:46+0300\n"
+"PO-Revision-Date: 2009.10.15 12:46+0300\n"
+"Last-Translator: \n"
+"Language-Team: English (US)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "qtn_clk_country_afghanistan"
+msgid "Afghanistan"
+msgstr ""
+
+msgctxt "qtn_clk_country_albania"
+msgid "Albania"
+msgstr ""
+
+msgctxt "qtn_clk_country_algeria"
+msgid "Algeria"
+msgstr ""
+
+msgctxt "qtn_clk_country_andorra"
+msgid "Andorra"
+msgstr ""
+
+msgctxt "qtn_clk_country_angola"
+msgid "Angola"
+msgstr ""
+
+msgctxt "qtn_clk_country_anguilla"
+msgid "Anguilla"
+msgstr ""
+
+msgctxt "qtn_clk_country_antigua_barbuda"
+msgid "Antigua and Barbuda"
+msgstr ""
+
+msgctxt "qtn_clk_country_arab_emirates"
+msgid "United Arab Emirates"
+msgstr ""
+
+msgctxt "qtn_clk_country_argentina"
+msgid "Argentina"
+msgstr ""
+
+msgctxt "qtn_clk_country_armenia"
+msgid "Armenia"
+msgstr ""
+
+msgctxt "qtn_clk_country_aruba"
+msgid "Aruba"
+msgstr ""
+
+msgctxt "qtn_clk_country_australia"
+msgid "Australia"
+msgstr ""
+
+msgctxt "qtn_clk_country_austria"
+msgid "Austria"
+msgstr ""
+
+msgctxt "qtn_clk_country_azerbaijan"
+msgid "Azerbaijan"
+msgstr ""
+
+msgctxt "qtn_clk_country_azores"
+msgid "Azores"
+msgstr ""
+
+msgctxt "qtn_clk_country_bahamas"
+msgid "Bahamas"
+msgstr ""
+
+msgctxt "qtn_clk_country_bahrain"
+msgid "Bahrain"
+msgstr ""
+
+msgctxt "qtn_clk_country_bangladesh"
+msgid "Bangladesh"
+msgstr ""
+
+msgctxt "qtn_clk_country_barbados"
+msgid "Barbados"
+msgstr ""
+
+msgctxt "qtn_clk_country_belarus"
+msgid "Belarus"
+msgstr ""
+
+msgctxt "qtn_clk_country_belgium"
+msgid "Belgium"
+msgstr ""
+
+msgctxt "qtn_clk_country_belize"
+msgid "Belize"
+msgstr ""
+
+msgctxt "qtn_clk_country_benin"
+msgid "Benin"
+msgstr ""
+
+msgctxt "qtn_clk_country_bermuda"
+msgid "Bermuda"
+msgstr ""
+
+msgctxt "qtn_clk_country_bhutan"
+msgid "Bhutan"
+msgstr ""
+
+msgctxt "qtn_clk_country_biot"
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+msgctxt "qtn_clk_country_bolivia"
+msgid "Bolivia"
+msgstr ""
+
+msgctxt "qtn_clk_country_bosnia_herz"
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+msgctxt "qtn_clk_country_botswana"
+msgid "Botswana"
+msgstr ""
+
+msgctxt "qtn_clk_country_brazil"
+msgid "Brazil"
+msgstr ""
+
+msgctxt "qtn_clk_country_brunei"
+msgid "Brunei"
+msgstr ""
+
+msgctxt "qtn_clk_country_bulgaria"
+msgid "Bulgaria"
+msgstr ""
+
+msgctxt "qtn_clk_country_burkina_faso"
+msgid "Burkina Faso"
+msgstr ""
+
+msgctxt "qtn_clk_country_burundi"
+msgid "Burundi"
+msgstr ""
+
+msgctxt "qtn_clk_country_bvi"
+msgid "British Virgin Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_cambodia"
+msgid "Cambodia"
+msgstr ""
+
+msgctxt "qtn_clk_country_cameroon"
+msgid "Cameroon"
+msgstr ""
+
+msgctxt "qtn_clk_country_canada"
+msgid "Canada"
+msgstr ""
+
+msgctxt "qtn_clk_country_canary_islands"
+msgid "Canary Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_cap_verde"
+msgid "Cape Verde"
+msgstr ""
+
+msgctxt "qtn_clk_country_car"
+msgid "Central African Republic"
+msgstr ""
+
+msgctxt "qtn_clk_country_cayman_islands"
+msgid "Cayman Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_chad"
+msgid "Chad"
+msgstr ""
+
+msgctxt "qtn_clk_country_chile"
+msgid "Chile"
+msgstr ""
+
+msgctxt "qtn_clk_country_china"
+msgid "China"
+msgstr ""
+
+msgctxt "qtn_clk_country_christmas_islands"
+msgid "Christmas Island"
+msgstr ""
+
+msgctxt "qtn_clk_country_cocos_islands"
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_colombia"
+msgid "Colombia"
+msgstr ""
+
+msgctxt "qtn_clk_country_comoros"
+msgid "Comoros"
+msgstr ""
+
+msgctxt "qtn_clk_country_cook_islands"
+msgid "Cook Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_costa_rica"
+msgid "Costa Rica"
+msgstr ""
+
+msgctxt "qtn_clk_country_cotedlvoire"
+msgid "Côte d'Ivoire"
+msgstr ""
+
+msgctxt "qtn_clk_country_croatia"
+msgid "Croatia"
+msgstr ""
+
+msgctxt "qtn_clk_country_cuba"
+msgid "Cuba"
+msgstr ""
+
+msgctxt "qtn_clk_country_curacao"
+msgid "Curacao"
+msgstr ""
+
+msgctxt "qtn_clk_country_cyprus"
+msgid "Cyprus"
+msgstr ""
+
+msgctxt "qtn_clk_country_czech_reb"
+msgid "Czech Republic"
+msgstr ""
+
+msgctxt "qtn_clk_country_denmark"
+msgid "Denmark"
+msgstr ""
+
+msgctxt "qtn_clk_country_djibouti"
+msgid "Djibouti"
+msgstr ""
+
+msgctxt "qtn_clk_country_dominica"
+msgid "Dominica"
+msgstr ""
+
+msgctxt "qtn_clk_country_dominican_reb"
+msgid "Dominican Republic"
+msgstr ""
+
+msgctxt "qtn_clk_country_drc"
+msgid "Congo, Democratic Republic of the"
+msgstr ""
+
+msgctxt "qtn_clk_country_east_timor"
+msgid "Timor-Leste"
+msgstr ""
+
+msgctxt "qtn_clk_country_easter_island"
+msgid "Easter Island"
+msgstr ""
+
+msgctxt "qtn_clk_country_ecuador"
+msgid "Ecuador"
+msgstr ""
+
+msgctxt "qtn_clk_country_egypt"
+msgid "Egypt"
+msgstr ""
+
+msgctxt "qtn_clk_country_el_salvador"
+msgid "El Salvador"
+msgstr ""
+
+msgctxt "qtn_clk_country_equatorial_guinea"
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgctxt "qtn_clk_country_eritrea"
+msgid "Eritrea"
+msgstr ""
+
+msgctxt "qtn_clk_country_estonia"
+msgid "Estonia"
+msgstr ""
+
+msgctxt "qtn_clk_country_ethiopia"
+msgid "Ethiopia"
+msgstr ""
+
+msgctxt "qtn_clk_country_falkland"
+msgid "Falkland Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_faroe_islands"
+msgid "Faroe Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_fiji"
+msgid "Fiji"
+msgstr ""
+
+msgctxt "qtn_clk_country_finland"
+msgid "Finland"
+msgstr ""
+
+msgctxt "qtn_clk_country_france"
+msgid "France"
+msgstr ""
+
+msgctxt "qtn_clk_country_french_guiana"
+msgid "French Guiana"
+msgstr ""
+
+msgctxt "qtn_clk_country_french_polynesia"
+msgid "French Polynesia"
+msgstr ""
+
+msgctxt "qtn_clk_country_gabon"
+msgid "Gabon"
+msgstr ""
+
+msgctxt "qtn_clk_country_galapagos_islands"
+msgid "Galapagos Is."
+msgstr ""
+
+msgctxt "qtn_clk_country_gambia"
+msgid "Gambia"
+msgstr ""
+
+msgctxt "qtn_clk_country_georgia"
+msgid "Georgia"
+msgstr ""
+
+msgctxt "qtn_clk_country_germany"
+msgid "Germany"
+msgstr ""
+
+msgctxt "qtn_clk_country_ghana"
+msgid "Ghana"
+msgstr ""
+
+msgctxt "qtn_clk_country_gibraltar"
+msgid "Gibraltar"
+msgstr ""
+
+msgctxt "qtn_clk_country_greece"
+msgid "Greece"
+msgstr ""
+
+msgctxt "qtn_clk_country_greenland"
+msgid "Greenland"
+msgstr ""
+
+msgctxt "qtn_clk_country_grenada"
+msgid "Grenada"
+msgstr ""
+
+msgctxt "qtn_clk_country_guadeloupe"
+msgid "Guadeloupe"
+msgstr ""
+
+msgctxt "qtn_clk_country_guam"
+msgid "Guam"
+msgstr ""
+
+msgctxt "qtn_clk_country_guatemala"
+msgid "Guatemala"
+msgstr ""
+
+msgctxt "qtn_clk_country_guinea"
+msgid "Guinea"
+msgstr ""
+
+msgctxt "qtn_clk_country_guinea_bissau"
+msgid "Guinea-Bissau"
+msgstr ""
+
+msgctxt "qtn_clk_country_guyana"
+msgid "Guyana"
+msgstr ""
+
+msgctxt "qtn_clk_country_haiti"
+msgid "Haiti"
+msgstr ""
+
+msgctxt "qtn_clk_country_honduras"
+msgid "Honduras"
+msgstr ""
+
+msgctxt "qtn_clk_country_hong_kong"
+msgid "Hong Kong"
+msgstr ""
+
+msgctxt "qtn_clk_country_hungary"
+msgid "Hungary"
+msgstr ""
+
+msgctxt "qtn_clk_country_iceland"
+msgid "Iceland"
+msgstr ""
+
+msgctxt "qtn_clk_country_india"
+msgid "India"
+msgstr ""
+
+msgctxt "qtn_clk_country_indonesia"
+msgid "Indonesia"
+msgstr ""
+
+msgctxt "qtn_clk_country_iran"
+msgid "Iran"
+msgstr ""
+
+msgctxt "qtn_clk_country_iraq"
+msgid "Iraq"
+msgstr ""
+
+msgctxt "qtn_clk_country_ireland"
+msgid "Ireland"
+msgstr ""
+
+msgctxt "qtn_clk_country_israel"
+msgid "Israel"
+msgstr ""
+
+msgctxt "qtn_clk_country_italy"
+msgid "Italy"
+msgstr ""
+
+msgctxt "qtn_clk_country_jamaica"
+msgid "Jamaica"
+msgstr ""
+
+msgctxt "qtn_clk_country_japan"
+msgid "Japan"
+msgstr ""
+
+msgctxt "qtn_clk_country_jerusalem"
+msgid "Jerusalem"
+msgstr ""
+
+msgctxt "qtn_clk_country_jordan"
+msgid "Jordan"
+msgstr ""
+
+msgctxt "qtn_clk_country_kazakhstan"
+msgid "Kazakhstan"
+msgstr ""
+
+msgctxt "qtn_clk_country_kenya"
+msgid "Kenya"
+msgstr ""
+
+msgctxt "qtn_clk_country_kerguelen"
+msgid "Kerguelen"
+msgstr ""
+
+msgctxt "qtn_clk_country_kiribati"
+msgid "Kiribati"
+msgstr ""
+
+msgctxt "qtn_clk_country_kuwait"
+msgid "Kuwait"
+msgstr ""
+
+msgctxt "qtn_clk_country_kyrgyzstan"
+msgid "Kyrgyzstan"
+msgstr ""
+
+msgctxt "qtn_clk_country_laos"
+msgid "Laos"
+msgstr ""
+
+msgctxt "qtn_clk_country_latvia"
+msgid "Latvia"
+msgstr ""
+
+msgctxt "qtn_clk_country_lebanon"
+msgid "Lebanon"
+msgstr ""
+
+msgctxt "qtn_clk_country_lesotho"
+msgid "Lesotho"
+msgstr ""
+
+msgctxt "qtn_clk_country_liberia"
+msgid "Liberia"
+msgstr ""
+
+msgctxt "qtn_clk_country_libya"
+msgid "Libya"
+msgstr ""
+
+msgctxt "qtn_clk_country_liechtenstein"
+msgid "Liechtenstein"
+msgstr ""
+
+msgctxt "qtn_clk_country_lithuania"
+msgid "Lithuania"
+msgstr ""
+
+msgctxt "qtn_clk_country_luxembourg"
+msgid "Luxembourg"
+msgstr ""
+
+msgctxt "qtn_clk_country_macedonia"
+msgid "Macedonia"
+msgstr ""
+
+msgctxt "qtn_clk_country_madagascar"
+msgid "Madagascar"
+msgstr ""
+
+msgctxt "qtn_clk_country_madeira"
+msgid "Madeira"
+msgstr ""
+
+msgctxt "qtn_clk_country_malawi"
+msgid "Malawi"
+msgstr ""
+
+msgctxt "qtn_clk_country_malaysia"
+msgid "Malaysia"
+msgstr ""
+
+msgctxt "qtn_clk_country_maldives"
+msgid "Maldives"
+msgstr ""
+
+msgctxt "qtn_clk_country_mali"
+msgid "Mali"
+msgstr ""
+
+msgctxt "qtn_clk_country_malta"
+msgid "Malta"
+msgstr ""
+
+msgctxt "qtn_clk_country_marquesas_island"
+msgid "Marquesas Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_marshall_islands"
+msgid "Marshall Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_martinique"
+msgid "Martinique"
+msgstr ""
+
+msgctxt "qtn_clk_country_mauritania"
+msgid "Mauritania"
+msgstr ""
+
+msgctxt "qtn_clk_country_mauritius"
+msgid "Mauritius"
+msgstr ""
+
+msgctxt "qtn_clk_country_mayotte"
+msgid "Mayotte"
+msgstr ""
+
+msgctxt "qtn_clk_country_mexico"
+msgid "Mexico"
+msgstr ""
+
+msgctxt "qtn_clk_country_micronesia"
+msgid "Micronesia"
+msgstr ""
+
+msgctxt "qtn_clk_country_moldova"
+msgid "Moldova"
+msgstr ""
+
+msgctxt "qtn_clk_country_monaco"
+msgid "Monaco"
+msgstr ""
+
+msgctxt "qtn_clk_country_mongolia"
+msgid "Mongolia"
+msgstr ""
+
+msgctxt "qtn_clk_country_montenegro"
+msgid "Montenegro"
+msgstr ""
+
+msgctxt "qtn_clk_country_montserrat"
+msgid "Montserrat"
+msgstr ""
+
+msgctxt "qtn_clk_country_morocco"
+msgid "Morocco"
+msgstr ""
+
+msgctxt "qtn_clk_country_mozambique"
+msgid "Mozambique"
+msgstr ""
+
+msgctxt "qtn_clk_country_myanmar"
+msgid "Myanmar"
+msgstr ""
+
+msgctxt "qtn_clk_country_n_mariana_i"
+msgid "Northern Mariana Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_namibia"
+msgid "Namibia"
+msgstr ""
+
+msgctxt "qtn_clk_country_nauru"
+msgid "Nauru"
+msgstr ""
+
+msgctxt "qtn_clk_country_nepal"
+msgid "Nepal"
+msgstr ""
+
+msgctxt "qtn_clk_country_netherlands"
+msgid "Netherlands"
+msgstr ""
+
+msgctxt "qtn_clk_country_new_caledonia"
+msgid "New Caledonia"
+msgstr ""
+
+msgctxt "qtn_clk_country_new_zealand"
+msgid "New Zealand"
+msgstr ""
+
+msgctxt "qtn_clk_country_nicaragua"
+msgid "Nicaragua"
+msgstr ""
+
+msgctxt "qtn_clk_country_niger"
+msgid "Niger"
+msgstr ""
+
+msgctxt "qtn_clk_country_nigeria"
+msgid "Nigeria"
+msgstr ""
+
+msgctxt "qtn_clk_country_niue"
+msgid "Niue"
+msgstr ""
+
+msgctxt "qtn_clk_country_norfolk_island"
+msgid "Norfolk Island"
+msgstr ""
+
+msgctxt "qtn_clk_country_north_korea"
+msgid "North Korea"
+msgstr ""
+
+msgctxt "qtn_clk_country_northern_ireland"
+msgid "Northern Ireland"
+msgstr ""
+
+msgctxt "qtn_clk_country_norway"
+msgid "Norway"
+msgstr ""
+
+msgctxt "qtn_clk_country_oman"
+msgid "Oman"
+msgstr ""
+
+msgctxt "qtn_clk_country_pakistan"
+msgid "Pakistan"
+msgstr ""
+
+msgctxt "qtn_clk_country_palau"
+msgid "Palau"
+msgstr ""
+
+msgctxt "qtn_clk_country_panama"
+msgid "Panama"
+msgstr ""
+
+msgctxt "qtn_clk_country_papua_new_g"
+msgid "Papua New Guinea"
+msgstr ""
+
+msgctxt "qtn_clk_country_paraguay"
+msgid "Paraguay"
+msgstr ""
+
+msgctxt "qtn_clk_country_peru"
+msgid "Peru"
+msgstr ""
+
+msgctxt "qtn_clk_country_philippines"
+msgid "Philippines"
+msgstr ""
+
+msgctxt "qtn_clk_country_phoenix_islands"
+msgid "Phoenix Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_pitcairn"
+msgid "Pitcairn"
+msgstr ""
+
+msgctxt "qtn_clk_country_poland"
+msgid "Poland"
+msgstr ""
+
+msgctxt "qtn_clk_country_portugal"
+msgid "Portugal"
+msgstr ""
+
+msgctxt "qtn_clk_country_puerto_rico"
+msgid "Puerto Rico"
+msgstr ""
+
+msgctxt "qtn_clk_country_qatar"
+msgid "Qatar"
+msgstr ""
+
+msgctxt "qtn_clk_country_r_congo"
+msgid "Congo, Republic of the"
+msgstr ""
+
+msgctxt "qtn_clk_country_reunion"
+msgid "Reunion"
+msgstr ""
+
+msgctxt "qtn_clk_country_romania"
+msgid "Romania"
+msgstr ""
+
+msgctxt "qtn_clk_country_russia"
+msgid "Russia"
+msgstr ""
+
+msgctxt "qtn_clk_country_rwanda"
+msgid "Rwanda"
+msgstr ""
+
+msgctxt "qtn_clk_country_saint_helena"
+msgid "Saint Helena"
+msgstr ""
+
+msgctxt "qtn_clk_country_samoa"
+msgid "Samoa"
+msgstr ""
+
+msgctxt "qtn_clk_country_san_marino"
+msgid "San Marino"
+msgstr ""
+
+msgctxt "qtn_clk_country_sao_tome_principe"
+msgid "São Tomé and Príncipe"
+msgstr ""
+
+msgctxt "qtn_clk_country_saudi_arab"
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "qtn_clk_country_senegal"
+msgid "Senegal"
+msgstr ""
+
+msgctxt "qtn_clk_country_serbia"
+msgid "Serbia"
+msgstr ""
+
+msgctxt "qtn_clk_country_seychelles"
+msgid "Seychelles"
+msgstr ""
+
+msgctxt "qtn_clk_country_sierra_leone"
+msgid "Sierra Leone"
+msgstr ""
+
+msgctxt "qtn_clk_country_singapore"
+msgid "Singapore"
+msgstr ""
+
+msgctxt "qtn_clk_country_slovakia"
+msgid "Slovakia"
+msgstr ""
+
+msgctxt "qtn_clk_country_slovenia"
+msgid "Slovenia"
+msgstr ""
+
+msgctxt "qtn_clk_country_solomon_is"
+msgid "Solomon Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_somalia"
+msgid "Somalia"
+msgstr ""
+
+msgctxt "qtn_clk_country_south_africa"
+msgid "South Africa"
+msgstr ""
+
+msgctxt "qtn_clk_country_south_georgia"
+msgid "South Georgia"
+msgstr ""
+
+msgctxt "qtn_clk_country_south_korea"
+msgid "South Korea"
+msgstr ""
+
+msgctxt "qtn_clk_country_spain"
+msgid "Spain"
+msgstr ""
+
+msgctxt "qtn_clk_country_sri_lanka"
+msgid "Sri Lanka"
+msgstr ""
+
+msgctxt "qtn_clk_country_st_kitts_nevis"
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+msgctxt "qtn_clk_country_st_lucia"
+msgid "Saint Lucia"
+msgstr ""
+
+msgctxt "qtn_clk_country_st_pierre_miquelon"
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+msgctxt "qtn_clk_country_st_vincent_granadines"
+msgid "Saint Vincent and Grenadines"
+msgstr ""
+
+msgctxt "qtn_clk_country_sudan"
+msgid "Sudan"
+msgstr ""
+
+msgctxt "qtn_clk_country_suriname"
+msgid "Suriname"
+msgstr ""
+
+msgctxt "qtn_clk_country_swaziland"
+msgid "Swaziland"
+msgstr ""
+
+msgctxt "qtn_clk_country_sweden"
+msgid "Sweden"
+msgstr ""
+
+msgctxt "qtn_clk_country_switzerland"
+msgid "Switzerland"
+msgstr ""
+
+msgctxt "qtn_clk_country_syria"
+msgid "Syria"
+msgstr ""
+
+msgctxt "qtn_clk_country_tahiti"
+msgid "Tahiti"
+msgstr ""
+
+msgctxt "qtn_clk_country_taiwan"
+msgid "Taiwan"
+msgstr ""
+
+msgctxt "qtn_clk_country_tajikistan"
+msgid "Tajikistan"
+msgstr ""
+
+msgctxt "qtn_clk_country_tanzania"
+msgid "Tanzania"
+msgstr ""
+
+msgctxt "qtn_clk_country_thailand"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "qtn_clk_country_togo"
+msgid "Togo"
+msgstr ""
+
+msgctxt "qtn_clk_country_tokelau"
+msgid "Tokelau"
+msgstr ""
+
+msgctxt "qtn_clk_country_tonga"
+msgid "Tonga"
+msgstr ""
+
+msgctxt "qtn_clk_country_trinid_tobago"
+msgid "Trinidad and Tobago"
+msgstr ""
+
+msgctxt "qtn_clk_country_tunisia"
+msgid "Tunisia"
+msgstr ""
+
+msgctxt "qtn_clk_country_turkey"
+msgid "Turkey"
+msgstr ""
+
+msgctxt "qtn_clk_country_turkmenistan"
+msgid "Turkmenistan"
+msgstr ""
+
+msgctxt "qtn_clk_country_turks_caicos"
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_tuvalu"
+msgid "Tuvalu"
+msgstr ""
+
+msgctxt "qtn_clk_country_uganda"
+msgid "Uganda"
+msgstr ""
+
+msgctxt "qtn_clk_country_uk"
+msgid "United Kingdom"
+msgstr ""
+
+msgctxt "qtn_clk_country_ukraine"
+msgid "Ukraine"
+msgstr ""
+
+msgctxt "qtn_clk_country_uruguay"
+msgid "Uruguay"
+msgstr ""
+
+msgctxt "qtn_clk_country_usa"
+msgid "USA"
+msgstr ""
+
+msgctxt "qtn_clk_country_uzbekistan"
+msgid "Uzbekistan"
+msgstr ""
+
+msgctxt "qtn_clk_country_vanuatu"
+msgid "Vanuatu"
+msgstr ""
+
+msgctxt "qtn_clk_country_vatican"
+msgid "Vatican"
+msgstr ""
+
+msgctxt "qtn_clk_country_venezuela"
+msgid "Venezuela"
+msgstr ""
+
+msgctxt "qtn_clk_country_vietnam"
+msgid "Vietnam"
+msgstr ""
+
+msgctxt "qtn_clk_country_wallis_futuna"
+msgid "Wallis and Futuna Islands"
+msgstr ""
+
+msgctxt "qtn_clk_country_western_sahara"
+msgid "Western Sahara"
+msgstr ""
+
+msgctxt "qtn_clk_country_yemen"
+msgid "Yemen"
+msgstr ""
+
+msgctxt "qtn_clk_country_zambia"
+msgid "Zambia"
+msgstr ""
+
+msgctxt "qtn_clk_country_zimbabwe"
+msgid "Zimbabwe"
+msgstr ""
+
+msgctxt "qtn_clk_region_kiritimati"
+msgid "Kiritimati (Christmas Island)"
+msgstr ""
+
+msgctxt "qtn_clk_region_macau"
+msgid "Macau"
+msgstr ""

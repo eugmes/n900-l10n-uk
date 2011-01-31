@@ -1,0 +1,559 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mediaplayer 20091013120337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "mp_ap_name"
+msgid "Media player"
+msgstr "Медіа-плеєр"
+
+msgctxt "mp_bd_label_clip%d|mp_bd_label_clips%d"
+msgid "%d clip"
+msgid_plural "%d clips"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_bd_label_hour%s|mp_bd_label_hours%s"
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_bd_label_min%s|mp_bd_label_minutes%s"
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_bd_label_playlist%d|mp_bd_label_playlists%d"
+msgid "%d playlist"
+msgid_plural "%d playlists"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_bd_label_sec%s|mp_bd_label_seconds%s"
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_bd_label_song%d|mp_bd_label_songs%d"
+msgid "%d song"
+msgid_plural "%d songs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_bd_label_station%d|mp_bd_label_stations%d"
+msgid "%d station"
+msgid_plural "%d stations"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_bd_more"
+msgid "More"
+msgstr ""
+
+msgctxt "mp_bd_music"
+msgid "Music"
+msgstr ""
+
+msgctxt "mp_bd_radio"
+msgid "Internet radio"
+msgstr ""
+
+msgctxt "mp_bd_shuffle"
+msgid "Shuffle songs"
+msgstr ""
+
+msgctxt "mp_bd_shuffle_all"
+msgid "Shuffle all songs"
+msgstr ""
+
+msgctxt "mp_bd_song_details%d%d"
+msgid "%d/%d songs"
+msgstr ""
+
+msgctxt "mp_bd_video"
+msgid "Video"
+msgstr ""
+
+msgctxt "mp_fi_addradio_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "mp_fi_addradio_url"
+msgid "Web address"
+msgstr ""
+
+msgctxt "mp_fi_addvideo_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "mp_fi_addvideo_url"
+msgid "Web address"
+msgstr ""
+
+msgctxt "mp_fi_save_playlist_name"
+msgid "Name "
+msgstr ""
+
+msgctxt "mp_ib_bookmarks_empty"
+msgid "Unable to add empty bookmark"
+msgstr ""
+
+msgctxt "mp_ib_bookmarks_exists"
+msgid "Stream already bookmarked under '%s'"
+msgstr ""
+
+msgctxt "mp_ib_clip_added_nowplay|mp_ib_clip_added_nowplays"
+msgid "%d clip added to current playlist"
+msgid_plural "%d clips added to current playlist"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_ib_determine_stream_type"
+msgid "Opening stream"
+msgstr ""
+
+msgctxt "mp_ib_drm_prohibits"
+msgid ""
+"Unable to play media file.\n"
+"Copyright protected."
+msgstr ""
+
+msgctxt "mp_ib_file_not_found"
+msgid "Unable to find media file"
+msgstr ""
+
+msgctxt "mp_ib_invalid_url"
+msgid "Invalid URL"
+msgstr ""
+
+msgctxt "mp_ib_no_connection_internet"
+msgid "No network connection"
+msgstr ""
+
+msgctxt "mp_ib_no_connection_server"
+msgid "No connection to server"
+msgstr ""
+
+msgctxt "mp_ib_no_songs"
+msgid "(no songs)"
+msgstr ""
+
+msgctxt "mp_ib_no_videos"
+msgid "(no videos)"
+msgstr ""
+
+msgctxt "mp_ib_playback_error"
+msgid "Playback error"
+msgstr ""
+
+msgctxt "mp_ib_refreshing_library"
+msgid "Refreshing library"
+msgstr ""
+
+msgctxt "mp_ib_set_ringtone"
+msgid "Selected song set as ringing tone"
+msgstr ""
+
+msgctxt "mp_ib_stream_saved"
+msgid "Media bookmark saved"
+msgstr ""
+
+msgctxt "mp_ib_unable_to_seek"
+msgid "Unable to seek stream"
+msgstr ""
+
+msgctxt "mp_ib_unsupported_audio_codec"
+msgid ""
+"Unable to play media.\n"
+"Audio codec not supported."
+msgstr ""
+
+msgctxt "mp_ib_unsupported_format"
+msgid ""
+"Unable to play media.\n"
+"Media format not supported."
+msgstr ""
+
+msgctxt "mp_li_album%d|mp_li_albums%d"
+msgid "%d album"
+msgid_plural "%d albums"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_li_artist%d|mp_li_artists%d"
+msgid "%d artist"
+msgid_plural "%d artist(s)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_li_never_played"
+msgid "Never played"
+msgstr ""
+
+msgctxt "mp_li_no_albums"
+msgid "(no albums)"
+msgstr ""
+
+msgctxt "mp_li_no_artists"
+msgid "(no artists)"
+msgstr ""
+
+msgctxt "mp_li_no_duration"
+msgid "--:--"
+msgstr ""
+
+msgctxt "mp_li_no_genres"
+msgid "(no genres)"
+msgstr ""
+
+msgctxt "mp_li_no_metadata"
+msgid "Information not available"
+msgstr ""
+
+msgctxt "mp_li_no_radio"
+msgid "(no saved radio stations)"
+msgstr ""
+
+msgctxt "mp_li_no_radios_suggestion"
+msgid "To add stations, go to the Browser or View menu."
+msgstr ""
+
+msgctxt "mp_li_no_songs"
+msgid "(no songs)"
+msgstr ""
+
+msgctxt "mp_li_no_videos"
+msgid "(no videos)"
+msgstr ""
+
+msgctxt "mp_li_recently_added"
+msgid "Recently added"
+msgstr ""
+
+msgctxt "mp_li_recently_played"
+msgid "Recently played"
+msgstr ""
+
+msgctxt "mp_li_song%d|mp_li_songs%d"
+msgid "%d song"
+msgid_plural "%d songs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "mp_li_top_played"
+msgid "Most played"
+msgstr ""
+
+msgctxt "mp_li_unknown_album"
+msgid "(unknown album)"
+msgstr ""
+
+msgctxt "mp_li_unknown_artist"
+msgid "(unknown artist)"
+msgstr ""
+
+msgctxt "mp_li_unknown_genre"
+msgid "(unknown genre)"
+msgstr ""
+
+msgctxt "mp_li_unknown_song"
+msgid "(unknown song)"
+msgstr ""
+
+msgctxt "mp_li_various_artists"
+msgid "Various artists"
+msgstr ""
+
+msgctxt "mp_me_add_items_to_cp"
+msgid ""
+"Add items to\n"
+"current playlist"
+msgstr ""
+
+msgctxt "mp_me_add_radio_bookmark"
+msgid "Add radio bookmark"
+msgstr ""
+
+msgctxt "mp_me_add_songs_to_cp"
+msgid ""
+"Add songs to\n"
+"current playlist"
+msgstr ""
+
+msgctxt "mp_me_add_to_cp"
+msgid "Add to current playlist"
+msgstr ""
+
+msgctxt "mp_me_all_albums"
+msgid "All albums"
+msgstr ""
+
+msgctxt "mp_me_all_songs"
+msgid "All songs"
+msgstr ""
+
+msgctxt "mp_me_artists"
+msgid "Artists"
+msgstr ""
+
+msgctxt "mp_me_clear_cp"
+msgid "Clear current playlist"
+msgstr ""
+
+msgctxt "mp_me_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "mp_me_delete_from_cp"
+msgid "Delete from now playing"
+msgstr ""
+
+msgctxt "mp_me_delete_from_playlist"
+msgid "Delete from playlist"
+msgstr ""
+
+msgctxt "mp_me_delete_playlist"
+msgid "Delete playlist"
+msgstr ""
+
+msgctxt "mp_me_delete_songs"
+msgid "Delete songs"
+msgstr ""
+
+msgctxt "mp_me_edit_radio"
+msgid "Edit"
+msgstr ""
+
+msgctxt "mp_me_edit_video"
+msgid "Edit"
+msgstr ""
+
+msgctxt "mp_me_filtering_by_cat"
+msgid "Category"
+msgstr ""
+
+msgctxt "mp_me_filtering_by_date"
+msgid "Date"
+msgstr ""
+
+msgctxt "mp_me_fm"
+msgid "FM transmitter"
+msgstr ""
+
+msgctxt "mp_me_genres"
+msgid "Genres"
+msgstr ""
+
+msgctxt "mp_me_mafw_plugins"
+msgid "Plug-ins"
+msgstr ""
+
+msgctxt "mp_me_mediaplayer_home_applet"
+msgid "Media player"
+msgstr "Медіа-плеєр"
+
+msgctxt "mp_me_playlists"
+msgid "Playlists"
+msgstr ""
+
+msgctxt "mp_me_save_cp"
+msgid "Save playlist"
+msgstr ""
+
+msgctxt "mp_me_set_ringtone"
+msgid "Set as ringing tone"
+msgstr ""
+
+msgctxt "mp_nc_clear_cp"
+msgid "Clear all songs from current playlist?"
+msgstr ""
+
+msgctxt "mp_nc_delete_all"
+msgid "Delete all items shown in view?"
+msgstr ""
+
+msgctxt "mp_nc_delete_current_playlist"
+msgid "Delete currently open playlist from device?"
+msgstr ""
+
+msgctxt "mp_nc_delete_playlist"
+msgid "Delete selected playlist from device?"
+msgstr ""
+
+msgctxt "mp_nc_delete_selected"
+msgid "Delete selected item from device?"
+msgstr ""
+
+msgctxt "mp_nc_replace_bookmark%s"
+msgid ""
+"Name '%s' already in use.\n"
+"Replace existing bookmark?"
+msgstr ""
+
+msgctxt "mp_nc_replace_playlist%s"
+msgid "Name %s already in use. Replace existing playlist?"
+msgstr ""
+
+msgctxt "mp_ni_corrupt_playlist"
+msgid ""
+"Unable to open.\n"
+"Playlist corrupted."
+msgstr ""
+
+msgctxt "mp_ni_tracker_indexing"
+msgid ""
+"Retrieving information on the new media files.\n"
+"Estimated time remaining: %s"
+msgstr ""
+
+msgctxt "mp_ni_unable_to_perform"
+msgid "Unable to perform operation"
+msgstr ""
+
+msgctxt "mp_ni_unsupported_video_codec"
+msgid ""
+"Unable to play media.\n"
+"Video codec not supported."
+msgstr ""
+
+msgctxt "mp_ni_unsupported_videoreso"
+msgid ""
+"Unable to play media.\n"
+"Video resolution not supported."
+msgstr ""
+
+msgctxt "mp_pb_buffering"
+msgid "Buffering"
+msgstr ""
+
+msgctxt "mp_pb_connecting"
+msgid "Connecting"
+msgstr ""
+
+msgctxt "mp_ti_addradio"
+msgid "Add radio bookmark"
+msgstr ""
+
+msgctxt "mp_ti_addvideo"
+msgid "Add video bookmark"
+msgstr ""
+
+msgctxt "mp_ti_all_albums"
+msgid "Albums"
+msgstr ""
+
+msgctxt "mp_ti_all_songs"
+msgid "Songs"
+msgstr ""
+
+msgctxt "mp_ti_artists"
+msgid "Artists"
+msgstr ""
+
+msgctxt "mp_ti_edit_radio"
+msgid "Edit radio bookmark"
+msgstr ""
+
+msgctxt "mp_ti_edit_video"
+msgid "Edit video bookmark"
+msgstr ""
+
+msgctxt "mp_ti_genres"
+msgid "Genres"
+msgstr ""
+
+msgctxt "mp_ti_launch_first"
+msgid "Launch"
+msgstr ""
+
+msgctxt "mp_ti_launch_second"
+msgid "Media player"
+msgstr "Медіа-плеєр"
+
+msgctxt "mp_ti_mafw_plugins"
+msgid "Plug-ins"
+msgstr ""
+
+msgctxt "mp_ti_mp"
+msgid "Media player"
+msgstr "Медіа-плеєр"
+
+msgctxt "mp_ti_name"
+msgid "Media player"
+msgstr "Медіа-плеєр"
+
+msgctxt "mp_ti_now_playing"
+msgid "Now playing"
+msgstr ""
+
+msgctxt "mp_ti_playlist_automatic"
+msgid "Automatic playlists"
+msgstr ""
+
+msgctxt "mp_ti_playlist_imported"
+msgid "Imported"
+msgstr ""
+
+msgctxt "mp_ti_playlist_saved"
+msgid "Saved"
+msgstr ""
+
+msgctxt "mp_ti_playlists"
+msgid "Playlists"
+msgstr ""
+
+msgctxt "mp_ti_radio_library"
+msgid "Internet radio stations"
+msgstr ""
+
+msgctxt "mp_ti_save_playlist"
+msgid "Save playlist"
+msgstr ""
+
+msgctxt "mp_ti_server_root"
+msgid "%s"
+msgstr ""
+
+msgctxt "mp_ti_server_root_no"
+msgid "Media server"
+msgstr ""
+
+msgctxt "mp_ti_server_sub"
+msgid "%s"
+msgstr ""
+
+msgctxt "mp_ti_upnp_servers"
+msgid "UPnP servers"
+msgstr ""
+
+msgctxt "mp_ti_videos_bookmarks"
+msgid "Video bookmarks"
+msgstr ""
+
+msgctxt "mp_ti_videos_cat"
+msgid "Videos - categories"
+msgstr ""
+
+msgctxt "mp_ti_videos_latest"
+msgid "Videos - latest"
+msgstr ""
+
+msgctxt "mp_ti_videos_movies"
+msgid "Films"
+msgstr ""
+
+msgctxt "mp_ti_videos_recorded"
+msgid "Recorded by device camera"
+msgstr ""

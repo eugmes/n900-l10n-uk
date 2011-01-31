@@ -1,0 +1,139 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-notes 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2009.07.06 09:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "conn_nc_remove_formatting"
+msgid "Remove all text formatting from the note?"
+msgstr "Видалити все форматування з нотатку?"
+
+msgctxt "note_ap_notes_name"
+msgid "Notes"
+msgstr "Нотатки"
+
+msgctxt "note_ap_notes_title"
+msgid "Notes"
+msgstr "Нотатки"
+
+msgctxt "note_fi_details_characters"
+msgid "Number of characters"
+msgstr "Кількість символів"
+
+msgctxt "note_fi_details_lines"
+msgid "Number of lines"
+msgstr "Кількість рядків"
+
+msgctxt "note_ib_autosave_recover_failed"
+msgid "Recovering autosaved file failed"
+msgstr "Не вдалося відновити автоматично збережений файл"
+
+msgctxt "note_ib_not_available"
+msgid "Not available"
+msgstr "Не доступно"
+
+msgctxt "note_ib_remote_file_not_available"
+msgid "Remote file not available"
+msgstr "Віддалений файл недоступний"
+
+msgctxt "note_ib_unsupported_char"
+msgid "Unsupported characters"
+msgstr "Непідтримувані символи"
+
+msgctxt "note_me_menu_edit_redo"
+msgid "Redo"
+msgstr "Повторити"
+
+msgctxt "note_me_menu_edit_undo"
+msgid "Undo"
+msgstr "Вернути"
+
+msgctxt "note_me_menu_format_alignment"
+msgid "Alignment"
+msgstr "Вирівнювання"
+
+msgctxt "note_me_menu_format_centered"
+msgid "Centered"
+msgstr "По центру"
+
+msgctxt "note_me_menu_format_file_format"
+msgid "File format"
+msgstr "Формат файлу"
+
+msgctxt "note_me_menu_format_font"
+msgid "Font"
+msgstr "Шрифт"
+
+msgctxt "note_me_menu_format_formatted_text"
+msgid "Formatted text"
+msgstr "Форматований текст"
+
+msgctxt "note_me_menu_format_left"
+msgid "Left"
+msgstr "Зліва"
+
+msgctxt "note_me_menu_format_plain_text"
+msgid "Plain text"
+msgstr "Простий текст"
+
+msgctxt "note_me_menu_format_right"
+msgid "Right"
+msgstr "Справа"
+
+msgctxt "note_me_menu_note_details"
+msgid "Details"
+msgstr "Деталі"
+
+msgctxt "note_me_menu_note_new"
+msgid "New"
+msgstr "Новий"
+
+msgctxt "note_me_menu_note_open"
+msgid "Open"
+msgstr "Відкрити"
+
+msgctxt "note_me_menu_note_save"
+msgid "Save"
+msgstr "Зберегти"
+
+msgctxt "note_me_menu_note_settings"
+msgid "Settings"
+msgstr "Налаштування"
+
+msgctxt "note_ms_save_failed"
+msgid "Unable to save"
+msgstr "Неможливо зберегти"
+
+msgctxt "note_ti_details_title"
+msgid "Note details"
+msgstr "Деталі нотатку"
+
+msgctxt "notes_ib_saved"
+msgid "Saved"
+msgstr "Збережено"
+
+msgctxt "sfil_ti_open_note"
+msgid "Open note"
+msgstr "Відкрити нотаток"
+
+msgctxt "sfil_ti_save_object_note"
+msgid "Save note"
+msgstr "Збереження нотатку"
+
+msgctxt "sfil_va_save_object_name_stub_note"
+msgid "Note"
+msgstr "Нотаток"
+
+msgctxt "sfil_va_select_object_no_objects_notes"
+msgid "(no notes)"
+msgstr "(немає нотатків)"

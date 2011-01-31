@@ -1,0 +1,159 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-profiles 20090403163553\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.04.03 16:35+0300\n"
+"PO-Revision-Date: 2009.04.03 16:35+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "profi_bd_general"
+msgid "General"
+msgstr "Загальний"
+
+msgctxt "profi_bd_silent"
+msgid "Silent"
+msgstr "Тихий"
+
+msgctxt "profi_fi_email_alert_tone"
+msgid "E-mail alert"
+msgstr "Звук для E-mail"
+
+msgctxt "profi_fi_general_vibrate"
+msgid "Vibrate"
+msgstr "Вібрація"
+
+msgctxt "profi_fi_heading_general"
+msgid "General"
+msgstr "Загальний"
+
+msgctxt "profi_fi_heading_silent"
+msgid "Silent"
+msgstr "Тихий"
+
+msgctxt "profi_fi_instant_messaging_alert_tone"
+msgid "IM tone"
+msgstr "Звук IM"
+
+msgctxt "profi_fi_key_sounds"
+msgid "Key sounds"
+msgstr "Звуки клавіш"
+
+msgctxt "profi_fi_ringingtone_tone"
+msgid "Ringing tone"
+msgstr "Звук дзвінка"
+
+msgctxt "profi_fi_select_general_vibrate"
+msgid "Vibrate"
+msgstr "Вібрація"
+
+msgctxt "profi_fi_select_silent_vibrate"
+msgid "Vibrate"
+msgstr "Вібрація"
+
+msgctxt "profi_fi_silent_vibrate"
+msgid "Vibrate"
+msgstr "Вібрація"
+
+msgctxt "profi_fi_system_sounds"
+msgid "System sounds"
+msgstr "Системні звуки"
+
+msgctxt "profi_fi_text_message_tone"
+msgid "SMS alert"
+msgstr "Звук для SMS"
+
+msgctxt "profi_fi_touch_screen_sounds"
+msgid "Touch screen sounds"
+msgstr ""
+
+msgctxt "profi_ib_unsupported_file_format"
+msgid "Unsupported file format or corrupted file. Try again with another file."
+msgstr "Формат файла непідтримується чи файл пошкоджено. Спробуйте зрову з іншим файлом."
+
+msgctxt "profi_ti_cpa_profiles"
+msgid "Profiles"
+msgstr "Профілі"
+
+msgctxt "profi_ti_email_alert_tone"
+msgid "E-mail alert"
+msgstr "Звук E-mail"
+
+msgctxt "profi_ti_instant_messaging_tone"
+msgid "IM alert"
+msgstr "Звук IM"
+
+msgctxt "profi_ti_menu_plugin"
+msgid "Profile"
+msgstr "Профіль"
+
+msgctxt "profi_ti_open_sound_clip"
+msgid "Add tone"
+msgstr "Додати звук"
+
+msgctxt "profi_ti_ringing_tone"
+msgid "Ringing tone"
+msgstr "Звук дзвінка"
+
+msgctxt "profi_ti_select_profiles"
+msgid "Select profile"
+msgstr "Вибір профілю"
+
+msgctxt "profi_ti_sub_text_message_tone"
+msgid "SMS alert"
+msgstr "Звук SMS"
+
+msgctxt "profi_va_key_sounds_level1"
+msgid "Level 1"
+msgstr "Рівень 1"
+
+msgctxt "profi_va_key_sounds_level2"
+msgid "Level 2"
+msgstr "Рівень 2"
+
+msgctxt "profi_va_key_sounds_off"
+msgid "Off"
+msgstr "Вимкнені"
+
+msgctxt "profi_va_plugin_general"
+msgid "General"
+msgstr "Загальний"
+
+msgctxt "profi_va_plugin_silent"
+msgid "Silent"
+msgstr "Тихий"
+
+msgctxt "profi_va_select_object_no_sound_clips"
+msgid "(no files)"
+msgstr "(немає файлів)"
+
+msgctxt "profi_va_system_sounds_level1"
+msgid "Level 1"
+msgstr "Рівень 1"
+
+msgctxt "profi_va_system_sounds_level2"
+msgid "Level 2"
+msgstr "Рівень 2"
+
+msgctxt "profi_va_system_sounds_off"
+msgid "Off"
+msgstr "Вимкнені"
+
+msgctxt "profi_va_touchscreen_sounds_level1"
+msgid "Level 1"
+msgstr "Рівень 1"
+
+msgctxt "profi_va_touchscreen_sounds_level2"
+msgid "Level 2"
+msgstr "Рівень 2"
+
+msgctxt "profi_va_touchscreen_sounds_off"
+msgid "Off"
+msgstr "Вимкнені"

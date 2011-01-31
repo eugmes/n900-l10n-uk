@@ -1,0 +1,557 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-messaging-ui 20090810095028\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2009.08.10 09:50+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "chat_ia_event_chat_room_is_full"
+msgid "Chat room is full"
+msgstr ""
+
+msgctxt "chat_ia_event_message_chatting_with_offline_contact"
+msgid "Contact offline"
+msgstr ""
+
+msgctxt "chat_ia_event_message_sent"
+msgid "Sent on %s"
+msgstr ""
+
+msgctxt "chat_ia_event_message_too_big_message"
+msgid "Message from %s is too long and has been shortened"
+msgstr ""
+
+msgctxt "chat_ia_event_password_room"
+msgid "Chat room is now password protected"
+msgstr ""
+
+msgctxt "chat_ia_event_person_changed_room_description"
+msgid "Room description changed to: %s"
+msgstr ""
+
+msgctxt "chat_ia_event_person_changed_room_name"
+msgid "Room name changed to: %s"
+msgstr ""
+
+msgctxt "chat_ia_event_person_changed_room_topic"
+msgid "%s changed room topic to: %s"
+msgstr ""
+
+msgctxt "chat_ia_event_person_offline"
+msgid "Unable to deliver message. Contact offline."
+msgstr ""
+
+msgctxt "chat_ia_event_person_was_banned"
+msgid "%s is banned"
+msgstr ""
+
+msgctxt "chat_ia_event_person_was_banned_by"
+msgid "%s banned %s"
+msgstr ""
+
+msgctxt "chat_ib_cant_enter_because_banner"
+msgid ""
+"Unable to enter.\n"
+"Banned from the chat room."
+msgstr ""
+
+msgctxt "chat_ib_cant_enter_because_invitation_only"
+msgid ""
+"Unable to enter.\n"
+"Chat room is invitation-only."
+msgstr ""
+
+msgctxt "chat_ib_room_creation_failed"
+msgid "Chat room creation failed"
+msgstr ""
+
+msgctxt "chat_ib_room_not_found"
+msgid "Chat room not found"
+msgstr ""
+
+msgctxt "chat_ni_permission_denied"
+msgid "Message sending failed"
+msgstr ""
+
+msgctxt "messaging_ap_conversations"
+msgid "Conversations"
+msgstr "Розмови"
+
+msgctxt "messaging_bd_chat"
+msgid "Continue"
+msgstr ""
+
+msgctxt "messaging_bd_join"
+msgid "Join"
+msgstr ""
+
+msgctxt "messaging_bd_main_new_chat"
+msgid "New IM"
+msgstr ""
+
+msgctxt "messaging_bd_main_new_sms"
+msgid "New SMS"
+msgstr ""
+
+msgctxt "messaging_bd_send"
+msgid "Send"
+msgstr ""
+
+msgctxt "messaging_csm_kick_out"
+msgid "Kick out"
+msgstr ""
+
+msgctxt "messaging_fi_address"
+msgid "To"
+msgstr ""
+
+msgctxt "messaging_fi_changing_channel"
+msgid "Unable to guarantee that message will be delivered. Use another channel?"
+msgstr ""
+
+msgctxt "messaging_fi_chat_avatar_changed"
+msgid "Avatar image updated and shown in new messages"
+msgstr ""
+
+msgctxt "messaging_fi_chat_conversation_offline_msg"
+msgid "OFFLINE"
+msgstr ""
+
+msgctxt "messaging_fi_chatroom_search_result_empty_list"
+msgid "No chat rooms found"
+msgstr ""
+
+msgctxt "messaging_fi_chatrooms_latest_empty_list"
+msgid "(no chat rooms joined yet)"
+msgstr ""
+
+msgctxt "messaging_fi_chatrooms_latest_room"
+msgid "Room:"
+msgstr ""
+
+msgctxt "messaging_fi_chatting_not_supported"
+msgid "Chatting not supported."
+msgstr ""
+
+msgctxt "messaging_fi_clear_message"
+msgid "Clear message"
+msgstr ""
+
+msgctxt "messaging_fi_copy"
+msgid "Copy"
+msgstr ""
+
+msgctxt "messaging_fi_csm_save_business_card"
+msgid "Save contact card"
+msgstr ""
+
+msgctxt "messaging_fi_delete_1_sms"
+msgid "Delete message?"
+msgstr ""
+
+msgctxt "messaging_fi_delete_chat_messages_in_conversation"
+msgid "Clear all messages in this conversation?"
+msgstr ""
+
+msgctxt "messaging_fi_delete_selected_conversation"
+msgid "Delete selected conversation?"
+msgstr ""
+
+msgctxt "messaging_fi_delete_selected_conversations"
+msgid "Delete selected conversations?"
+msgstr ""
+
+msgctxt "messaging_fi_delete_sms_in_conversation"
+msgid "Clear all messages in this conversation?"
+msgstr ""
+
+msgctxt "messaging_fi_delivery_failed"
+msgid "Delivery failed"
+msgstr ""
+
+msgctxt "messaging_fi_delivery_on_the_way"
+msgid "Pending"
+msgstr ""
+
+msgctxt "messaging_fi_delivery_reports"
+msgid "Receive text message delivery reports"
+msgstr ""
+
+msgctxt "messaging_fi_delivery_successful"
+msgid "Delivered"
+msgstr ""
+
+msgctxt "messaging_fi_disconnected_unable_to_continue_chat"
+msgid ""
+"Disconnected.\n"
+"Unable to continue chat."
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_invisible"
+msgid "Chat room is now invisible"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_invitation_only"
+msgid "Chat room is now invitation only"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_invitation_only_not"
+msgid "Chat room is now public"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_moderated"
+msgid "Chat room is now moderated"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_new_room_created"
+msgid "New room created"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_not_moderated"
+msgid "Chat room isn't moderated now"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_participant_kicked_out"
+msgid "%s has been kicked out"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_participants"
+msgid "%s, %s and %s are in the chat room"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_password_disabled"
+msgid "Password protection is disabled now"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_user_banned"
+msgid "You are banned."
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_user_kicked_out"
+msgid "You have been kicked out"
+msgstr ""
+
+msgctxt "messaging_fi_event_msg_visible"
+msgid "Chat room is now visible"
+msgstr ""
+
+msgctxt "messaging_fi_example_phone_number"
+msgid "Example +35840123456"
+msgstr ""
+
+msgctxt "messaging_fi_forward"
+msgid "Forward"
+msgstr ""
+
+msgctxt "messaging_fi_invalid_smsc_number"
+msgid "Text message sending failed. Invalid message center number. Set number?"
+msgstr ""
+
+msgctxt "messaging_fi_invisible"
+msgid "Invisible:"
+msgstr ""
+
+msgctxt "messaging_fi_invitation_only"
+msgid "Invitation only:"
+msgstr ""
+
+msgctxt "messaging_fi_link_business_card"
+msgid "Contact card"
+msgstr ""
+
+msgctxt "messaging_fi_main_csm"
+msgid "Open contact card"
+msgstr ""
+
+msgctxt "messaging_fi_main_empty_list_no_conversations"
+msgid "No conversations"
+msgstr ""
+
+msgctxt "messaging_fi_messages_not_sent_permission_denied"
+msgid "Messages not sent. Permission denied."
+msgstr ""
+
+msgctxt "messaging_fi_missing_smsc_number"
+msgid "Text message sending failed. Message center number missing. Set number?"
+msgstr ""
+
+msgctxt "messaging_fi_moderated"
+msgid "Moderated:"
+msgstr ""
+
+msgctxt "messaging_fi_my_chat_accounts"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "messaging_fi_new_sms_to"
+msgid "To"
+msgstr ""
+
+msgctxt "messaging_fi_number_not_in_fdn_list_error"
+msgid "Sending SMS not allowed to this number. FDN active."
+msgstr ""
+
+msgctxt "messaging_fi_number_of_chatters"
+msgid "%d chatters"
+msgstr ""
+
+msgctxt "messaging_fi_participants_empty_list"
+msgid "No participants"
+msgstr ""
+
+msgctxt "messaging_fi_password"
+msgid "Password:"
+msgstr ""
+
+msgctxt "messaging_fi_password_protected"
+msgid "Password protected:"
+msgstr ""
+
+msgctxt "messaging_fi_person_has_joined_room"
+msgid "%s has joined"
+msgstr ""
+
+msgctxt "messaging_fi_person_has_left_room"
+msgid "X has left"
+msgstr ""
+
+msgctxt "messaging_fi_resend"
+msgid "Resend"
+msgstr ""
+
+msgctxt "messaging_fi_resending_sms_when_device_in_online_mode"
+msgid "Resending SMS when in online mode"
+msgstr ""
+
+msgctxt "messaging_fi_room_address"
+msgid "Address: %s"
+msgstr ""
+
+msgctxt "messaging_fi_room_name"
+msgid "Name:"
+msgstr ""
+
+msgctxt "messaging_fi_room_topic"
+msgid "Topic:"
+msgstr ""
+
+msgctxt "messaging_fi_sms"
+msgid "SMS"
+msgstr ""
+
+msgctxt "messaging_fi_sms_delivery_failed"
+msgid "Text message delivery failed for %s"
+msgstr ""
+
+msgctxt "messaging_fi_sms_delivery_success"
+msgid "Text message delivered to %s"
+msgstr ""
+
+msgctxt "messaging_fi_sms_invalid_contact"
+msgid "%s is not one of your contacts"
+msgstr ""
+
+msgctxt "messaging_fi_sms_no_message"
+msgid "Write message"
+msgstr ""
+
+msgctxt "messaging_fi_sms_no_recipient"
+msgid "Add recipient"
+msgstr ""
+
+msgctxt "messaging_fi_smsc"
+msgid "SMS center number"
+msgstr ""
+
+msgctxt "messaging_fi_smsc_invalid_chars"
+msgid "Invalid number"
+msgstr ""
+
+msgctxt "messaging_fi_smsc_no_number"
+msgid "Add number"
+msgstr ""
+
+msgctxt "messaging_fi_use_account"
+msgid "Use account"
+msgstr ""
+
+msgctxt "messaging_fi_you"
+msgid "You"
+msgstr ""
+
+msgctxt "messaging_me_chatroom_conversation_invite"
+msgid "Invite"
+msgstr ""
+
+msgctxt "messaging_me_chatroom_conversation_participants"
+msgid "Participants"
+msgstr ""
+
+msgctxt "messaging_me_chatroom_conversation_room_settings"
+msgid "Room settings"
+msgstr ""
+
+msgctxt "messaging_me_chatroom_conversation_save_conversation"
+msgid "Save conversation"
+msgstr ""
+
+msgctxt "messaging_me_chatroom_participants_kick_participants"
+msgid "Kick participants"
+msgstr ""
+
+msgctxt "messaging_me_chatrooms_latest_leave"
+msgid "Leave"
+msgstr ""
+
+msgctxt "messaging_me_chatrooms_latest_remove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "messaging_me_main_chat_with"
+msgid "Send IM to"
+msgstr ""
+
+msgctxt "messaging_me_main_delete_conversations"
+msgid "Delete conversations"
+msgstr ""
+
+msgctxt "messaging_me_main_join_chatroom"
+msgid "Join chat room"
+msgstr ""
+
+msgctxt "messaging_me_main_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "messaging_me_sms_conversation_clear"
+msgid "Clear conversation"
+msgstr ""
+
+msgctxt "messaging_ti_chat_conversation"
+msgid "IM – %s"
+msgstr ""
+
+msgctxt "messaging_ti_chat_conversation_theme"
+msgid "IM theme"
+msgstr ""
+
+msgctxt "messaging_ti_chat_with"
+msgid "Send IM"
+msgstr ""
+
+msgctxt "messaging_ti_chatroom_invitation"
+msgid "Chat room invitation"
+msgstr ""
+
+msgctxt "messaging_ti_chatroom_invitation_text_sender_known"
+msgid ""
+"You have been invited to chat room %s by %s.\n"
+"Join this room?"
+msgstr ""
+
+msgctxt "messaging_ti_chatroom_invitation_text_sender_unknown"
+msgid ""
+"You have been invited to chat room %s.\n"
+"Join this room?"
+msgstr ""
+
+msgctxt "messaging_ti_chatroom_participants"
+msgid "%s participants"
+msgstr ""
+
+msgctxt "messaging_ti_chatroom_search_results"
+msgid "Chat rooms – search results"
+msgstr ""
+
+msgctxt "messaging_ti_chatroom_view"
+msgid "Chat room – %s"
+msgstr ""
+
+msgctxt "messaging_ti_chatrooms_latest"
+msgid "Chat rooms – latest"
+msgstr ""
+
+msgctxt "messaging_ti_contact_is_offline"
+msgid "Contact offline"
+msgstr ""
+
+msgctxt "messaging_ti_flash_sms"
+msgid ""
+"Text message - %s (%s):\n"
+"%s"
+msgstr ""
+
+msgctxt "messaging_ti_group_chat_participants"
+msgid "Participants"
+msgstr ""
+
+msgctxt "messaging_ti_group_chat_topic"
+msgid "Topic"
+msgstr ""
+
+msgctxt "messaging_ti_main_select_conversations"
+msgid "Select conversations"
+msgstr ""
+
+msgctxt "messaging_ti_new_mms"
+msgid "New MMS"
+msgstr ""
+
+msgctxt "messaging_ti_no_storage_space"
+msgid "Unable to receive or send new messages."
+msgstr ""
+
+msgctxt "messaging_ti_one_sms"
+msgid "SMS: %s"
+msgstr ""
+
+msgctxt "messaging_ti_one_sms_me"
+msgid "Text message – sent"
+msgstr ""
+
+msgctxt "messaging_ti_one_sms_sent_by_me"
+msgid "Sent by me"
+msgstr ""
+
+msgctxt "messaging_ti_room_settings"
+msgid "Room settings"
+msgstr ""
+
+msgctxt "messaging_ti_search"
+msgid "Search"
+msgstr ""
+
+msgctxt "messaging_ti_select_chatrooms"
+msgid "Select chat rooms"
+msgstr ""
+
+msgctxt "messaging_ti_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "messaging_ti_smileys_theme"
+msgid "Smileys theme"
+msgstr ""
+
+msgctxt "messaging_ti_sms_conversation"
+msgid "SMS – %s"
+msgstr ""
+
+msgctxt "messaging_ti_your_phonenumber"
+msgid "Your phone number"
+msgstr ""
+
+msgctxt "messaging_va_smsc"
+msgid "Use from SIM card"
+msgstr ""
+
+msgctxt "messaging_va_user_defined"
+msgid "User defined"
+msgstr ""

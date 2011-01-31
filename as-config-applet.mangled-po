@@ -1,0 +1,687 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20091019161422\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "activesync_bd_accept_risk"
+msgid "Accept security risk"
+msgstr ""
+
+msgctxt "activesync_bd_advanced_settings"
+msgid "Advanced settings"
+msgstr ""
+
+msgctxt "activesync_bd_continue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "activesync_bd_details"
+msgid "Details"
+msgstr ""
+
+msgctxt "activesync_bd_dont_send"
+msgid "Don’t send"
+msgstr ""
+
+msgctxt "activesync_bd_edit"
+msgid "Edit response"
+msgstr ""
+
+msgctxt "activesync_bd_ignore"
+msgid "Ignore"
+msgstr ""
+
+msgctxt "activesync_bd_manual_sync"
+msgid "Synchronize manually"
+msgstr ""
+
+msgctxt "activesync_bd_resync"
+msgid "Full resynchronization"
+msgstr ""
+
+msgctxt "activesync_bd_security_policy"
+msgid "Comply with security policy"
+msgstr ""
+
+msgctxt "activesync_bd_send"
+msgid "Send"
+msgstr ""
+
+msgctxt "activesync_bd_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "activesync_bd_signature"
+msgid "Signature"
+msgstr ""
+
+msgctxt "activesync_bd_stop"
+msgid "Stop synchronization"
+msgstr ""
+
+msgctxt "activesync_bv_accept"
+msgid "Accept"
+msgstr ""
+
+msgctxt "activesync_bv_decline"
+msgid "Decline"
+msgstr ""
+
+msgctxt "activesync_bv_re_accepted"
+msgid "Accepted:"
+msgstr ""
+
+msgctxt "activesync_bv_re_declined"
+msgid "Declined:"
+msgstr ""
+
+msgctxt "activesync_bv_re_tentative"
+msgid "Tentative:"
+msgstr ""
+
+msgctxt "activesync_bv_remove"
+msgid "Remove from calendar"
+msgstr ""
+
+msgctxt "activesync_bv_tentative"
+msgid "Tentative"
+msgstr ""
+
+msgctxt "activesync_fi_accepted_on"
+msgid "Accepted on"
+msgstr ""
+
+msgctxt "activesync_fi_account_title"
+msgid "Account title"
+msgstr ""
+
+msgctxt "activesync_fi_conflict_resolution"
+msgid "Conflict resolution"
+msgstr ""
+
+msgctxt "activesync_fi_copy_outgoing_emails"
+msgid "Copy outgoing e-mails"
+msgstr ""
+
+msgctxt "activesync_fi_declined_on"
+msgid "Declined on"
+msgstr ""
+
+msgctxt "activesync_fi_domain"
+msgid "Domain"
+msgstr ""
+
+msgctxt "activesync_fi_email_address"
+msgid "E-mail address"
+msgstr ""
+
+msgctxt "activesync_fi_fingerprint"
+msgid "Fingerprint"
+msgstr ""
+
+msgctxt "activesync_fi_invitation"
+msgid "Invitation"
+msgstr ""
+
+msgctxt "activesync_fi_password"
+msgid "Password"
+msgstr ""
+
+msgctxt "activesync_fi_port"
+msgid "Port"
+msgstr ""
+
+msgctxt "activesync_fi_secure_connection"
+msgid "Secure connection"
+msgstr ""
+
+msgctxt "activesync_fi_serial_no"
+msgid "Serial number"
+msgstr ""
+
+msgctxt "activesync_fi_server"
+msgid "Server"
+msgstr ""
+
+msgctxt "activesync_fi_status_menu"
+msgid "Mail for Exchange"
+msgstr ""
+
+msgctxt "activesync_fi_subject"
+msgid "Subject"
+msgstr ""
+
+msgctxt "activesync_fi_sync_calendar"
+msgid "Synchronize calendar and tasks"
+msgstr ""
+
+msgctxt "activesync_fi_sync_completed"
+msgid "Synchronize completed tasks"
+msgstr ""
+
+msgctxt "activesync_fi_sync_contacts"
+msgid "Synchronize contacts"
+msgstr ""
+
+msgctxt "activesync_fi_sync_email"
+msgid "Synchronize e-mail"
+msgstr ""
+
+msgctxt "activesync_fi_tentative_on"
+msgid "Tentatively accepted on"
+msgstr ""
+
+msgctxt "activesync_fi_username"
+msgid "User name"
+msgstr ""
+
+msgctxt "activesync_fi_wizard_finish_text"
+msgid ""
+"Tap 'Next' to start initial synchronization or discard new account by tapping outside the wizard.\n"
+"\n"
+"Tap 'Advanced settings' to modify the advanced account settings."
+msgstr ""
+
+msgctxt "activesync_ia_changed_fingerprint"
+msgid ""
+"The fingerprint of the server %s certificate has changed.\n"
+"This is a security risk, please consult the server administrator"
+msgstr ""
+
+msgctxt "activesync_ia_code_change"
+msgid "The lock code must be changed."
+msgstr ""
+
+msgctxt "activesync_ia_code_enable"
+msgid "Automatic device lock must be enabled."
+msgstr ""
+
+msgctxt "activesync_ia_code_timeout"
+msgid "Automatic device lock timeout must be less than %d minutes."
+msgstr ""
+
+msgctxt "activesync_ia_enter_password"
+msgid "Enter password for certificate %s"
+msgstr ""
+
+msgctxt "activesync_ia_invalid_certificate"
+msgid "The certificate for server %s is invalid. If the server is trusted, ignore this warning."
+msgstr ""
+
+msgctxt "activesync_ia_lock_settings"
+msgid "The Exchange server requires changes in device lock settings."
+msgstr ""
+
+msgctxt "activesync_ia_wizard_text"
+msgid ""
+"Mail for Exchange setup wizard allows you to define a Mail for Exchange account for e-mail, calendar, task and contact synchronization between your device and an Exchange server.\n"
+"\n"
+"Tap 'Next' to continue."
+msgstr ""
+
+msgctxt "activesync_ib_cannot_cancel_sending"
+msgid "Unable to cancel sending"
+msgstr ""
+
+msgctxt "activesync_in_error_attachment"
+msgid "Not enough storage left to download attachment."
+msgstr ""
+
+msgctxt "activesync_in_error_server_type"
+msgid "Configured server is not an Exchange server"
+msgstr ""
+
+msgctxt "activesync_in_incompatible_policy"
+msgid "Device does not comply with the security policy change. Contact your administrator."
+msgstr ""
+
+msgctxt "activesync_in_pcsuite"
+msgid "Note that it is not recommended to use PC Suite synchronization simultaneously with Mail for Exchange."
+msgstr ""
+
+msgctxt "activesync_in_wizard_open"
+msgid "Mail for Exchange wizard already open"
+msgstr ""
+
+msgctxt "activesync_li_calendar"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "activesync_li_first_sync"
+msgid "First synchronization"
+msgstr ""
+
+msgctxt "activesync_li_messages_back"
+msgid "Synchronize messages back"
+msgstr ""
+
+msgctxt "activesync_li_offpeak_sync"
+msgid "Off-peak schedule"
+msgstr ""
+
+msgctxt "activesync_li_peak_days"
+msgid "Peak days"
+msgstr ""
+
+msgctxt "activesync_li_peak_end"
+msgid "Peak end time"
+msgstr ""
+
+msgctxt "activesync_li_peak_start"
+msgid "Peak start time"
+msgstr ""
+
+msgctxt "activesync_li_peak_sync"
+msgid "Peak schedule"
+msgstr ""
+
+msgctxt "activesync_li_send_policy"
+msgid "When sending e-mail"
+msgstr ""
+
+msgctxt "activesync_nc_certificate"
+msgid "Accept changed certificate? Consult server administrator before accepting."
+msgstr ""
+
+msgctxt "activesync_nc_delete"
+msgid "Delete Mail for Exchange account?"
+msgstr ""
+
+msgctxt "activesync_nc_first_sync"
+msgid ""
+"Cancel initial synchronization?\n"
+"Account setup will be lost."
+msgstr ""
+
+msgctxt "activesync_nc_full_sync"
+msgid "Are you sure you want to stop synchronization?"
+msgstr ""
+
+msgctxt "activesync_ti_accepting"
+msgid "Accept invitation"
+msgstr ""
+
+msgctxt "activesync_ti_calendar_tasks"
+msgid "Calendar and tasks"
+msgstr ""
+
+msgctxt "activesync_ti_changed_certificate"
+msgid "Changed certificate"
+msgstr ""
+
+msgctxt "activesync_ti_connection"
+msgid "Connection"
+msgstr ""
+
+msgctxt "activesync_ti_cpa"
+msgid "Mail for Exchange"
+msgstr ""
+
+msgctxt "activesync_ti_credentials"
+msgid "Credentials"
+msgstr ""
+
+msgctxt "activesync_ti_declining"
+msgid "Decline invitation"
+msgstr ""
+
+msgctxt "activesync_ti_details"
+msgid "Last synchronization: Details"
+msgstr ""
+
+msgctxt "activesync_ti_device_lock"
+msgid "Change device lock settings"
+msgstr ""
+
+msgctxt "activesync_ti_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "activesync_ti_first_sync"
+msgid "First synchronization"
+msgstr ""
+
+msgctxt "activesync_ti_full_sync"
+msgid "Full synchronization"
+msgstr ""
+
+msgctxt "activesync_ti_invalid_certificate"
+msgid "Invalid certificate"
+msgstr ""
+
+msgctxt "activesync_ti_password"
+msgid "Password protected"
+msgstr ""
+
+msgctxt "activesync_ti_resync"
+msgid "Resynchronization"
+msgstr ""
+
+msgctxt "activesync_ti_settings"
+msgid "Mail for Exchange settings"
+msgstr ""
+
+msgctxt "activesync_ti_sync_calendar"
+msgid "Calendar and tasks"
+msgstr ""
+
+msgctxt "activesync_ti_sync_contacts"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "activesync_ti_sync_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "activesync_ti_sync_schedule"
+msgid "Sync schedule"
+msgstr ""
+
+msgctxt "activesync_ti_tentatively"
+msgid "Tentatively accept invitation"
+msgstr ""
+
+msgctxt "activesync_ti_wizard_content_settings"
+msgid "Synchronization content"
+msgstr ""
+
+msgctxt "activesync_ti_wizard_credentials"
+msgid "Credentials"
+msgstr ""
+
+msgctxt "activesync_ti_wizard_finish"
+msgid "Start synchronization"
+msgstr ""
+
+msgctxt "activesync_ti_wizard_server_settings"
+msgid "Server settings"
+msgstr ""
+
+msgctxt "activesync_ti_wizard_welcome"
+msgid "Welcome"
+msgstr ""
+
+msgctxt "activesync_va_added"
+msgid "Added"
+msgstr ""
+
+msgctxt "activesync_va_all_entries"
+msgid "All entries"
+msgstr ""
+
+msgctxt "activesync_va_all_messages"
+msgid "All messages"
+msgstr ""
+
+msgctxt "activesync_va_always_on"
+msgid "Always on"
+msgstr ""
+
+msgctxt "activesync_va_calendar"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "activesync_va_calendar_back"
+msgid "Synchronize calendar back"
+msgstr ""
+
+msgctxt "activesync_va_changed_policy"
+msgid "Change in security policy"
+msgstr ""
+
+msgctxt "activesync_va_complete"
+msgid "Complete"
+msgstr ""
+
+msgctxt "activesync_va_connected"
+msgid "Connected"
+msgstr ""
+
+msgctxt "activesync_va_connecting"
+msgid "Connecting"
+msgstr ""
+
+msgctxt "activesync_va_contacts"
+msgid "Contacts"
+msgstr ""
+
+msgctxt "activesync_va_create_new"
+msgid "Create new"
+msgstr ""
+
+msgctxt "activesync_va_delete_items"
+msgid "Delete items on device"
+msgstr ""
+
+msgctxt "activesync_va_deleted"
+msgid "Deleted"
+msgstr ""
+
+msgctxt "activesync_va_device_wins"
+msgid "Device takes priority"
+msgstr ""
+
+msgctxt "activesync_va_disconnected"
+msgid "Disconnected"
+msgstr ""
+
+msgctxt "activesync_va_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "activesync_va_error_account_full"
+msgid "Exchange server user account is full."
+msgstr ""
+
+msgctxt "activesync_va_error_address"
+msgid "Invalid host address for Exchange server."
+msgstr ""
+
+msgctxt "activesync_va_error_certificate"
+msgid "Server certificate invalid. Check device time and date settings or contact server administrator."
+msgstr ""
+
+msgctxt "activesync_va_error_communication"
+msgid "Error in communication with Exchange server."
+msgstr ""
+
+msgctxt "activesync_va_error_disabled"
+msgid "Exchange account disabled. Access refused."
+msgstr ""
+
+msgctxt "activesync_va_error_disk_full"
+msgid "User storage full"
+msgstr ""
+
+msgctxt "activesync_va_error_invalid_credentials"
+msgid "Invalid user name, password or domain for Exchange account."
+msgstr ""
+
+msgctxt "activesync_va_error_maintenance"
+msgid "Exchange server is undergoing maintenance. Synchronization service is unavailable."
+msgstr ""
+
+msgctxt "activesync_va_error_no_response"
+msgid "Exchange server is not responding. Verify that account settings are correct."
+msgstr ""
+
+msgctxt "activesync_va_error_reinstall"
+msgid "Internal error. Remove Exchange account from device, restart device and set up again."
+msgstr ""
+
+msgctxt "activesync_va_error_secure"
+msgid "Error. Either Exchange server requires secure connection or account is disabled."
+msgstr ""
+
+msgctxt "activesync_va_error_server"
+msgid "Error in Exchange server"
+msgstr ""
+
+msgctxt "activesync_va_error_server_policy"
+msgid "Mandatory Exchange server policy failed. Access refused."
+msgstr ""
+
+msgctxt "activesync_va_error_sync"
+msgid "Unable to synchronize with Exchange server."
+msgstr ""
+
+msgctxt "activesync_va_error_system"
+msgid "System error on Exchange server."
+msgstr ""
+
+msgctxt "activesync_va_error_unavailable"
+msgid "Exchange server unavailable"
+msgstr ""
+
+msgctxt "activesync_va_error_unsupported_version"
+msgid "Unsupported software version in Exchange server."
+msgstr ""
+
+msgctxt "activesync_va_every_12_hour"
+msgid "Every 12 hours"
+msgstr ""
+
+msgctxt "activesync_va_every_15_mins"
+msgid "Every 15 minutes"
+msgstr ""
+
+msgctxt "activesync_va_every_30_mins"
+msgid "Every 30 minutes"
+msgstr ""
+
+msgctxt "activesync_va_every_4_hours"
+msgid "Every 4 hours"
+msgstr ""
+
+msgctxt "activesync_va_every_day"
+msgid "Every day"
+msgstr ""
+
+msgctxt "activesync_va_every_hour"
+msgid "Every hour"
+msgstr ""
+
+msgctxt "activesync_va_full_sync_starting"
+msgid "Initializing synchronization"
+msgstr ""
+
+msgctxt "activesync_va_idle"
+msgid "Idle"
+msgstr ""
+
+msgctxt "activesync_va_keep_items"
+msgid "Keep items on device"
+msgstr ""
+
+msgctxt "activesync_va_last_sync"
+msgid "Last synchronization"
+msgstr ""
+
+msgctxt "activesync_va_manual"
+msgid "Manual"
+msgstr ""
+
+msgctxt "activesync_va_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "activesync_va_one_day"
+msgid "1 day"
+msgstr ""
+
+msgctxt "activesync_va_one_month"
+msgid "1 month"
+msgstr ""
+
+msgctxt "activesync_va_one_week"
+msgid "1 week"
+msgstr ""
+
+msgctxt "activesync_va_online"
+msgid "Online"
+msgstr ""
+
+msgctxt "activesync_va_send_at_sync"
+msgid "Send at next synchronization"
+msgstr ""
+
+msgctxt "activesync_va_send_immediately"
+msgid "Send immediately"
+msgstr ""
+
+msgctxt "activesync_va_server_wins"
+msgid "Server takes priority"
+msgstr ""
+
+msgctxt "activesync_va_service_provider"
+msgid "Mail for Exchange"
+msgstr ""
+
+msgctxt "activesync_va_six_months"
+msgid "6 months"
+msgstr ""
+
+msgctxt "activesync_va_status"
+msgid "Status"
+msgstr ""
+
+msgctxt "activesync_va_status_menu_error"
+msgid "Last sync failed"
+msgstr ""
+
+msgctxt "activesync_va_status_menu_last_sync"
+msgid "Last sync %s"
+msgstr ""
+
+msgctxt "activesync_va_status_menu_synchronizing"
+msgid "Synchronizing"
+msgstr ""
+
+msgctxt "activesync_va_sync_failed"
+msgid "Synchronization failed"
+msgstr ""
+
+msgctxt "activesync_va_sync_stopped"
+msgid "Stopped"
+msgstr ""
+
+msgctxt "activesync_va_syncing_calendar"
+msgid "Synchronizing calendar: %d/%d"
+msgstr ""
+
+msgctxt "activesync_va_syncing_contacts"
+msgid "Synchronizing contacts: %d/%d"
+msgstr ""
+
+msgctxt "activesync_va_syncing_email"
+msgid "Synchronizing e-mail: %d/%d"
+msgstr ""
+
+msgctxt "activesync_va_three_days"
+msgid "3 days"
+msgstr ""
+
+msgctxt "activesync_va_three_months"
+msgid "3 months"
+msgstr ""
+
+msgctxt "activesync_va_today"
+msgid "Today"
+msgstr ""
+
+msgctxt "activesync_va_two_weeks"
+msgid "2 weeks"
+msgstr ""
+
+msgctxt "activesync_va_updated"
+msgid "Updated"
+msgstr ""

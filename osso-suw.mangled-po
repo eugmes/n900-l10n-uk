@@ -1,0 +1,141 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-suw 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "startup_bd_timedi_12"
+msgid "12 hrs"
+msgstr ""
+
+msgctxt "startup_bd_timedi_24"
+msgid "24 hrs"
+msgstr ""
+
+msgctxt "startup_bd_timedi_am"
+msgid "AM"
+msgstr ""
+
+msgctxt "startup_bd_timedi_pm"
+msgid "PM"
+msgstr ""
+
+msgctxt "startup_datedi_month"
+msgid "Month"
+msgstr ""
+
+msgctxt "startup_datedi_text"
+msgid "Select correct date by panning through month, day and year"
+msgstr ""
+
+msgctxt "startup_datedi_title"
+msgid "Date"
+msgstr ""
+
+msgctxt "startup_datedi_year"
+msgid "Year"
+msgstr ""
+
+msgctxt "startup_fi_regdi_location"
+msgid "Location:"
+msgstr ""
+
+msgctxt "startup_fi_regdi_settings"
+msgid "Current settings:"
+msgstr ""
+
+msgctxt "startup_ia_clicking_outside"
+msgid "Tapping outside the dialog box allows you to exit without saving any settings"
+msgstr ""
+
+msgctxt "startup_ia_pressbutton"
+msgid "Tap an option to change a setting"
+msgstr ""
+
+msgctxt "startup_ia_regdi_text"
+msgid "Choose preferred location by sliding finger up/down to scroll through list"
+msgstr ""
+
+msgctxt "startup_ia_startup_screen_text"
+msgid "Device loading. Please wait."
+msgstr ""
+
+msgctxt "startup_lang_slidefinger"
+msgid "Slide finger up/down to scroll through the list."
+msgstr ""
+
+msgctxt "startup_lang_text"
+msgid "Choose the preferred language using your finger."
+msgstr ""
+
+msgctxt "startup_lang_title"
+msgid "Language"
+msgstr ""
+
+msgctxt "startup_regdi_timezone"
+msgid "Time zone:"
+msgstr ""
+
+msgctxt "startup_regdi_timezone_value"
+msgid "GMT %d"
+msgstr ""
+
+msgctxt "startup_sel_date_btn"
+msgid "Date"
+msgstr ""
+
+msgctxt "startup_sel_infotext"
+msgid "This device has the following settings"
+msgstr ""
+
+msgctxt "startup_sel_lang_btn"
+msgid "Language"
+msgstr ""
+
+msgctxt "startup_sel_reg_btn"
+msgid "Region"
+msgstr ""
+
+msgctxt "startup_sel_time_btn"
+msgid "Time"
+msgstr ""
+
+msgctxt "startup_startup_screen_title"
+msgid "Welcome"
+msgstr ""
+
+msgctxt "startup_ti_regdi_title"
+msgid "Region"
+msgstr ""
+
+msgctxt "startup_timedi_digital_clock"
+msgid "%d:%d"
+msgstr ""
+
+msgctxt "startup_timedi_text"
+msgid "Use finger to move clock hands to correct time"
+msgstr ""
+
+msgctxt "startup_timedi_title"
+msgid "Time"
+msgstr ""
+
+msgctxt "startup_timezonedi_title"
+msgid "Select time zone (%s)"
+msgstr ""
+
+msgctxt "startup_va_datedi_day"
+msgid "Day"
+msgstr ""
+
+msgctxt "startup_va_timezonedi_values"
+msgid "%s (%s)"
+msgstr ""

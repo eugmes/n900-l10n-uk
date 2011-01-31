@@ -1,0 +1,337 @@
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-clock 20090629141146\n"
+"Report-Msgid-Bugs-To: eugen@debian.org\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2011-01-25 16:49+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+"X-Generator: Lokalize 1.0\n"
+
+msgctxt "cloc_alarm_settings_title"
+msgid "Alarm settings"
+msgstr "Налаштування будильника"
+
+msgctxt "cloc_ap_name"
+msgid "Clock"
+msgstr "Годинник"
+
+msgctxt "cloc_ap_name_short"
+msgid "Clock"
+msgstr "Годинник"
+
+msgctxt "cloc_bd_alarm_notification_snooze"
+msgid "Snooze"
+msgstr "Дрімати"
+
+msgctxt "cloc_bd_stop"
+msgid "Stop"
+msgstr "Стоп"
+
+msgctxt "cloc_bd_view"
+msgid "View"
+msgstr "Переглянути"
+
+msgctxt "cloc_fi_active"
+msgid "Alarm active"
+msgstr "Будильник активний"
+
+msgctxt "cloc_fi_in_this_timezone"
+msgid "In this time zone"
+msgstr "В цьому часовому поясі"
+
+msgctxt "cloc_fi_local_time"
+msgid "Local time"
+msgstr "Місцевий час"
+
+msgctxt "cloc_fi_location"
+msgid "%s, %s"
+msgstr ""
+
+msgctxt "cloc_fi_no_matches"
+msgid "No matches"
+msgstr "Немає співпадіння"
+
+msgctxt "cloc_fi_power_up_note_description"
+msgid "Switch on device?"
+msgstr "Увімкнути пристрій?"
+
+msgctxt "cloc_fi_remote_time"
+msgid "Remote time"
+msgstr "Віддалений час"
+
+msgctxt "cloc_fi_repeat"
+msgid "Repeat"
+msgstr "Повторювати"
+
+msgctxt "cloc_fi_set_alarm_tone1"
+msgid "Clock alarm 1"
+msgstr "Будильник 1"
+
+msgctxt "cloc_fi_set_alarm_tone2"
+msgid "Clock alarm 2"
+msgstr "Будильник 2"
+
+msgctxt "cloc_fi_set_alarm_tone3"
+msgid "Clock alarm 3"
+msgstr "Будильник 3"
+
+msgctxt "cloc_fi_time"
+msgid "Time"
+msgstr "Час"
+
+msgctxt "cloc_fi_time_difference"
+msgid "Time difference"
+msgstr "Різниця часу"
+
+msgctxt "cloc_fi_timezone"
+msgid "GMT %+d"
+msgstr ""
+
+msgctxt "cloc_fi_timezone_minutes"
+msgid "GMT %+d:%d"
+msgstr ""
+
+msgctxt "cloc_fi_timezonefull"
+msgid "GMT %+d (%s, %s)"
+msgstr ""
+
+msgctxt "cloc_fi_timezonefull_minutes"
+msgid "GMT %+d:%d (%s, %s)"
+msgstr ""
+
+msgctxt "cloc_ia_choose_time_zone"
+msgid "Choose time zone"
+msgstr "Виберіть часовий пояс"
+
+msgctxt "cloc_ib_file_deleted"
+msgid "Current alarm tone deleted"
+msgstr "Поточний звук будильника видалено"
+
+msgctxt "cloc_ib_world_clock_same"
+msgid "City already added"
+msgstr "Місто вже додано"
+
+msgctxt "cloc_me_menu_settings_regional"
+msgid "Regional settings"
+msgstr "Регіональні налаштування"
+
+msgctxt "cloc_me_new_world_clock"
+msgid "New World clock"
+msgstr "Новий світовий годинник"
+
+msgctxt "cloc_ni_unable_to_perform"
+msgid "Unable to perform operation. Try again."
+msgstr "Неможливо виконати операцію. Спробуйте знову."
+
+msgctxt "cloc_notify_alarm_set"
+msgid "Time left until alarm %s"
+msgstr "Час до будильника: %s"
+
+msgctxt "cloc_notify_alarm_set_days"
+msgid "Time left until alarm about %s"
+msgstr "Час до будильника: близько %s"
+
+msgctxt "cloc_ti_alarm_notification_title"
+msgid "Alarm"
+msgstr "Будильник"
+
+msgctxt "cloc_ti_alarm_tone"
+msgid "Choose alarm tone"
+msgstr "Виберіть звук будильника"
+
+msgctxt "cloc_ti_alarms"
+msgid "Alarms"
+msgstr "Будильники"
+
+msgctxt "cloc_ti_edit_alarm_title"
+msgid "Edit alarm"
+msgstr "Редагувати будильник"
+
+msgctxt "cloc_ti_next"
+msgid "Next"
+msgstr "Наступний"
+
+msgctxt "cloc_ti_open_sound_clip"
+msgid "Add alarm tone"
+msgstr "Додати звук будильника"
+
+msgctxt "cloc_ti_search_city_title"
+msgid "Search city"
+msgstr "Шукати місто"
+
+msgctxt "cloc_ti_start_day"
+msgid "on %s"
+msgstr "в %s"
+
+msgctxt "cloc_ti_start_gmt"
+msgid "Currently %s"
+msgstr "Зараз %s"
+
+msgctxt "cloc_ti_start_no"
+msgid "(no alarms)"
+msgstr "(немає будильників)"
+
+msgctxt "cloc_ti_start_tomorrow"
+msgid "Tomorrow"
+msgstr "Завтра"
+
+msgctxt "cloc_ti_world_clock_details"
+msgid "World clock details"
+msgstr "Деталі світового годинника"
+
+msgctxt "cloc_ti_world_clocks"
+msgid "World clocks"
+msgstr "Світові годинники"
+
+msgctxt "cloc_va_amount_day|cloc_va_amount_days"
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d день"
+msgstr[1] "%d дні"
+msgstr[2] "%d днів"
+
+msgctxt "cloc_va_amount_hour|cloc_va_amount_hours"
+msgid "%+d hour"
+msgid_plural "%+d hours"
+msgstr[0] "%+d година"
+msgstr[1] "%+d години"
+msgstr[2] "%+d годин"
+
+msgctxt "cloc_va_amount_hour2|cloc_va_amount_hours2"
+msgid "%s and %d hour"
+msgid_plural "%s and %d hours"
+msgstr[0] "%s і %d година"
+msgstr[1] "%s і %d години"
+msgstr[2] "%s і %d годин"
+
+msgctxt "cloc_va_diff_hours"
+msgid "%s"
+msgstr ""
+
+msgctxt "cloc_va_diff_hours_mins"
+msgid "%s %d minutes"
+msgstr "%s %d хвилин"
+
+msgctxt "cloc_va_every_dayname"
+msgid "%s"
+msgstr ""
+
+msgctxt "cloc_va_every_dayname_short"
+msgid "%s"
+msgstr ""
+
+msgctxt "cloc_va_everyday"
+msgid "Every day"
+msgstr "кожного дня"
+
+msgctxt "cloc_va_never"
+msgid "Never"
+msgstr "ніколи"
+
+msgctxt "cloc_va_placeholder_title"
+msgid "Title"
+msgstr "Назва"
+
+msgctxt "cloc_va_select_object_no_sound_clips"
+msgid "(no files)"
+msgstr "(немає файлів)"
+
+msgctxt "clock_error_unabletoplay"
+msgid "Unable to play selected alarm tone"
+msgstr "Неможливо вибрати звук будильника"
+
+msgctxt "clock_ti_new_alarm"
+msgid "New alarm"
+msgstr "Новий будильник"
+
+msgctxt "cpal_fi_pr_device_language"
+msgid "Device language"
+msgstr "Мова пристрою"
+
+msgctxt "cpal_fi_pr_info_date_format"
+msgid "Date format"
+msgstr "Формат дати"
+
+msgctxt "cpal_fi_pr_info_decimal_point"
+msgid "Decimal separator"
+msgstr "Десятковий роздільник"
+
+msgctxt "cpal_fi_pr_info_thousands_separator"
+msgid "Thousands separator"
+msgstr "Роздільник тисяч"
+
+msgctxt "cpal_fi_pr_your_region"
+msgid "Regional settings"
+msgstr "Регіональні налаштування"
+
+msgctxt "cpal_nc_changing_language"
+msgid ""
+"All applications will be closed and device will restart.\n"
+"Continue anyway?"
+msgstr ""
+"Всі програми будуть закриті і пристрій буде перезавантажено.\n"
+"Всеодно продовжувати?"
+
+msgctxt "cpal_ti_language_and_regional_title"
+msgid "Language & region"
+msgstr "Мова і регіон"
+
+msgctxt "dati_ap_application_title"
+msgid "Date and time"
+msgstr "Дата та час"
+
+msgctxt "dati_fi_24_clock"
+msgid "24-hr clock"
+msgstr "24-год. годинник"
+
+msgctxt "dati_fi_alarm_tone"
+msgid "Alarm tone"
+msgstr "Звук будильника"
+
+msgctxt "dati_fi_pr_date"
+msgid "Date"
+msgstr "Дата"
+
+msgctxt "dati_fi_pr_time"
+msgid "Time"
+msgstr "Час"
+
+msgctxt "dati_fi_snooze_time"
+msgid "Snooze time"
+msgstr "Час дрімання"
+
+msgctxt "dati_fi_time_synchronization"
+msgid "Update automatically"
+msgstr "Оновлювати автоматично"
+
+msgctxt "dati_ia_adjust_date_and_time"
+msgid "Adjust date and time"
+msgstr "Встановити дату та час"
+
+msgctxt "dati_ia_pr_timezone"
+msgid "Time zone"
+msgstr "Часовий пояс"
+
+msgctxt "dati_ti_menu_plugin"
+msgid "Clock & Alarms"
+msgstr "Годинник і будильник"
+
+msgctxt "dati_va_snooze_10"
+msgid "10 minutes"
+msgstr "10 хвилин"
+
+msgctxt "dati_va_snooze_15"
+msgid "15 minutes"
+msgstr "15 хвилин"
+
+msgctxt "dati_va_snooze_5"
+msgid "5 minutes"
+msgstr "5 хвилин"

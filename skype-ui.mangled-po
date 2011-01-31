@@ -1,0 +1,429 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: skype-ui 20090810095026\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2009.08.10 09:50+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "messaging_fi_another_participant_invited"
+msgid "%s invited %s to this group"
+msgstr ""
+
+msgctxt "messaging_fi_another_participant_invited_unknown_invitor"
+msgid "%s is invited to this group."
+msgstr ""
+
+msgctxt "messaging_fi_changed_room_topic"
+msgid "%s changed room topic to: %s"
+msgstr ""
+
+msgctxt "messaging_fi_changed_room_topic_unknown_modifier"
+msgid "Room topic changed to: %s"
+msgstr ""
+
+msgctxt "messaging_fi_group_chat_launched"
+msgid "%s invited %s. New group chat started."
+msgstr ""
+
+msgctxt "messaging_fi_group_chat_members_in_chat"
+msgid "This IM is between %s and you."
+msgstr ""
+
+msgctxt "messaging_fi_group_chat_more_than_4_members"
+msgid "This IM is between %s people"
+msgstr ""
+
+msgctxt "messaging_fi_participants_empty_list"
+msgid "No participants"
+msgstr ""
+
+msgctxt "messaging_fi_person_has_left_room"
+msgid "%s has left"
+msgstr ""
+
+msgctxt "messaging_fi_you_have_left_room"
+msgid "You have left this group."
+msgstr ""
+
+msgctxt "messaging_me_invite"
+msgid "Invite"
+msgstr ""
+
+msgctxt "messaging_me_leave"
+msgid "Leave"
+msgstr ""
+
+msgctxt "messaging_me_participants"
+msgid "Participants"
+msgstr ""
+
+msgctxt "messaging_me_set_topic"
+msgid "Set topic"
+msgstr ""
+
+msgctxt "messaging_ti_group_chat_conversation"
+msgid "Topic (%d)"
+msgstr ""
+
+msgctxt "messaging_ti_group_chat_participants"
+msgid "Participants (%s)"
+msgstr ""
+
+msgctxt "messaging_ti_topic_empty_group"
+msgid "Empty group"
+msgstr ""
+
+msgctxt "skype_bd_add_contact"
+msgid "Add"
+msgstr ""
+
+msgctxt "skype_bd_block"
+msgid "Block"
+msgstr ""
+
+msgctxt "skype_bd_clear"
+msgid "Clear"
+msgstr ""
+
+msgctxt "skype_bd_export_export"
+msgid "Export"
+msgstr ""
+
+msgctxt "skype_bd_import_import"
+msgid "Import"
+msgstr ""
+
+msgctxt "skype_bd_incoming_call_reply_with_chat"
+msgid "Reply with IM"
+msgstr ""
+
+msgctxt "skype_bd_licence_agreement"
+msgid "End User License Agreement"
+msgstr ""
+
+msgctxt "skype_bd_privacy_statement"
+msgid "Privacy statement"
+msgstr ""
+
+msgctxt "skype_bd_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "skype_bd_settings_blocking_list"
+msgid "Blocked list"
+msgstr ""
+
+msgctxt "skype_bd_settings_call_forwarding"
+msgid "Call forwarding"
+msgstr ""
+
+msgctxt "skype_bd_settings_forward_to"
+msgid "Forward to"
+msgstr ""
+
+msgctxt "skype_bd_settings_no_blocked_users"
+msgid "No blocked Skype contacts"
+msgstr ""
+
+msgctxt "skype_bd_settings_privacy_call"
+msgid "Privacy for calls"
+msgstr ""
+
+msgctxt "skype_bd_settings_privacy_chat"
+msgid "Privacy for instant messages"
+msgstr ""
+
+msgctxt "skype_bd_settings_unblock"
+msgid "Unblock"
+msgstr ""
+
+msgctxt "skype_bd_settings_use_skypeout"
+msgid "Enable calling phones"
+msgstr ""
+
+msgctxt "skype_bd_terms_of_service"
+msgid "Terms of service"
+msgstr ""
+
+msgctxt "skype_bd_terms_of_service_accept"
+msgid "Accept"
+msgstr ""
+
+msgctxt "skype_bd_terms_of_service_decline"
+msgid "Decline"
+msgstr ""
+
+msgctxt "skype_fi_about_me"
+msgid "About me"
+msgstr ""
+
+msgctxt "skype_fi_add_introductory_message"
+msgid "Enter introductory message about you"
+msgstr ""
+
+msgctxt "skype_fi_add_skype_age"
+msgid "Age"
+msgstr ""
+
+msgctxt "skype_fi_add_skype_gender"
+msgid "Gender"
+msgstr ""
+
+msgctxt "skype_fi_add_skype_language"
+msgid "Language"
+msgstr ""
+
+msgctxt "skype_fi_add_skype_name"
+msgid "Skype Name"
+msgstr ""
+
+msgctxt "skype_fi_adding_contact_failed"
+msgid "Adding contact failed"
+msgstr ""
+
+msgctxt "skype_fi_agree_terms_of_usage"
+msgid "I have read and agree to the Skype terms and privacy policy."
+msgstr ""
+
+msgctxt "skype_fi_call_header_voicemail"
+msgid "Voicemail"
+msgstr ""
+
+msgctxt "skype_fi_call_live_rate"
+msgid "Call rate %s"
+msgstr ""
+
+msgctxt "skype_fi_call_old_voicemail_removed"
+msgid "Unable to open. Voicemail deleted from server."
+msgstr ""
+
+msgctxt "skype_fi_contact_is_already_in_list"
+msgid "Contact already in contact list"
+msgstr ""
+
+msgctxt "skype_fi_credit_is_low"
+msgid "Credit low"
+msgstr ""
+
+msgctxt "skype_fi_email"
+msgid "Email"
+msgstr ""
+
+msgctxt "skype_fi_email_not_filled"
+msgid "Enter email address first"
+msgstr ""
+
+msgctxt "skype_fi_enter_fields_first"
+msgid "Enter Skype name and password first"
+msgstr ""
+
+msgctxt "skype_fi_export_failed"
+msgid "Export failed"
+msgstr ""
+
+msgctxt "skype_fi_full_name"
+msgid "Full name"
+msgstr ""
+
+msgctxt "skype_fi_info_terms_of_service"
+msgid "No Emergency calls. Skype is not a replacement for your ordinary telephone and cannot be used for emergency calls. I agree to the End User License, Terms of Service and Privacy Statement."
+msgstr ""
+
+msgctxt "skype_fi_invalid_email_address"
+msgid "Email address is invalid"
+msgstr ""
+
+msgctxt "skype_fi_lisence_agreement"
+msgid "Not available yet. Will be defined by Skype"
+msgstr ""
+
+msgctxt "skype_fi_not_enough_credits"
+msgid "Not enough credit"
+msgstr ""
+
+msgctxt "skype_fi_password_blacklisted"
+msgid "Password is blacklisted"
+msgstr ""
+
+msgctxt "skype_fi_password_invalid_format"
+msgid "Password is in invalid format"
+msgstr ""
+
+msgctxt "skype_fi_password_not_validated"
+msgid "Password is not validated"
+msgstr ""
+
+msgctxt "skype_fi_password_too_long"
+msgid "Password is too long"
+msgstr ""
+
+msgctxt "skype_fi_password_too_short"
+msgid "Password is too short"
+msgstr ""
+
+msgctxt "skype_fi_password_too_simple"
+msgid "Password is too simple"
+msgstr ""
+
+msgctxt "skype_fi_password_with_invalid_character"
+msgid "Password contains invalid character"
+msgstr ""
+
+msgctxt "skype_fi_privacy_statement"
+msgid "Not available yet. Will be defined by Skype"
+msgstr ""
+
+msgctxt "skype_fi_same_skypename_and_password"
+msgid "Skype Name and password must be different"
+msgstr ""
+
+msgctxt "skype_fi_search_enter_search_criteria"
+msgid "Enter name or email address"
+msgstr ""
+
+msgctxt "skype_fi_search_failed"
+msgid "Search operation failed"
+msgstr ""
+
+msgctxt "skype_fi_skype_faq"
+msgid "FAQ"
+msgstr ""
+
+msgctxt "skype_fi_skype_invalid_number"
+msgid "Incorrect number or username for call forwarding"
+msgstr ""
+
+msgctxt "skype_fi_skype_live_rates"
+msgid "Live call rates"
+msgstr ""
+
+msgctxt "skype_fi_skype_name_too_long"
+msgid "Skype Name is too long"
+msgstr ""
+
+msgctxt "skype_fi_skype_name_too_short"
+msgid "Skype Name is too short"
+msgstr ""
+
+msgctxt "skype_fi_skype_name_with_invalid_character"
+msgid "Skype Name contains invalid character"
+msgstr ""
+
+msgctxt "skype_fi_skype_name_with_invalid_prefix"
+msgid "Skype Name contains invalid prefix"
+msgstr ""
+
+msgctxt "skype_fi_skype_report_problem"
+msgid "Report problem"
+msgstr ""
+
+msgctxt "skype_fi_terms_of_service"
+msgid "Not available yet. Will be defined by Skype"
+msgstr ""
+
+msgctxt "skype_fi_too_short_pstn_number"
+msgid "Phone number is too short"
+msgstr ""
+
+msgctxt "skype_fi_unable_to_find_contact"
+msgid "Unable to find contact"
+msgstr ""
+
+msgctxt "skype_fi_use_me_card_for_profile"
+msgid "Use 'My information' for Skype profile"
+msgstr ""
+
+msgctxt "skype_ia_export_no_contacts"
+msgid "No contacts to export. Phone numbers must be in international format."
+msgstr ""
+
+msgctxt "skype_ia_import_no_contacts"
+msgid "No phone numbers found"
+msgstr ""
+
+msgctxt "skype_me_buy_credit"
+msgid "Buy credit"
+msgstr ""
+
+msgctxt "skype_me_export_skypeout_contacts"
+msgid "Export phone numbers"
+msgstr ""
+
+msgctxt "skype_me_imort_skypeout_contacts"
+msgid "Import phone numbers"
+msgstr ""
+
+msgctxt "skype_me_search_skype_contacts"
+msgid "Search Skype contacts"
+msgstr ""
+
+msgctxt "skype_me_skype_support"
+msgid "Skype support"
+msgstr ""
+
+msgctxt "skype_nc_block_contact"
+msgid "Block %s?"
+msgstr ""
+
+msgctxt "skype_nc_leave_chat"
+msgid "When you leave this group IM, you are unable to rejoin without an invitation. Do you want to leave this group?"
+msgstr ""
+
+msgctxt "skype_ti_add_skype_contact"
+msgid "Add Skype contact - %s"
+msgstr ""
+
+msgctxt "skype_ti_conference_participants"
+msgid "Participants"
+msgstr ""
+
+msgctxt "skype_ti_edit_my_profile"
+msgid "Edit Skype profile"
+msgstr ""
+
+msgctxt "skype_ti_export_skype_contacts"
+msgid "Export phone numbers"
+msgstr ""
+
+msgctxt "skype_ti_import_skype_contacts"
+msgid "Import phone numbers"
+msgstr ""
+
+msgctxt "skype_ti_incoming_call_options"
+msgid "Reply"
+msgstr ""
+
+msgctxt "skype_ti_new_skype_account"
+msgid "Account setup – New Skype account"
+msgstr ""
+
+msgctxt "skype_ti_search_skype_contacts"
+msgid "Search Skype contacts"
+msgstr ""
+
+msgctxt "skype_ti_skype_support"
+msgid "Skype support"
+msgstr ""
+
+msgctxt "skype_ti_terms_of_service"
+msgid "Terms of service"
+msgstr ""
+
+msgctxt "skype_va_settings_not_available"
+msgid "Not available"
+msgstr ""
+
+msgctxt "skype_va_settings_privacy_anyone"
+msgid "Allow contact from anyone"
+msgstr ""
+
+msgctxt "skype_va_settings_privacy_contact_only"
+msgid "Only allow contact from contacts"
+msgstr ""

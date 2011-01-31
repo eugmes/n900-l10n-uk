@@ -1,0 +1,1436 @@
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20091102095704\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2011-01-25 23:43+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+"X-Generator: Lokalize 1.0\n"
+
+msgctxt "addr_ap_address_book"
+msgid "Contacts"
+msgstr "Контакти"
+
+msgctxt "addr_bd_browse"
+msgid "Browse"
+msgstr "Переглянути"
+
+msgctxt "addr_bd_cont_starter_address"
+msgid "Address"
+msgstr "Адреса"
+
+msgctxt "addr_bd_cont_starter_address_home"
+msgid "home"
+msgstr "домашня"
+
+msgctxt "addr_bd_cont_starter_address_work"
+msgid "work"
+msgstr "робоча"
+
+msgctxt "addr_bd_cont_starter_birthday"
+msgid "Birthday"
+msgstr "День народження"
+
+msgctxt "addr_bd_cont_starter_call"
+msgid "%s call"
+msgstr "%s дзвінок"
+
+msgctxt "addr_bd_cont_starter_chat"
+msgid "%s IM"
+msgstr ""
+
+msgctxt "addr_bd_cont_starter_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "addr_bd_cont_starter_email_home"
+msgid "home"
+msgstr "домашній"
+
+msgctxt "addr_bd_cont_starter_email_work"
+msgid "work"
+msgstr "робочий"
+
+msgctxt "addr_bd_cont_starter_location"
+msgid "Location"
+msgstr "Розташування"
+
+msgctxt "addr_bd_cont_starter_mobile"
+msgid "Cell"
+msgstr "Мобільний"
+
+msgctxt "addr_bd_cont_starter_mobile_home"
+msgid "home"
+msgstr "домашній"
+
+msgctxt "addr_bd_cont_starter_mobile_work"
+msgid "work"
+msgstr "робочий"
+
+msgctxt "addr_bd_cont_starter_phone"
+msgid "Phone"
+msgstr "Телефон"
+
+msgctxt "addr_bd_cont_starter_phone_fax"
+msgid "fax"
+msgstr "факс"
+
+msgctxt "addr_bd_cont_starter_phone_home"
+msgid "home"
+msgstr "домашній"
+
+msgctxt "addr_bd_cont_starter_phone_other"
+msgid "unsupported"
+msgstr "непідтримуваний"
+
+msgctxt "addr_bd_cont_starter_phone_work"
+msgid "work"
+msgstr "робочий"
+
+msgctxt "addr_bd_cont_starter_sip_audio"
+msgid "SIP audio"
+msgstr "SIP аудіо"
+
+msgctxt "addr_bd_cont_starter_sip_out"
+msgid "SIP"
+msgstr ""
+
+msgctxt "addr_bd_cont_starter_sip_out_home"
+msgid "home"
+msgstr "домашній"
+
+msgctxt "addr_bd_cont_starter_sip_out_work"
+msgid "work"
+msgstr "робочий"
+
+msgctxt "addr_bd_cont_starter_sip_video"
+msgid "SIP video"
+msgstr "SIP відео"
+
+msgctxt "addr_bd_cont_starter_skypeout"
+msgid "Call with Skype"
+msgstr "Виклик Skype"
+
+msgctxt "addr_bd_cont_starter_skypeout_home"
+msgid "home"
+msgstr "домашній"
+
+msgctxt "addr_bd_cont_starter_skypeout_work"
+msgid "work"
+msgstr "робочий"
+
+msgctxt "addr_bd_cont_starter_sms"
+msgid "SMS"
+msgstr ""
+
+msgctxt "addr_bd_cont_starter_sms_home"
+msgid "home"
+msgstr "домашній"
+
+msgctxt "addr_bd_cont_starter_sms_work"
+msgid "work"
+msgstr "робочий"
+
+msgctxt "addr_bd_cont_starter_video_call"
+msgid "%s video call"
+msgstr "%s відео виклик"
+
+msgctxt "addr_bd_cont_starter_webpage"
+msgid "Web page"
+msgstr "Веб-сторінка"
+
+msgctxt "addr_bd_copy_sim"
+msgid "Copy"
+msgstr "Копіювати"
+
+msgctxt "addr_bd_delete_locally"
+msgid "Delete all contacts from device"
+msgstr "Видалити всі контакти з пристрою"
+
+msgctxt "addr_bd_get_contacts_file"
+msgid "Import contacts"
+msgstr "Імпортувати контакти"
+
+msgctxt "addr_bd_get_contacts_im_account"
+msgid "Import contacts from new account"
+msgstr "Імпортувати контакти з нового запису"
+
+msgctxt "addr_bd_get_contacts_sim_card"
+msgid "Copy from SIM card"
+msgstr "Копіювати з SIM-карти"
+
+msgctxt "addr_bd_get_contacts_sync"
+msgid "Synchronize from other device"
+msgstr "Синхронізувати з іншого пристрою"
+
+msgctxt "addr_bd_get_from_file"
+msgid "Import contacts file"
+msgstr "Імпортувати файл контактів"
+
+msgctxt "addr_bd_get_from_folder"
+msgid "Import contacts folder"
+msgstr "Імпортувати теку контактів"
+
+msgctxt "addr_bd_import"
+msgid "Import"
+msgstr "Імпортувати"
+
+msgctxt "addr_bd_import_exchange_contacts"
+msgid "Import Mail Exch. contacts"
+msgstr "Імпортувати контакти Mail Exch."
+
+msgctxt "addr_bd_newedit_addfield"
+msgid "Add field"
+msgstr "Додати поле"
+
+msgctxt "addr_bd_newedit_address"
+msgid "Address"
+msgstr "Адреса"
+
+msgctxt "addr_bd_newedit_address_country"
+msgid "Country"
+msgstr "Країна"
+
+msgctxt "addr_bd_newedit_birthday"
+msgid "Birthday"
+msgstr "День народження"
+
+msgctxt "addr_bd_newedit_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "addr_bd_newedit_gender"
+msgid "Gender"
+msgstr "Стать"
+
+msgctxt "addr_bd_newedit_phone"
+msgid "Phone"
+msgstr "Телефон"
+
+msgctxt "addr_bd_newedit_phone_mobile"
+msgid "Cell"
+msgstr "Мобільний"
+
+msgctxt "addr_bd_newedit_removefield"
+msgid "Delete fields"
+msgstr "Видалити поля"
+
+msgctxt "addr_bd_send_card_bluetooth"
+msgid "Bluetooth"
+msgstr ""
+
+msgctxt "addr_bd_send_card_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "addr_bd_send_card_sms"
+msgid "Text message"
+msgstr "Текстове повідомлення"
+
+msgctxt "addr_bd_temporary_add"
+msgid "Merge with contact"
+msgstr "З'єднати з контактом"
+
+msgctxt "addr_bd_temporary_call"
+msgid "Call"
+msgstr "Виклик"
+
+msgctxt "addr_bd_temporary_chat"
+msgid "Chat"
+msgstr "Чат"
+
+msgctxt "addr_bd_temporary_new"
+msgid "New contact"
+msgstr "Новий контакт"
+
+msgctxt "addr_bd_temporary_sip"
+msgid "SIP"
+msgstr ""
+
+msgctxt "addr_bd_temporary_sipaudio"
+msgid "SIP audio"
+msgstr "SIP аудіо"
+
+msgctxt "addr_bd_temporary_sipvideo"
+msgid "SIP video"
+msgstr "SIP відео"
+
+msgctxt "addr_bd_temporary_skypecall"
+msgid "Skype call"
+msgstr "Skype-виклик"
+
+msgctxt "addr_bd_temporary_skypechat"
+msgid "Skype chat"
+msgstr "Skype чат"
+
+msgctxt "addr_bd_temporary_skypeout"
+msgid "Call with Skype"
+msgstr "Дзвінок зі Skype"
+
+msgctxt "addr_bd_temporary_sms"
+msgid "Text message"
+msgstr "Текстове повідомлення"
+
+msgctxt "addr_bd_va_newedit_address_country"
+msgid "%s"
+msgstr ""
+
+msgctxt "addr_bd_voicemail"
+msgid "Voicemail number"
+msgstr "Номер голосової пошти"
+
+msgctxt "addr_fi_cont_starter_company"
+msgid "Company"
+msgstr "Компанія"
+
+msgctxt "addr_fi_cont_starter_gender"
+msgid "Gender"
+msgstr "Стать"
+
+msgctxt "addr_fi_cont_starter_nickname"
+msgid "Nickname"
+msgstr "Нік"
+
+msgctxt "addr_fi_cont_starter_note"
+msgid "Note"
+msgstr "Нотатки"
+
+msgctxt "addr_fi_cont_starter_title"
+msgid "Job title"
+msgstr "Посада"
+
+msgctxt "addr_fi_display_sms_only_for_mobile"
+msgid "Display SMS only for Cell numbers"
+msgstr "Показувати SMS тільки для мобільних"
+
+msgctxt "addr_fi_display_video_calling_options"
+msgid "Display video calling option"
+msgstr "Показувати опцію відео-виклику"
+
+msgctxt "addr_fi_displayname"
+msgid "Display names"
+msgstr "Показувати імена"
+
+msgctxt "addr_fi_export_wiz_st1a_all"
+msgid "All contacts"
+msgstr "Всі контакти"
+
+msgctxt "addr_fi_export_wiz_st1a_format"
+msgid "Export:"
+msgstr "Експортувати:"
+
+msgctxt "addr_fi_export_wiz_st1a_selected"
+msgid "Selected contacts"
+msgstr "Вибрані контакти"
+
+msgctxt "addr_fi_export_wiz_st2_format"
+msgid "Export to:"
+msgstr "Експортувати в:"
+
+msgctxt "addr_fi_export_wiz_st3_location"
+msgid "Location"
+msgstr "Розташування"
+
+msgctxt "addr_fi_export_wiz_st3_name_folder"
+msgid "Folder name"
+msgstr "Назва теки"
+
+msgctxt "addr_fi_mecard_address"
+msgid "Address"
+msgstr "Адреса"
+
+msgctxt "addr_fi_mecard_address_home"
+msgid "Address (home)"
+msgstr "Адреса (домашня)"
+
+msgctxt "addr_fi_mecard_address_work"
+msgid "Address (work)"
+msgstr "Адреса (робоча)"
+
+msgctxt "addr_fi_mecard_birthday"
+msgid "Birthday"
+msgstr "День народження"
+
+msgctxt "addr_fi_mecard_chat_googletalk"
+msgid "Google Talk user name"
+msgstr "Ім'я користувача Google Talk"
+
+msgctxt "addr_fi_mecard_chat_jabber"
+msgid "Jabber user name"
+msgstr "Ім'я користувача Jabber"
+
+msgctxt "addr_fi_mecard_chat_nokiachat"
+msgid "Nokia user name"
+msgstr "Ім'я користувача Nokia"
+
+msgctxt "addr_fi_mecard_chat_sip"
+msgid "SIP user name"
+msgstr "Ім'я користувача SIP"
+
+msgctxt "addr_fi_mecard_chat_skype"
+msgid "Skype Name"
+msgstr "Skype-ім'я"
+
+msgctxt "addr_fi_mecard_company"
+msgid "Company"
+msgstr "Компанія"
+
+msgctxt "addr_fi_mecard_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "addr_fi_mecard_email_home"
+msgid "E-mail (home)"
+msgstr "E-mail (домашній)"
+
+msgctxt "addr_fi_mecard_email_work"
+msgid "E-mail (work)"
+msgstr "E-mail (робочий)"
+
+msgctxt "addr_fi_mecard_gender"
+msgid "Gender"
+msgstr "Стать"
+
+msgctxt "addr_fi_mecard_mobile"
+msgid "Cell"
+msgstr "Мобільний"
+
+msgctxt "addr_fi_mecard_mobile_home"
+msgid "Cell (home)"
+msgstr "Мобільний (домашній)"
+
+msgctxt "addr_fi_mecard_mobile_work"
+msgid "Cell (work)"
+msgstr "Мобільний (робочий)"
+
+msgctxt "addr_fi_mecard_name"
+msgid "Name"
+msgstr "Ім'я"
+
+msgctxt "addr_fi_mecard_nickname"
+msgid "Nickname"
+msgstr "Нік"
+
+msgctxt "addr_fi_mecard_note"
+msgid "Note"
+msgstr "Нотатки"
+
+msgctxt "addr_fi_mecard_phone"
+msgid "Phone"
+msgstr "Телефон"
+
+msgctxt "addr_fi_mecard_phone_fax"
+msgid "Fax"
+msgstr "Факс"
+
+msgctxt "addr_fi_mecard_phone_home"
+msgid "Phone (home)"
+msgstr "Телефон (домашній)"
+
+msgctxt "addr_fi_mecard_phone_work"
+msgid "Phone (work)"
+msgstr "Телефон (робочий)"
+
+msgctxt "addr_fi_mecard_title"
+msgid "Job title"
+msgstr "Посада"
+
+msgctxt "addr_fi_mecard_webpage"
+msgid "Web page"
+msgstr "Веб-сторінка"
+
+msgctxt "addr_fi_newedit_address_city"
+msgid "City"
+msgstr "Місто"
+
+msgctxt "addr_fi_newedit_address_extension"
+msgid "Extension"
+msgstr ""
+
+msgctxt "addr_fi_newedit_address_p_o_box"
+msgid "PO Box"
+msgstr "Абонентська скринька"
+
+msgctxt "addr_fi_newedit_address_postal"
+msgid "Zip code"
+msgstr "Індекс"
+
+msgctxt "addr_fi_newedit_address_region"
+msgid "State/Region"
+msgstr "Країна/регіон"
+
+msgctxt "addr_fi_newedit_address_street"
+msgid "Street"
+msgstr "Вулиця"
+
+msgctxt "addr_fi_newedit_company"
+msgid "Company"
+msgstr "Компанія"
+
+msgctxt "addr_fi_newedit_first_name"
+msgid "First name"
+msgstr "Ім'я"
+
+msgctxt "addr_fi_newedit_gtalk_chat"
+msgid "Google Talk user name"
+msgstr "Ім'я користувача Google Talk"
+
+msgctxt "addr_fi_newedit_jabber_chat"
+msgid "Jabber user name"
+msgstr "Ім'я користувача Jabber"
+
+msgctxt "addr_fi_newedit_last_name"
+msgid "Last name"
+msgstr "Прізвище"
+
+msgctxt "addr_fi_newedit_nickname"
+msgid "Nickname"
+msgstr "Нік"
+
+msgctxt "addr_fi_newedit_nokia_chat"
+msgid "Nokia user name"
+msgstr "Ім'я користувача Nokia"
+
+msgctxt "addr_fi_newedit_note"
+msgid "Note"
+msgstr "Нотатки"
+
+msgctxt "addr_fi_newedit_sip_chat"
+msgid "SIP user name"
+msgstr "Ім'я користувача SIP"
+
+msgctxt "addr_fi_newedit_skype_chat"
+msgid "Skype Name"
+msgstr "Skype-ім'я"
+
+msgctxt "addr_fi_newedit_title"
+msgid "Job title"
+msgstr "Посада"
+
+msgctxt "addr_fi_newedit_webpage"
+msgid "Web page"
+msgstr "Веб-сторінка"
+
+msgctxt "addr_fi_search_find_toolbar"
+msgid "Search"
+msgstr "Пошук"
+
+msgctxt "addr_fi_solve_conflict_birthday"
+msgid "Birthday"
+msgstr "День народження"
+
+msgctxt "addr_fi_solve_conflict_company"
+msgid "Company"
+msgstr "Компанія"
+
+msgctxt "addr_fi_solve_conflict_first"
+msgid "First name"
+msgstr "Ім'я"
+
+msgctxt "addr_fi_solve_conflict_gender"
+msgid "Gender"
+msgstr "Стать"
+
+msgctxt "addr_fi_solve_conflict_last"
+msgid "Last name"
+msgstr "Прізвище"
+
+msgctxt "addr_fi_solve_conflict_nick"
+msgid "Nickname"
+msgstr "Нік"
+
+msgctxt "addr_fi_solve_conflict_title"
+msgid "Job title"
+msgstr "Посада"
+
+msgctxt "addr_fi_voicemailbox"
+msgid "Voicemail"
+msgstr "Голосова пошта"
+
+msgctxt "addr_ia_export_wiz_st1_msg"
+msgid ""
+"Export contacts wizard allows you to export your contacts so you can transfer them to other applications.\n"
+"Tap 'Next' to continue."
+msgstr ""
+
+msgctxt "addr_ia_export_wiz_st4_msg_fail"
+msgid ""
+"Export contacts failed.\n"
+"Tap 'Previous' to try again or tap outside dialog to close wizard."
+msgstr ""
+
+msgctxt "addr_ia_export_wiz_st4_msg_folder"
+msgid ""
+"Export contacts setup is complete.\n"
+"Contacts have been exported to %s folder.\n"
+"Tap 'Finish' to exit the wizard."
+msgstr ""
+
+msgctxt "addr_ia_export_wiz_st4_msg_memfail"
+msgid ""
+"Export contacts failed.\n"
+"Not enough memory.\n"
+"Tap 'Previous' to try again or tap outside dialog to close wizard."
+msgstr ""
+
+msgctxt "addr_ia_export_wiz_st4_msg_storefail"
+msgid ""
+"Export contacts failed.\n"
+"Not enough memory in target location.\n"
+"Tap 'Previous' and select another location to try again or tap outside dialog to close wizard."
+msgstr ""
+
+msgctxt "addr_ia_no_contacts"
+msgid "(no contacts)"
+msgstr "(немає контактів)"
+
+msgctxt "addr_ia_no_details"
+msgid "(no details)"
+msgstr "(немає подробиць)"
+
+msgctxt "addr_ia_request_author_text1"
+msgid "Authorize %s to see your availability?"
+msgstr ""
+
+msgctxt "addr_ia_search_not_found"
+msgid "No contacts found"
+msgstr "Контакти не знайдено"
+
+msgctxt "addr_ib_cannot_load_picture"
+msgid "Unable to open image. It may be corrupted."
+msgstr ""
+
+msgctxt "addr_ib_cannot_show_contact"
+msgid "Unable to display contact information. Contact may have been deleted or IM account with contact may have been removed."
+msgstr ""
+
+msgctxt "addr_ib_contact_is_offline"
+msgid "Unable to call. Contact offline."
+msgstr ""
+
+msgctxt "addr_ib_contact_not_selectable"
+msgid ""
+"Unable to select contact.\n"
+"Context not supported."
+msgstr ""
+
+msgctxt "addr_ib_disc_full"
+msgid ""
+"Unable to perform operation.\n"
+"Device storage full."
+msgstr ""
+
+msgctxt "addr_ib_field_amount_limited"
+msgid "Unable to add a new field. Maximum number of fields reached."
+msgstr ""
+
+msgctxt "addr_ib_file_name_empty"
+msgid "Enter file name first"
+msgstr ""
+
+msgctxt "addr_ib_imported_partially_many_s_f"
+msgid "%d contacts imported. %d failed."
+msgstr ""
+
+msgctxt "addr_ib_imported_partially_one_f"
+msgid "%d contacts imported. 1 failed."
+msgstr ""
+
+msgctxt "addr_ib_imported_partially_one_s"
+msgid "1 contact imported. %d failed."
+msgstr ""
+
+msgctxt "addr_ib_imported_successfully"
+msgid "Contact imported"
+msgstr "Контакт імпортовано"
+
+msgctxt "addr_ib_imported_successfully_plural"
+msgid "Contacts imported"
+msgstr "Контакти імпортовано"
+
+msgctxt "addr_ib_imported_zero_contacts"
+msgid "No contacts found"
+msgstr "Контакти не знайдено"
+
+msgctxt "addr_ib_invalid_username_call"
+msgid "Unable to initiate VoIP call. User name %s does not exist."
+msgstr ""
+
+msgctxt "addr_ib_invalid_username_chat"
+msgid "Unable to initiate Instant message. User name %s does not exist."
+msgstr ""
+
+msgctxt "addr_ib_maps_failed"
+msgid "Unable to open Maps. Address may be invalid."
+msgstr ""
+
+msgctxt "addr_ib_maps_server_timeout"
+msgid "Unable to open Maps. Server not responding."
+msgstr ""
+
+msgctxt "addr_ib_no_name_given"
+msgid "Enter name for contact"
+msgstr ""
+
+msgctxt "addr_ib_not_available"
+msgid "Not available"
+msgstr ""
+
+msgctxt "addr_ib_not_enough_memory"
+msgid ""
+"Unable to perform operation.\n"
+"Not enough memory."
+msgstr ""
+
+msgctxt "addr_ib_permission_denied"
+msgid ""
+"Unable to perform operation.\n"
+"Permission denied."
+msgstr ""
+
+msgctxt "addr_ib_request_author_resend"
+msgid "Sending authorization request to %s"
+msgstr ""
+
+msgctxt "addr_ib_searching"
+msgid "Searching"
+msgstr ""
+
+msgctxt "addr_ib_shortcut_created"
+msgid "Shortcut created on desktop."
+msgstr "Скорочення створено на робочому столі."
+
+msgctxt "addr_ib_system_error"
+msgid ""
+"Unable to perform operation.\n"
+"Internal error."
+msgstr ""
+
+msgctxt "addr_ib_unable_to_save"
+msgid "Unable to save"
+msgstr "Неможливо зберегти"
+
+msgctxt "addr_ib_undefined_error"
+msgid "Undefined error"
+msgstr "Невизначена помилка"
+
+msgctxt "addr_ib_unknown_number"
+msgid "Unknown number. Unable to display contact information."
+msgstr ""
+
+msgctxt "addr_li_alpha_0"
+msgid "0-9"
+msgstr ""
+
+msgctxt "addr_li_alpha_00"
+msgid "0123456789"
+msgstr ""
+
+msgctxt "addr_li_alpha_1"
+msgid "ABC"
+msgstr ""
+
+msgctxt "addr_li_alpha_11"
+msgid "ABC"
+msgstr ""
+
+msgctxt "addr_li_alpha_2"
+msgid "DEF"
+msgstr ""
+
+msgctxt "addr_li_alpha_22"
+msgid "DEF"
+msgstr ""
+
+msgctxt "addr_li_alpha_3"
+msgid "GHI"
+msgstr ""
+
+msgctxt "addr_li_alpha_33"
+msgid "GHI"
+msgstr ""
+
+msgctxt "addr_li_alpha_4"
+msgid "JKL"
+msgstr ""
+
+msgctxt "addr_li_alpha_44"
+msgid "JKL"
+msgstr ""
+
+msgctxt "addr_li_alpha_5"
+msgid "MNO"
+msgstr ""
+
+msgctxt "addr_li_alpha_55"
+msgid "MNO"
+msgstr ""
+
+msgctxt "addr_li_alpha_6"
+msgid "PQR"
+msgstr ""
+
+msgctxt "addr_li_alpha_66"
+msgid "PQR"
+msgstr ""
+
+msgctxt "addr_li_alpha_7"
+msgid "STU"
+msgstr ""
+
+msgctxt "addr_li_alpha_77"
+msgid "STU"
+msgstr ""
+
+msgctxt "addr_li_alpha_8"
+msgid "V-Z"
+msgstr ""
+
+msgctxt "addr_li_alpha_88"
+msgid "VWXYZ"
+msgstr ""
+
+msgctxt "addr_li_export_wiz_st2_format_vcard"
+msgid "vCard 2.1"
+msgstr ""
+
+msgctxt "addr_li_export_wiz_st2_format_vcard_3"
+msgid "vCard 3.0"
+msgstr ""
+
+msgctxt "addr_li_sel_contact_none"
+msgid "(no contacts)"
+msgstr "(немає контактів)"
+
+msgctxt "addr_li_select_picture_none"
+msgid "(no images)"
+msgstr "(немає малюнків)"
+
+msgctxt "addr_li_unnamed_contact"
+msgid "No name"
+msgstr "Без імені"
+
+msgctxt "addr_me_abc"
+msgid "ABC"
+msgstr ""
+
+msgctxt "addr_me_accounts"
+msgid "Accounts"
+msgstr "Облікові записи"
+
+msgctxt "addr_me_communication_history"
+msgid "Communication history"
+msgstr ""
+
+msgctxt "addr_me_copy_to_contacts"
+msgid "Copy to Contacts"
+msgstr "Копіювати до контактів"
+
+msgctxt "addr_me_create_shortcut"
+msgid "Create shortcut"
+msgstr "Створити скорочення"
+
+msgctxt "addr_me_cs_addtocontacts"
+msgid "Add to Contacts"
+msgstr "Додати до контактів"
+
+msgctxt "addr_me_edit_contact"
+msgid "Edit"
+msgstr "Редагувати"
+
+msgctxt "addr_me_editmyinfo"
+msgid "Edit"
+msgstr "Редагувати"
+
+msgctxt "addr_me_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "addr_me_export"
+msgid "Export"
+msgstr "Експортувати"
+
+msgctxt "addr_me_groups"
+msgid "Groups"
+msgstr "Групи"
+
+msgctxt "addr_me_imaccounts"
+msgid "VoIP and IM accounts"
+msgstr "VoIP та IM записи"
+
+msgctxt "addr_me_import"
+msgid "Get contacts"
+msgstr "Отримати контакти"
+
+msgctxt "addr_me_importall"
+msgid "Copy all contacts"
+msgstr "Копіювати всі контакти"
+
+msgctxt "addr_me_importsel"
+msgid "Copy selected contacts"
+msgstr "Копіювати вибрані контакти"
+
+msgctxt "addr_me_mecard"
+msgid "My information"
+msgstr "Моя інформація"
+
+msgctxt "addr_me_merge_contact"
+msgid "Merge contact"
+msgstr "З'єднати контакт"
+
+msgctxt "addr_me_new_contact"
+msgid "New contact"
+msgstr "Новий контакт"
+
+msgctxt "addr_me_recent"
+msgid "Recent"
+msgstr "Недавні"
+
+msgctxt "addr_me_remove_contact"
+msgid "Delete contact"
+msgstr "Видалити контакт"
+
+msgctxt "addr_me_remove_contacts"
+msgid "Delete contacts"
+msgstr "Видалити контакти"
+
+msgctxt "addr_me_request_author"
+msgid "Authorization request"
+msgstr "Запит авторизації"
+
+msgctxt "addr_me_send_card"
+msgid "Send contact card"
+msgstr "Послати візитну картку"
+
+msgctxt "addr_me_send_detail"
+msgid "Send contact detail"
+msgstr "Послати деталі контакту"
+
+msgctxt "addr_me_sendmycard"
+msgid "Send contact card"
+msgstr "Послати візитну картку"
+
+msgctxt "addr_me_sendmydetail"
+msgid "Send contact detail "
+msgstr "Послати деталі контакту "
+
+msgctxt "addr_me_settings"
+msgid "Settings"
+msgstr "Налаштування"
+
+msgctxt "addr_me_status"
+msgid "Availability"
+msgstr "Доступність"
+
+msgctxt "addr_nc_delete_all_locally"
+msgid ""
+"Delete all contacts from device?\n"
+"IM contacts are not deleted from the server."
+msgstr ""
+
+msgctxt "addr_nc_delete_field"
+msgid "Delete field?"
+msgstr "Видалити поле?"
+
+msgctxt "addr_nc_delete_fields"
+msgid "Delete fields?"
+msgstr "Видалити поля?"
+
+msgctxt "addr_nc_delete_im_username_field"
+msgid ""
+"Delete IM username(s)?\n"
+"%s\n"
+"This will also remove them from the server."
+msgstr ""
+
+msgctxt "addr_nc_delete_im_username_fields"
+msgid ""
+"Delete selected IM user names?\n"
+"Deleting IM user names will also remove them from %s."
+msgstr ""
+
+msgctxt "addr_nc_delete_im_username_fields_several_services"
+msgid ""
+"Delete selected IM user names?\n"
+"Deleting IM user names will also remove them from the IM service."
+msgstr ""
+
+msgctxt "addr_nc_notification14"
+msgid ""
+"No contacts can be found for this service in Contacts.\n"
+"Create new contact now?"
+msgstr ""
+
+msgctxt "addr_nc_notification15"
+msgid "Import to Contacts?"
+msgstr "Імпортувати в контакти?"
+
+msgctxt "addr_nc_notification16"
+msgid ""
+"Delete contact?\n"
+"%s"
+msgstr ""
+"Видалити контакт?\n"
+"%s"
+
+msgctxt "addr_nc_notification19"
+msgid "Server time-out. Contacts should be restarted. Restart now?"
+msgstr ""
+
+msgctxt "addr_nc_notification7"
+msgid "Delete selected contacts?"
+msgstr "Видалити вибрані контакти?"
+
+msgctxt "addr_nc_notification_im_username"
+msgid ""
+"Delete contact?\n"
+"%s\n"
+"Deleting a contact will also remove it from the server."
+msgstr ""
+
+msgctxt "addr_nc_notification_im_username_multiple"
+msgid ""
+"Delete selected contacts?\n"
+"Deleting contacts will also remove them from the server."
+msgstr ""
+
+msgctxt "addr_nc_notification_im_username_multiple_several_services"
+msgid ""
+"Delete selected contacts?\n"
+"Deleting contacts will also remove them from the IM services."
+msgstr ""
+
+msgctxt "addr_nc_notification_im_username_several_services"
+msgid ""
+"Delete contact?\n"
+"%s\n"
+"Deleting this contact will also remove it from the IM services."
+msgstr ""
+
+msgctxt "addr_nc_send_avatar"
+msgid "Do you also want to send the avatar?"
+msgstr ""
+
+msgctxt "addr_ni_importing_fail"
+msgid "Import failed"
+msgstr "Імпорт невдалий"
+
+msgctxt "addr_ni_importing_fail_format"
+msgid ""
+"Import failed.\n"
+"Format not recognized."
+msgstr ""
+"Імпорт невдалий.\n"
+"Файл формату нерозпізнано."
+
+msgctxt "addr_ni_importing_fail_mem"
+msgid ""
+"Import failed.\n"
+"Not enough memory."
+msgstr ""
+"Імпорт невдалий.\n"
+"Недостатньо пам'яті."
+
+msgctxt "addr_ni_importing_fail_size"
+msgid ""
+"Import failed.\n"
+"File too large."
+msgstr ""
+"Імпорт невдалий.\n"
+"Файл завеликий."
+
+msgctxt "addr_ni_internal_error"
+msgid ""
+"Internal error.\n"
+"Contacts must be restarted."
+msgstr ""
+"Імпорт невдалий.\n"
+"Потрібно перезапустити програму."
+
+msgctxt "addr_pb_exporting_contacts"
+msgid "Exporting contacts"
+msgstr "Експортування контактів"
+
+msgctxt "addr_pb_importing_contacts"
+msgid "Importing contacts"
+msgstr "Імпортування контактів"
+
+msgctxt "addr_pb_load_contacts"
+msgid "Loading contacts"
+msgstr "Завантаження контактів"
+
+msgctxt "addr_pb_notification13"
+msgid "Importing contacts"
+msgstr "Імпортування контактів"
+
+msgctxt "addr_pb_searching_contacts"
+msgid "Searching contacts"
+msgstr "Пошук контактів"
+
+msgctxt "addr_ti_add_field_title"
+msgid "New field"
+msgstr "Нове поле"
+
+msgctxt "addr_ti_choose_own_account_bind"
+msgid "Select your own account"
+msgstr ""
+
+msgctxt "addr_ti_choose_own_account_chat"
+msgid "Select an account to use with this contact"
+msgstr ""
+
+msgctxt "addr_ti_choose_own_account_voip"
+msgid "Select an account to use with this contact"
+msgstr ""
+
+msgctxt "addr_ti_crop_avatar_title"
+msgid "Crop avatar"
+msgstr "Обрізати аватар"
+
+msgctxt "addr_ti_delete_field"
+msgid "Delete fields"
+msgstr "Видалити поля"
+
+msgctxt "addr_ti_dia_select_contacts"
+msgid "Select contacts"
+msgstr "Вибрати контакти"
+
+msgctxt "addr_ti_export_wiz_st1"
+msgid "Export contacts 1/5: Welcome"
+msgstr "Експорт контактів 1/5: Welcome"
+
+msgctxt "addr_ti_export_wiz_st1a"
+msgid "Export contacts 2/5: Contacts to export"
+msgstr "Експорт контактів 2/5: Контакти для експорту"
+
+msgctxt "addr_ti_export_wiz_st2"
+msgid "Export contacts 3/5: File format"
+msgstr "Експорт контактів 3/5: Формат файлу"
+
+msgctxt "addr_ti_export_wiz_st3_folder"
+msgid "Export contacts 4/5: Folder and location"
+msgstr "Експорт контактів 4/5: Тека і розміщення"
+
+msgctxt "addr_ti_export_wiz_st4"
+msgid "Export contacts 5/5: Complete"
+msgstr "Експорт контактів 5/5: Готово"
+
+msgctxt "addr_ti_export_wiz_st4_fail"
+msgid "Export contacts step 5/5: Failed"
+msgstr "Експорт контактів 5/5: Невдача"
+
+msgctxt "addr_ti_get_contacts"
+msgid "Get contacts"
+msgstr "Отримати контакти"
+
+msgctxt "addr_ti_groups_title"
+msgid "Groups"
+msgstr "Групи"
+
+msgctxt "addr_ti_import_contact_folder_title"
+msgid "Import contacts folder"
+msgstr "Імпортувати теку контактів"
+
+msgctxt "addr_ti_import_contact_title"
+msgid "Import contacts file"
+msgstr "Імпортувати файл контактів"
+
+msgctxt "addr_ti_import_contacts"
+msgid "Import contacts"
+msgstr "Імпортувати контакти"
+
+msgctxt "addr_ti_main_view"
+msgid "All contacts (%d)"
+msgstr "Всі контакти (%d)"
+
+msgctxt "addr_ti_main_view_loading"
+msgid "All contacts"
+msgstr "Всі контакти"
+
+msgctxt "addr_ti_main_view_recent"
+msgid "Recent contacts"
+msgstr "Недавні контакти"
+
+msgctxt "addr_ti_mecard_title"
+msgid "My information"
+msgstr "Моя інформація"
+
+msgctxt "addr_ti_mecard_title_add_my_information"
+msgid "Add my information"
+msgstr "Додати мою інформацію"
+
+msgctxt "addr_ti_merge_contacts"
+msgid "Merge with contact"
+msgstr ""
+
+msgctxt "addr_ti_newedit_edit_my_information_title"
+msgid "Edit My information"
+msgstr "Редагувати мою інформацію"
+
+msgctxt "addr_ti_newedit_edit_title"
+msgid "Edit contact"
+msgstr "Редагувати контакт"
+
+msgctxt "addr_ti_newedit_new_title"
+msgid "New contact"
+msgstr "Новий контакт"
+
+msgctxt "addr_ti_request_author"
+msgid "%s Authorization request"
+msgstr ""
+
+msgctxt "addr_ti_search_exchange_contacts"
+msgid "Search Mail Exch. contacts"
+msgstr ""
+
+msgctxt "addr_ti_sel_contact"
+msgid "Select contact"
+msgstr "Вибрати контакт"
+
+msgctxt "addr_ti_select_avatar"
+msgid "Select image"
+msgstr "Вибрати малюнок"
+
+msgctxt "addr_ti_select_contact_detail"
+msgid "Send contact detail"
+msgstr "Послати деталі контакту"
+
+msgctxt "addr_ti_select_picture_title"
+msgid "Select image"
+msgstr "Вибрати малюнок"
+
+msgctxt "addr_ti_send_card"
+msgid "Send contact card via"
+msgstr "Послати візитну картку через"
+
+msgctxt "addr_ti_send_card_detail"
+msgid "Send contact detail via"
+msgstr "Послати деталі контакту через"
+
+msgctxt "addr_ti_settings2"
+msgid "Settings"
+msgstr "Налаштування"
+
+msgctxt "addr_ti_solve_conflict"
+msgid "Resolve merge conflicts"
+msgstr ""
+
+msgctxt "addr_ti_view_select_contacts"
+msgid "Select contacts"
+msgstr "Вибрати контакти"
+
+msgctxt "addr_ti_voicemail_contact_title"
+msgid "Voicemail"
+msgstr "Голосова пошта"
+
+msgctxt "addr_va_add_field_address"
+msgid "Address"
+msgstr "Адреса"
+
+msgctxt "addr_va_add_field_address_home"
+msgid "Address (home)"
+msgstr "Адреса (домашня)"
+
+msgctxt "addr_va_add_field_address_work"
+msgid "Address (work)"
+msgstr "Адреса (робоча)"
+
+msgctxt "addr_va_add_field_birthday"
+msgid "Birthday"
+msgstr "День народження"
+
+msgctxt "addr_va_add_field_chat_googletalk"
+msgid "Google Talk user name"
+msgstr "Ім'я користувача Google Talk"
+
+msgctxt "addr_va_add_field_chat_jabber"
+msgid "Jabber user name"
+msgstr "Ім'я користувача Jabber"
+
+msgctxt "addr_va_add_field_chat_nokiachat"
+msgid "Nokia user name"
+msgstr "Ім'я користувача Nokia"
+
+msgctxt "addr_va_add_field_chat_sip"
+msgid "SIP user name"
+msgstr "Ім'я користувача SIP"
+
+msgctxt "addr_va_add_field_chat_skype"
+msgid "Skype Name"
+msgstr "Skype-ім'я"
+
+msgctxt "addr_va_add_field_company"
+msgid "Company"
+msgstr "Компанія"
+
+msgctxt "addr_va_add_field_email"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "addr_va_add_field_email_home"
+msgid "E-mail (home)"
+msgstr "E-mail (домашній)"
+
+msgctxt "addr_va_add_field_email_work"
+msgid "E-mail (work)"
+msgstr "E-mail (робочий)"
+
+msgctxt "addr_va_add_field_gender"
+msgid "Gender"
+msgstr "Стать"
+
+msgctxt "addr_va_add_field_mobile"
+msgid "Cell"
+msgstr "Мобільний"
+
+msgctxt "addr_va_add_field_mobile_home"
+msgid "Cell (home)"
+msgstr "Мобільний (домашній)"
+
+msgctxt "addr_va_add_field_mobile_work"
+msgid "Cell (work)"
+msgstr "Мобільний (робочий)"
+
+msgctxt "addr_va_add_field_nickname"
+msgid "Nickname"
+msgstr "Нік"
+
+msgctxt "addr_va_add_field_note"
+msgid "Note"
+msgstr "Нотатки"
+
+msgctxt "addr_va_add_field_phone"
+msgid "Phone"
+msgstr "Телефон"
+
+msgctxt "addr_va_add_field_phone_fax"
+msgid "Fax"
+msgstr "Факс"
+
+msgctxt "addr_va_add_field_phone_home"
+msgid "Phone (home)"
+msgstr "Телефон (домашній)"
+
+msgctxt "addr_va_add_field_phone_work"
+msgid "Phone (work)"
+msgstr "Телефон (робочий)"
+
+msgctxt "addr_va_add_field_title"
+msgid "Job title"
+msgstr "Посада"
+
+msgctxt "addr_va_add_field_webpage"
+msgid "Web page"
+msgstr "Веб-сторінка"
+
+msgctxt "addr_va_emergency_number"
+msgid "Emergency number"
+msgstr ""
+
+msgctxt "addr_va_export_wiz_st3_name_def"
+msgid "Exported contacts"
+msgstr "Експортовані контакти"
+
+msgctxt "addr_va_firstname"
+msgid "First name Last name"
+msgstr "Ім'я Прізвище"
+
+msgctxt "addr_va_general_female"
+msgid "Female"
+msgstr "Жіноча"
+
+msgctxt "addr_va_general_male"
+msgid "Male"
+msgstr "Чоловіча"
+
+msgctxt "addr_va_general_undefined"
+msgid "Undefined"
+msgstr "Невизначена"
+
+msgctxt "addr_va_groups_imgrp"
+msgid "%s"
+msgstr ""
+
+msgctxt "addr_va_groups_simcard"
+msgid "SIM card contacts"
+msgstr "Контакти SIM-карти"
+
+msgctxt "addr_va_groups_sip"
+msgid "SIP"
+msgstr ""
+
+msgctxt "addr_va_lastname"
+msgid "Last name First name"
+msgstr "Прізвище Ім'я"
+
+msgctxt "addr_va_lastname_comma"
+msgid "Last name, First name"
+msgstr "Прізвище, Ім'я"
+
+msgctxt "addr_va_newedit_address_general"
+msgid "general"
+msgstr "загальна"
+
+msgctxt "addr_va_newedit_address_home"
+msgid "home"
+msgstr "домашня"
+
+msgctxt "addr_va_newedit_address_work"
+msgid "work"
+msgstr "робоча"
+
+msgctxt "addr_va_newedit_email_general"
+msgid "general"
+msgstr "загальний"
+
+msgctxt "addr_va_newedit_email_home"
+msgid "home"
+msgstr "домашній"
+
+msgctxt "addr_va_newedit_email_work"
+msgid "work"
+msgstr "робочий"
+
+msgctxt "addr_va_newedit_mobile_home"
+msgid "home"
+msgstr "домашній"
+
+msgctxt "addr_va_newedit_mobile_work"
+msgid "work"
+msgstr "робочий"
+
+msgctxt "addr_va_newedit_phone_fax"
+msgid "fax"
+msgstr "факс"
+
+msgctxt "addr_va_newedit_phone_general"
+msgid "general"
+msgstr "загальний"
+
+msgctxt "addr_va_newedit_phone_home"
+msgid "home"
+msgstr "домашній"
+
+msgctxt "addr_va_newedit_phone_other"
+msgid "unsupported"
+msgstr "непідтримуваний"
+
+msgctxt "addr_va_newedit_phone_work"
+msgid "work"
+msgstr "робочий"
+
+msgctxt "addr_va_nickname"
+msgid "Nickname"
+msgstr "Нік"
+
+msgctxt "addr_va_solve_conflict_birthday_set"
+msgid "Enter birthday"
+msgstr "Введіть день народження"

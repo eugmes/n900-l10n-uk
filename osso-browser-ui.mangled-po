@@ -1,0 +1,1126 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20091102095707\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2009.11.02 09:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "bookm_li_imported_bookmarksd"
+msgid "Imported bookmarks (%d)"
+msgstr ""
+
+msgctxt "bookm_ti_import_bookmarks"
+msgid "Import bookmarks"
+msgstr ""
+
+msgctxt "weba_ap_web_browser"
+msgid "Web"
+msgstr ""
+
+msgctxt "weba_bd_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "weba_bd_certificate"
+msgid "Certificate"
+msgstr ""
+
+msgctxt "weba_bd_close"
+msgid "Close"
+msgstr ""
+
+msgctxt "weba_bd_cookie_conf_accept"
+msgid "Accept"
+msgstr ""
+
+msgctxt "weba_bd_cookie_conf_reject"
+msgid "Reject"
+msgstr ""
+
+msgctxt "weba_bd_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "weba_bd_details"
+msgid "Details"
+msgstr ""
+
+msgctxt "weba_bd_download_open_with"
+msgid "Open with"
+msgstr ""
+
+msgctxt "weba_bd_download_save_to"
+msgid "Save to device"
+msgstr ""
+
+msgctxt "weba_bd_downloads_pause"
+msgid "Pause"
+msgstr ""
+
+msgctxt "weba_bd_downloads_resume"
+msgid "Resume"
+msgstr ""
+
+msgctxt "weba_bd_geolocaton_allow"
+msgid "Allow"
+msgstr ""
+
+msgctxt "weba_bd_geolocaton_always"
+msgid "Always allow for this site"
+msgstr ""
+
+msgctxt "weba_bd_geolocaton_never"
+msgid "Never allow for this site"
+msgstr ""
+
+msgctxt "weba_bd_moveto"
+msgid "Move"
+msgstr ""
+
+msgctxt "weba_bd_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "weba_bd_not_now"
+msgid "Not now"
+msgstr ""
+
+msgctxt "weba_bd_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "weba_bd_select_clear_alll"
+msgid "Clear all"
+msgstr ""
+
+msgctxt "weba_bd_stop"
+msgid "Stop"
+msgstr ""
+
+msgctxt "weba_db_clear"
+msgid "Clear"
+msgstr ""
+
+msgctxt "weba_fi_address"
+msgid "Address"
+msgstr ""
+
+msgctxt "weba_fi_address_colon"
+msgid "Address"
+msgstr ""
+
+msgctxt "weba_fi_auhentication_password"
+msgid "Password"
+msgstr ""
+
+msgctxt "weba_fi_auhentication_realm"
+msgid "Message"
+msgstr ""
+
+msgctxt "weba_fi_auhentication_site"
+msgid "Server"
+msgstr ""
+
+msgctxt "weba_fi_auhentication_username"
+msgid "User name"
+msgstr ""
+
+msgctxt "weba_fi_authentivated"
+msgid "Authenticated sessions"
+msgstr ""
+
+msgctxt "weba_fi_browsing_his"
+msgid "Browsing history"
+msgstr ""
+
+msgctxt "weba_fi_cache"
+msgid "Cache"
+msgstr ""
+
+msgctxt "weba_fi_cookie_details_domain"
+msgid "Domain"
+msgstr ""
+
+msgctxt "weba_fi_cookie_details_expiration"
+msgid "Expires"
+msgstr ""
+
+msgctxt "weba_fi_cookie_details_path"
+msgid "Path"
+msgstr ""
+
+msgctxt "weba_fi_cookie_details_slash"
+msgid "/"
+msgstr ""
+
+msgctxt "weba_fi_cookie_details_value"
+msgid "Value"
+msgstr ""
+
+msgctxt "weba_fi_cookies"
+msgid "Cookies"
+msgstr ""
+
+msgctxt "weba_fi_downloads_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "weba_fi_downloads_percentage"
+msgid "Received"
+msgstr ""
+
+msgctxt "weba_fi_downloads_size"
+msgid "Size"
+msgstr ""
+
+msgctxt "weba_fi_encoding"
+msgid "Encoding"
+msgstr ""
+
+msgctxt "weba_fi_geolocation"
+msgid "Geolocation permissions"
+msgstr ""
+
+msgctxt "weba_fi_image_details_dimensions"
+msgid "Dimensions"
+msgstr ""
+
+msgctxt "weba_fi_location"
+msgid "Location"
+msgstr ""
+
+msgctxt "weba_fi_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "weba_fi_name_colon"
+msgid "Name"
+msgstr ""
+
+msgctxt "weba_fi_open_with_colon"
+msgid "Open with:"
+msgstr ""
+
+msgctxt "weba_fi_page_details_page_title"
+msgid "Title"
+msgstr ""
+
+msgctxt "weba_fi_page_details_security"
+msgid "Security"
+msgstr ""
+
+msgctxt "weba_fi_page_details_verification"
+msgid "Verification"
+msgstr ""
+
+msgctxt "weba_fi_saved_pass"
+msgid "Saved passwords"
+msgstr ""
+
+msgctxt "weba_fi_select_username_title"
+msgid "Select user name"
+msgstr ""
+
+msgctxt "weba_fi_settings_general_maxcache"
+msgid "Memory cache size"
+msgstr ""
+
+msgctxt "weba_fi_settings_plug_ins_enable_java_script"
+msgid "Enable JavaScript"
+msgstr ""
+
+msgctxt "weba_fi_settings_privacy_accept_cookies"
+msgid "Accept cookies"
+msgstr ""
+
+msgctxt "weba_fi_settings_privacy_enable_pop_up_windows"
+msgid "Open pop-ups"
+msgstr ""
+
+msgctxt "weba_fi_settings_privacy_password"
+msgid "Enable password saving"
+msgstr ""
+
+msgctxt "weba_fi_size_colon"
+msgid "Size"
+msgstr ""
+
+msgctxt "weba_fi_type_colon"
+msgid "Type"
+msgstr ""
+
+msgctxt "weba_ib_closing_a_window_background"
+msgid "Closing a window in background"
+msgstr ""
+
+msgctxt "weba_ib_downloading_complete"
+msgid "Downloading %s complete"
+msgstr ""
+
+msgctxt "weba_ib_enter_location"
+msgid "Enter address first"
+msgstr ""
+
+msgctxt "weba_ib_flash_full"
+msgid "Press backspace to exit full screen mode"
+msgstr ""
+
+msgctxt "weba_ib_invalid_username_or_password"
+msgid "Invalid user name or password"
+msgstr ""
+
+msgctxt "weba_ib_opening_new_window"
+msgid "Opening new window"
+msgstr ""
+
+msgctxt "weba_ib_pop_up_window_blocked"
+msgid "Pop-up window blocked"
+msgstr ""
+
+msgctxt "weba_ib_secure_server"
+msgid "%s verified by %s"
+msgstr ""
+
+msgctxt "weba_ib_select_update_first"
+msgid "Select update first"
+msgstr ""
+
+msgctxt "weba_ib_some_cache_items_cannot_be_deleted"
+msgid "Some cache items are in use. Unable to delete."
+msgstr ""
+
+msgctxt "weba_ib_target_not"
+msgid "Target file not available"
+msgstr ""
+
+msgctxt "weba_ib_upload_failed"
+msgid "Upload failed"
+msgstr ""
+
+msgctxt "weba_li_history_list_item_name"
+msgid "%s"
+msgstr ""
+
+msgctxt "weba_li_history_list_nr|weba_li_history_list_nrs"
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "weba_li_history_list_today"
+msgid "Today"
+msgstr ""
+
+msgctxt "weba_li_history_list_yesterday"
+msgid "Yesterday"
+msgstr ""
+
+msgctxt "weba_me_add"
+msgid "Add address"
+msgstr ""
+
+msgctxt "weba_me_add_bookmark"
+msgid "Add to bookmarks"
+msgstr ""
+
+msgctxt "weba_me_add_home"
+msgid "Add shortcut to desktop"
+msgstr ""
+
+msgctxt "weba_me_add_link"
+msgid "Add bookmark"
+msgstr ""
+
+msgctxt "weba_me_adjustview"
+msgid "Adjust view"
+msgstr ""
+
+msgctxt "weba_me_clear_privatedata"
+msgid "Clear private data"
+msgstr ""
+
+msgctxt "weba_me_complete_his"
+msgid "Complete browsing history"
+msgstr ""
+
+msgctxt "weba_me_components"
+msgid "Add-ons"
+msgstr ""
+
+msgctxt "weba_me_copy"
+msgid "Copy"
+msgstr ""
+
+msgctxt "weba_me_copy_address"
+msgid "Copy link address"
+msgstr ""
+
+msgctxt "weba_me_copy_img_address"
+msgid "Copy image address"
+msgstr ""
+
+msgctxt "weba_me_details"
+msgid "Details"
+msgstr ""
+
+msgctxt "weba_me_downloads"
+msgid "Downloads"
+msgstr ""
+
+msgctxt "weba_me_find_on_page"
+msgid "Find on page"
+msgstr ""
+
+msgctxt "weba_me_load_img"
+msgid "Load image"
+msgstr ""
+
+msgctxt "weba_me_new_window"
+msgid "New window"
+msgstr ""
+
+msgctxt "weba_me_open_bookmark_new_window"
+msgid "Open in new window"
+msgstr ""
+
+msgctxt "weba_me_open_in_new_window"
+msgid "Open in new window"
+msgstr ""
+
+msgctxt "weba_me_open_link_new_window"
+msgid "Open link in new window"
+msgstr ""
+
+msgctxt "weba_me_openfile"
+msgid "Open file"
+msgstr ""
+
+msgctxt "weba_me_options"
+msgid "Options"
+msgstr ""
+
+msgctxt "weba_me_paste"
+msgid "Paste"
+msgstr ""
+
+msgctxt "weba_me_reload"
+msgid "Reload"
+msgstr ""
+
+msgctxt "weba_me_rss"
+msgid "Subscribe to feed: %s"
+msgstr ""
+
+msgctxt "weba_me_save_img"
+msgid "Save image as"
+msgstr ""
+
+msgctxt "weba_me_save_link_as"
+msgid "Save link as"
+msgstr ""
+
+msgctxt "weba_me_save_page"
+msgid "Save page as"
+msgstr ""
+
+msgctxt "weba_me_settings"
+msgid "Settings"
+msgstr ""
+
+msgctxt "weba_nc_change_stored_password"
+msgid "Change stored password for %s?"
+msgstr ""
+
+msgctxt "weba_nc_close"
+msgid ""
+"Web page not responding. Force window to close?\n"
+"Unsaved data may be lost."
+msgstr ""
+
+msgctxt "weba_nc_close_app_pause_load"
+msgid ""
+"Close application and\n"
+"pause ongoing download?\n"
+"%s"
+msgstr ""
+
+msgctxt "weba_nc_close_app_pause_loads"
+msgid ""
+"Close application and\n"
+"pause ongoing downloads?"
+msgstr ""
+
+msgctxt "weba_nc_delete_dowload"
+msgid ""
+"Delete download?\n"
+"%s"
+msgstr ""
+
+msgctxt "weba_nc_geolocaton_dis"
+msgid "This site wants to know your location"
+msgstr ""
+
+msgctxt "weba_nc_remember_credentials"
+msgid "Remember credentials for this site?"
+msgstr ""
+
+msgctxt "weba_save_as"
+msgid "Save page as"
+msgstr ""
+
+msgctxt "weba_search_list"
+msgid "Google Search: '%s'"
+msgstr ""
+
+msgctxt "weba_ti_add_adress"
+msgid "Add address"
+msgstr ""
+
+msgctxt "weba_ti_add_bookmark_title"
+msgid "Add bookmark"
+msgstr ""
+
+msgctxt "weba_ti_adjuvi_met_showimg"
+msgid "Show images"
+msgstr ""
+
+msgctxt "weba_ti_adjuvi_title"
+msgid "Adjust view"
+msgstr ""
+
+msgctxt "weba_ti_auhentication_title"
+msgid "Authentication"
+msgstr ""
+
+msgctxt "weba_ti_bookmarks"
+msgid "Bookmarks"
+msgstr ""
+
+msgctxt "weba_ti_bookmarks_portrait"
+msgid "Bookmarks"
+msgstr ""
+
+msgctxt "weba_ti_clear_privatedata"
+msgid "Clear private data"
+msgstr ""
+
+msgctxt "weba_ti_compbrhis"
+msgid "Complete browsing history"
+msgstr ""
+
+msgctxt "weba_ti_cookie_conf"
+msgid "Cookie confirmation"
+msgstr ""
+
+msgctxt "weba_ti_cookie_conf_accept_nor"
+msgid ""
+"Accept cookie?\n"
+"%s"
+msgstr ""
+
+msgctxt "weba_ti_cookie_conf_server"
+msgid "Apply to all cookies from same server"
+msgstr ""
+
+msgctxt "weba_ti_cookie_details_title"
+msgid "Cookie details"
+msgstr ""
+
+msgctxt "weba_ti_deletebook"
+msgid "Select bookmarks"
+msgstr ""
+
+msgctxt "weba_ti_download_file_title"
+msgid "File download"
+msgstr ""
+
+msgctxt "weba_ti_downloads_title"
+msgid "Downloads"
+msgstr ""
+
+msgctxt "weba_ti_edit_bookmark_title"
+msgid "Edit bookmark"
+msgstr ""
+
+msgctxt "weba_ti_edit_folder"
+msgid "Edit folder"
+msgstr ""
+
+msgctxt "weba_ti_foldername"
+msgid "%s"
+msgstr ""
+
+msgctxt "weba_ti_geolocoation"
+msgid "Geolocation"
+msgstr ""
+
+msgctxt "weba_ti_image_details_title"
+msgid "Image details"
+msgstr ""
+
+msgctxt "weba_ti_java_script_confirmation"
+msgid "JavaScript confirmation"
+msgstr ""
+
+msgctxt "weba_ti_java_script_prompt"
+msgid "JavaScript prompt"
+msgstr ""
+
+msgctxt "weba_ti_javas_alert"
+msgid "JavaScript alert"
+msgstr ""
+
+msgctxt "weba_ti_options"
+msgid "Options"
+msgstr ""
+
+msgctxt "weba_ti_page_details_title"
+msgid "Page details"
+msgstr ""
+
+msgctxt "weba_ti_recenthis"
+msgid "Recent history"
+msgstr ""
+
+msgctxt "weba_ti_remeber_credentials"
+msgid "Remember password"
+msgstr ""
+
+msgctxt "weba_ti_select_file_title"
+msgid "Select file"
+msgstr ""
+
+msgctxt "weba_ti_settings_browser"
+msgid "Browser"
+msgstr ""
+
+msgctxt "weba_ti_settings_content"
+msgid "Content"
+msgstr ""
+
+msgctxt "weba_ti_settings_title"
+msgid "Settings"
+msgstr ""
+
+msgctxt "weba_ti_texlist_single"
+msgid "Select item"
+msgstr ""
+
+msgctxt "weba_ti_text"
+msgid "Text size"
+msgstr ""
+
+msgctxt "weba_ti_textlist_multi"
+msgid "Select items"
+msgstr ""
+
+msgctxt "weba_ti_webstart"
+msgid "Web"
+msgstr ""
+
+msgctxt "weba_ti_webstart_portrait"
+msgid "Web"
+msgstr ""
+
+msgctxt "weba_va_always"
+msgid "Always"
+msgstr ""
+
+msgctxt "weba_va_download_from"
+msgid "From"
+msgstr ""
+
+msgctxt "weba_va_downloads_rec_kb"
+msgid "%d kB"
+msgstr ""
+
+msgctxt "weba_va_downloads_rec_percent"
+msgid "%d %%"
+msgstr ""
+
+msgctxt "weba_va_downloads_size_kb"
+msgid "%.2f kB"
+msgstr ""
+
+msgctxt "weba_va_downloads_size_unknown"
+msgid "–"
+msgstr ""
+
+msgctxt "weba_va_encoding_big5"
+msgid "Chinese, Traditional (Big5 I/II)"
+msgstr ""
+
+msgctxt "weba_va_encoding_euc_tw"
+msgid "Chinese, Traditional (EUC-TW)"
+msgstr ""
+
+msgctxt "weba_va_encoding_gb_18030"
+msgid "Chinese, Simplified (GB18030)"
+msgstr ""
+
+msgctxt "weba_va_encoding_iso_2022_cn"
+msgid "Chinese, Simplified (ISO-2022-CN)"
+msgstr ""
+
+msgctxt "weba_va_encoding_iso_8859_1"
+msgid "Latin (ISO 8859-1)"
+msgstr ""
+
+msgctxt "weba_va_encoding_iso_8859_15"
+msgid "Latin extended (ISO-8859-15)"
+msgstr ""
+
+msgctxt "weba_va_encoding_iso_8859_2"
+msgid "Central European (ISO 8859-2)"
+msgstr ""
+
+msgctxt "weba_va_encoding_iso_8859_7"
+msgid "Greek (ISO 8859-7)"
+msgstr ""
+
+msgctxt "weba_va_encoding_iso_8859_9"
+msgid "Turkish (ISO 8859-9)"
+msgstr ""
+
+msgctxt "weba_va_encoding_utf_16"
+msgid "Unicode (UTF-16)"
+msgstr ""
+
+msgctxt "weba_va_encoding_utf_8"
+msgid "Unicode (UTF-8)"
+msgstr ""
+
+msgctxt "weba_va_encoding_win_1250"
+msgid "Central European (Windows-1250)"
+msgstr ""
+
+msgctxt "weba_va_encoding_win_1251"
+msgid "Cyrillic (Windows-1251)"
+msgstr ""
+
+msgctxt "weba_va_encoding_win_1253"
+msgid "Greek (Windows-1253)"
+msgstr ""
+
+msgctxt "weba_va_encoding_win_1254"
+msgid "Turkish (Windows-1254)"
+msgstr ""
+
+msgctxt "weba_va_encoding_win_koi_8r"
+msgid "Cyrillic (KOI-8R)"
+msgstr ""
+
+msgctxt "weba_va_high"
+msgid "High"
+msgstr ""
+
+msgctxt "weba_va_image_details_dim_px"
+msgid "%1$d x %2$d pixels"
+msgstr ""
+
+msgctxt "weba_va_larger"
+msgid "Large"
+msgstr ""
+
+msgctxt "weba_va_largest"
+msgid "Very large"
+msgstr ""
+
+msgctxt "weba_va_loaded"
+msgid "Already in cache"
+msgstr ""
+
+msgctxt "weba_va_low"
+msgid "Low"
+msgstr ""
+
+msgctxt "weba_va_medium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "weba_va_modal_dialog_abort"
+msgid "Abort"
+msgstr ""
+
+msgctxt "weba_va_modal_dialog_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "weba_va_modal_dialog_ignore"
+msgid "Ignore"
+msgstr ""
+
+msgctxt "weba_va_modal_dialog_no"
+msgid "No"
+msgstr ""
+
+msgctxt "weba_va_modal_dialog_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "weba_va_modal_dialog_retry"
+msgid "Try again?"
+msgstr ""
+
+msgctxt "weba_va_modal_dialog_yes"
+msgid "Yes"
+msgstr ""
+
+msgctxt "weba_va_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "weba_va_normal"
+msgid "Normal"
+msgstr ""
+
+msgctxt "weba_va_not_secure"
+msgid "Not a secure page"
+msgstr ""
+
+msgctxt "weba_va_page_details_size_kb"
+msgid "%.2f kB"
+msgstr ""
+
+msgctxt "weba_va_page_not_verified"
+msgid "Web site identity not verified"
+msgstr ""
+
+msgctxt "weba_va_save_complete"
+msgid "Complete web page"
+msgstr ""
+
+msgctxt "weba_va_save_html_only"
+msgid "HTML only"
+msgstr ""
+
+msgctxt "weba_va_saved_password"
+msgid "(saved password)"
+msgstr ""
+
+msgctxt "weba_va_settings_autofocus"
+msgid "Auto focus address field"
+msgstr ""
+
+msgctxt "weba_va_settings_fullscreen"
+msgid "Open initially in Full screen"
+msgstr ""
+
+msgctxt "weba_va_settings_general_maxc_1024"
+msgid "10 MB"
+msgstr ""
+
+msgctxt "weba_va_settings_general_maxc_2048"
+msgid "20 MB"
+msgstr ""
+
+msgctxt "weba_va_settings_general_maxc_4096"
+msgid "40 MB"
+msgstr ""
+
+msgctxt "weba_va_settings_general_maxc_512"
+msgid "5 MB"
+msgstr ""
+
+msgctxt "weba_va_settings_general_maxc_aut"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "weba_va_settings_general_maxc_off"
+msgid "Off"
+msgstr ""
+
+msgctxt "weba_va_settings_geolocation"
+msgid "Geolocation"
+msgstr ""
+
+msgctxt "weba_va_settings_hwkeys"
+msgid "Use increase and decrease keys for"
+msgstr ""
+
+msgctxt "weba_va_settings_hwkeys_volume"
+msgid "Volume"
+msgstr ""
+
+msgctxt "weba_va_settings_hwkeys_zoom"
+msgid "Zooming"
+msgstr ""
+
+msgctxt "weba_va_settings_javaflash"
+msgid "Allow JavaScript pausing"
+msgstr ""
+
+msgctxt "weba_va_settings_javaflash_immediately"
+msgid "immediately"
+msgstr ""
+
+msgctxt "weba_va_settings_javaflash_in15"
+msgid "in 15 seconds"
+msgstr ""
+
+msgctxt "weba_va_settings_javaflash_in30"
+msgid "in 30 seconds"
+msgstr ""
+
+msgctxt "weba_va_settings_javaflash_in60"
+msgid "in 60 seconds"
+msgstr ""
+
+msgctxt "weba_va_settings_javaflash_not"
+msgid "Do not pause"
+msgstr ""
+
+msgctxt "weba_va_settings_portrait"
+msgid "Enable rotation"
+msgstr ""
+
+msgctxt "weba_va_settings_privacy_accept_cookies_always"
+msgid "Always"
+msgstr ""
+
+msgctxt "weba_va_settings_privacy_accept_cookies_askfirst"
+msgid "Ask first"
+msgstr ""
+
+msgctxt "weba_va_settings_privacy_accept_cookies_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgid "Always"
+msgstr ""
+
+msgctxt "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgid "Only requested"
+msgstr ""
+
+msgctxt "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "weba_yi_hisfolder"
+msgid "%s"
+msgstr ""
+
+msgctxt "webb_fi_bookmark_details_add"
+msgid "Added"
+msgstr ""
+
+msgctxt "webb_fi_bookmark_details_use"
+msgid "Last used"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents"
+msgid "Contents"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_01"
+msgid "1 bookmark"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_02"
+msgid "2 bookmarks"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_0n"
+msgid "%d bookmarks"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_10"
+msgid "1 folder"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_1n"
+msgid "1 folder, %d bookmarks"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_20"
+msgid "2 folders"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_2n"
+msgid "2 folders, %d bookmarks"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_bookmark|webb_fi_folder_details_contents_bookmars"
+msgid "%d bookmark"
+msgid_plural "%d bookmarks"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "webb_fi_folder_details_contents_folder|webb_fi_folder_details_contents_folders"
+msgid "%d folder "
+msgid_plural "%d folders "
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "webb_fi_folder_details_contents_n0"
+msgid "%d folders"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_n1"
+msgid "%d folders, 1 bookmark"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_n2"
+msgid "%d folders, 2 bookmarks"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_contents_nn"
+msgid "%d folders, %d bookmarks"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_date"
+msgid "Added"
+msgstr ""
+
+msgctxt "webb_fi_folder_details_time"
+msgid "Modified"
+msgstr ""
+
+msgctxt "webb_folder_imported_bookmarks"
+msgid "Imported bookmarks"
+msgstr ""
+
+msgctxt "webb_folder_operator"
+msgid "Operator bookmarks"
+msgstr ""
+
+msgctxt "webb_folder_root_user"
+msgid "My bookmarks"
+msgstr ""
+
+msgctxt "webb_ia_cookie_after_sessions_ends"
+msgid "After session ends"
+msgstr ""
+
+msgctxt "webb_ia_no_bookmarks_folders_to_show"
+msgid "(no bookmarks/folders)"
+msgstr ""
+
+msgctxt "webb_ia_no_description"
+msgid "(no description)"
+msgstr ""
+
+msgctxt "webb_ia_no_downloads"
+msgid "(no files downloading)"
+msgstr ""
+
+msgctxt "webb_ia_none"
+msgid "None"
+msgstr ""
+
+msgctxt "webb_ia_not_available"
+msgid "Not available"
+msgstr ""
+
+msgctxt "webb_ia_not_defined_in_html"
+msgid "(untitled)"
+msgstr ""
+
+msgctxt "webb_ia_unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "webb_ib_this_folder_cannot_be_renamed"
+msgid "Unable to rename selected folder"
+msgstr ""
+
+msgctxt "webb_me_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "webb_me_details"
+msgid "Details"
+msgstr ""
+
+msgctxt "webb_me_file_edit"
+msgid "Edit"
+msgstr ""
+
+msgctxt "webb_me_impor"
+msgid "Import bookmarks"
+msgstr ""
+
+msgctxt "webb_me_move_to"
+msgid "Move"
+msgstr ""
+
+msgctxt "webb_nc_delete_item_nr|webb_nc_delete_item_nrs"
+msgid "Delete '%s'?"
+msgid_plural "Delete selected %d items?"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "webb_nc_replace_item_nr|webb_nc_replace_item_nrs"
+msgid "Replace existing item of same name?"
+msgid_plural "Replace existing %d items of same name?"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "webb_ni_change_save_target_location"
+msgid ""
+"Unable to save to selected location.\n"
+"Save to device memory?"
+msgstr ""
+
+msgctxt "webb_ni_downloading_paused"
+msgid ""
+"Not enough free memory on device.\n"
+"Downloading paused."
+msgstr ""
+
+msgctxt "webb_ni_invalid_bookmarks_file"
+msgid ""
+"Invalid bookmark file.\n"
+"No bookmarks imported."
+msgstr ""
+
+msgctxt "webb_ni_resuming_failed"
+msgid ""
+"Resuming download failed.\n"
+"Restart downloading?"
+msgstr ""
+
+msgctxt "webb_ni_target_folder_not_available"
+msgid ""
+"Target folder not available.\n"
+"Save to another folder."
+msgstr ""
+
+msgctxt "webb_ni_target_location_not_available"
+msgid ""
+"Target location not available.\n"
+"Save to local memory."
+msgstr ""
+
+msgctxt "webb_nw_deleting_bookmark"
+msgid "Deleting"
+msgstr ""
+
+msgctxt "webb_nw_importing_bookmark"
+msgid "Importing"
+msgstr ""
+
+msgctxt "webb_nw_moving_bookmark"
+msgid "Moving"
+msgstr ""
+
+msgctxt "webb_ti_bookmark_details_title"
+msgid "Bookmark details"
+msgstr ""
+
+msgctxt "webb_ti_folder_details"
+msgid "Folder details"
+msgstr ""
+
+msgctxt "webb_ti_selectbok"
+msgid "Select bookmarks"
+msgstr ""

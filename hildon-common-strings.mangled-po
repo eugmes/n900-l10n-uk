@@ -1,0 +1,1039 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-common-strings 20081020115109\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2008.10.20 11:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "cdkg_ib_all_items_marked"
+msgid "All items already marked"
+msgstr ""
+
+msgctxt "ckct_bd_cannot_save_mmc_cover_open_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "ckct_bd_delete_application_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_application_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_bookmark_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_bookmark_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_certificate_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_certificate_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_contact_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_contact_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_document_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_document_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_entry_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_entry_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_file_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_file_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_folder_and_file_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_folder_and_file_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_folder_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_folder_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_folders_and_file_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_folders_and_file_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_folders_and_files_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_folders_and_files_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_game"
+msgid "Delete game?"
+msgstr ""
+
+msgctxt "ckct_bd_delete_game_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_game_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "ckct_bd_delete_html_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_html_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_image_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_image_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_link_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_link_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_message_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_message_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_note_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_note_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_object_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_object_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_presentation_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_presentation_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_applications_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_applications_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_bookmarks_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_bookmarks_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_certificates_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_certificates_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_documents_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_documents_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_files_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_files_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_folders_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_folders_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_html_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_html_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_images_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_images_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_links_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_links_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_messages_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_messages_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_presentations_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_presentations_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_sound_clips_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_sound_clips_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_video_clips_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_video_clips_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_workbooks_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_workbooks_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_xml_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_selected_xml_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_sound_clip_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_sound_clip_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_video_clip_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_video_clip_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_workbook_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_workbook_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_delete_xml_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_bd_delete_xml_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "ckct_bd_pasting_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckct_ib_cannot_zoom_here"
+msgid "Unable to zoom"
+msgstr ""
+
+msgctxt "ckct_ib_document_already_open"
+msgid "Document already in use by another application"
+msgstr ""
+
+msgctxt "ckct_ib_enter_a_value"
+msgid "Enter value first"
+msgstr ""
+
+msgctxt "ckct_ib_enter_some_text"
+msgid "Enter text first"
+msgstr ""
+
+msgctxt "ckct_ib_file_already_open"
+msgid "File already in use by another application"
+msgstr ""
+
+msgctxt "ckct_ib_html_document_already_open"
+msgid "HTML document already in use by another application"
+msgstr ""
+
+msgctxt "ckct_ib_illegal_character"
+msgid "Invalid character"
+msgstr ""
+
+msgctxt "ckct_ib_image_already_open"
+msgid "Image already in use by another application"
+msgstr ""
+
+msgctxt "ckct_ib_letters_only"
+msgid "Only letters allowed in this field"
+msgstr ""
+
+msgctxt "ckct_ib_mandatory_field"
+msgid "Value must be defined"
+msgstr ""
+
+msgctxt "ckct_ib_max_zoom_level_reached"
+msgid "Maximum zoom level reached"
+msgstr ""
+
+msgctxt "ckct_ib_message_already_open"
+msgid "Message already in use by another application"
+msgstr ""
+
+msgctxt "ckct_ib_min_zoom_level_reached"
+msgid "Minimum zoom level reached"
+msgstr ""
+
+msgctxt "ckct_ib_nothing_to_delete"
+msgid "Nothing to delete"
+msgstr ""
+
+msgctxt "ckct_ib_nothing_to_move"
+msgid "Nothing to move"
+msgstr ""
+
+msgctxt "ckct_ib_nothing_to_open"
+msgid "Nothing to open"
+msgstr ""
+
+msgctxt "ckct_ib_nothing_to_select"
+msgid "Nothing to select"
+msgstr ""
+
+msgctxt "ckct_ib_nothing_to_undo"
+msgid "Nothing to undo"
+msgstr ""
+
+msgctxt "ckct_ib_numbers_only"
+msgid "Only numbers allowed in this field"
+msgstr ""
+
+msgctxt "ckct_ib_select_single_item"
+msgid "Select 1 item only"
+msgstr ""
+
+msgctxt "ckct_ib_set_start_before_end_date"
+msgid " Start date must be earlier than end date "
+msgstr ""
+
+msgctxt "ckct_ib_set_start_before_end_time"
+msgid "Start time must be earlier than end time"
+msgstr ""
+
+msgctxt "ckct_ib_sound_clip_already_open"
+msgid "Audio clip already in use by another application"
+msgstr ""
+
+msgctxt "ckct_ib_unable_to_copy"
+msgid "Unable to copy"
+msgstr ""
+
+msgctxt "ckct_ib_unable_to_cut"
+msgid "Unable to cut"
+msgstr ""
+
+msgctxt "ckct_ib_unable_to_delete"
+msgid "Unable to delete"
+msgstr ""
+
+msgctxt "ckct_ib_unable_to_paste_here"
+msgid "Unable to paste here"
+msgstr ""
+
+msgctxt "ckct_ib_unable_to_undo"
+msgid "Unable to undo"
+msgstr ""
+
+msgctxt "ckct_ib_unknown_file_type"
+msgid "Unknown file type"
+msgstr ""
+
+msgctxt "ckct_ib_video_clip_already_open"
+msgid "Video clip already in use by another application"
+msgstr ""
+
+msgctxt "ckct_ib_xml_document_already_open"
+msgid "XML document already in use by another application"
+msgstr ""
+
+msgctxt "ckct_nc_delete_application"
+msgid ""
+"Delete application?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_bookmark"
+msgid ""
+"Delete bookmark?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_certificate"
+msgid ""
+"Delete certificate?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_contact"
+msgid ""
+"Delete contact?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_document"
+msgid ""
+"Delete document?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_entry"
+msgid ""
+"Delete entry?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_file"
+msgid ""
+"Delete file?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_folder"
+msgid "Delete folder and all of its contents?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_folder_and_file"
+msgid "Delete folder and selected file?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_folders_and_file"
+msgid "Delete selected folders and selected file?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_html"
+msgid ""
+"Delete HTML document?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_image"
+msgid ""
+"Delete image?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_link"
+msgid ""
+"Delete shortcut?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_message"
+msgid ""
+"Delete message?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_note"
+msgid ""
+"Delete note?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_object"
+msgid ""
+"Delete object?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_applications"
+msgid "Delete selected applications?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_bookmarks"
+msgid "Delete selected bookmarks?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_certificates"
+msgid "Delete selected certificates?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_documents"
+msgid "Delete selected documents?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_files"
+msgid "Delete selected files?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_folders"
+msgid "Delete selected folders and all of their contents?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_html"
+msgid "Delete selected HTML documents?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_images"
+msgid "Delete selected images?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_links"
+msgid "Delete selected shortcuts?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_messages"
+msgid "Delete selected messages?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_sound_clips"
+msgid "Delete selected sound clips?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_video_clips"
+msgid "Delete selected video clips?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_selected_xml"
+msgid "Delete selected XML documents?"
+msgstr ""
+
+msgctxt "ckct_nc_delete_sound_clip"
+msgid ""
+"Delete audio clip?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_video_clip"
+msgid ""
+"Delete video clip?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_nc_delete_xml"
+msgid ""
+"Delete XML document?\n"
+"%s"
+msgstr ""
+
+msgctxt "ckct_ni_cannot_save_mmc_cover_open"
+msgid ""
+"Save interrupted.\n"
+"Memory card cover open."
+msgstr ""
+
+msgctxt "ckct_ni_unable_to_open_file_corrupted"
+msgid ""
+"Unable to open.\n"
+"File corrupted."
+msgstr ""
+
+msgctxt "ckct_ni_unable_to_open_file_corrupted_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "ckct_ni_unable_to_open_unsupported_file_format"
+msgid ""
+"Unable to open.\n"
+"File format not supported."
+msgstr ""
+
+msgctxt "ckct_nw_pasting"
+msgid "Pasting"
+msgstr ""
+
+msgctxt "ckdg_bd_dialog_c_passwd_cancel_button"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ckdg_bd_dialog_c_passwd_remove_button"
+msgid "Remove"
+msgstr ""
+
+msgctxt "ckdg_ib_application_exists"
+msgid "Application name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_application_read_only"
+msgid "Application is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_bookmark_exists"
+msgid "Bookmark name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_bookmark_read_only"
+msgid "Bookmark is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_certificate_exists"
+msgid "Certificate name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_certificate_read_only"
+msgid "Certificate is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_dialog_g_user_name_empty_usr"
+msgid "Enter user name first"
+msgstr ""
+
+msgctxt "ckdg_ib_dialog_g_user_name_incorrect_usr"
+msgid "Incorrect user name"
+msgstr ""
+
+msgctxt "ckdg_ib_document_exists"
+msgid "Document name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_enter_name"
+msgid "Enter name first"
+msgstr ""
+
+msgctxt "ckdg_ib_file_exists"
+msgid "File name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_file_read_only"
+msgid "File is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_folder_already_exists"
+msgid "Folder name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_game_is_read_only"
+msgid "Game is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_html_exists"
+msgid "HTML document name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_html_read_only"
+msgid "HTML document is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_illegal_characters_entered"
+msgid "Field unable to contain '%s'"
+msgstr ""
+
+msgctxt "ckdg_ib_image_exists"
+msgid "Image name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_image_read_only"
+msgid "Image is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_link_exists"
+msgid "Shortcut name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_link_read_only"
+msgid "Shortcut is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_maximum_characters_reached"
+msgid "Maximum number of characters reached"
+msgstr ""
+
+msgctxt "ckdg_ib_message_exists"
+msgid "Message name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_message_read_only"
+msgid "Message is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_no_marks_to_clear"
+msgid "Nothing to unmark"
+msgstr ""
+
+msgctxt "ckdg_ib_nothing_duplicate"
+msgid "Nothing to duplicate"
+msgstr ""
+
+msgctxt "ckdg_ib_nothing_to_rename"
+msgid "Nothing to rename"
+msgstr ""
+
+msgctxt "ckdg_ib_nothing_to_send"
+msgid "Nothing to send"
+msgstr ""
+
+msgctxt "ckdg_ib_nothing_to_sort"
+msgid "Nothing to sort"
+msgstr ""
+
+msgctxt "ckdg_ib_sound_clip_read_only"
+msgid "Audio clip is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_sound_exists"
+msgid "Audio clip name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_unable_to_copy_folder_into_itself"
+msgid "Unable to copy folder into itself"
+msgstr ""
+
+msgctxt "ckdg_ib_unable_to_copy_or_move_subfolder_within_original_folder"
+msgid "Unable to copy or move a subfolder within the original folder"
+msgstr ""
+
+msgctxt "ckdg_ib_unable_to_mark"
+msgid "Unable to mark this item"
+msgstr ""
+
+msgctxt "ckdg_ib_unable_to_move_folder_into_itself"
+msgid "Unable to move folder into itself"
+msgstr ""
+
+msgctxt "ckdg_ib_unable_to_move_to_current_location"
+msgid "Unable to move to current location"
+msgstr ""
+
+msgctxt "ckdg_ib_unable_to_paste_to_same_location"
+msgid "Unable to paste in original location"
+msgstr ""
+
+msgctxt "ckdg_ib_unable_to_rename"
+msgid "Unable to rename"
+msgstr ""
+
+msgctxt "ckdg_ib_unable_to_unmark"
+msgid "Unable to unmark this item"
+msgstr ""
+
+msgctxt "ckdg_ib_video_clip_read_only"
+msgid "Video clip is read-only"
+msgstr ""
+
+msgctxt "ckdg_ib_video_exists"
+msgid "Video clip name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_xml_exists"
+msgid "XML document name already in use"
+msgstr ""
+
+msgctxt "ckdg_ib_xml_read_only"
+msgid "XML document is read-only"
+msgstr ""
+
+msgctxt "ckdg_nc_dialog_c_passwd_remove_pwd"
+msgid "Remove password protection?"
+msgstr ""
+
+msgctxt "ckdg_pb_updating"
+msgid "Updating"
+msgstr ""
+
+msgctxt "ecdg_ib_find_rep_enter_text"
+msgid "Enter the text to be found"
+msgstr ""
+
+msgctxt "ecdg_ib_password_is_empty"
+msgid "Enter password first"
+msgstr ""
+
+msgctxt "ecdg_ib_passwords_do_not_match"
+msgid "Passwords do not match"
+msgstr ""
+
+msgctxt "ecdg_ib_set_password_incorrect"
+msgid "Incorrect password"
+msgstr ""
+
+msgctxt "ecoc_ib_edwin_cannot_find"
+msgid "No matches found"
+msgstr ""
+
+msgctxt "ecoc_ib_edwin_copied"
+msgid "Copied"
+msgstr ""
+
+msgctxt "ecoc_ib_edwin_file_read_only"
+msgid "Document is read-only"
+msgstr ""
+
+msgctxt "ecoc_ib_edwin_nothing_to_copy"
+msgid "Nothing to copy"
+msgstr ""
+
+msgctxt "ecoc_ib_edwin_nothing_to_cut"
+msgid "Nothing to cut"
+msgstr ""
+
+msgctxt "ecoc_ib_edwin_nothing_to_paste"
+msgid "Nothing to paste"
+msgstr ""
+
+msgctxt "ecoc_ib_nothing_to_undo"
+msgid "Nothing to undo"
+msgstr ""
+
+msgctxt "file_ib_name_too_long"
+msgid "Name too long"
+msgstr ""
+
+msgctxt "sfil_ib_nothing_to_view"
+msgid "Nothing to view"
+msgstr ""
+
+msgctxt "sfil_ib_saved"
+msgid "Saved"
+msgstr ""
+
+msgctxt "sfil_ib_saving"
+msgid "Saving"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_copy_or_move_a_subfolder_within_original_folder"
+msgid "Unable to copy or move a subfolder within the original folder"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_cut_selected_folder"
+msgid "Unable to cut selected folder"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_cut_selected_items"
+msgid "Unable to cut selected items"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_delete_selected_folder"
+msgid "Unable to delete selected folder"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_delete_selected_items"
+msgid "Unable to delete selected items"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_move_selected_folder"
+msgid "Unable to move selected folder"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_move_selected_items"
+msgid "Unable to move selected items"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_open_folder_not_found"
+msgid ""
+"Unable to open.\n"
+"Folder not found."
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_rename_selected_folder"
+msgid "Unable to rename selected folder"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_send"
+msgid "Unable to send"
+msgstr ""
+
+msgctxt "sfil_ib_unable_to_send_folders"
+msgid "Unable to send folders"
+msgstr ""
+
+msgctxt "sfil_nc_save_before_closing"
+msgid "Save file before closing?"
+msgstr ""
+
+msgctxt "sfil_nc_save_before_closing_cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "sfil_nc_save_before_closing_no"
+msgid "No"
+msgstr ""
+
+msgctxt "sfil_nc_save_before_closing_yes"
+msgid "Yes"
+msgstr ""
+
+msgctxt "sfil_ni_cannot_continue_target_folder_deleted"
+msgid ""
+"Unable to continue.\n"
+"Folder not found."
+msgstr ""
+
+msgctxt "sfil_ni_cannot_continue_target_folder_deleted_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "sfil_ni_cannot_open_mmc_cover_open"
+msgid ""
+"Opening interrupted.\n"
+"Memory card cover open."
+msgstr ""
+
+msgctxt "sfil_ni_cannot_open_mmc_cover_open_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "sfil_ni_cannot_open_no_connection"
+msgid ""
+"Opening interrupted.\n"
+"No connection."
+msgstr ""
+
+msgctxt "sfil_ni_cannot_open_no_connection_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "sfil_ni_folder_not_found_switched_to_another_folder"
+msgid ""
+"Folder not found.\n"
+"Device switched to another folder."
+msgstr ""
+
+msgctxt "sfil_ni_folder_not_found_switched_to_another_folder_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "sfil_ni_not_enough_memory"
+msgid "Not enough memory in target location"
+msgstr ""
+
+msgctxt "sfil_ni_not_enough_memory_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "sfil_ni_operation_failed"
+msgid "Operation failed"
+msgstr ""
+
+msgctxt "sfil_ni_operation_failed_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "sfil_ni_unable_to_open_file_not_found"
+msgid ""
+"Unable to open.\n"
+"File not found."
+msgstr ""
+
+msgctxt "sfil_ni_unable_to_open_file_not_found_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "sfil_ni_unable_to_open_too_large"
+msgid ""
+"Unable to open.\n"
+"File too large."
+msgstr ""
+
+msgctxt "sfil_ni_unable_to_open_too_large_ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "sfil_ni_unable_to_rename_file_not_found"
+msgid ""
+"Unable to rename.\n"
+"File not found."
+msgstr ""
+
+msgctxt "sfil_ni_unable_to_rename_file_not_found_ok"
+msgid "OK"
+msgstr ""

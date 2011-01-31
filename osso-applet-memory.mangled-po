@@ -1,0 +1,131 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-memory 20090417133203\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.04.17 13:32+0300\n"
+"PO-Revision-Date: 2009.04.17 13:32+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "memo_bd_details"
+msgid "Details"
+msgstr "Деталі"
+
+msgctxt "memo_ia_corrupt_card"
+msgid "(memory card corrupted)"
+msgstr ""
+
+msgctxt "memo_ia_pc_connected"
+msgid "(USB cable connected)"
+msgstr ""
+
+msgctxt "memo_li_available_space"
+msgid "%s available"
+msgstr "%s доступно"
+
+msgctxt "memo_ti_application_memory"
+msgid "Memory for installable applications"
+msgstr "Пам'ять для встановлюваних додатків"
+
+msgctxt "memo_ti_card_removable"
+msgid "Memory card"
+msgstr "Карта пам'яті"
+
+msgctxt "memo_ti_memory"
+msgid "Memory"
+msgstr "Пам'ять"
+
+msgctxt "memo_ti_memorynote_device"
+msgid "Device"
+msgstr "Пристрій"
+
+msgctxt "sfil_fi_storage_details_available"
+msgid "Available"
+msgstr "Доступно"
+
+msgctxt "sfil_fi_storage_details_in_use"
+msgid "User files"
+msgstr "Файли користувача"
+
+msgctxt "sfil_fi_storage_details_in_use_system"
+msgid "In use by system"
+msgstr "Використовується системою"
+
+msgctxt "sfil_fi_storage_details_name"
+msgid "Name"
+msgstr "Назва"
+
+msgctxt "sfil_fi_storage_details_readonly"
+msgid "Storage is read-only"
+msgstr ""
+
+msgctxt "sfil_fi_storage_details_size"
+msgid "Total size"
+msgstr "Загальний розмір"
+
+msgctxt "sfil_fi_storage_details_type"
+msgid "Type"
+msgstr "Тип"
+
+msgctxt "sfil_li_contacts"
+msgid "Contacts"
+msgstr "Контакти"
+
+msgctxt "sfil_li_documents"
+msgid "Documents"
+msgstr "Документи"
+
+msgctxt "sfil_li_emails"
+msgid "E-mails"
+msgstr "E-mail"
+
+msgctxt "sfil_li_images"
+msgid "Images"
+msgstr "Зображення"
+
+msgctxt "sfil_li_other_files"
+msgid "Other files"
+msgstr "Інші файли"
+
+msgctxt "sfil_li_sound_clips"
+msgid "Audio clips"
+msgstr "Аудіо кліпи"
+
+msgctxt "sfil_li_storage_details_no_data"
+msgid "(no data)"
+msgstr "(немає даних)"
+
+msgctxt "sfil_li_video_clips"
+msgid "Video clips"
+msgstr "Відео кліпи"
+
+msgctxt "sfil_li_web_pages"
+msgid "Web pages"
+msgstr "Веб-сторінки"
+
+msgctxt "sfil_ti_storage_details"
+msgid "Storage details"
+msgstr ""
+
+msgctxt "sfil_va_type_internal_memory"
+msgid "Device memory"
+msgstr "Пам'ять пристрою"
+
+msgctxt "sfil_va_type_removable_memorycard"
+msgid "Memory card"
+msgstr "Карта пам'яті"
+
+msgctxt "sfil_va_type_removable_storage"
+msgid "Removable storage"
+msgstr ""
+
+msgctxt "sfil_va_unknown"
+msgid "Unknown"
+msgstr ""

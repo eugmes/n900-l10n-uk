@@ -1,0 +1,125 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "card_connected_via_usb_card"
+msgid "Only device storage connected. %s already in use."
+msgstr ""
+
+msgctxt "card_connected_via_usb_device"
+msgid "Only %s connected. Device storage in use."
+msgstr ""
+
+msgctxt "card_ia_corrupted"
+msgid ""
+"Memory is read-only until fixed.\n"
+"Try fixing memory with a PC after plugging in USB cable.\n"
+"Create data backup first to save existing memory contents."
+msgstr ""
+
+msgctxt "card_ib_formatting_complete"
+msgid "Formatting complete"
+msgstr ""
+
+msgctxt "card_ib_unknown_format_card"
+msgid "Memory card format unsupported"
+msgstr ""
+
+msgctxt "card_ib_unknown_format_device"
+msgid "Device storage format unsupported"
+msgstr ""
+
+msgctxt "card_ib_usb_disconnected"
+msgid "USB cable disconnected"
+msgstr ""
+
+msgctxt "card_ni_usb_failed_card_in_use"
+msgid ""
+"Unable to connect via USB.\n"
+"Device storage in use."
+msgstr ""
+
+msgctxt "card_ni_usb_failed_cards_in_use"
+msgid ""
+"Unable to connect via USB.\n"
+"Memories in use.\n"
+"Device storage\n"
+"%s"
+msgstr ""
+
+msgctxt "card_nw_formatting_memory_card"
+msgid "Formatting memory card"
+msgstr ""
+
+msgctxt "card_ti_corrupted_card"
+msgid "Memory card corrupted"
+msgstr ""
+
+msgctxt "card_ti_corrupted_device"
+msgid "Device storage corrupted"
+msgstr ""
+
+msgctxt "cards_connected_via_usb"
+msgid "Connected via USB"
+msgstr ""
+
+msgctxt "cerm_device_memory_full"
+msgid ""
+"%s\n"
+"Device storage full.\n"
+"Remove data to free memory."
+msgstr ""
+
+msgctxt "cerm_memory_card_full"
+msgid ""
+"Memory card full.\n"
+"Remove data to free memory."
+msgstr ""
+
+msgctxt "cerm_system_memory_full"
+msgid ""
+"Device system storage full.\n"
+"Remove applications via Application manager to free memory."
+msgstr ""
+
+msgctxt "memr_bd_close_applications_ok"
+msgid "Stop"
+msgstr ""
+
+msgctxt "memr_ia_close_applications_application_list"
+msgid "Close"
+msgstr ""
+
+msgctxt "memr_ia_close_applications_opening"
+msgid ""
+"Too many applications open.\n"
+"Unable to open additional applications without closing some others."
+msgstr ""
+
+msgctxt "memr_ia_close_applications_switching"
+msgid ""
+"Too many applications open.\n"
+"Unable to switch to requested application without closing some others."
+msgstr ""
+
+msgctxt "memr_ib_operation_disabled"
+msgid "Operation temporarily disabled due to low memory"
+msgstr ""
+
+msgctxt "memr_ni_application_closed_no_resources"
+msgid "Internal error. Application '%s' closed."
+msgstr ""
+
+msgctxt "memr_ti_close_applications"
+msgid "Close applications"
+msgstr ""

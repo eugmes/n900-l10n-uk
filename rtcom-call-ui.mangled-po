@@ -1,0 +1,471 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091019161422\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2009.10.19 16:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "call_bd_call_duration_clear_timers"
+msgid "Clear timers"
+msgstr "Очистити таймери"
+
+msgctxt "call_bd_idle_view_dialpad"
+msgid "Dialing pad"
+msgstr "Набір номеру"
+
+msgctxt "call_bd_idle_view_select_contact"
+msgid "Select contact"
+msgstr "Вибрати контакт"
+
+msgctxt "call_bd_incoming_call_answer"
+msgid "Answer"
+msgstr "Відповісти"
+
+msgctxt "call_bd_incoming_call_reject"
+msgid "Reject"
+msgstr ""
+
+msgctxt "call_bd_manual_dial_call_type"
+msgid "Call type"
+msgstr "Тип виклику"
+
+msgctxt "call_bd_manual_dial_cellular"
+msgid "Cellular"
+msgstr "Мобільний"
+
+msgctxt "call_bd_send"
+msgid "Send"
+msgstr "Надіслати"
+
+msgctxt "call_bd_set_turning_display_orientation"
+msgid "Display orientation"
+msgstr "Орієнтація дисплея"
+
+msgctxt "call_bd_set_turning_home_shortcut"
+msgid "Launch by turning"
+msgstr "Запускати при повертанні"
+
+msgctxt "call_bd_skip"
+msgid "Skip"
+msgstr "Пропустити"
+
+msgctxt "call_fi_call_duration_all_calls"
+msgid "All"
+msgstr "Всі"
+
+msgctxt "call_fi_call_duration_cellular"
+msgid "Cellphone calls"
+msgstr "Мобільні дзвінки"
+
+msgctxt "call_fi_call_duration_dialed"
+msgid "Dialed"
+msgstr "Набрані"
+
+msgctxt "call_fi_call_duration_received"
+msgid "Received"
+msgstr "Отримані"
+
+msgctxt "call_fi_call_duration_voip"
+msgid "Internet calls"
+msgstr "Інтернет-дзвінки"
+
+msgctxt "call_fi_call_handling_camera"
+msgid "Camera"
+msgstr "Камера"
+
+msgctxt "call_fi_call_handling_device_locked"
+msgid "Device locked"
+msgstr "Пристрій заблоковано"
+
+msgctxt "call_fi_call_handling_emergency_call"
+msgid "Emergency call"
+msgstr ""
+
+msgctxt "call_fi_call_handling_emergency_call_number"
+msgid "%s – Emergency call"
+msgstr ""
+
+msgctxt "call_fi_call_handling_end_call"
+msgid "End"
+msgstr "Закінчити"
+
+msgctxt "call_fi_call_handling_fixed_title"
+msgid "Call"
+msgstr ""
+
+msgctxt "call_fi_call_handling_headset"
+msgid "Headset"
+msgstr ""
+
+msgctxt "call_fi_call_handling_held_call"
+msgid "On hold"
+msgstr ""
+
+msgctxt "call_fi_call_handling_speaker"
+msgid "Speaker"
+msgstr ""
+
+msgctxt "call_fi_call_handling_split_conference"
+msgid "Private"
+msgstr ""
+
+msgctxt "call_fi_call_header_active_call"
+msgid "Active call"
+msgstr ""
+
+msgctxt "call_fi_call_header_active_call_portrait"
+msgid "Active call"
+msgstr ""
+
+msgctxt "call_fi_call_header_active_conference_call"
+msgid "Conference call"
+msgstr ""
+
+msgctxt "call_fi_call_header_active_conference_call_portrait"
+msgid "Conference call"
+msgstr ""
+
+msgctxt "call_fi_call_header_ending"
+msgid "Ending"
+msgstr ""
+
+msgctxt "call_fi_call_header_held_call"
+msgid "On hold"
+msgstr ""
+
+msgctxt "call_fi_call_header_video_call"
+msgid "Video call"
+msgstr ""
+
+msgctxt "call_fi_call_summary_identifier_incorrect_number"
+msgid "Incorrect number"
+msgstr "Невірний номер"
+
+msgctxt "call_fi_call_type_audio"
+msgid "%s"
+msgstr ""
+
+msgctxt "call_fi_call_type_cellular"
+msgid "Cellular"
+msgstr "Мобільний"
+
+msgctxt "call_fi_display_orientation_automatic"
+msgid "Automatic"
+msgstr "Автоматична"
+
+msgctxt "call_fi_display_orientation_landscape"
+msgid "Landscape"
+msgstr "Ландшафт"
+
+msgctxt "call_fi_display_orientation_portrait"
+msgid "Portrait"
+msgstr "Портрет"
+
+msgctxt "call_fi_manual_dial_no_accounts"
+msgid "No accounts"
+msgstr ""
+
+msgctxt "call_ia_idle_view_no_calls"
+msgid "No recent calls"
+msgstr ""
+
+msgctxt "call_ib_account_not_in_use"
+msgid "Account not in use"
+msgstr ""
+
+msgctxt "call_ib_als_wrong_line"
+msgid "Line 2 of SIM card not supported. Change SIM card."
+msgstr ""
+
+msgctxt "call_ib_audio_transferred_from_headset"
+msgid "Audio transferred from headset to device"
+msgstr ""
+
+msgctxt "call_ib_audio_transferred_to_headset"
+msgid "Audio transferred to headset"
+msgstr ""
+
+msgctxt "call_ib_call_activated"
+msgid "Call activated"
+msgstr ""
+
+msgctxt "call_ib_call_on_hold"
+msgid "Call on hold"
+msgstr ""
+
+msgctxt "call_ib_call_waiting"
+msgid "Call waiting"
+msgstr ""
+
+msgctxt "call_ib_cellular_connection_error"
+msgid "Connection error"
+msgstr ""
+
+msgctxt "call_ib_cellular_network_busy"
+msgid "Network busy"
+msgstr ""
+
+msgctxt "call_ib_cost_limit_reached"
+msgid "Cost limit reached"
+msgstr ""
+
+msgctxt "call_ib_fdn_active"
+msgid "Call not allowed. Fixed dialing active."
+msgstr ""
+
+msgctxt "call_ib_not_allowed"
+msgid "Call not allowed"
+msgstr ""
+
+msgctxt "call_ib_not_available"
+msgid "Not available"
+msgstr ""
+
+msgctxt "call_ib_number_not_in_use"
+msgid "Number not in use"
+msgstr ""
+
+msgctxt "call_ib_request_not_completed"
+msgid "Request not completed"
+msgstr ""
+
+msgctxt "call_ib_request_rejected"
+msgid "Request rejected"
+msgstr ""
+
+msgctxt "call_ib_sending_dtmf"
+msgid "Sending DTMF"
+msgstr ""
+
+msgctxt "call_ib_service_code_not_supported"
+msgid "Service code not supported"
+msgstr ""
+
+msgctxt "call_ib_w_not_supported"
+msgid "Letter 'w' not supported"
+msgstr ""
+
+msgctxt "call_me_context_menu_contact_card"
+msgid "Open contact card"
+msgstr ""
+
+msgctxt "call_me_context_menu_delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "call_me_menu_call_call_to_contact"
+msgid "New call to contact"
+msgstr ""
+
+msgctxt "call_me_menu_call_call_to_number"
+msgid "New call to number"
+msgstr ""
+
+msgctxt "call_me_menu_call_speaker_off"
+msgid "Turn off speaker"
+msgstr ""
+
+msgctxt "call_me_menu_call_speaker_on"
+msgid "Turn on speaker"
+msgstr ""
+
+msgctxt "call_me_menu_call_start_conference"
+msgid "Start conference call"
+msgstr ""
+
+msgctxt "call_me_menu_call_video_call"
+msgid "Turn on video"
+msgstr ""
+
+msgctxt "call_me_menu_merge_with"
+msgid "Merge with contact"
+msgstr ""
+
+msgctxt "call_me_menu_new_contact"
+msgid "New contact"
+msgstr ""
+
+msgctxt "call_me_menu_tools_activate_call"
+msgid "Activate call"
+msgstr ""
+
+msgctxt "call_me_menu_tools_clear_list"
+msgid "Clear recent calls"
+msgstr ""
+
+msgctxt "call_me_menu_tools_duration"
+msgid "Call timers"
+msgstr ""
+
+msgctxt "call_me_menu_tools_end_held_call"
+msgid "End held call"
+msgstr ""
+
+msgctxt "call_me_menu_tools_hold_call"
+msgid "Hold call"
+msgstr ""
+
+msgctxt "call_me_menu_turning_control"
+msgid "Turning control"
+msgstr ""
+
+msgctxt "call_nc_clear_all_calls"
+msgid "Clear recent calls?"
+msgstr ""
+
+msgctxt "call_nc_delete_call"
+msgid "Remove from recent calls?"
+msgstr ""
+
+msgctxt "call_nc_end_call"
+msgid "End ongoing call?"
+msgstr ""
+
+msgctxt "call_nc_end_calls"
+msgid "End ongoing calls?"
+msgstr ""
+
+msgctxt "call_nc_requesting"
+msgid "Requesting"
+msgstr ""
+
+msgctxt "call_ti_call_duration"
+msgid "Call timers"
+msgstr ""
+
+msgctxt "call_ti_call_type"
+msgid "Call type"
+msgstr ""
+
+msgctxt "call_ti_message"
+msgid "Message"
+msgstr ""
+
+msgctxt "call_ti_set_turning_control"
+msgid "Turning control"
+msgstr ""
+
+msgctxt "voip_ap_feature_name"
+msgid "Phone"
+msgstr "Телефон"
+
+msgctxt "voip_bd_dtmf_dialpad_close"
+msgid "Close"
+msgstr ""
+
+msgctxt "voip_bd_manual_dial_ok"
+msgid "Call"
+msgstr ""
+
+msgctxt "voip_bv_call_handling_lock_enter_code"
+msgid "Unlock"
+msgstr ""
+
+msgctxt "voip_fi_call_header_connecting"
+msgid "Connecting"
+msgstr ""
+
+msgctxt "voip_fi_call_header_initializing"
+msgid "Calling"
+msgstr ""
+
+msgctxt "voip_fi_call_header_initializing_portrait"
+msgid "Calling"
+msgstr ""
+
+msgctxt "voip_fi_call_summary_identifier_busy"
+msgid "Busy"
+msgstr ""
+
+msgctxt "voip_fi_call_summary_identifier_call_rejected"
+msgid "Call not established"
+msgstr ""
+
+msgctxt "voip_fi_call_summary_identifier_disconnected"
+msgid "Call disconnected"
+msgstr ""
+
+msgctxt "voip_fi_call_summary_identifier_no_answer"
+msgid "No answer"
+msgstr ""
+
+msgctxt "voip_fi_call_summary_identifier_not_authorized"
+msgid "Unauthorized call"
+msgstr ""
+
+msgctxt "voip_fi_call_summary_identifier_not_found"
+msgid "Incorrect address"
+msgstr ""
+
+msgctxt "voip_fi_caller_information_unknown_caller"
+msgid "Unknown number"
+msgstr ""
+
+msgctxt "voip_ib_call_not_possible_maximum_num_of_calls"
+msgid "End current call to start new call"
+msgstr ""
+
+msgctxt "voip_ib_call_not_supported"
+msgid "This contact's application does not support calls"
+msgstr ""
+
+msgctxt "voip_ib_dtmf_not_supported"
+msgid "Call does not support DTMF tones"
+msgstr ""
+
+msgctxt "voip_ib_error_in_contact"
+msgid "Unable to establish connection"
+msgstr ""
+
+msgctxt "voip_ib_microphone_muted"
+msgid "Microphone muted"
+msgstr ""
+
+msgctxt "voip_ib_microphone_unmuted"
+msgid "Microphone unmuted"
+msgstr ""
+
+msgctxt "voip_ib_not_enough_memory"
+msgid "Not enough memory"
+msgstr ""
+
+msgctxt "voip_ib_not_enough_memory_missed_call"
+msgid ""
+"Unable to accept incoming call.\n"
+"Not enough memory."
+msgstr ""
+
+msgctxt "voip_ib_undefined_error"
+msgid "General error"
+msgstr ""
+
+msgctxt "voip_me_menu_tools_accounts"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "voip_ni_unable_to_negotiate_codec"
+msgid ""
+"Codec incompatible with other party.\n"
+"Unable to start call."
+msgstr ""
+
+msgctxt "voip_ti_dtmf_dialpad_title"
+msgid "Dialing pad"
+msgstr ""
+
+msgctxt "voip_ti_manual_dial_title"
+msgid "Dialing pad"
+msgstr ""
+
+msgctxt "voip_ti_manual_dial_title_portrait"
+msgid "Dialing pad"
+msgstr ""

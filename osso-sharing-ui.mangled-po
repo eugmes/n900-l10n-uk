@@ -1,0 +1,513 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sharing-ui 20090706094241\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2009.07.06 09:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "share_bd_account"
+msgid "Account"
+msgstr ""
+
+msgctxt "share_bd_accounts_register_new"
+msgid "Register new account"
+msgstr ""
+
+msgctxt "share_bd_accounts_sign_in"
+msgid "Sign in"
+msgstr ""
+
+msgctxt "share_bd_accounts_use_existing"
+msgid "Use existing account"
+msgstr ""
+
+msgctxt "share_bd_accounts_validate"
+msgid "Validate"
+msgstr ""
+
+msgctxt "share_bd_album_update_list"
+msgid "Update album list"
+msgstr ""
+
+msgctxt "share_bd_connect"
+msgid "Connect"
+msgstr ""
+
+msgctxt "share_bd_error_cancel_sharing"
+msgid "Stop sharing"
+msgstr ""
+
+msgctxt "share_bd_error_identification_edit_account"
+msgid "Edit account"
+msgstr ""
+
+msgctxt "share_bd_error_service_retry"
+msgid "Retry"
+msgstr ""
+
+msgctxt "share_bd_new_account"
+msgid "New"
+msgstr ""
+
+msgctxt "share_bd_options"
+msgid "Options"
+msgstr ""
+
+msgctxt "share_bd_options_album"
+msgid "Album"
+msgstr ""
+
+msgctxt "share_bd_options_metadata"
+msgid "Metadata"
+msgstr ""
+
+msgctxt "share_bd_options_privacy"
+msgid "Privacy"
+msgstr ""
+
+msgctxt "share_bd_options_size"
+msgid "Image size"
+msgstr ""
+
+msgctxt "share_bd_send_bluetooth"
+msgid "Send via Bluetooth"
+msgstr ""
+
+msgctxt "share_bd_send_email"
+msgid "Send via E-mail"
+msgstr ""
+
+msgctxt "share_bd_share_to_service"
+msgid "Share via service"
+msgstr ""
+
+msgctxt "share_bd_tags"
+msgid "Tags"
+msgstr ""
+
+msgctxt "share_cpa_ti"
+msgid "Sharing accounts"
+msgstr ""
+
+msgctxt "share_fi_accounts_add_new_service"
+msgid "Check for new service"
+msgstr ""
+
+msgctxt "share_fi_album_last_update"
+msgid "List updated"
+msgstr ""
+
+msgctxt "share_fi_cpa_edit_account_password"
+msgid "Password"
+msgstr ""
+
+msgctxt "share_fi_cpa_edit_account_username"
+msgid "User name"
+msgstr ""
+
+msgctxt "share_fi_cpa_no_accounts"
+msgid "(no accounts)"
+msgstr ""
+
+msgctxt "share_fi_description_placeholder"
+msgid "Description"
+msgstr ""
+
+msgctxt "share_fi_favourite"
+msgid "Favorite"
+msgstr ""
+
+msgctxt "share_fi_favourites"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "share_fi_options_metadata_keep_all"
+msgid "Keep all"
+msgstr ""
+
+msgctxt "share_fi_options_metadata_remove_all"
+msgid "Remove all in file"
+msgstr ""
+
+msgctxt "share_fi_options_metadata_remove_some"
+msgid "Remove GPS coordinates and creator name"
+msgstr ""
+
+msgctxt "share_fi_options_privacy_family"
+msgid "Family"
+msgstr ""
+
+msgctxt "share_fi_options_privacy_friends"
+msgid "Friends"
+msgstr ""
+
+msgctxt "share_fi_options_privacy_friends_and_family"
+msgid "Friends and family"
+msgstr ""
+
+msgctxt "share_fi_options_privacy_private"
+msgid "Private"
+msgstr ""
+
+msgctxt "share_fi_options_privacy_public"
+msgid "Public"
+msgstr ""
+
+msgctxt "share_fi_options_size_large"
+msgid "Large"
+msgstr ""
+
+msgctxt "share_fi_options_size_medium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "share_fi_options_size_original"
+msgid "Preserve original"
+msgstr ""
+
+msgctxt "share_fi_options_size_small"
+msgid "Small"
+msgstr ""
+
+msgctxt "share_fi_status_account_not_available"
+msgid "Account not available"
+msgstr ""
+
+msgctxt "share_fi_status_fileformat_error"
+msgid "File format error"
+msgstr ""
+
+msgctxt "share_fi_status_in_queue"
+msgid "In queue"
+msgstr ""
+
+msgctxt "share_fi_status_menu_sending"
+msgid "Sending to %s"
+msgstr ""
+
+msgctxt "share_fi_status_sending"
+msgid "Sending"
+msgstr ""
+
+msgctxt "share_fi_status_unknown_error"
+msgid "Transfer error"
+msgstr ""
+
+msgctxt "share_fi_status_upload_limit_error"
+msgid "Upload limit error"
+msgstr ""
+
+msgctxt "share_fi_status_waiting_for_connection"
+msgid "Waiting for connection"
+msgstr ""
+
+msgctxt "share_fi_status_waiting_for_service"
+msgid "Waiting for service"
+msgstr ""
+
+msgctxt "share_fi_status_wrong_credentials"
+msgid "Identification error"
+msgstr ""
+
+msgctxt "share_fi_title_placeholder"
+msgid "Title"
+msgstr ""
+
+msgctxt "share_ia_accounts_setup_web_sign_in"
+msgid ""
+"Continue account setup by signing in to %s through webpage.\n"
+"Return to Account setup after signing in."
+msgstr ""
+
+msgctxt "share_ia_accounts_setup_web_start"
+msgid ""
+"New Flickr account must be set up through web page.\n"
+"Return to Account setup after registering existing or new account."
+msgstr ""
+
+msgctxt "share_ia_accounts_setup_web_validate"
+msgid "Validate account to complete account setup"
+msgstr ""
+
+msgctxt "share_ia_cpa_edit_account_web"
+msgid ""
+"Tap 'Edit' to open web page for editing %s account.\n"
+"Return here after editing account to validate changes."
+msgstr ""
+
+msgctxt "share_ia_cpa_validate_changes"
+msgid "Validate changes to complete account editing"
+msgstr ""
+
+msgctxt "share_ia_error_account"
+msgid "Unable to continue transfer. Selected account no longer available."
+msgstr ""
+
+msgctxt "share_ia_error_connection"
+msgid "Transfer pending. Awaiting internet connection."
+msgstr ""
+
+msgctxt "share_ia_error_fileformat"
+msgid "Transfer of %d files failed. Service unable to accept file format."
+msgstr ""
+
+msgctxt "share_ia_error_fileformat_single_file"
+msgid "Transfer of %s failed. Service unable to accept file format."
+msgstr ""
+
+msgctxt "share_ia_error_identification"
+msgid "Unable to continue transfer. User name or password for %s incorrect."
+msgstr ""
+
+msgctxt "share_ia_error_identification_for_ovi"
+msgid ""
+"Unable to continue transfer. User name or password for %s incorrect.\n"
+"(Also check time settings.)"
+msgstr ""
+
+msgctxt "share_ia_error_service"
+msgid "Transfer pending. Awaiting service response."
+msgstr ""
+
+msgctxt "share_ia_error_unknown"
+msgid "Transfer failed. Unable to continue."
+msgstr ""
+
+msgctxt "share_ia_error_upload_limit"
+msgid "Transfer of %d files failed. Service upload limit exceeded."
+msgstr ""
+
+msgctxt "share_ia_error_upload_limit_single_file"
+msgid "Transfer of %s failed. Service upload limit exceeded."
+msgstr ""
+
+msgctxt "share_ib_account_editing_completed"
+msgid "Account editing completed"
+msgstr ""
+
+msgctxt "share_ib_account_setup_completed"
+msgid "Account setup completed"
+msgstr ""
+
+msgctxt "share_ib_album_update_failed"
+msgid "Album list update failed"
+msgstr ""
+
+msgctxt "share_ib_all_files_no_longer_available"
+msgid "Files are no longer available. Sharing failed."
+msgstr ""
+
+msgctxt "share_ib_enter_credentials_first"
+msgid "Enter user name and password first"
+msgstr ""
+
+msgctxt "share_ib_file_no_longer_available"
+msgid "%s is no longer available"
+msgstr ""
+
+msgctxt "share_ib_files_no_longer_available"
+msgid "%d files are no longer available"
+msgstr ""
+
+msgctxt "share_ib_no_account_to_validate"
+msgid "Account setup not finished. Operation canceled."
+msgstr ""
+
+msgctxt "share_ib_no_changes_to_validate"
+msgid "Changes not finished. Operation canceled."
+msgstr ""
+
+msgctxt "share_ib_no_connection"
+msgid "No network connection available. Operation canceled."
+msgstr ""
+
+msgctxt "share_ib_no_files_selected"
+msgid "No files selected. Sharing canceled."
+msgstr ""
+
+msgctxt "share_ib_not_enough_memory_processing"
+msgid "Not enough memory to process files before sharing"
+msgstr ""
+
+msgctxt "share_ib_not_enough_memory_scaling"
+msgid "Not enough memory to resize images"
+msgstr ""
+
+msgctxt "share_ib_only_file_no_longer_available"
+msgid "File is no longer available. Sharing failed."
+msgstr ""
+
+msgctxt "share_ib_processing"
+msgid "Processing files before sharing"
+msgstr ""
+
+msgctxt "share_ib_service_not_responding"
+msgid "Service not responding. Try again later."
+msgstr ""
+
+msgctxt "share_ib_validation_failed"
+msgid "Account validation failed"
+msgstr ""
+
+msgctxt "share_ib_wrong_credentials"
+msgid "User name or password incorrect"
+msgstr ""
+
+msgctxt "share_ib_wrong_credentials_for_ovi"
+msgid ""
+"User name or password incorrect.\n"
+"(Also check time settings.)"
+msgstr ""
+
+msgctxt "share_li_album_default"
+msgid "Default"
+msgstr ""
+
+msgctxt "share_li_album_mymedia"
+msgid "All media"
+msgstr ""
+
+msgctxt "share_nc_cancel_sharing"
+msgid "Stop sharing %d files via %s?"
+msgstr ""
+
+msgctxt "share_nc_cancel_sharing_single_file"
+msgid "Stop sharing %s via %s?"
+msgstr ""
+
+msgctxt "share_nc_delete_account"
+msgid "Delete account for %s?"
+msgstr ""
+
+msgctxt "share_nc_delete_account_in_use"
+msgid "Account in use. Delete account for %s?"
+msgstr ""
+
+msgctxt "share_ni_account_deleted"
+msgid ""
+"Account selected for sharing has been deleted.\n"
+"Select another account."
+msgstr ""
+
+msgctxt "share_ni_already_sent_multiple"
+msgid "Files already sent to service: %d"
+msgstr ""
+
+msgctxt "share_ni_already_sent_single"
+msgid "%s already sent to service"
+msgstr ""
+
+msgctxt "share_ni_metadata_removal_some"
+msgid ""
+"Unable to remove metadata from %d/%d files.\n"
+"Only metadata from other files will be removed."
+msgstr ""
+
+msgctxt "share_ni_non_local_files"
+msgid "Unable to share non-local files. Operation canceled."
+msgstr ""
+
+msgctxt "share_ni_only_account_deleted"
+msgid ""
+"Account selected for sharing has been deleted.\n"
+"New account must be created."
+msgstr ""
+
+msgctxt "share_ni_outbox_full"
+msgid "Not enough memory for new transfers"
+msgstr ""
+
+msgctxt "share_ni_sso_account_setup_completed"
+msgid ""
+"Account setup for Ovi by Nokia completed.\n"
+"Sharing, chat and web services activated"
+msgstr ""
+
+msgctxt "share_ni_too_many_files"
+msgid "Unable to share more than %d files at once. Operation canceled."
+msgstr ""
+
+msgctxt "share_ni_username_existing"
+msgid ""
+"Account with user name %s already exists for %s.\n"
+"Operation canceled."
+msgstr ""
+
+msgctxt "share_ti_accounts_select_service"
+msgid "Account setup - Select service"
+msgstr ""
+
+msgctxt "share_ti_accounts_setup"
+msgid "Account setup - %s"
+msgstr ""
+
+msgctxt "share_ti_accounts_setup_web_sign_in"
+msgid "Account setup - Sign in to %s"
+msgstr ""
+
+msgctxt "share_ti_accounts_setup_web_validate"
+msgid "Account setup - Validate %s account"
+msgstr ""
+
+msgctxt "share_ti_accounts_validating"
+msgid "Validating account for %s"
+msgstr ""
+
+msgctxt "share_ti_cpa_edit_account"
+msgid "Edit account for %s"
+msgstr ""
+
+msgctxt "share_ti_cpa_validate_changes"
+msgid "Validate changes for %s account"
+msgstr ""
+
+msgctxt "share_ti_cpa_validating_changes"
+msgid "Validating changes for %s account"
+msgstr ""
+
+msgctxt "share_ti_options"
+msgid "Sharing options"
+msgstr ""
+
+msgctxt "share_ti_select_account"
+msgid "Select account"
+msgstr ""
+
+msgctxt "share_ti_select_album"
+msgid "Select album"
+msgstr ""
+
+msgctxt "share_ti_share_dialogs_multiple"
+msgid "Share %d files"
+msgstr ""
+
+msgctxt "share_ti_share_dialogs_single"
+msgid "Share %s"
+msgstr ""
+
+msgctxt "share_ti_share_status_dialog"
+msgid "Sharing status"
+msgstr ""
+
+msgctxt "share_ti_single_content_details"
+msgid "Edit details: %s"
+msgstr ""
+
+msgctxt "share_ti_status_menu_plug_in"
+msgid "Sharing"
+msgstr ""
+
+msgctxt "share_ti_transfer_error_dialogs"
+msgid "Sharing %d files via %s"
+msgstr ""
+
+msgctxt "share_ti_transfer_error_dialogs_single_file"
+msgid "Sharing %s via %s"
+msgstr ""

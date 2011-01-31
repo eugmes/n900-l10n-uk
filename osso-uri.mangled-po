@@ -1,0 +1,74 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-uri 20081117171224\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.11.17 17:12+0200\n"
+"PO-Revision-Date: 2008.11.17 17:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "uri_link_add_to_calendar"
+msgid "Add to Calendar"
+msgstr ""
+
+msgctxt "uri_link_add_to_contacts"
+msgid "Add to Contacts"
+msgstr ""
+
+msgctxt "uri_link_compose_email"
+msgid "New e-mail message"
+msgstr ""
+
+msgctxt "uri_link_copy_link_location"
+msgid "Copy link location"
+msgstr ""
+
+msgctxt "uri_link_error_invalid_protocol"
+msgid ""
+"Unable to open.\n"
+"Address type not supported.\n"
+"%s"
+msgstr ""
+
+msgctxt "uri_link_error_missing_protocol"
+msgid ""
+"Unable to open.\n"
+"Invalid address."
+msgstr ""
+
+msgctxt "uri_link_geo"
+msgid "Show location"
+msgstr ""
+
+msgctxt "uri_link_make_call"
+msgid "Call"
+msgstr ""
+
+msgctxt "uri_link_open_link"
+msgid "Open link"
+msgstr ""
+
+msgctxt "uri_link_play"
+msgid "Play"
+msgstr ""
+
+msgctxt "uri_link_save_target_as"
+msgid "Save target as"
+msgstr ""
+
+msgctxt "uri_link_start_new_chat"
+msgid "Instant message"
+msgstr ""
+
+msgctxt "uri_link_start_new_sms"
+msgid "Text message"
+msgstr ""
+
+msgctxt "uri_link_subscribe"
+msgid "Subscribe"
+msgstr ""

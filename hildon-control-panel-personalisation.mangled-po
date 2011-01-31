@@ -1,0 +1,39 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel-personalisation 20081020115108\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2008.10.20 11:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+
+msgctxt "pers_bd_button_apply"
+msgid "Apply"
+msgstr "Застосувати"
+
+msgctxt "pers_bd_button_close"
+msgid "Close"
+msgstr "Закрити"
+
+msgctxt "pers_fi_current"
+msgid "(current)"
+msgstr "(поточна)"
+
+msgctxt "pers_fi_label"
+msgid "Select a theme"
+msgstr "Виберіть тему"
+
+msgctxt "pers_ib_banner"
+msgid "Theme already in use"
+msgstr "Тема вже використовується"
+
+msgctxt "pers_ti_personalization"
+msgid "Themes"
+msgstr "Теми"

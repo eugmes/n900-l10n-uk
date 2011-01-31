@@ -1,0 +1,62 @@
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-dsm-ui 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2011-01-31 01:23+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: C\n"
+"X-Generator: Lokalize 1.0\n"
+
+msgctxt "incf_ib_battery_charging"
+msgid "Charging"
+msgstr "Зарядження"
+
+msgctxt "incf_ib_battery_full"
+msgid "Battery full"
+msgstr "Батарею заряджено"
+
+msgctxt "incf_ib_battery_low"
+msgid "Battery low"
+msgstr ""
+
+msgctxt "incf_ib_battery_not_charging"
+msgid "Not charging"
+msgstr "Не заряджається"
+
+msgctxt "incf_ib_battery_not_power"
+msgid "Not charging. Insufficient power."
+msgstr ""
+
+msgctxt "incf_ib_battery_recharge"
+msgid "Recharge battery"
+msgstr "Перезарядіть батарею"
+
+msgctxt "incf_ib_disconnect_charger"
+msgid "Disconnect charger from power supply to save energy"
+msgstr "Від'єднайте зарядний пристрій від мережі щоб зберегти енергію"
+
+msgctxt "incf_me_battery_charged"
+msgid "Fully charged"
+msgstr "Повністю заряджено"
+
+msgctxt "incf_me_battery_charging"
+msgid "Charging"
+msgstr "Зарядження"
+
+msgctxt "incf_ni_consumes_more_than_receives"
+msgid "Device using more power than it is receiving from the PC. Charging with a compatible charger is recommended."
+msgstr ""
+
+msgctxt "tncpa_li_plugin_sb_battery"
+msgid "Battery"
+msgstr "Батарея"
+

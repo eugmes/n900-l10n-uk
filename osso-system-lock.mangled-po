@@ -1,0 +1,165 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-system-lock 20090529140926\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "lock_ap_application_title"
+msgid "Device lock"
+msgstr ""
+
+msgctxt "lock_error_alphanumeric"
+msgid "Code must contain both numbers and letters."
+msgstr ""
+
+msgctxt "lock_error_emergencycallfails"
+msgid "Emergency call not established"
+msgstr ""
+
+msgctxt "lock_error_history"
+msgid "Previously used codes can not be reused."
+msgstr ""
+
+msgctxt "lock_error_internalstorageread"
+msgid ""
+"Unable to read the lock code.\n"
+"Default lock code will be restored."
+msgstr ""
+
+msgctxt "lock_error_internalstoragewrite"
+msgid ""
+"Unable to save lock code.\n"
+"Default lock code will be restored."
+msgstr ""
+
+msgctxt "lock_error_nonalphabetical"
+msgid "Code must contain at least %d numbers or symbols"
+msgstr ""
+
+msgctxt "lock_error_toosimple"
+msgid "Code must not contain only numbers."
+msgstr ""
+
+msgctxt "secu_application_title"
+msgid "Enter lock code"
+msgstr ""
+
+msgctxt "secu_application_title_changelock1"
+msgid "Lock code"
+msgstr ""
+
+msgctxt "secu_ib_autolock_required"
+msgid "Automatic device lock is required by Exchange security policy."
+msgstr ""
+
+msgctxt "secu_ib_codedonotmatch"
+msgid "Codes do not match"
+msgstr ""
+
+msgctxt "secu_ib_lock_code_shorter_than"
+msgid "Code length must be at least %d characters."
+msgstr ""
+
+msgctxt "secu_ib_lockcodechanged"
+msgid "Lock code changed"
+msgstr ""
+
+msgctxt "secu_ib_lockcodenotchanged"
+msgid "Lock code not changed"
+msgstr ""
+
+msgctxt "secu_ib_lockcodetooshort"
+msgid "Enter 5 digits or more"
+msgstr ""
+
+msgctxt "secu_in_device_wipe_one_try"
+msgid "Incorrect code. All data will be removed from device after one more incorrect entry."
+msgstr ""
+
+msgctxt "secu_in_device_wipe_two_tries"
+msgid "Incorrect code. All data will be removed from device after two more incorrect entries."
+msgstr ""
+
+msgctxt "secu_info_closedevice"
+msgid "Switch off device?"
+msgstr ""
+
+msgctxt "secu_info_codeaccepted"
+msgid "Code accepted"
+msgstr ""
+
+msgctxt "secu_info_enterlock"
+msgid "Enter lock code to lock device"
+msgstr ""
+
+msgctxt "secu_info_incorrectcode"
+msgid "Incorrect code"
+msgstr ""
+
+msgctxt "secu_info_locked"
+msgid "Device locked"
+msgstr ""
+
+msgctxt "secu_info_notlocked"
+msgid "Device not locked"
+msgstr ""
+
+msgctxt "secu_lock_code_dialog_emergency_call"
+msgid "Emergency call"
+msgstr ""
+
+msgctxt "secu_security_autolock_dialog_change_lock_code"
+msgid "Change lock code"
+msgstr ""
+
+msgctxt "secu_security_dialog_title"
+msgid "Device lock"
+msgstr ""
+
+msgctxt "secu_security_ti_autolock"
+msgid "Autolock"
+msgstr ""
+
+msgctxt "secu_swipe_to_unlock"
+msgid "Swipe to unlock"
+msgstr ""
+
+msgctxt "secu_ti_changelock_1"
+msgid "Enter current lock code"
+msgstr ""
+
+msgctxt "secu_ti_changelock_2"
+msgid "Enter new lock code"
+msgstr ""
+
+msgctxt "secu_ti_changelock_3"
+msgid "Verify new lock code"
+msgstr ""
+
+msgctxt "secu_va_10minutes"
+msgid "After 10 minutes"
+msgstr ""
+
+msgctxt "secu_va_1hour"
+msgid "After 1 hour"
+msgstr ""
+
+msgctxt "secu_va_30minutes"
+msgid "After 30 minutes"
+msgstr ""
+
+msgctxt "secu_va_5minutes"
+msgid "After 5 minutes"
+msgstr ""
+
+msgctxt "secu_va_disabled"
+msgid "Disabled"
+msgstr ""

@@ -1,0 +1,33 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tv-out 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgctxt "tvou_ap_cpa"
+msgid "TV out"
+msgstr ""
+
+msgctxt "tvou_fi_tv_out"
+msgid "Video format"
+msgstr ""
+
+msgctxt "tvou_ti_tv_out"
+msgid "TV out"
+msgstr ""
+
+msgctxt "tvou_va_tv_out_ntsc"
+msgid "NTSC"
+msgstr ""
+
+msgctxt "tvou_va_tv_out_pal"
+msgid "PAL"
+msgstr ""
