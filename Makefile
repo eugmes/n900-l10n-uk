@@ -1,5 +1,5 @@
-SRCFILES := $(wildcard *.mangled-po)
-MOFILES := $(patsubst %.mangled-po, %.mo, $(SRCFILES))
+SRCFILES := $(wildcard *.m.po)
+MOFILES := $(patsubst %.m.po, %.mo, $(SRCFILES))
 
 all: $(MOFILES) gtk20.mo
 
@@ -9,10 +9,10 @@ gtk20.mo: simple/gtk20.po
 %.mo: %.po
 	msgfmt -c $< -o $@
 
-%.t-po: %.mangled-po
+%.t-po: %.m.po
 	scripts/demangle.pl < $< > $@
 
-%.o-po: %.mangled-po
+%.o-po: %.m.po
 	scripts/demangle_orig.pl < $< > $@
 
 %.po: %.t-po %.o-po
