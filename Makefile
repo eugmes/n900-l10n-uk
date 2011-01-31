@@ -20,4 +20,7 @@ gtk20.mo: simple/gtk20.po
 clean:
 	rm -f *.mo *.t-po *.o-po *.po
 
-.PHONY: all clean
+check:
+	for file in $(SRCFILES); do echo $$file; msgfmt -c --statistics -o /dev/null $$file; done
+
+.PHONY: all clean check
