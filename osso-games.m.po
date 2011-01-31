@@ -1,32 +1,34 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-games 20090202110755\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.02.02 11:07+0200\n"
-"PO-Revision-Date: 2009.02.02 11:07+0200\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-01-31 22:22+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "game_ap_blocks_name"
 msgid "Blocks"
-msgstr ""
+msgstr "Блоки"
 
 msgctxt "game_ap_chess_name"
 msgid "Chess"
-msgstr ""
+msgstr "Шахи"
 
 msgctxt "game_ap_mahjong_name"
 msgid "Mahjong"
-msgstr ""
+msgstr "Маджонг"
 
 msgctxt "game_ap_marbles_name"
 msgid "Marbles"
-msgstr ""
+msgstr "Кульки"
 
 msgctxt "game_ap_startup_name"
 msgid "Start-up"
@@ -34,107 +36,107 @@ msgstr ""
 
 msgctxt "game_bd_blocks_main_exit_to_menu"
 msgid "Exit to menu"
-msgstr ""
+msgstr "Вийти в меню"
 
 msgctxt "game_bd_blocks_main_restart"
 msgid "Restart"
-msgstr ""
+msgstr "Спочатку"
 
 msgctxt "game_bd_change_level_cancel"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 msgctxt "game_bd_change_level_ok"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 msgctxt "game_bd_chess_end_game_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "game_bd_chess_promote_pawn_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "game_bd_lmarbles_congratulations_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "game_bd_mahjong_end_game_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "game_bd_mahjong_high_scores_close"
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 msgctxt "game_bd_reset_game_progress_cancel"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 msgctxt "game_bd_reset_game_progress_ok"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 msgctxt "game_bd_restart_game_cancel"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 msgctxt "game_bd_restart_game_ok"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 msgctxt "game_bu_mahjong_settings_high_scores"
 msgid "Best times"
-msgstr ""
+msgstr "Найкращі часи"
 
 msgctxt "game_bv_startup_continue"
 msgid "Continue"
-msgstr ""
+msgstr "Продовжити"
 
 msgctxt "game_bv_startup_play"
 msgid "Play"
-msgstr ""
+msgstr "Грати"
 
 msgctxt "game_bv_startup_restart"
 msgid "Restart"
-msgstr ""
+msgstr "Спочатку"
 
 msgctxt "game_fi_blocks_end_game_description"
 msgid "Tap 'Restart' to try again"
-msgstr ""
+msgstr "Щоб спробувати знову натисніть 'Спочатку'."
 
 msgctxt "game_fi_blocks_main_level"
 msgid "Level"
-msgstr ""
+msgstr "Рівень"
 
 msgctxt "game_fi_blocks_main_lines"
 msgid "Lines"
-msgstr ""
+msgstr "Ліній"
 
 msgctxt "game_fi_blocks_main_next"
 msgid "Next"
-msgstr ""
+msgstr "Наступний"
 
 msgctxt "game_fi_blocks_main_score"
 msgid "Score"
-msgstr ""
+msgstr "Рахунок"
 
 msgctxt "game_fi_blocks_settings_difficulty"
 msgid "Block speed"
-msgstr ""
+msgstr "Швидкість блока"
 
 msgctxt "game_fi_blocks_settings_noise_height"
 msgid "Starting height"
-msgstr ""
+msgstr "Початкова висота"
 
 msgctxt "game_fi_blocks_settings_noise_level"
 msgid "Starting density"
-msgstr ""
+msgstr "Початкова густина"
 
 msgctxt "game_fi_chess_computer_title"
 msgid "Computer"
-msgstr ""
+msgstr "Комп'ютер"
 
 msgctxt "game_fi_chess_end_game_description%s"
 msgid "Checkmate – %s wins!"
@@ -146,11 +148,11 @@ msgstr ""
 
 msgctxt "game_fi_chess_player_1_title"
 msgid "Player 1"
-msgstr ""
+msgstr "Гравець 1"
 
 msgctxt "game_fi_chess_player_2_title"
 msgid "Player 2"
-msgstr ""
+msgstr "Гравець 2"
 
 msgctxt "game_fi_chess_promote_pawn_description"
 msgid "Promote to:"
@@ -158,19 +160,19 @@ msgstr ""
 
 msgctxt "game_fi_chess_settings_human"
 msgid "Player 1"
-msgstr ""
+msgstr "Гравець 1"
 
 msgctxt "game_fi_chess_settings_legal_moves"
 msgid "Show legal moves"
-msgstr ""
+msgstr "Показувати дозволені ходи"
 
 msgctxt "game_fi_chess_settings_opponent"
 msgid "Opponent"
-msgstr ""
+msgstr "Опонент"
 
 msgctxt "game_fi_chess_settings_sound"
 msgid "Sound effects"
-msgstr ""
+msgstr "Звукові ефекти"
 
 msgctxt "game_fi_lmarbles_congratulations_description"
 msgid "You have successfully completed the game!"
@@ -182,35 +184,35 @@ msgstr ""
 
 msgctxt "game_fi_lmarbles_main_high_score"
 msgid "High score: %d"
-msgstr ""
+msgstr "Найвищий рахунок: %d"
 
 msgctxt "game_fi_lmarbles_main_level_bonus"
 msgid "Level bonus:"
-msgstr ""
+msgstr "Бонус рівня:"
 
 msgctxt "game_fi_lmarbles_main_move_bonus"
 msgid "Move bonus:"
-msgstr ""
+msgstr "Бонус ходів:"
 
 msgctxt "game_fi_lmarbles_main_moves"
 msgid "Moves: %d"
-msgstr ""
+msgstr "Ходів: %d"
 
 msgctxt "game_fi_lmarbles_main_score"
 msgid "Score: %d"
-msgstr ""
+msgstr "Рахунок: %d"
 
 msgctxt "game_fi_lmarbles_main_total_score"
 msgid "Total score:"
-msgstr ""
+msgstr "Загальний рахунок:"
 
 msgctxt "game_fi_lmarbles_settings_difficulty"
 msgid "Difficulty level"
-msgstr ""
+msgstr "Рівень складності"
 
 msgctxt "game_fi_lmarbles_settings_sound"
 msgid "Sound effects"
-msgstr ""
+msgstr "Звукові ефекти"
 
 msgctxt "game_fi_mahjong_end_game_description%s%.2d%.2d%.2d%.2d"
 msgid ""
@@ -219,6 +221,10 @@ msgid ""
 "\n"
 "Best time for board: %.2d:%.2d"
 msgstr ""
+"Дошка: %s\n"
+"Дошку очищено за %.2d:%.2d\n"
+"\n"
+"Найкращий час для дошки: %.2d:%.2d"
 
 msgctxt "game_fi_mahjong_end_game_description2%s%.2d%.2d%.2d%.2d"
 msgid ""
@@ -228,6 +234,11 @@ msgid ""
 "New personal best!\n"
 "Previous best: %.2d:%.2d"
 msgstr ""
+"Дошка: %s\n"
+"Дошку очищено за %.2d:%.2d\n"
+"\n"
+"Новий рекорд!\n"
+"Попередній найкращий час: %.2d:%.2d"
 
 msgctxt "game_fi_mahjong_end_game_description3%s%.2d%.2d"
 msgid ""
@@ -236,14 +247,18 @@ msgid ""
 "\n"
 "New personal best!"
 msgstr ""
+"Дошка: %s\n"
+"Дошку очищено за %.2d:%.2d\n"
+"\n"
+"Новий рекорд!"
 
 msgctxt "game_fi_mahjong_game_board_1"
 msgid "Standard"
-msgstr ""
+msgstr "Стандартна"
 
 msgctxt "game_fi_mahjong_game_board_2"
 msgid "Lotus flower"
-msgstr ""
+msgstr "Квітка лотоса"
 
 msgctxt "game_fi_mahjong_game_board_3"
 msgid "Confounding cross"
@@ -251,39 +266,39 @@ msgstr ""
 
 msgctxt "game_fi_mahjong_game_board_4"
 msgid "Pyramid's walls"
-msgstr ""
+msgstr "Стіни піраміди"
 
 msgctxt "game_fi_mahjong_game_board_5"
 msgid "Tic-tac-toe"
-msgstr ""
+msgstr "Хрестики-нулики"
 
 msgctxt "game_fi_mahjong_game_board_6"
 msgid "Cloud"
-msgstr ""
+msgstr "Хмара"
 
 msgctxt "game_fi_mahjong_game_board_7"
 msgid "Red dragon"
-msgstr ""
+msgstr "Червоний дракон"
 
 msgctxt "game_fi_mahjong_game_board_8"
 msgid "Four bridges"
-msgstr ""
+msgstr "Чотири мости"
 
 msgctxt "game_fi_mahjong_settings_board"
 msgid "Board"
-msgstr ""
+msgstr "Дошка"
 
 msgctxt "game_fi_mahjong_settings_sound"
 msgid "Sound effects"
-msgstr ""
+msgstr "Звукові ефекти"
 
 msgctxt "game_ia_startup_not_started"
 msgid "Game not started yet"
-msgstr ""
+msgstr "Гру ще не почато"
 
 msgctxt "game_ia_startup_paused"
 msgid "Game paused"
-msgstr ""
+msgstr "Гру призупинено"
 
 msgctxt "game_ib_changes_effect_next_game"
 msgid "Changes will come into effect in next game"
@@ -291,7 +306,7 @@ msgstr ""
 
 msgctxt "game_ib_chess_check"
 msgid "Check!"
-msgstr ""
+msgstr "Шах!"
 
 msgctxt "game_ib_chess_check_mate"
 msgid "Checkmate!"
@@ -303,75 +318,75 @@ msgstr ""
 
 msgctxt "game_me_blocks_main_menu_game"
 msgid "Game"
-msgstr ""
+msgstr "Гра"
 
 msgctxt "game_me_blocks_menu_game_play"
 msgid "Play"
-msgstr ""
+msgstr "Грати"
 
 msgctxt "game_me_blocks_menu_game_restart"
 msgid "Restart"
-msgstr ""
+msgstr "Спочатку"
 
 msgctxt "game_me_chess_main_menu_game"
 msgid "Game"
-msgstr ""
+msgstr "Гра"
 
 msgctxt "game_me_chess_main_menu_recent"
 msgid "Recent"
-msgstr ""
+msgstr "Недавні"
 
 msgctxt "game_me_chess_main_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "game_me_chess_menu_game_open"
 msgid "Open"
-msgstr ""
+msgstr "Відкрити"
 
 msgctxt "game_me_chess_menu_game_play"
 msgid "Play"
-msgstr ""
+msgstr "Грати"
 
 msgctxt "game_me_chess_menu_game_restart"
 msgid "Restart"
-msgstr ""
+msgstr "Спочатку"
 
 msgctxt "game_me_chess_menu_game_save"
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 msgctxt "game_me_chess_menu_game_save_as"
 msgid "Save as"
-msgstr ""
+msgstr "Зберегти як"
 
 msgctxt "game_me_chess_menu_settings_human"
 msgid "Player 1"
-msgstr ""
+msgstr "Гравець 1"
 
 msgctxt "game_me_chess_menu_settings_human_black"
 msgid "Black"
-msgstr ""
+msgstr "Чорні"
 
 msgctxt "game_me_chess_menu_settings_human_white"
 msgid "White"
-msgstr ""
+msgstr "Білі"
 
 msgctxt "game_me_chess_menu_settings_legal_moves"
 msgid "Show legal moves"
-msgstr ""
+msgstr "Показувати дозволені ходи"
 
 msgctxt "game_me_chess_menu_settings_opponent"
 msgid "Opponent"
-msgstr ""
+msgstr "Опонент"
 
 msgctxt "game_me_chess_menu_settings_opponent_1"
 msgid "Easy"
-msgstr ""
+msgstr "Легкий"
 
 msgctxt "game_me_chess_menu_settings_opponent_2"
 msgid "Medium"
-msgstr ""
+msgstr "Середній"
 
 msgctxt "game_me_chess_menu_settings_opponent_3"
 msgid "Advanced"
@@ -379,31 +394,31 @@ msgstr ""
 
 msgctxt "game_me_chess_menu_settings_opponent_4"
 msgid "Expert"
-msgstr ""
+msgstr "Експерт"
 
 msgctxt "game_me_chess_menu_settings_opponent_human"
 msgid "Player 2"
-msgstr ""
+msgstr "Гравець 2"
 
 msgctxt "game_me_chess_menu_settings_sound"
 msgid "Sound"
-msgstr ""
+msgstr "Звук"
 
 msgctxt "game_me_lmarbles_main_menu_game"
 msgid "Game"
-msgstr ""
+msgstr "Гра"
 
 msgctxt "game_me_lmarbles_main_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "game_me_lmarbles_menu_game_play"
 msgid "Play"
-msgstr ""
+msgstr "Грати"
 
 msgctxt "game_me_lmarbles_menu_game_restart"
 msgid "Restart"
-msgstr ""
+msgstr "Спочатку"
 
 msgctxt "game_me_lmarbles_menu_settings_brainstorm"
 msgid "Brainstorm"
@@ -411,7 +426,7 @@ msgstr ""
 
 msgctxt "game_me_lmarbles_menu_settings_easy"
 msgid "Easy"
-msgstr ""
+msgstr "Легкий"
 
 msgctxt "game_me_lmarbles_menu_settings_hard"
 msgid "Advanced"
@@ -419,7 +434,7 @@ msgstr ""
 
 msgctxt "game_me_lmarbles_menu_settings_normal"
 msgid "Normal"
-msgstr ""
+msgstr "Нормальний"
 
 msgctxt "game_me_lmarbles_menu_settings_reset"
 msgid "Reset"
@@ -431,31 +446,31 @@ msgstr ""
 
 msgctxt "game_me_lmarbles_menu_settings_sound"
 msgid "Sound"
-msgstr ""
+msgstr "Звук"
 
 msgctxt "game_me_mahjong_main_menu_board"
 msgid "Board"
-msgstr ""
+msgstr "Дошка"
 
 msgctxt "game_me_mahjong_main_menu_game"
 msgid "Game"
-msgstr ""
+msgstr "Гра"
 
 msgctxt "game_me_mahjong_main_menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "game_me_mahjong_main_menu_tools"
 msgid "Tools"
-msgstr ""
+msgstr "Інструменти"
 
 msgctxt "game_me_mahjong_menu_board_1"
 msgid "Standard"
-msgstr ""
+msgstr "Стандартна"
 
 msgctxt "game_me_mahjong_menu_board_2"
 msgid "Lotus flower"
-msgstr ""
+msgstr "Квітка лотоса"
 
 msgctxt "game_me_mahjong_menu_board_3"
 msgid "Confounding cross"
@@ -463,43 +478,43 @@ msgstr ""
 
 msgctxt "game_me_mahjong_menu_board_4"
 msgid "Pyramid's walls"
-msgstr ""
+msgstr "Стіни піраміди"
 
 msgctxt "game_me_mahjong_menu_board_5"
 msgid "Tic-tac-toe"
-msgstr ""
+msgstr "Хрестики-нулики"
 
 msgctxt "game_me_mahjong_menu_board_6"
 msgid "Cloud"
-msgstr ""
+msgstr "Хмара"
 
 msgctxt "game_me_mahjong_menu_board_7"
 msgid "Red dragon"
-msgstr ""
+msgstr "Червоний дракон"
 
 msgctxt "game_me_mahjong_menu_board_8"
 msgid "Four bridges"
-msgstr ""
+msgstr "Чотири мости"
 
 msgctxt "game_me_mahjong_menu_game_play"
 msgid "Play"
-msgstr ""
+msgstr "Грати"
 
 msgctxt "game_me_mahjong_menu_game_restart"
 msgid "Restart"
-msgstr ""
+msgstr "Спочатку"
 
 msgctxt "game_me_mahjong_menu_settings_sound"
 msgid "Sound"
-msgstr ""
+msgstr "Звук"
 
 msgctxt "game_me_mahjong_menu_tools_high_scores"
 msgid "Best times"
-msgstr ""
+msgstr "Найкращі часи"
 
 msgctxt "game_me_main_menu_close"
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 msgctxt "game_nc_change_level"
 msgid "Enter level %d of chapter %d?"
@@ -511,7 +526,7 @@ msgstr ""
 
 msgctxt "game_nc_restart_game"
 msgid "Start new game?"
-msgstr ""
+msgstr "Почати нову гру?"
 
 msgctxt "game_ni_unsupported_file%s"
 msgid ""
@@ -521,11 +536,11 @@ msgstr ""
 
 msgctxt "game_ti_blocks_end_game_title"
 msgid "Game over"
-msgstr ""
+msgstr "Гру закінчено"
 
 msgctxt "game_ti_chess_end_game_title"
 msgid "Game over"
-msgstr ""
+msgstr "Гру закінчено"
 
 msgctxt "game_ti_chess_promote_pawn_title"
 msgid "Promote pawn"
@@ -533,51 +548,51 @@ msgstr ""
 
 msgctxt "game_ti_lmarbles_congratulations_title"
 msgid "Congratulations!"
-msgstr ""
+msgstr "Вітання!"
 
 msgctxt "game_ti_load_game_title"
 msgid "Load game"
-msgstr ""
+msgstr "Завантажити гру"
 
 msgctxt "game_ti_mahjong_end_game_title"
 msgid "Game over"
-msgstr ""
+msgstr "Гру закінчено"
 
 msgctxt "game_ti_mahjong_high_scores_date"
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 msgctxt "game_ti_mahjong_high_scores_level"
 msgid "Board"
-msgstr ""
+msgstr "Дошка"
 
 msgctxt "game_ti_mahjong_high_scores_time"
 msgid "Best time"
-msgstr ""
+msgstr "Найкращий час"
 
 msgctxt "game_ti_mahjong_high_scores_title"
 msgid "Best times"
-msgstr ""
+msgstr "Найкращі часи"
 
 msgctxt "game_ti_save_game_title"
 msgid "Save game"
-msgstr ""
+msgstr "Зберегти гру"
 
 msgctxt "game_va_chess_settings_human_black"
 msgid "Black"
-msgstr ""
+msgstr "Чорні"
 
 msgctxt "game_va_chess_settings_human_white"
 msgid "White"
-msgstr ""
+msgstr "Білі"
 
 msgctxt "game_va_chess_settings_opponent_easy"
 msgid "Easy"
-msgstr ""
+msgstr "Легкий"
 
 msgctxt "game_va_chess_settings_opponent_expert"
 msgid "Expert"
-msgstr ""
+msgstr "Експерт"
 
 msgctxt "game_va_chess_settings_opponent_hard"
 msgid "Advanced"
@@ -585,19 +600,19 @@ msgstr ""
 
 msgctxt "game_va_chess_settings_opponent_human"
 msgid "Player 2"
-msgstr ""
+msgstr "Гравець 2"
 
 msgctxt "game_va_chess_settings_opponent_medium"
 msgid "Medium"
-msgstr ""
+msgstr "Середній"
 
 msgctxt "game_va_lmarbles_settings_difficulty_1"
 msgid "Easy"
-msgstr ""
+msgstr "Легкий"
 
 msgctxt "game_va_lmarbles_settings_difficulty_2"
 msgid "Normal"
-msgstr ""
+msgstr "Нормальний"
 
 msgctxt "game_va_lmarbles_settings_difficulty_3"
 msgid "Advanced"
@@ -609,11 +624,11 @@ msgstr ""
 
 msgctxt "game_va_mahjong_settings_board_1"
 msgid "Standard"
-msgstr ""
+msgstr "Стандартна"
 
 msgctxt "game_va_mahjong_settings_board_2"
 msgid "Lotus flower"
-msgstr ""
+msgstr "Квітка лотоса"
 
 msgctxt "game_va_mahjong_settings_board_3"
 msgid "Confounding cross"
@@ -621,28 +636,29 @@ msgstr ""
 
 msgctxt "game_va_mahjong_settings_board_4"
 msgid "Pyramid's walls"
-msgstr ""
+msgstr "Стіни піраміди"
 
 msgctxt "game_va_mahjong_settings_board_5"
 msgid "Tic-tac-toe"
-msgstr ""
+msgstr "Хрестики-нулики"
 
 msgctxt "game_va_mahjong_settings_board_6"
 msgid "Cloud"
-msgstr ""
+msgstr "Хмара"
 
 msgctxt "game_va_mahjong_settings_board_7"
 msgid "Red dragon"
-msgstr ""
+msgstr "Червоний дракон"
 
 msgctxt "game_va_mahjong_settings_board_8"
 msgid "Four bridges"
-msgstr ""
+msgstr "Чотири мости"
 
 msgctxt "sfil_va_save_object_name_stub_chess"
 msgid "Chess"
-msgstr ""
+msgstr "Шахи"
 
 msgctxt "sfil_va_select_object_no_objects_games"
 msgid "(no games)"
-msgstr ""
+msgstr "(немає ігор)"
+
