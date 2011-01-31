@@ -1,18 +1,20 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-profiles 20090403163553\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.04.03 16:35+0300\n"
-"PO-Revision-Date: 2009.04.03 16:35+0300\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-01-31 01:49+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
 "X-Source-Language: C\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "profi_bd_general"
 msgid "General"
@@ -72,11 +74,11 @@ msgstr "Звук для SMS"
 
 msgctxt "profi_fi_touch_screen_sounds"
 msgid "Touch screen sounds"
-msgstr ""
+msgstr "Звуки сенсорного екрана"
 
 msgctxt "profi_ib_unsupported_file_format"
 msgid "Unsupported file format or corrupted file. Try again with another file."
-msgstr "Формат файла непідтримується чи файл пошкоджено. Спробуйте зрову з іншим файлом."
+msgstr "Формат файла не підтримується чи файл пошкоджено. Спробуйте знову з іншим файлом."
 
 msgctxt "profi_ti_cpa_profiles"
 msgid "Profiles"
@@ -157,3 +159,4 @@ msgstr "Рівень 2"
 msgctxt "profi_va_touchscreen_sounds_off"
 msgid "Off"
 msgstr "Вимкнені"
+
