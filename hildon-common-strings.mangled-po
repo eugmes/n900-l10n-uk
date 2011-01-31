@@ -1,16 +1,18 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: hildon-common-strings 20081020115109\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2008.10.20 11:51+0300\n"
-"PO-Revision-Date: 2008.10.20 11:51+0300\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-01-31 04:18+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "cdkg_ib_all_items_marked"
 msgid "All items already marked"
@@ -18,319 +20,319 @@ msgstr ""
 
 msgctxt "ckct_bd_cannot_save_mmc_cover_open_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "ckct_bd_delete_application_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_application_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_bookmark_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_bookmark_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_certificate_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_certificate_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_contact_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_contact_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_document_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_document_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_entry_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_entry_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_file_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_file_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_folder_and_file_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_folder_and_file_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_folder_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_folder_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_folders_and_file_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_folders_and_file_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_folders_and_files_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_folders_and_files_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_game"
 msgid "Delete game?"
-msgstr ""
+msgstr "Видалити гру?"
 
 msgctxt "ckct_bd_delete_game_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_game_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "ckct_bd_delete_html_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_html_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_image_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_image_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_link_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_link_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_message_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_message_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_note_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_note_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_object_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_object_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_presentation_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_presentation_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_applications_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_applications_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_bookmarks_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_bookmarks_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_certificates_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_certificates_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_documents_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_documents_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_files_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_files_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_folders_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_folders_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_html_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_html_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_images_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_images_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_links_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_links_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_messages_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_messages_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_presentations_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_presentations_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_sound_clips_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_sound_clips_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_video_clips_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_video_clips_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_workbooks_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_workbooks_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_selected_xml_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_selected_xml_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_sound_clip_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_sound_clip_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_video_clip_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_video_clip_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_workbook_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_workbook_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_delete_xml_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_bd_delete_xml_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckct_bd_pasting_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckct_ib_cannot_zoom_here"
 msgid "Unable to zoom"
@@ -630,7 +632,7 @@ msgstr ""
 
 msgctxt "ckct_ni_unable_to_open_file_corrupted_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "ckct_ni_unable_to_open_unsupported_file_format"
 msgid ""
@@ -644,11 +646,11 @@ msgstr ""
 
 msgctxt "ckdg_bd_dialog_c_passwd_cancel_button"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "ckdg_bd_dialog_c_passwd_remove_button"
 msgid "Remove"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "ckdg_ib_application_exists"
 msgid "Application name already in use"
@@ -942,15 +944,15 @@ msgstr ""
 
 msgctxt "sfil_nc_save_before_closing_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "sfil_nc_save_before_closing_no"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 msgctxt "sfil_nc_save_before_closing_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 msgctxt "sfil_ni_cannot_continue_target_folder_deleted"
 msgid ""
@@ -960,7 +962,7 @@ msgstr ""
 
 msgctxt "sfil_ni_cannot_continue_target_folder_deleted_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "sfil_ni_cannot_open_mmc_cover_open"
 msgid ""
@@ -970,7 +972,7 @@ msgstr ""
 
 msgctxt "sfil_ni_cannot_open_mmc_cover_open_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "sfil_ni_cannot_open_no_connection"
 msgid ""
@@ -980,7 +982,7 @@ msgstr ""
 
 msgctxt "sfil_ni_cannot_open_no_connection_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "sfil_ni_folder_not_found_switched_to_another_folder"
 msgid ""
@@ -990,7 +992,7 @@ msgstr ""
 
 msgctxt "sfil_ni_folder_not_found_switched_to_another_folder_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "sfil_ni_not_enough_memory"
 msgid "Not enough memory in target location"
@@ -998,7 +1000,7 @@ msgstr ""
 
 msgctxt "sfil_ni_not_enough_memory_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "sfil_ni_operation_failed"
 msgid "Operation failed"
@@ -1006,7 +1008,7 @@ msgstr ""
 
 msgctxt "sfil_ni_operation_failed_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "sfil_ni_unable_to_open_file_not_found"
 msgid ""
@@ -1016,7 +1018,7 @@ msgstr ""
 
 msgctxt "sfil_ni_unable_to_open_file_not_found_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "sfil_ni_unable_to_open_too_large"
 msgid ""
@@ -1026,7 +1028,7 @@ msgstr ""
 
 msgctxt "sfil_ni_unable_to_open_too_large_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "sfil_ni_unable_to_rename_file_not_found"
 msgid ""
@@ -1036,4 +1038,5 @@ msgstr ""
 
 msgctxt "sfil_ni_unable_to_rename_file_not_found_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
+
