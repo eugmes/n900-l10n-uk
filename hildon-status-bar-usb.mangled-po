@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: hildon-status-bar-usb 20090508135846\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.08 13:58+0300\n"
-"PO-Revision-Date: 2011-01-31 02:18+0100\n"
+"PO-Revision-Date: 2011-01-31 04:13+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 
 msgctxt "stab_me_usb_cannot_eject_ok"
 msgid "OK"
-msgstr "OK"
+msgstr "Гаразд"
 
 msgctxt "stab_me_usb_connected"
 msgid "PC connection active"
@@ -149,4 +149,5 @@ msgstr ""
 msgctxt "usbh_menu_plugin_va_pc_suite"
 msgid "PC Suite mode"
 msgstr ""
+
 
