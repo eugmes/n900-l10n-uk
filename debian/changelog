@@ -1,3 +1,11 @@
+n900-l10n-uk (1:20110131) fremantle; urgency=low
+
+  * Fix version numbering
+  * Convert source po files to more editable format
+  * Update translations
+
+ -- Євгеній Мещеряков <eugen@debian.org>  Mon, 31 Jan 2011 16:55:32 +0100
+
 n900-l10n-uk (20113001) fremantle; urgency=low
 
   * Initial release
