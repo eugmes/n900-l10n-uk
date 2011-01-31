@@ -1,264 +1,267 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-cities 20091015124643\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.10.15 12:46+0300\n"
-"PO-Revision-Date: 2009.10.15 12:46+0300\n"
-"Last-Translator: \n"
-"Language-Team: English (US)\n"
+"PO-Revision-Date: 2011-01-31 03:29+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgctxt "qtn_clk_country_afghanistan"
 msgid "Afghanistan"
-msgstr ""
+msgstr "Афганістан"
 
 msgctxt "qtn_clk_country_albania"
 msgid "Albania"
-msgstr ""
+msgstr "Албанія"
 
 msgctxt "qtn_clk_country_algeria"
 msgid "Algeria"
-msgstr ""
+msgstr "Алжир"
 
 msgctxt "qtn_clk_country_andorra"
 msgid "Andorra"
-msgstr ""
+msgstr "Андорра"
 
 msgctxt "qtn_clk_country_angola"
 msgid "Angola"
-msgstr ""
+msgstr "Ангола"
 
 msgctxt "qtn_clk_country_anguilla"
 msgid "Anguilla"
-msgstr ""
+msgstr "Ангілья"
 
 msgctxt "qtn_clk_country_antigua_barbuda"
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "Антигуа і Барбуда"
 
 msgctxt "qtn_clk_country_arab_emirates"
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Об'єднані Арабські Емірати"
 
 msgctxt "qtn_clk_country_argentina"
 msgid "Argentina"
-msgstr ""
+msgstr "Аргентина"
 
 msgctxt "qtn_clk_country_armenia"
 msgid "Armenia"
-msgstr ""
+msgstr "Вірменія"
 
 msgctxt "qtn_clk_country_aruba"
 msgid "Aruba"
-msgstr ""
+msgstr "Аруба"
 
 msgctxt "qtn_clk_country_australia"
 msgid "Australia"
-msgstr ""
+msgstr "Австралія"
 
 msgctxt "qtn_clk_country_austria"
 msgid "Austria"
-msgstr ""
+msgstr "Австрія"
 
 msgctxt "qtn_clk_country_azerbaijan"
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Азербайджан"
 
 msgctxt "qtn_clk_country_azores"
 msgid "Azores"
-msgstr ""
+msgstr "Азори"
 
 msgctxt "qtn_clk_country_bahamas"
 msgid "Bahamas"
-msgstr ""
+msgstr "Багами"
 
 msgctxt "qtn_clk_country_bahrain"
 msgid "Bahrain"
-msgstr ""
+msgstr "Бахрейн"
 
 msgctxt "qtn_clk_country_bangladesh"
 msgid "Bangladesh"
-msgstr ""
+msgstr "Бангладеш"
 
 msgctxt "qtn_clk_country_barbados"
 msgid "Barbados"
-msgstr ""
+msgstr "Барбадос"
 
 msgctxt "qtn_clk_country_belarus"
 msgid "Belarus"
-msgstr ""
+msgstr "Білорусь"
 
 msgctxt "qtn_clk_country_belgium"
 msgid "Belgium"
-msgstr ""
+msgstr "Бельгія"
 
 msgctxt "qtn_clk_country_belize"
 msgid "Belize"
-msgstr ""
+msgstr "Беліз"
 
 msgctxt "qtn_clk_country_benin"
 msgid "Benin"
-msgstr ""
+msgstr "Бенін"
 
 msgctxt "qtn_clk_country_bermuda"
 msgid "Bermuda"
-msgstr ""
+msgstr "Бермуди"
 
 msgctxt "qtn_clk_country_bhutan"
 msgid "Bhutan"
-msgstr ""
+msgstr "Бутан"
 
 msgctxt "qtn_clk_country_biot"
 msgid "British Indian Ocean Territory"
-msgstr ""
+msgstr "Британські Території в Індійському океані"
 
 msgctxt "qtn_clk_country_bolivia"
 msgid "Bolivia"
-msgstr ""
+msgstr "Болівія"
 
 msgctxt "qtn_clk_country_bosnia_herz"
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "Боснія та Герцеговина"
 
 msgctxt "qtn_clk_country_botswana"
 msgid "Botswana"
-msgstr ""
+msgstr "Ботсвана"
 
 msgctxt "qtn_clk_country_brazil"
 msgid "Brazil"
-msgstr ""
+msgstr "Бразилія"
 
 msgctxt "qtn_clk_country_brunei"
 msgid "Brunei"
-msgstr ""
+msgstr "Бруней"
 
 msgctxt "qtn_clk_country_bulgaria"
 msgid "Bulgaria"
-msgstr ""
+msgstr "Болгарія"
 
 msgctxt "qtn_clk_country_burkina_faso"
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Буркіна-Фасо"
 
 msgctxt "qtn_clk_country_burundi"
 msgid "Burundi"
-msgstr ""
+msgstr "Бурунді"
 
 msgctxt "qtn_clk_country_bvi"
 msgid "British Virgin Islands"
-msgstr ""
+msgstr "Британські Віргінські острови"
 
 msgctxt "qtn_clk_country_cambodia"
 msgid "Cambodia"
-msgstr ""
+msgstr "Камбоджа"
 
 msgctxt "qtn_clk_country_cameroon"
 msgid "Cameroon"
-msgstr ""
+msgstr "Камерун"
 
 msgctxt "qtn_clk_country_canada"
 msgid "Canada"
-msgstr ""
+msgstr "Канада"
 
 msgctxt "qtn_clk_country_canary_islands"
 msgid "Canary Islands"
-msgstr ""
+msgstr "Канарські острови"
 
 msgctxt "qtn_clk_country_cap_verde"
 msgid "Cape Verde"
-msgstr ""
+msgstr "Кабо-Верде"
 
 msgctxt "qtn_clk_country_car"
 msgid "Central African Republic"
-msgstr ""
+msgstr "Центральноафриканська Республіка"
 
 msgctxt "qtn_clk_country_cayman_islands"
 msgid "Cayman Islands"
-msgstr ""
+msgstr "Кайманові острови"
 
 msgctxt "qtn_clk_country_chad"
 msgid "Chad"
-msgstr ""
+msgstr "Чад"
 
 msgctxt "qtn_clk_country_chile"
 msgid "Chile"
-msgstr ""
+msgstr "Чилі"
 
 msgctxt "qtn_clk_country_china"
 msgid "China"
-msgstr ""
+msgstr "Китай"
 
 msgctxt "qtn_clk_country_christmas_islands"
 msgid "Christmas Island"
-msgstr ""
+msgstr "Острів Різдва"
 
 msgctxt "qtn_clk_country_cocos_islands"
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "Кокосові (Кілінг) острови"
 
 msgctxt "qtn_clk_country_colombia"
 msgid "Colombia"
-msgstr ""
+msgstr "Колумбія"
 
 msgctxt "qtn_clk_country_comoros"
 msgid "Comoros"
-msgstr ""
+msgstr "Комори"
 
 msgctxt "qtn_clk_country_cook_islands"
 msgid "Cook Islands"
-msgstr ""
+msgstr "Острови Кука"
 
 msgctxt "qtn_clk_country_costa_rica"
 msgid "Costa Rica"
-msgstr ""
+msgstr "Коста-Рика"
 
 msgctxt "qtn_clk_country_cotedlvoire"
 msgid "Côte d'Ivoire"
-msgstr ""
+msgstr "Кот-д'Івуар"
 
 msgctxt "qtn_clk_country_croatia"
 msgid "Croatia"
-msgstr ""
+msgstr "Хорватія"
 
 msgctxt "qtn_clk_country_cuba"
 msgid "Cuba"
-msgstr ""
+msgstr "Куба"
 
 msgctxt "qtn_clk_country_curacao"
 msgid "Curacao"
-msgstr ""
+msgstr "Куракао"
 
 msgctxt "qtn_clk_country_cyprus"
 msgid "Cyprus"
-msgstr ""
+msgstr "Кіпр"
 
 msgctxt "qtn_clk_country_czech_reb"
 msgid "Czech Republic"
-msgstr ""
+msgstr "Чеська республіка"
 
 msgctxt "qtn_clk_country_denmark"
 msgid "Denmark"
-msgstr ""
+msgstr "Данія"
 
 msgctxt "qtn_clk_country_djibouti"
 msgid "Djibouti"
-msgstr ""
+msgstr "Джибуті"
 
 msgctxt "qtn_clk_country_dominica"
 msgid "Dominica"
-msgstr ""
+msgstr "Домініка"
 
 msgctxt "qtn_clk_country_dominican_reb"
 msgid "Dominican Republic"
-msgstr ""
+msgstr "Домініканська республіка"
 
 msgctxt "qtn_clk_country_drc"
 msgid "Congo, Democratic Republic of the"
-msgstr ""
+msgstr "Конго, демократична республіка"
 
 msgctxt "qtn_clk_country_east_timor"
 msgid "Timor-Leste"
@@ -266,199 +269,199 @@ msgstr ""
 
 msgctxt "qtn_clk_country_easter_island"
 msgid "Easter Island"
-msgstr ""
+msgstr "Острів Різдва"
 
 msgctxt "qtn_clk_country_ecuador"
 msgid "Ecuador"
-msgstr ""
+msgstr "Еквадор"
 
 msgctxt "qtn_clk_country_egypt"
 msgid "Egypt"
-msgstr ""
+msgstr "Єгипет"
 
 msgctxt "qtn_clk_country_el_salvador"
 msgid "El Salvador"
-msgstr ""
+msgstr "Сальвадор"
 
 msgctxt "qtn_clk_country_equatorial_guinea"
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "Екваторіальна Гвінея"
 
 msgctxt "qtn_clk_country_eritrea"
 msgid "Eritrea"
-msgstr ""
+msgstr "Еритрея"
 
 msgctxt "qtn_clk_country_estonia"
 msgid "Estonia"
-msgstr ""
+msgstr "Естонія"
 
 msgctxt "qtn_clk_country_ethiopia"
 msgid "Ethiopia"
-msgstr ""
+msgstr "Ефіопія"
 
 msgctxt "qtn_clk_country_falkland"
 msgid "Falkland Islands"
-msgstr ""
+msgstr "Фолклендські острови"
 
 msgctxt "qtn_clk_country_faroe_islands"
 msgid "Faroe Islands"
-msgstr ""
+msgstr "Фарерські острови"
 
 msgctxt "qtn_clk_country_fiji"
 msgid "Fiji"
-msgstr ""
+msgstr "Фіджі"
 
 msgctxt "qtn_clk_country_finland"
 msgid "Finland"
-msgstr ""
+msgstr "Фінляндія"
 
 msgctxt "qtn_clk_country_france"
 msgid "France"
-msgstr ""
+msgstr "Франція"
 
 msgctxt "qtn_clk_country_french_guiana"
 msgid "French Guiana"
-msgstr ""
+msgstr "Французька Гвіана"
 
 msgctxt "qtn_clk_country_french_polynesia"
 msgid "French Polynesia"
-msgstr ""
+msgstr "Французька Полінезія"
 
 msgctxt "qtn_clk_country_gabon"
 msgid "Gabon"
-msgstr ""
+msgstr "Габон"
 
 msgctxt "qtn_clk_country_galapagos_islands"
 msgid "Galapagos Is."
-msgstr ""
+msgstr "Галапагоські острови"
 
 msgctxt "qtn_clk_country_gambia"
 msgid "Gambia"
-msgstr ""
+msgstr "Гамбія"
 
 msgctxt "qtn_clk_country_georgia"
 msgid "Georgia"
-msgstr ""
+msgstr "Грузія"
 
 msgctxt "qtn_clk_country_germany"
 msgid "Germany"
-msgstr ""
+msgstr "Німеччина"
 
 msgctxt "qtn_clk_country_ghana"
 msgid "Ghana"
-msgstr ""
+msgstr "Гана"
 
 msgctxt "qtn_clk_country_gibraltar"
 msgid "Gibraltar"
-msgstr ""
+msgstr "Гібралтар"
 
 msgctxt "qtn_clk_country_greece"
 msgid "Greece"
-msgstr ""
+msgstr "Греція"
 
 msgctxt "qtn_clk_country_greenland"
 msgid "Greenland"
-msgstr ""
+msgstr "Гренландія"
 
 msgctxt "qtn_clk_country_grenada"
 msgid "Grenada"
-msgstr ""
+msgstr "Гренада"
 
 msgctxt "qtn_clk_country_guadeloupe"
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Гваделупа"
 
 msgctxt "qtn_clk_country_guam"
 msgid "Guam"
-msgstr ""
+msgstr "Гуам"
 
 msgctxt "qtn_clk_country_guatemala"
 msgid "Guatemala"
-msgstr ""
+msgstr "Гватемала"
 
 msgctxt "qtn_clk_country_guinea"
 msgid "Guinea"
-msgstr ""
+msgstr "Гвінея"
 
 msgctxt "qtn_clk_country_guinea_bissau"
 msgid "Guinea-Bissau"
-msgstr ""
+msgstr "Гвінея-Бісау"
 
 msgctxt "qtn_clk_country_guyana"
 msgid "Guyana"
-msgstr ""
+msgstr "Гайяна"
 
 msgctxt "qtn_clk_country_haiti"
 msgid "Haiti"
-msgstr ""
+msgstr "Гаїті"
 
 msgctxt "qtn_clk_country_honduras"
 msgid "Honduras"
-msgstr ""
+msgstr "Гондурас"
 
 msgctxt "qtn_clk_country_hong_kong"
 msgid "Hong Kong"
-msgstr ""
+msgstr "Гонконг"
 
 msgctxt "qtn_clk_country_hungary"
 msgid "Hungary"
-msgstr ""
+msgstr "Угорщина"
 
 msgctxt "qtn_clk_country_iceland"
 msgid "Iceland"
-msgstr ""
+msgstr "Ісландія"
 
 msgctxt "qtn_clk_country_india"
 msgid "India"
-msgstr ""
+msgstr "Індія"
 
 msgctxt "qtn_clk_country_indonesia"
 msgid "Indonesia"
-msgstr ""
+msgstr "Індонезія"
 
 msgctxt "qtn_clk_country_iran"
 msgid "Iran"
-msgstr ""
+msgstr "Іран"
 
 msgctxt "qtn_clk_country_iraq"
 msgid "Iraq"
-msgstr ""
+msgstr "Ірак"
 
 msgctxt "qtn_clk_country_ireland"
 msgid "Ireland"
-msgstr ""
+msgstr "Ірландія"
 
 msgctxt "qtn_clk_country_israel"
 msgid "Israel"
-msgstr ""
+msgstr "Ізраїль"
 
 msgctxt "qtn_clk_country_italy"
 msgid "Italy"
-msgstr ""
+msgstr "Італія"
 
 msgctxt "qtn_clk_country_jamaica"
 msgid "Jamaica"
-msgstr ""
+msgstr "Ямайка"
 
 msgctxt "qtn_clk_country_japan"
 msgid "Japan"
-msgstr ""
+msgstr "Японія"
 
 msgctxt "qtn_clk_country_jerusalem"
 msgid "Jerusalem"
-msgstr ""
+msgstr "Єрусалим"
 
 msgctxt "qtn_clk_country_jordan"
 msgid "Jordan"
-msgstr ""
+msgstr "Йорданія"
 
 msgctxt "qtn_clk_country_kazakhstan"
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Казахстан"
 
 msgctxt "qtn_clk_country_kenya"
 msgid "Kenya"
-msgstr ""
+msgstr "Кенія"
 
 msgctxt "qtn_clk_country_kerguelen"
 msgid "Kerguelen"
@@ -466,83 +469,83 @@ msgstr ""
 
 msgctxt "qtn_clk_country_kiribati"
 msgid "Kiribati"
-msgstr ""
+msgstr "Кірибаті"
 
 msgctxt "qtn_clk_country_kuwait"
 msgid "Kuwait"
-msgstr ""
+msgstr "Кувейт"
 
 msgctxt "qtn_clk_country_kyrgyzstan"
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Киргизстан"
 
 msgctxt "qtn_clk_country_laos"
 msgid "Laos"
-msgstr ""
+msgstr "Лаос"
 
 msgctxt "qtn_clk_country_latvia"
 msgid "Latvia"
-msgstr ""
+msgstr "Латвія"
 
 msgctxt "qtn_clk_country_lebanon"
 msgid "Lebanon"
-msgstr ""
+msgstr "Ліван"
 
 msgctxt "qtn_clk_country_lesotho"
 msgid "Lesotho"
-msgstr ""
+msgstr "Лесото"
 
 msgctxt "qtn_clk_country_liberia"
 msgid "Liberia"
-msgstr ""
+msgstr "Ліберія"
 
 msgctxt "qtn_clk_country_libya"
 msgid "Libya"
-msgstr ""
+msgstr "Лівія"
 
 msgctxt "qtn_clk_country_liechtenstein"
 msgid "Liechtenstein"
-msgstr ""
+msgstr "Ліхтенштейн"
 
 msgctxt "qtn_clk_country_lithuania"
 msgid "Lithuania"
-msgstr ""
+msgstr "Литва"
 
 msgctxt "qtn_clk_country_luxembourg"
 msgid "Luxembourg"
-msgstr ""
+msgstr "Люксембург"
 
 msgctxt "qtn_clk_country_macedonia"
 msgid "Macedonia"
-msgstr ""
+msgstr "Македонія"
 
 msgctxt "qtn_clk_country_madagascar"
 msgid "Madagascar"
-msgstr ""
+msgstr "Мадагаскар"
 
 msgctxt "qtn_clk_country_madeira"
 msgid "Madeira"
-msgstr ""
+msgstr "Мадейра"
 
 msgctxt "qtn_clk_country_malawi"
 msgid "Malawi"
-msgstr ""
+msgstr "Малаві"
 
 msgctxt "qtn_clk_country_malaysia"
 msgid "Malaysia"
-msgstr ""
+msgstr "Малайзія"
 
 msgctxt "qtn_clk_country_maldives"
 msgid "Maldives"
-msgstr ""
+msgstr "Мальдіви"
 
 msgctxt "qtn_clk_country_mali"
 msgid "Mali"
-msgstr ""
+msgstr "Малі"
 
 msgctxt "qtn_clk_country_malta"
 msgid "Malta"
-msgstr ""
+msgstr "Мальта"
 
 msgctxt "qtn_clk_country_marquesas_island"
 msgid "Marquesas Islands"
@@ -550,155 +553,155 @@ msgstr ""
 
 msgctxt "qtn_clk_country_marshall_islands"
 msgid "Marshall Islands"
-msgstr ""
+msgstr "Маршаллові острови"
 
 msgctxt "qtn_clk_country_martinique"
 msgid "Martinique"
-msgstr ""
+msgstr "Мартиніка"
 
 msgctxt "qtn_clk_country_mauritania"
 msgid "Mauritania"
-msgstr ""
+msgstr "Мавританія"
 
 msgctxt "qtn_clk_country_mauritius"
 msgid "Mauritius"
-msgstr ""
+msgstr "Маврикій"
 
 msgctxt "qtn_clk_country_mayotte"
 msgid "Mayotte"
-msgstr ""
+msgstr "Майотта"
 
 msgctxt "qtn_clk_country_mexico"
 msgid "Mexico"
-msgstr ""
+msgstr "Мексика"
 
 msgctxt "qtn_clk_country_micronesia"
 msgid "Micronesia"
-msgstr ""
+msgstr "Мікронезія"
 
 msgctxt "qtn_clk_country_moldova"
 msgid "Moldova"
-msgstr ""
+msgstr "Молдова"
 
 msgctxt "qtn_clk_country_monaco"
 msgid "Monaco"
-msgstr ""
+msgstr "Монако"
 
 msgctxt "qtn_clk_country_mongolia"
 msgid "Mongolia"
-msgstr ""
+msgstr "Монголія"
 
 msgctxt "qtn_clk_country_montenegro"
 msgid "Montenegro"
-msgstr ""
+msgstr "Чорногорія"
 
 msgctxt "qtn_clk_country_montserrat"
 msgid "Montserrat"
-msgstr ""
+msgstr "Монтсеррат"
 
 msgctxt "qtn_clk_country_morocco"
 msgid "Morocco"
-msgstr ""
+msgstr "Марокко"
 
 msgctxt "qtn_clk_country_mozambique"
 msgid "Mozambique"
-msgstr ""
+msgstr "Мозамбік"
 
 msgctxt "qtn_clk_country_myanmar"
 msgid "Myanmar"
-msgstr ""
+msgstr "М'янма"
 
 msgctxt "qtn_clk_country_n_mariana_i"
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Північні Маріанські Острови"
 
 msgctxt "qtn_clk_country_namibia"
 msgid "Namibia"
-msgstr ""
+msgstr "Намібія"
 
 msgctxt "qtn_clk_country_nauru"
 msgid "Nauru"
-msgstr ""
+msgstr "Науру"
 
 msgctxt "qtn_clk_country_nepal"
 msgid "Nepal"
-msgstr ""
+msgstr "Непал"
 
 msgctxt "qtn_clk_country_netherlands"
 msgid "Netherlands"
-msgstr ""
+msgstr "Нідерланди"
 
 msgctxt "qtn_clk_country_new_caledonia"
 msgid "New Caledonia"
-msgstr ""
+msgstr "Нова Каледонія"
 
 msgctxt "qtn_clk_country_new_zealand"
 msgid "New Zealand"
-msgstr ""
+msgstr "Нова Зеландія"
 
 msgctxt "qtn_clk_country_nicaragua"
 msgid "Nicaragua"
-msgstr ""
+msgstr "Нікарагуа"
 
 msgctxt "qtn_clk_country_niger"
 msgid "Niger"
-msgstr ""
+msgstr "Нігер"
 
 msgctxt "qtn_clk_country_nigeria"
 msgid "Nigeria"
-msgstr ""
+msgstr "Нігерія"
 
 msgctxt "qtn_clk_country_niue"
 msgid "Niue"
-msgstr ""
+msgstr "Ніуе"
 
 msgctxt "qtn_clk_country_norfolk_island"
 msgid "Norfolk Island"
-msgstr ""
+msgstr "Острів Норфолк"
 
 msgctxt "qtn_clk_country_north_korea"
 msgid "North Korea"
-msgstr ""
+msgstr "Північна Корея"
 
 msgctxt "qtn_clk_country_northern_ireland"
 msgid "Northern Ireland"
-msgstr ""
+msgstr "Північна Ірландія"
 
 msgctxt "qtn_clk_country_norway"
 msgid "Norway"
-msgstr ""
+msgstr "Норвегія"
 
 msgctxt "qtn_clk_country_oman"
 msgid "Oman"
-msgstr ""
+msgstr "Оман"
 
 msgctxt "qtn_clk_country_pakistan"
 msgid "Pakistan"
-msgstr ""
+msgstr "Пакистан"
 
 msgctxt "qtn_clk_country_palau"
 msgid "Palau"
-msgstr ""
+msgstr "Палау"
 
 msgctxt "qtn_clk_country_panama"
 msgid "Panama"
-msgstr ""
+msgstr "Панама"
 
 msgctxt "qtn_clk_country_papua_new_g"
 msgid "Papua New Guinea"
-msgstr ""
+msgstr "Папуа-Нова Гвінея"
 
 msgctxt "qtn_clk_country_paraguay"
 msgid "Paraguay"
-msgstr ""
+msgstr "Парагвай"
 
 msgctxt "qtn_clk_country_peru"
 msgid "Peru"
-msgstr ""
+msgstr "Перу"
 
 msgctxt "qtn_clk_country_philippines"
 msgid "Philippines"
-msgstr ""
+msgstr "Філіппіни"
 
 msgctxt "qtn_clk_country_phoenix_islands"
 msgid "Phoenix Islands"
@@ -706,280 +709,282 @@ msgstr ""
 
 msgctxt "qtn_clk_country_pitcairn"
 msgid "Pitcairn"
-msgstr ""
+msgstr "Піткерн"
 
 msgctxt "qtn_clk_country_poland"
 msgid "Poland"
-msgstr ""
+msgstr "Польща"
 
 msgctxt "qtn_clk_country_portugal"
 msgid "Portugal"
-msgstr ""
+msgstr "Португалія"
 
 msgctxt "qtn_clk_country_puerto_rico"
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Пуерто-Рико"
 
 msgctxt "qtn_clk_country_qatar"
 msgid "Qatar"
-msgstr ""
+msgstr "Катар"
 
 msgctxt "qtn_clk_country_r_congo"
 msgid "Congo, Republic of the"
-msgstr ""
+msgstr "Конго, республіка"
 
 msgctxt "qtn_clk_country_reunion"
 msgid "Reunion"
-msgstr ""
+msgstr "Реюньйон"
 
 msgctxt "qtn_clk_country_romania"
 msgid "Romania"
-msgstr ""
+msgstr "Румунія"
 
 msgctxt "qtn_clk_country_russia"
 msgid "Russia"
-msgstr ""
+msgstr "Росія"
 
 msgctxt "qtn_clk_country_rwanda"
 msgid "Rwanda"
-msgstr ""
+msgstr "Руанда"
 
 msgctxt "qtn_clk_country_saint_helena"
 msgid "Saint Helena"
-msgstr ""
+msgstr "Острів Святої Єлени"
 
 msgctxt "qtn_clk_country_samoa"
 msgid "Samoa"
-msgstr ""
+msgstr "Самоа"
 
 msgctxt "qtn_clk_country_san_marino"
 msgid "San Marino"
-msgstr ""
+msgstr "Сан-Марино"
 
 msgctxt "qtn_clk_country_sao_tome_principe"
 msgid "São Tomé and Príncipe"
-msgstr ""
+msgstr "Сан-Томе і Прінсіпі"
 
 msgctxt "qtn_clk_country_saudi_arab"
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "Саудівська Аравія"
 
 msgctxt "qtn_clk_country_senegal"
 msgid "Senegal"
-msgstr ""
+msgstr "Сенегал"
 
 msgctxt "qtn_clk_country_serbia"
 msgid "Serbia"
-msgstr ""
+msgstr "Сербія"
 
 msgctxt "qtn_clk_country_seychelles"
 msgid "Seychelles"
-msgstr ""
+msgstr "Сейшели"
 
 msgctxt "qtn_clk_country_sierra_leone"
 msgid "Sierra Leone"
-msgstr ""
+msgstr "Сьєрра-Леоне"
 
 msgctxt "qtn_clk_country_singapore"
 msgid "Singapore"
-msgstr ""
+msgstr "Сінгапур"
 
 msgctxt "qtn_clk_country_slovakia"
 msgid "Slovakia"
-msgstr ""
+msgstr "Словаччина"
 
 msgctxt "qtn_clk_country_slovenia"
 msgid "Slovenia"
-msgstr ""
+msgstr "Словенія"
 
 msgctxt "qtn_clk_country_solomon_is"
 msgid "Solomon Islands"
-msgstr ""
+msgstr "Соломонові Острови"
 
 msgctxt "qtn_clk_country_somalia"
 msgid "Somalia"
-msgstr ""
+msgstr "Сомалі"
 
 msgctxt "qtn_clk_country_south_africa"
 msgid "South Africa"
-msgstr ""
+msgstr "Південна Африка"
 
 msgctxt "qtn_clk_country_south_georgia"
 msgid "South Georgia"
-msgstr ""
+msgstr "Південна Георгія"
 
 msgctxt "qtn_clk_country_south_korea"
 msgid "South Korea"
-msgstr ""
+msgstr "Південна Корея"
 
 msgctxt "qtn_clk_country_spain"
 msgid "Spain"
-msgstr ""
+msgstr "Іспанія"
 
 msgctxt "qtn_clk_country_sri_lanka"
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Шрі-Ланка"
 
 msgctxt "qtn_clk_country_st_kitts_nevis"
 msgid "Saint Kitts and Nevis"
-msgstr ""
+msgstr "Сент-Кітс і Невіс"
 
 msgctxt "qtn_clk_country_st_lucia"
 msgid "Saint Lucia"
-msgstr ""
+msgstr "Сент-Люсія"
 
 msgctxt "qtn_clk_country_st_pierre_miquelon"
 msgid "Saint Pierre and Miquelon"
-msgstr ""
+msgstr "Сен-П'єр і Мікелон"
 
 msgctxt "qtn_clk_country_st_vincent_granadines"
 msgid "Saint Vincent and Grenadines"
-msgstr ""
+msgstr "Сент-Вінсент і Гренадини"
 
 msgctxt "qtn_clk_country_sudan"
 msgid "Sudan"
-msgstr ""
+msgstr "Судан"
 
 msgctxt "qtn_clk_country_suriname"
 msgid "Suriname"
-msgstr ""
+msgstr "Суринам"
 
 msgctxt "qtn_clk_country_swaziland"
 msgid "Swaziland"
-msgstr ""
+msgstr "Свазіленд"
 
 msgctxt "qtn_clk_country_sweden"
 msgid "Sweden"
-msgstr ""
+msgstr "Швеція"
 
 msgctxt "qtn_clk_country_switzerland"
 msgid "Switzerland"
-msgstr ""
+msgstr "Швейцарія"
 
 msgctxt "qtn_clk_country_syria"
 msgid "Syria"
-msgstr ""
+msgstr "Сирія"
 
 msgctxt "qtn_clk_country_tahiti"
 msgid "Tahiti"
-msgstr ""
+msgstr "Таїті"
 
 msgctxt "qtn_clk_country_taiwan"
 msgid "Taiwan"
-msgstr ""
+msgstr "Тайвань"
 
 msgctxt "qtn_clk_country_tajikistan"
 msgid "Tajikistan"
-msgstr ""
+msgstr "Таджикистан"
 
 msgctxt "qtn_clk_country_tanzania"
 msgid "Tanzania"
-msgstr ""
+msgstr "Танзанія"
 
 msgctxt "qtn_clk_country_thailand"
 msgid "Thailand"
-msgstr ""
+msgstr "Таїланд"
 
 msgctxt "qtn_clk_country_togo"
 msgid "Togo"
-msgstr ""
+msgstr "Того"
 
 msgctxt "qtn_clk_country_tokelau"
 msgid "Tokelau"
-msgstr ""
+msgstr "Токелау"
 
 msgctxt "qtn_clk_country_tonga"
 msgid "Tonga"
-msgstr ""
+msgstr "Тонга"
 
 msgctxt "qtn_clk_country_trinid_tobago"
 msgid "Trinidad and Tobago"
-msgstr ""
+msgstr "Тринідад та Тобаго"
 
 msgctxt "qtn_clk_country_tunisia"
 msgid "Tunisia"
-msgstr ""
+msgstr "Туніс"
 
 msgctxt "qtn_clk_country_turkey"
 msgid "Turkey"
-msgstr ""
+msgstr "Туреччина"
 
 msgctxt "qtn_clk_country_turkmenistan"
 msgid "Turkmenistan"
-msgstr ""
+msgstr "Туркменістан"
 
 msgctxt "qtn_clk_country_turks_caicos"
 msgid "Turks and Caicos Islands"
-msgstr ""
+msgstr "Острови Теркс і Кайкос"
 
 msgctxt "qtn_clk_country_tuvalu"
 msgid "Tuvalu"
-msgstr ""
+msgstr "Тувалу"
 
 msgctxt "qtn_clk_country_uganda"
 msgid "Uganda"
-msgstr ""
+msgstr "Уганда"
 
 msgctxt "qtn_clk_country_uk"
 msgid "United Kingdom"
-msgstr ""
+msgstr "Великобританія"
 
 msgctxt "qtn_clk_country_ukraine"
 msgid "Ukraine"
-msgstr ""
+msgstr "Україна"
 
 msgctxt "qtn_clk_country_uruguay"
 msgid "Uruguay"
-msgstr ""
+msgstr "Уругвай"
 
 msgctxt "qtn_clk_country_usa"
 msgid "USA"
-msgstr ""
+msgstr "США"
 
 msgctxt "qtn_clk_country_uzbekistan"
 msgid "Uzbekistan"
-msgstr ""
+msgstr "Узбекистан"
 
 msgctxt "qtn_clk_country_vanuatu"
 msgid "Vanuatu"
-msgstr ""
+msgstr "Вануату"
 
 msgctxt "qtn_clk_country_vatican"
 msgid "Vatican"
-msgstr ""
+msgstr "Ватикан"
 
 msgctxt "qtn_clk_country_venezuela"
 msgid "Venezuela"
-msgstr ""
+msgstr "Венесуела"
 
 msgctxt "qtn_clk_country_vietnam"
 msgid "Vietnam"
-msgstr ""
+msgstr "В'єтнам"
 
 msgctxt "qtn_clk_country_wallis_futuna"
 msgid "Wallis and Futuna Islands"
-msgstr ""
+msgstr "Острови Уолліс і Футуна"
 
 msgctxt "qtn_clk_country_western_sahara"
 msgid "Western Sahara"
-msgstr ""
+msgstr "Західна Сахара"
 
 msgctxt "qtn_clk_country_yemen"
 msgid "Yemen"
-msgstr ""
+msgstr "Ємен"
 
 msgctxt "qtn_clk_country_zambia"
 msgid "Zambia"
-msgstr ""
+msgstr "Замбія"
 
 msgctxt "qtn_clk_country_zimbabwe"
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Зімбабве"
 
 msgctxt "qtn_clk_region_kiritimati"
 msgid "Kiritimati (Christmas Island)"
-msgstr ""
+msgstr "Кірітіматі (Острів Різдва)"
 
 msgctxt "qtn_clk_region_macau"
 msgid "Macau"
-msgstr ""
+msgstr "Макау"
+
+
