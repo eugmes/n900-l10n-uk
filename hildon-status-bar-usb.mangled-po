@@ -1,16 +1,18 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: hildon-status-bar-usb 20090508135846\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.08 13:58+0300\n"
-"PO-Revision-Date: 2009.05.08 13:58+0300\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-01-31 02:18+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "stab_me_usb_cannot_connect"
 msgid ""
@@ -24,7 +26,7 @@ msgstr ""
 
 msgctxt "stab_me_usb_cannot_eject_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "stab_me_usb_connected"
 msgid "PC connection active"
@@ -36,11 +38,11 @@ msgstr ""
 
 msgctxt "stab_me_usb_device_name"
 msgid "USB device"
-msgstr ""
+msgstr "USB пристрій"
 
 msgctxt "stab_me_usb_eject"
 msgid "Disconnect %s"
-msgstr ""
+msgstr "Від'єднати %s"
 
 msgctxt "stab_me_usb_ejected"
 msgid ""
@@ -50,7 +52,7 @@ msgstr ""
 
 msgctxt "stab_me_usb_ejecting"
 msgid "Disconnecting %s"
-msgstr ""
+msgstr "Від'єднання %s"
 
 msgctxt "stab_me_usb_no_file_system_available"
 msgid "Unable to connect, no file system available"
@@ -86,7 +88,7 @@ msgstr ""
 
 msgctxt "stab_ti_usb_connected_to_%s"
 msgid "Connected to %s"
-msgstr ""
+msgstr "Під'єднано до %s"
 
 msgctxt "usbh_bd_usb_mode_mass_storage"
 msgid "Mass storage mode"
@@ -110,15 +112,15 @@ msgstr ""
 
 msgctxt "usbh_li_current_state"
 msgid "Current state: Charging only"
-msgstr ""
+msgstr "Поточний стан: тільки зарядження"
 
 msgctxt "usbh_menu_plugin_li_charging_only"
 msgid "Charging only"
-msgstr ""
+msgstr "Тільки зарядження"
 
 msgctxt "usbh_menu_plugin_li_connected_to_%s"
 msgid "Connected to %s"
-msgstr ""
+msgstr "Під'єднано до %s"
 
 msgctxt "usbh_menu_plugin_li_mass_storage"
 msgid "Mass storage mode"
@@ -134,11 +136,11 @@ msgstr ""
 
 msgctxt "usbh_menu_plugin_va_charging_only"
 msgid "Charging only"
-msgstr ""
+msgstr "Тільки зарядження"
 
 msgctxt "usbh_menu_plugin_va_connected_to_%s"
 msgid "Connected to %s"
-msgstr ""
+msgstr "Під'єднано до %s"
 
 msgctxt "usbh_menu_plugin_va_mass_storage"
 msgid "Mass storage mode"
@@ -147,3 +149,4 @@ msgstr ""
 msgctxt "usbh_menu_plugin_va_pc_suite"
 msgid "PC Suite mode"
 msgstr ""
+
