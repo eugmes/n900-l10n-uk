@@ -1,18 +1,20 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-calculator-ui 20090622130111\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.22 13:01+0300\n"
-"PO-Revision-Date: 2009.06.22 13:01+0300\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-01-31 01:53+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
 "X-Source-Language: C\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "calc_ap_calculator"
 msgid "Calculator"
@@ -20,7 +22,7 @@ msgstr "Калькулятор"
 
 msgctxt "calc_ap_divide_byzero"
 msgid "Unable to divide by zero"
-msgstr "Неможна дільти на ноль"
+msgstr "Не можна ділити на нуль"
 
 msgctxt "calc_ap_input_illegal"
 msgid "Illegal input"
@@ -28,7 +30,7 @@ msgstr "Неприпустимий ввід"
 
 msgctxt "calc_ap_large_cache_clear"
 msgid "Cache already cleared"
-msgstr ""
+msgstr "Кеш вже очищено"
 
 msgctxt "calc_ap_large_no_result"
 msgid "No calculation to show"
@@ -60,7 +62,7 @@ msgstr "Результат завеликий для показу"
 
 msgctxt "calc_ap_square_neg"
 msgid "Unable to calculate the square root of a negative number"
-msgstr "Неможна обчислити корінь з від'ємного числа"
+msgstr "Не можна обчислити корінь з від'ємного числа"
 
 msgctxt "calc_ap_title_calculator"
 msgid "Calculator"
@@ -68,79 +70,79 @@ msgstr "Калькулятор"
 
 msgctxt "calc_bv_desk_ac"
 msgid "AC"
-msgstr ""
+msgstr "AC"
 
 msgctxt "calc_bv_desk_c"
 msgid "C"
-msgstr ""
+msgstr "C"
 
 msgctxt "calc_bv_tr_add"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 msgctxt "calc_bv_tr_closebracket"
 msgid ")"
-msgstr ""
+msgstr ")"
 
 msgctxt "calc_bv_tr_decimal"
 msgid "."
-msgstr ""
+msgstr "."
 
 msgctxt "calc_bv_tr_divide"
 msgid "÷"
-msgstr ""
+msgstr "÷"
 
 msgctxt "calc_bv_tr_equals"
 msgid "="
-msgstr ""
+msgstr "="
 
 msgctxt "calc_bv_tr_min"
 msgid "MS"
-msgstr ""
+msgstr "MS"
 
 msgctxt "calc_bv_tr_mminus"
 msgid "M−"
-msgstr ""
+msgstr "M−"
 
 msgctxt "calc_bv_tr_mplus"
 msgid "M+"
-msgstr ""
+msgstr "M+"
 
 msgctxt "calc_bv_tr_mr"
 msgid "MR"
-msgstr ""
+msgstr "MR"
 
 msgctxt "calc_bv_tr_multiply"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 msgctxt "calc_bv_tr_openbracket"
 msgid "("
-msgstr ""
+msgstr "("
 
 msgctxt "calc_bv_tr_percent"
 msgid "%%"
-msgstr ""
+msgstr "%%"
 
 msgctxt "calc_bv_tr_powerof"
 msgid "x^y"
-msgstr ""
+msgstr "x^y"
 
 msgctxt "calc_bv_tr_reciprocal"
 msgid "1/x"
-msgstr ""
+msgstr "1/x"
 
 msgctxt "calc_bv_tr_sqroot"
 msgid "√"
-msgstr ""
+msgstr "√"
 
 msgctxt "calc_bv_tr_subtract"
 msgid "−"
-msgstr ""
+msgstr "−"
 
 msgctxt "calc_bv_tr_unaryminus"
 msgid "+/−"
-msgstr ""
+msgstr "+/−"
 
 msgctxt "calc_gi_e"
 msgid "Error"
@@ -148,7 +150,7 @@ msgstr "Помилка"
 
 msgctxt "calc_ib_only12"
 msgid "Unable to paste more than 12 digits"
-msgstr "Неможна вставити більше 12 чисел"
+msgstr "Не можна вставити більше 12 чисел"
 
 msgctxt "calc_ib_unable_copy"
 msgid "Unable to copy"
@@ -244,8 +246,9 @@ msgstr ""
 
 msgctxt "calc_va_format_tr_percentage_format"
 msgid "_%%"
-msgstr ""
+msgstr "_%%"
 
 msgctxt "calc_va_memory"
 msgid "M"
-msgstr ""
+msgstr "M"
+
