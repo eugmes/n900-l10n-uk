@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: osso-connectivity-ui 20091102095704\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.02 09:57+0200\n"
-"PO-Revision-Date: 2011-01-31 16:38+0100\n"
+"PO-Revision-Date: 2011-02-11 17:09+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
@@ -815,7 +815,7 @@ msgstr "Інструменти"
 
 msgctxt "conn_mngr_me_int_conn"
 msgid "Internet connection"
-msgstr "З'єднання з Internet"
+msgstr "З'єднання з Інтернет"
 
 msgctxt "conn_mngr_me_int_conn_change_iap"
 msgid "Change connection"
@@ -1079,7 +1079,7 @@ msgstr ""
 
 msgctxt "conn_set_bd_conn_set_conn"
 msgid "Connections"
-msgstr ""
+msgstr "З'єднання"
 
 msgctxt "conn_set_fi_conn_set_always_ask"
 msgid "Always ask"
@@ -1612,7 +1612,7 @@ msgstr ""
 
 msgctxt "conn_set_ti_conn_set"
 msgid "Internet connections"
-msgstr ""
+msgstr "З'єднання з Інтернет"
 
 msgctxt "conn_set_va_conn_set_search_1"
 msgid "Never"
@@ -1832,7 +1832,7 @@ msgstr "%s"
 
 msgctxt "stab_me_internet_connection"
 msgid "Internet connection"
-msgstr "З'єднання з Internet"
+msgstr "З'єднання з Інтернет"
 
 msgctxt "stab_me_internet_disconnected"
 msgid "Not connected"
@@ -1841,4 +1841,5 @@ msgstr "Не з'єднано"
 msgctxt "stab_me_internet_suspended"
 msgid "Cellular data not available"
 msgstr ""
+
 
