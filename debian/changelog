@@ -1,3 +1,10 @@
+n900-l10n-uk (1:20119999+0211) fremantle; urgency=low
+
+  * Updated translation.
+  * Try to work around broken epoch support on maemo.org.
+
+ -- Євгеній Мещеряков <eugen@debian.org>  Fri, 11 Feb 2011 17:10:34 +0100
+
 n900-l10n-uk (1:20110131) fremantle; urgency=low
 
   * Fix version numbering
