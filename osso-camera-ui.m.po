@@ -1,16 +1,18 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-camera-ui 20091013120338\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.10.13 12:03+0300\n"
-"PO-Revision-Date: 2009.10.13 12:03+0300\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-02-14 00:49+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "camera_ap_camera"
 msgid "Camera"
@@ -26,7 +28,7 @@ msgstr ""
 
 msgctxt "camera_bd_flash_automatic"
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматичний"
 
 msgctxt "camera_bd_flash_red_eye"
 msgid "Red eye reduction"
@@ -34,51 +36,51 @@ msgstr ""
 
 msgctxt "camera_bd_iso_100"
 msgid "100"
-msgstr ""
+msgstr "100"
 
 msgctxt "camera_bd_iso_200"
 msgid "200"
-msgstr ""
+msgstr "200"
 
 msgctxt "camera_bd_iso_400"
 msgid "400"
-msgstr ""
+msgstr "400"
 
 msgctxt "camera_bd_iso_automatic"
 msgid "Automatic"
-msgstr ""
+msgstr "Авто"
 
 msgctxt "camera_bd_mode_action"
 msgid "Action"
-msgstr ""
+msgstr "Рух"
 
 msgctxt "camera_bd_mode_automatic"
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматичний"
 
 msgctxt "camera_bd_mode_automatic_video"
 msgid "Automatic video"
-msgstr ""
+msgstr "Автоматичне відео"
 
 msgctxt "camera_bd_mode_landscape"
 msgid "Landscape"
-msgstr ""
+msgstr "Ландшафт"
 
 msgctxt "camera_bd_mode_macro"
 msgid "Macro"
-msgstr ""
+msgstr "Макро"
 
 msgctxt "camera_bd_mode_night"
 msgid "Night"
-msgstr ""
+msgstr "Нічний"
 
 msgctxt "camera_bd_mode_night_video"
 msgid "Night video"
-msgstr ""
+msgstr "Нічне відео"
 
 msgctxt "camera_bd_mode_portrait"
 msgid "Portrait"
-msgstr ""
+msgstr "Портрет"
 
 msgctxt "camera_bd_resolution_high"
 msgid "High resolution"
@@ -118,19 +120,19 @@ msgstr ""
 
 msgctxt "camera_bd_settings_resolution"
 msgid "Resolution"
-msgstr ""
+msgstr "Роздільна здатність"
 
 msgctxt "camera_bd_settings_wb"
 msgid "White balance"
-msgstr ""
+msgstr "Баланс білого"
 
 msgctxt "camera_bd_wb_automatic"
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматичний"
 
 msgctxt "camera_bd_wb_cloudy"
 msgid "Cloudy"
-msgstr ""
+msgstr "Хмарно"
 
 msgctxt "camera_bd_wb_fluorescent"
 msgid "Fluorescent"
@@ -138,7 +140,7 @@ msgstr ""
 
 msgctxt "camera_bd_wb_sunny"
 msgid "Sunny"
-msgstr ""
+msgstr "Сонячно"
 
 msgctxt "camera_bd_wb_tungsten"
 msgid "Tungsten"
@@ -242,11 +244,11 @@ msgstr ""
 
 msgctxt "camera_me_restore_settings"
 msgid "Restore settings"
-msgstr ""
+msgstr "Відновити налаштування"
 
 msgctxt "camera_nc_delete_imageclip"
 msgid "Delete file '%s'?"
-msgstr ""
+msgstr "Видалити файл '%s'?"
 
 msgctxt "camera_nc_restore_settings"
 msgid "Restore default camera settings?"
@@ -270,7 +272,7 @@ msgstr ""
 
 msgctxt "camera_ti_camera_mode"
 msgid "Camera mode"
-msgstr ""
+msgstr "Режим камери"
 
 msgctxt "camera_ti_camera_settings"
 msgid "Capture settings"
@@ -282,11 +284,11 @@ msgstr ""
 
 msgctxt "camera_ti_flash"
 msgid "Flash settings"
-msgstr ""
+msgstr "Налаштування спалаху"
 
 msgctxt "camera_ti_general"
 msgid "General settings"
-msgstr ""
+msgstr "Загальні налаштування"
 
 msgctxt "camera_ti_geotag"
 msgid "Geotagging"
@@ -298,7 +300,7 @@ msgstr ""
 
 msgctxt "camera_ti_idle"
 msgid "Camera"
-msgstr ""
+msgstr "Камера"
 
 msgctxt "camera_ti_iso"
 msgid "ISO sensitivity"
@@ -314,11 +316,11 @@ msgstr ""
 
 msgctxt "camera_ti_video_mode"
 msgid "Video mode"
-msgstr ""
+msgstr "Відео режим"
 
 msgctxt "camera_ti_white_balance"
 msgid "White balance"
-msgstr ""
+msgstr "Баланс білого"
 
 msgctxt "camera_va_memory_internal"
 msgid "Internal storage"
@@ -335,3 +337,4 @@ msgstr ""
 msgctxt "camera_va_show_post_capture_seconds"
 msgid "For %d seconds"
 msgstr ""
+
