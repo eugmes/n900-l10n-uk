@@ -1,16 +1,19 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-imageviewer-ui 20091013120337\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.10.13 12:03+0300\n"
-"PO-Revision-Date: 2009.10.13 12:03+0300\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-02-14 00:39+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : "
+"2);\n"
 
 msgctxt "imag_ap_images"
 msgid "Photos"
@@ -18,19 +21,19 @@ msgstr "Фото"
 
 msgctxt "imag_bd_brightness_and_contrast"
 msgid "Brightness and contrast"
-msgstr ""
+msgstr "Яскравість і контраст"
 
 msgctxt "imag_bd_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 msgctxt "imag_bd_continue"
 msgid "Continue"
-msgstr ""
+msgstr "Продовжити"
 
 msgctxt "imag_bd_crop_confirm_button"
 msgid "Crop"
-msgstr ""
+msgstr "Обрізати"
 
 msgctxt "imag_bd_crop_ratio_button"
 msgid "Crop ratio"
@@ -42,11 +45,11 @@ msgstr ""
 
 msgctxt "imag_bd_date_off"
 msgid "No date filtering"
-msgstr ""
+msgstr "Не фільтрувати за датою"
 
 msgctxt "imag_bd_date_one_day"
 msgid "Pick date"
-msgstr ""
+msgstr "Вибрати дату"
 
 msgctxt "imag_bd_date_one_day_number_of_images"
 msgid ", pictures: %d"
@@ -54,15 +57,15 @@ msgstr ""
 
 msgctxt "imag_bd_date_range_from"
 msgid "From"
-msgstr ""
+msgstr "Від"
 
 msgctxt "imag_bd_date_range_to"
 msgid "To"
-msgstr ""
+msgstr "До"
 
 msgctxt "imag_bd_details_edit_tags"
 msgid "Tags"
-msgstr ""
+msgstr "Мітки"
 
 msgctxt "imag_bd_discard"
 msgid "Discard"
@@ -70,7 +73,7 @@ msgstr ""
 
 msgctxt "imag_bd_edit_tags"
 msgid "Edit tags"
-msgstr ""
+msgstr "Редагувати мітки"
 
 msgctxt "imag_bd_flip_horizontal"
 msgid "Flip horizontally"
@@ -82,7 +85,7 @@ msgstr ""
 
 msgctxt "imag_bd_folder_all_images"
 msgid "All images"
-msgstr ""
+msgstr "Всі зображення"
 
 msgctxt "imag_bd_folder_camera"
 msgid "Camera default folder"
@@ -94,11 +97,11 @@ msgstr ""
 
 msgctxt "imag_bd_new_geotag_type_city"
 msgid "City"
-msgstr ""
+msgstr "Місто"
 
 msgctxt "imag_bd_new_geotag_type_country"
 msgid "Country"
-msgstr ""
+msgstr "Країна"
 
 msgctxt "imag_bd_new_geotag_type_suburb"
 msgid "District"
@@ -106,7 +109,7 @@ msgstr ""
 
 msgctxt "imag_bd_new_tag"
 msgid "New"
-msgstr ""
+msgstr "Новий"
 
 msgctxt "imag_bd_red_eye_removal"
 msgid "Red eye removal"
@@ -126,27 +129,27 @@ msgstr ""
 
 msgctxt "imag_bd_save_as"
 msgid "Save as"
-msgstr ""
+msgstr "Зберегти як"
 
 msgctxt "imag_bd_settings_slideshow_fast"
 msgid "Fast"
-msgstr ""
+msgstr "Швидке"
 
 msgctxt "imag_bd_settings_slideshow_medium"
 msgid "Medium"
-msgstr ""
+msgstr "Середнє"
 
 msgctxt "imag_bd_settings_slideshow_slow"
 msgid "Slow"
-msgstr ""
+msgstr "Повільне"
 
 msgctxt "imag_bd_settings_sorting_alphabetical"
 msgid "By name"
-msgstr ""
+msgstr "За назвою"
 
 msgctxt "imag_bd_settings_sorting_chronological"
 msgid "By date"
-msgstr ""
+msgstr "За датою"
 
 msgctxt "imag_bd_share"
 msgid "Share"
@@ -154,7 +157,7 @@ msgstr ""
 
 msgctxt "imag_bd_show_on_map"
 msgid "Show on map"
-msgstr ""
+msgstr "Показати на мапі"
 
 msgctxt "imag_bd_tags_edit_geotags"
 msgid "Geotags"
@@ -174,7 +177,7 @@ msgstr ""
 
 msgctxt "imag_fi_crop_square"
 msgid "Square"
-msgstr ""
+msgstr "Квадрат"
 
 msgctxt "imag_fi_details_abbreviation_ev"
 msgid "EV"
@@ -182,19 +185,19 @@ msgstr ""
 
 msgctxt "imag_fi_details_abbreviation_mm"
 msgid "mm"
-msgstr ""
+msgstr "мм"
 
 msgctxt "imag_fi_details_abbreviation_sec"
 msgid "sec"
-msgstr ""
+msgstr "с"
 
 msgctxt "imag_fi_details_aperturevalue"
 msgid "Aperture"
-msgstr ""
+msgstr "Апертура"
 
 msgctxt "imag_fi_details_camera"
 msgid "Camera"
-msgstr ""
+msgstr "Камера"
 
 msgctxt "imag_fi_details_common"
 msgid "General"
@@ -210,15 +213,15 @@ msgstr ""
 
 msgctxt "imag_fi_details_description"
 msgid "Description"
-msgstr ""
+msgstr "Опис"
 
 msgctxt "imag_fi_details_dimensions"
 msgid "Dimensions"
-msgstr ""
+msgstr "Розмір"
 
 msgctxt "imag_fi_details_dimensions_value"
 msgid "%d * %d pixels"
-msgstr ""
+msgstr "%d * %d пікселів"
 
 msgctxt "imag_fi_details_exposurebias"
 msgid "Exposure bias"
@@ -226,15 +229,15 @@ msgstr ""
 
 msgctxt "imag_fi_details_exposuretime"
 msgid "Exposure time"
-msgstr ""
+msgstr "Час експозиціїк"
 
 msgctxt "imag_fi_details_flash"
 msgid "Flash"
-msgstr ""
+msgstr "Спалах"
 
 msgctxt "imag_fi_details_flash_auto"
 msgid "Auto mode"
-msgstr ""
+msgstr "Авто режим"
 
 msgctxt "imag_fi_details_flash_forced_off"
 msgid "Forced off mode"
@@ -258,15 +261,15 @@ msgstr ""
 
 msgctxt "imag_fi_details_focallength"
 msgid "Focal length"
-msgstr ""
+msgstr "Фокусна відстань"
 
 msgctxt "imag_fi_details_gpsaltitude"
 msgid "GPS altitude"
-msgstr ""
+msgstr "GPS висота"
 
 msgctxt "imag_fi_details_gpsaltitude_value"
 msgid "%d m"
-msgstr ""
+msgstr "%d м"
 
 msgctxt "imag_fi_details_gpslatitude"
 msgid "GPS latitude"
@@ -278,11 +281,11 @@ msgstr ""
 
 msgctxt "imag_fi_details_iso"
 msgid "ISO"
-msgstr ""
+msgstr "ISO"
 
 msgctxt "imag_fi_details_jpeg_quality"
 msgid "Jpeg quality"
-msgstr ""
+msgstr "Якість Jpeg"
 
 msgctxt "imag_fi_details_maker"
 msgid "Camera maker"
@@ -290,7 +293,7 @@ msgstr ""
 
 msgctxt "imag_fi_details_metadata"
 msgid "Metadata"
-msgstr ""
+msgstr "Метадані"
 
 msgctxt "imag_fi_details_metering_average"
 msgid "Average"
@@ -322,7 +325,7 @@ msgstr ""
 
 msgctxt "imag_fi_details_model"
 msgid "Camera model"
-msgstr ""
+msgstr "Модель камери"
 
 msgctxt "imag_fi_details_no_camera"
 msgid "No camera information available"
@@ -342,11 +345,11 @@ msgstr ""
 
 msgctxt "imag_fi_details_thumbnail_value"
 msgid "%d * %d pixels"
-msgstr ""
+msgstr "%d * %d пікселів"
 
 msgctxt "imag_fi_details_title"
 msgid "Title"
-msgstr ""
+msgstr "Назва"
 
 msgctxt "imag_fi_details_unknown_value"
 msgid "Unknown value"
@@ -354,11 +357,11 @@ msgstr ""
 
 msgctxt "imag_fi_details_whitebalance"
 msgid "White balance"
-msgstr ""
+msgstr "Баланс білого"
 
 msgctxt "imag_fi_details_whitebalance_auto"
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 msgctxt "imag_fi_details_whitebalance_manual"
 msgid "Manual"
@@ -366,39 +369,39 @@ msgstr ""
 
 msgctxt "imag_fi_edit_toolbar_brightness"
 msgid "Brightness"
-msgstr ""
+msgstr "Яскравість"
 
 msgctxt "imag_fi_edit_toolbar_contrast"
 msgid "Contrast"
-msgstr ""
+msgstr "Контраст"
 
 msgctxt "imag_fi_edit_toolbar_height"
 msgid "H:"
-msgstr ""
+msgstr "В:"
 
 msgctxt "imag_fi_edit_toolbar_pixels"
 msgid "px"
-msgstr ""
+msgstr "п"
 
 msgctxt "imag_fi_edit_toolbar_width"
 msgid "W:"
-msgstr ""
+msgstr "Ш:"
 
 msgctxt "imag_fi_filter_date_sub_number_of_pictures"
 msgid "%d pictures"
-msgstr ""
+msgstr "%d зображень"
 
 msgctxt "imag_fi_filter_date_sub_one_picture"
 msgid "1 picture"
-msgstr ""
+msgstr "1 зображення"
 
 msgctxt "imag_fi_geotags_city"
 msgid "City:"
-msgstr ""
+msgstr "Місто:"
 
 msgctxt "imag_fi_geotags_country"
 msgid "Country:"
-msgstr ""
+msgstr "Країна:"
 
 msgctxt "imag_fi_geotags_suburb"
 msgid "District:"
@@ -406,7 +409,7 @@ msgstr ""
 
 msgctxt "imag_fi_new_geotag_type"
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 msgctxt "imag_fi_save_changes"
 msgid ""
@@ -416,11 +419,11 @@ msgstr ""
 
 msgctxt "imag_fi_tags"
 msgid "Tags:"
-msgstr ""
+msgstr "Мітки:"
 
 msgctxt "imag_ia_no_images"
 msgid "(no images)"
-msgstr ""
+msgstr "(немає зображень)"
 
 msgctxt "imag_ib_file_metadata_read_only"
 msgid "File is read-only. Unable to edit metadata."
@@ -548,23 +551,23 @@ msgstr ""
 
 msgctxt "imag_me_date_title"
 msgid "Filter by date"
-msgstr ""
+msgstr "Фільтрування за датою"
 
 msgctxt "imag_me_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "imag_me_details"
 msgid "Details"
-msgstr ""
+msgstr "Подробиці"
 
 msgctxt "imag_me_edit_image"
 msgid "Edit image"
-msgstr ""
+msgstr "Редагувати зображення"
 
 msgctxt "imag_me_filter_tags_favourite"
 msgid "Favorites"
-msgstr ""
+msgstr "Вибрані"
 
 msgctxt "imag_me_filter_tags_off"
 msgid "Off"
@@ -572,11 +575,11 @@ msgstr ""
 
 msgctxt "imag_me_filter_tags_title"
 msgid "Filter by tags"
-msgstr ""
+msgstr "Фільтрування за мітками"
 
 msgctxt "imag_me_folder_all_images"
 msgid "All images"
-msgstr ""
+msgstr "Всі зображення"
 
 msgctxt "imag_me_folder_camera"
 msgid "Camera default folder"
@@ -592,7 +595,7 @@ msgstr ""
 
 msgctxt "imag_me_multiple_delete"
 msgid "Delete images"
-msgstr ""
+msgstr "Видалити зображення"
 
 msgctxt "imag_me_multiple_share"
 msgid "Share images"
@@ -608,11 +611,11 @@ msgstr ""
 
 msgctxt "imag_me_save"
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 msgctxt "imag_me_save_as"
 msgid "Save as"
-msgstr ""
+msgstr "Зберегти як"
 
 msgctxt "imag_me_set_as_avatar"
 msgid "Set as avatar"
@@ -620,7 +623,7 @@ msgstr ""
 
 msgctxt "imag_me_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "imag_me_share"
 msgid "Share"
@@ -632,7 +635,7 @@ msgstr ""
 
 msgctxt "imag_me_use_as_wallpaper"
 msgid "Set as background image"
-msgstr ""
+msgstr "Встановити як фонове зображення"
 
 msgctxt "imag_nc_confirm_overwrite"
 msgid "Overwrite original file?"
@@ -718,15 +721,15 @@ msgstr ""
 
 msgctxt "imag_ti_dates"
 msgid "dates"
-msgstr ""
+msgstr "дати"
 
 msgctxt "imag_ti_details"
 msgid "Details"
-msgstr ""
+msgstr "Подробиці"
 
 msgctxt "imag_ti_details_favourite"
 msgid "Favorite"
-msgstr ""
+msgstr "Вибране"
 
 msgctxt "imag_ti_edit_brightness_and_contrast"
 msgid "Adjust brightness and contrast"
@@ -734,7 +737,7 @@ msgstr ""
 
 msgctxt "imag_ti_edit_crop"
 msgid "Crop image"
-msgstr ""
+msgstr "Обрізати зображення"
 
 msgctxt "imag_ti_edit_geotags"
 msgid "Edit geotags"
@@ -742,7 +745,7 @@ msgstr ""
 
 msgctxt "imag_ti_edit_image"
 msgid "Edit image"
-msgstr ""
+msgstr "Редагувати зображення"
 
 msgctxt "imag_ti_edit_red_eye_removal"
 msgid "Remove red eyes by tapping them"
@@ -754,7 +757,7 @@ msgstr ""
 
 msgctxt "imag_ti_filter_date"
 msgid "Filter by date"
-msgstr ""
+msgstr "Фільтрування за датою"
 
 msgctxt "imag_ti_filter_date_sub_custom_range"
 msgid "Give custom date range"
@@ -762,7 +765,7 @@ msgstr ""
 
 msgctxt "imag_ti_filter_date_sub_one_day"
 msgid "Pick date"
-msgstr ""
+msgstr "Вибрати дату"
 
 msgctxt "imag_ti_filter_folder"
 msgid "Filter by folder"
@@ -770,7 +773,7 @@ msgstr ""
 
 msgctxt "imag_ti_filter_tags"
 msgid "Filter by tags"
-msgstr ""
+msgstr "Фільтрування за мітками"
 
 msgctxt "imag_ti_filter_tags_favourite_on"
 msgid "Filter by tags - Favorites"
@@ -778,7 +781,7 @@ msgstr ""
 
 msgctxt "imag_ti_folder_all_images"
 msgid "All images"
-msgstr ""
+msgstr "Всі зображення"
 
 msgctxt "imag_ti_folder_camera"
 msgid "Camera default folder"
@@ -802,11 +805,11 @@ msgstr ""
 
 msgctxt "imag_ti_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "imag_ti_settings_grouping"
 msgid "Group by month"
-msgstr ""
+msgstr "Групувати за місяцем"
 
 msgctxt "imag_ti_settings_metadata"
 msgid "Display metadata indicators"
@@ -814,32 +817,34 @@ msgstr ""
 
 msgctxt "imag_ti_settings_slideshow"
 msgid "Slideshow"
-msgstr ""
+msgstr "Показ слайдів"
 
 msgctxt "imag_ti_settings_sorting"
 msgid "Sort"
-msgstr ""
+msgstr "Сортування"
 
 msgctxt "imag_ti_tags"
 msgid "tags"
-msgstr ""
+msgstr "мітки"
 
 msgctxt "imag_ti_tags_edit"
 msgid "Edit tags"
-msgstr ""
+msgstr "Редагувати мітки"
 
 msgctxt "imag_ti_tags_edit_favourite"
 msgid "Edit tags - Favorite"
-msgstr ""
+msgstr "Редагувати мітки - Вибране"
 
 msgctxt "imag_ti_tags_edit_multiple_favourite_all"
 msgid "Edit tags - Favorites"
-msgstr ""
+msgstr "Редагувати мітки - Вибрані"
 
 msgctxt "imag_ti_tags_edit_multiple_favourite_some"
 msgid "Edit tags - Favorites*"
-msgstr ""
+msgstr "Редагувати мітки - Вибрані*"
 
 msgctxt "imag_ti_tags_new"
 msgid "New tag"
-msgstr ""
+msgstr "Нова мітка"
+
+
