@@ -1,16 +1,18 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-browser-ui 20091102095707\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.02 09:57+0200\n"
-"PO-Revision-Date: 2009.11.02 09:57+0200\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-02-14 01:08+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "bookm_li_imported_bookmarksd"
 msgid "Imported bookmarks (%d)"
@@ -22,23 +24,23 @@ msgstr ""
 
 msgctxt "weba_ap_web_browser"
 msgid "Web"
-msgstr ""
+msgstr "Веб"
 
 msgctxt "weba_bd_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "weba_bd_certificate"
 msgid "Certificate"
-msgstr ""
+msgstr "Сертифікат"
 
 msgctxt "weba_bd_close"
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 msgctxt "weba_bd_cookie_conf_accept"
 msgid "Accept"
-msgstr ""
+msgstr "Прийняти"
 
 msgctxt "weba_bd_cookie_conf_reject"
 msgid "Reject"
@@ -46,11 +48,11 @@ msgstr ""
 
 msgctxt "weba_bd_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "weba_bd_details"
 msgid "Details"
-msgstr ""
+msgstr "Подробиці"
 
 msgctxt "weba_bd_download_open_with"
 msgid "Open with"
@@ -82,7 +84,7 @@ msgstr ""
 
 msgctxt "weba_bd_moveto"
 msgid "Move"
-msgstr ""
+msgstr "Перемістити"
 
 msgctxt "weba_bd_never"
 msgid "Never"
@@ -94,7 +96,7 @@ msgstr ""
 
 msgctxt "weba_bd_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "weba_bd_select_clear_alll"
 msgid "Clear all"
@@ -106,27 +108,27 @@ msgstr ""
 
 msgctxt "weba_db_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 msgctxt "weba_fi_address"
 msgid "Address"
-msgstr ""
+msgstr "Адреса"
 
 msgctxt "weba_fi_address_colon"
 msgid "Address"
-msgstr ""
+msgstr "Адреса"
 
 msgctxt "weba_fi_auhentication_password"
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 msgctxt "weba_fi_auhentication_realm"
 msgid "Message"
-msgstr ""
+msgstr "Повідомлення"
 
 msgctxt "weba_fi_auhentication_site"
 msgid "Server"
-msgstr ""
+msgstr "Сервер"
 
 msgctxt "weba_fi_auhentication_username"
 msgid "User name"
@@ -142,7 +144,7 @@ msgstr ""
 
 msgctxt "weba_fi_cache"
 msgid "Cache"
-msgstr ""
+msgstr "Кеш"
 
 msgctxt "weba_fi_cookie_details_domain"
 msgid "Domain"
@@ -154,11 +156,11 @@ msgstr ""
 
 msgctxt "weba_fi_cookie_details_path"
 msgid "Path"
-msgstr ""
+msgstr "Шлях"
 
 msgctxt "weba_fi_cookie_details_slash"
 msgid "/"
-msgstr ""
+msgstr "/"
 
 msgctxt "weba_fi_cookie_details_value"
 msgid "Value"
@@ -170,19 +172,19 @@ msgstr ""
 
 msgctxt "weba_fi_downloads_name"
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 msgctxt "weba_fi_downloads_percentage"
 msgid "Received"
-msgstr ""
+msgstr "Отримано"
 
 msgctxt "weba_fi_downloads_size"
 msgid "Size"
-msgstr ""
+msgstr "Розмір"
 
 msgctxt "weba_fi_encoding"
 msgid "Encoding"
-msgstr ""
+msgstr "Кодування"
 
 msgctxt "weba_fi_geolocation"
 msgid "Geolocation permissions"
@@ -198,11 +200,11 @@ msgstr ""
 
 msgctxt "weba_fi_name"
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 msgctxt "weba_fi_name_colon"
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 msgctxt "weba_fi_open_with_colon"
 msgid "Open with:"
@@ -214,7 +216,7 @@ msgstr ""
 
 msgctxt "weba_fi_page_details_security"
 msgid "Security"
-msgstr ""
+msgstr "Безпека"
 
 msgctxt "weba_fi_page_details_verification"
 msgid "Verification"
@@ -234,7 +236,7 @@ msgstr ""
 
 msgctxt "weba_fi_settings_plug_ins_enable_java_script"
 msgid "Enable JavaScript"
-msgstr ""
+msgstr "Дозволити JavaScript"
 
 msgctxt "weba_fi_settings_privacy_accept_cookies"
 msgid "Accept cookies"
@@ -250,11 +252,11 @@ msgstr ""
 
 msgctxt "weba_fi_size_colon"
 msgid "Size"
-msgstr ""
+msgstr "Розмір"
 
 msgctxt "weba_fi_type_colon"
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 msgctxt "weba_ib_closing_a_window_background"
 msgid "Closing a window in background"
@@ -306,7 +308,7 @@ msgstr ""
 
 msgctxt "weba_li_history_list_item_name"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "weba_li_history_list_nr|weba_li_history_list_nrs"
 msgid "%d item"
@@ -316,19 +318,19 @@ msgstr[1] ""
 
 msgctxt "weba_li_history_list_today"
 msgid "Today"
-msgstr ""
+msgstr "Сьогодні"
 
 msgctxt "weba_li_history_list_yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Вчора"
 
 msgctxt "weba_me_add"
 msgid "Add address"
-msgstr ""
+msgstr "Додати адресу"
 
 msgctxt "weba_me_add_bookmark"
 msgid "Add to bookmarks"
-msgstr ""
+msgstr "Додати до закладок"
 
 msgctxt "weba_me_add_home"
 msgid "Add shortcut to desktop"
@@ -336,7 +338,7 @@ msgstr ""
 
 msgctxt "weba_me_add_link"
 msgid "Add bookmark"
-msgstr ""
+msgstr "Додати закладку"
 
 msgctxt "weba_me_adjustview"
 msgid "Adjust view"
@@ -352,11 +354,11 @@ msgstr ""
 
 msgctxt "weba_me_components"
 msgid "Add-ons"
-msgstr ""
+msgstr "Додатки"
 
 msgctxt "weba_me_copy"
 msgid "Copy"
-msgstr ""
+msgstr "Копіювати"
 
 msgctxt "weba_me_copy_address"
 msgid "Copy link address"
@@ -368,11 +370,11 @@ msgstr ""
 
 msgctxt "weba_me_details"
 msgid "Details"
-msgstr ""
+msgstr "Подробиці"
 
 msgctxt "weba_me_downloads"
 msgid "Downloads"
-msgstr ""
+msgstr "Завантаження"
 
 msgctxt "weba_me_find_on_page"
 msgid "Find on page"
@@ -380,19 +382,19 @@ msgstr ""
 
 msgctxt "weba_me_load_img"
 msgid "Load image"
-msgstr ""
+msgstr "Завантажити зображення"
 
 msgctxt "weba_me_new_window"
 msgid "New window"
-msgstr ""
+msgstr "Нове вікно"
 
 msgctxt "weba_me_open_bookmark_new_window"
 msgid "Open in new window"
-msgstr ""
+msgstr "Відкрити в новому вікні"
 
 msgctxt "weba_me_open_in_new_window"
 msgid "Open in new window"
-msgstr ""
+msgstr "Відкрити в новому вікні"
 
 msgctxt "weba_me_open_link_new_window"
 msgid "Open link in new window"
@@ -400,19 +402,19 @@ msgstr ""
 
 msgctxt "weba_me_openfile"
 msgid "Open file"
-msgstr ""
+msgstr "Відкрити файл"
 
 msgctxt "weba_me_options"
 msgid "Options"
-msgstr ""
+msgstr "Параметри"
 
 msgctxt "weba_me_paste"
 msgid "Paste"
-msgstr ""
+msgstr "Вставити"
 
 msgctxt "weba_me_reload"
 msgid "Reload"
-msgstr ""
+msgstr "Перезавантажити"
 
 msgctxt "weba_me_rss"
 msgid "Subscribe to feed: %s"
@@ -432,7 +434,7 @@ msgstr ""
 
 msgctxt "weba_me_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "weba_nc_change_stored_password"
 msgid "Change stored password for %s?"
@@ -481,15 +483,15 @@ msgstr ""
 
 msgctxt "weba_ti_add_adress"
 msgid "Add address"
-msgstr ""
+msgstr "Додати адресу"
 
 msgctxt "weba_ti_add_bookmark_title"
 msgid "Add bookmark"
-msgstr ""
+msgstr "Додати закладку"
 
 msgctxt "weba_ti_adjuvi_met_showimg"
 msgid "Show images"
-msgstr ""
+msgstr "Показати зображення"
 
 msgctxt "weba_ti_adjuvi_title"
 msgid "Adjust view"
@@ -497,15 +499,15 @@ msgstr ""
 
 msgctxt "weba_ti_auhentication_title"
 msgid "Authentication"
-msgstr ""
+msgstr "Автентифікація"
 
 msgctxt "weba_ti_bookmarks"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Закладки"
 
 msgctxt "weba_ti_bookmarks_portrait"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Закладки"
 
 msgctxt "weba_ti_clear_privatedata"
 msgid "Clear private data"
@@ -535,7 +537,7 @@ msgstr ""
 
 msgctxt "weba_ti_deletebook"
 msgid "Select bookmarks"
-msgstr ""
+msgstr "Виберіть закладки"
 
 msgctxt "weba_ti_download_file_title"
 msgid "File download"
@@ -543,11 +545,11 @@ msgstr ""
 
 msgctxt "weba_ti_downloads_title"
 msgid "Downloads"
-msgstr ""
+msgstr "Завантаження"
 
 msgctxt "weba_ti_edit_bookmark_title"
 msgid "Edit bookmark"
-msgstr ""
+msgstr "Редагувати закладку"
 
 msgctxt "weba_ti_edit_folder"
 msgid "Edit folder"
@@ -555,7 +557,7 @@ msgstr ""
 
 msgctxt "weba_ti_foldername"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "weba_ti_geolocoation"
 msgid "Geolocation"
@@ -579,7 +581,7 @@ msgstr ""
 
 msgctxt "weba_ti_options"
 msgid "Options"
-msgstr ""
+msgstr "Параметри"
 
 msgctxt "weba_ti_page_details_title"
 msgid "Page details"
@@ -599,15 +601,15 @@ msgstr ""
 
 msgctxt "weba_ti_settings_browser"
 msgid "Browser"
-msgstr ""
+msgstr "Переглядач"
 
 msgctxt "weba_ti_settings_content"
 msgid "Content"
-msgstr ""
+msgstr "Вміст"
 
 msgctxt "weba_ti_settings_title"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "weba_ti_texlist_single"
 msgid "Select item"
@@ -615,7 +617,7 @@ msgstr ""
 
 msgctxt "weba_ti_text"
 msgid "Text size"
-msgstr ""
+msgstr "Розмір тексту"
 
 msgctxt "weba_ti_textlist_multi"
 msgid "Select items"
@@ -623,11 +625,11 @@ msgstr ""
 
 msgctxt "weba_ti_webstart"
 msgid "Web"
-msgstr ""
+msgstr "Веб"
 
 msgctxt "weba_ti_webstart_portrait"
 msgid "Web"
-msgstr ""
+msgstr "Веб"
 
 msgctxt "weba_va_always"
 msgid "Always"
@@ -639,19 +641,19 @@ msgstr ""
 
 msgctxt "weba_va_downloads_rec_kb"
 msgid "%d kB"
-msgstr ""
+msgstr "%d кБ"
 
 msgctxt "weba_va_downloads_rec_percent"
 msgid "%d %%"
-msgstr ""
+msgstr "%d %%"
 
 msgctxt "weba_va_downloads_size_kb"
 msgid "%.2f kB"
-msgstr ""
+msgstr "%.2f кБ"
 
 msgctxt "weba_va_downloads_size_unknown"
 msgid "–"
-msgstr ""
+msgstr "–"
 
 msgctxt "weba_va_encoding_big5"
 msgid "Chinese, Traditional (Big5 I/II)"
@@ -751,31 +753,31 @@ msgstr ""
 
 msgctxt "weba_va_modal_dialog_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgctxt "weba_va_modal_dialog_ignore"
 msgid "Ignore"
-msgstr ""
+msgstr "Ігнорувати"
 
 msgctxt "weba_va_modal_dialog_no"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 msgctxt "weba_va_modal_dialog_ok"
 msgid "OK"
-msgstr ""
+msgstr "Гаразд"
 
 msgctxt "weba_va_modal_dialog_retry"
 msgid "Try again?"
-msgstr ""
+msgstr "Спробувати знову?"
 
 msgctxt "weba_va_modal_dialog_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 msgctxt "weba_va_never"
 msgid "Never"
-msgstr ""
+msgstr "Ніколи"
 
 msgctxt "weba_va_normal"
 msgid "Normal"
@@ -787,7 +789,7 @@ msgstr ""
 
 msgctxt "weba_va_page_details_size_kb"
 msgid "%.2f kB"
-msgstr ""
+msgstr "%.2f кБ"
 
 msgctxt "weba_va_page_not_verified"
 msgid "Web site identity not verified"
@@ -815,19 +817,19 @@ msgstr ""
 
 msgctxt "weba_va_settings_general_maxc_1024"
 msgid "10 MB"
-msgstr ""
+msgstr "10 МБ"
 
 msgctxt "weba_va_settings_general_maxc_2048"
 msgid "20 MB"
-msgstr ""
+msgstr "20 МБ"
 
 msgctxt "weba_va_settings_general_maxc_4096"
 msgid "40 MB"
-msgstr ""
+msgstr "40 МБ"
 
 msgctxt "weba_va_settings_general_maxc_512"
 msgid "5 MB"
-msgstr ""
+msgstr "5 МБ"
 
 msgctxt "weba_va_settings_general_maxc_aut"
 msgid "Automatic"
@@ -883,7 +885,7 @@ msgstr ""
 
 msgctxt "weba_va_settings_privacy_accept_cookies_always"
 msgid "Always"
-msgstr ""
+msgstr "Завжди"
 
 msgctxt "weba_va_settings_privacy_accept_cookies_askfirst"
 msgid "Ask first"
@@ -907,15 +909,15 @@ msgstr ""
 
 msgctxt "weba_yi_hisfolder"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "webb_fi_bookmark_details_add"
 msgid "Added"
-msgstr ""
+msgstr "Додано"
 
 msgctxt "webb_fi_bookmark_details_use"
 msgid "Last used"
-msgstr ""
+msgstr "Востаннє використано"
 
 msgctxt "webb_fi_folder_details_contents"
 msgid "Contents"
@@ -979,11 +981,11 @@ msgstr ""
 
 msgctxt "webb_fi_folder_details_date"
 msgid "Added"
-msgstr ""
+msgstr "Додано"
 
 msgctxt "webb_fi_folder_details_time"
 msgid "Modified"
-msgstr ""
+msgstr "Змінено"
 
 msgctxt "webb_folder_imported_bookmarks"
 msgid "Imported bookmarks"
@@ -1035,23 +1037,23 @@ msgstr ""
 
 msgctxt "webb_me_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "webb_me_details"
 msgid "Details"
-msgstr ""
+msgstr "Подробиці"
 
 msgctxt "webb_me_file_edit"
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 msgctxt "webb_me_impor"
 msgid "Import bookmarks"
-msgstr ""
+msgstr "Імпортувати закладки"
 
 msgctxt "webb_me_move_to"
 msgid "Move"
-msgstr ""
+msgstr "Перемістити"
 
 msgctxt "webb_nc_delete_item_nr|webb_nc_delete_item_nrs"
 msgid "Delete '%s'?"
@@ -1115,7 +1117,7 @@ msgstr ""
 
 msgctxt "webb_ti_bookmark_details_title"
 msgid "Bookmark details"
-msgstr ""
+msgstr "Подробиці про закладку"
 
 msgctxt "webb_ti_folder_details"
 msgid "Folder details"
@@ -1124,3 +1126,4 @@ msgstr ""
 msgctxt "webb_ti_selectbok"
 msgid "Select bookmarks"
 msgstr ""
+
