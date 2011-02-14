@@ -1,18 +1,20 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: hildon-libs 20091109114411\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2009.11.09 11:44+0200\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-02-14 02:47+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
 "X-Source-Language: C\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "ckct_ib_date_does_not_exist"
 msgid "Invalid date"
@@ -76,7 +78,7 @@ msgstr ""
 
 msgctxt "ckct_wi_range_separator"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 msgctxt "ckdg_bd_rename_object_dialog_ok"
 msgid "Rename"
@@ -332,7 +334,7 @@ msgstr ""
 
 msgctxt "ecdg_fi_verify_pwd_enter_pwd"
 msgid "Password:"
-msgstr ""
+msgstr "Пароль:"
 
 msgctxt "ecdg_fi_wizard_description"
 msgid ""
@@ -355,15 +357,15 @@ msgstr ""
 
 msgctxt "ecdg_ti_caption_separator"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "ecdg_ti_colour_selector"
 msgid "Color palette"
-msgstr ""
+msgstr "Палітра кольорів"
 
 msgctxt "ecdg_ti_duration_editor_separator"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "ecdg_ti_find_toolbar_label"
 msgid "Find:"
@@ -371,7 +373,7 @@ msgstr ""
 
 msgctxt "ecdg_ti_font"
 msgid "Font"
-msgstr ""
+msgstr "Шрифт"
 
 msgctxt "ecdg_ti_font_dialog_format"
 msgid "Formatting"
@@ -383,7 +385,7 @@ msgstr ""
 
 msgctxt "ecdg_ti_font_dialog_style"
 msgid "Style"
-msgstr ""
+msgstr "Стиль"
 
 msgctxt "ecdg_ti_get_old_password"
 msgid "Current password"
@@ -399,7 +401,7 @@ msgstr ""
 
 msgctxt "ecdg_ti_time_picker_separator"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "ecdg_ti_verify_password"
 msgid "Password needed"
@@ -583,11 +585,11 @@ msgstr ""
 
 msgctxt "wdgt_va_date"
 msgid "%m/%d/%Y"
-msgstr ""
+msgstr "%d-%m-%Y"
 
 msgctxt "wdgt_va_date_day_name_short"
 msgid "%a %m/%d"
-msgstr ""
+msgstr "%a %d.%m"
 
 msgctxt "wdgt_va_date_long"
 msgid "%A, %B %e, %Y"
@@ -599,39 +601,39 @@ msgstr ""
 
 msgctxt "wdgt_va_date_short"
 msgid "%m/%d"
-msgstr ""
+msgstr "%d.%m"
 
 msgctxt "wdgt_va_day_numeric"
 msgid "%e"
-msgstr ""
+msgstr "%e"
 
 msgctxt "wdgt_va_full_24h_time"
 msgid "%T"
-msgstr ""
+msgstr "%T"
 
 msgctxt "wdgt_va_fulldate_day_name_short"
 msgid "%a %m/%d/%y"
-msgstr ""
+msgstr "%a %d-%m-%y"
 
 msgctxt "wdgt_va_fullmonth_year"
 msgid "%B %Y"
-msgstr ""
+msgstr "%B %Y"
 
 msgctxt "wdgt_va_minutes"
 msgid "%M"
-msgstr ""
+msgstr "%M"
 
 msgctxt "wdgt_va_minutes_seconds"
 msgid "%M:%S"
-msgstr ""
+msgstr "%M:%S"
 
 msgctxt "wdgt_va_month"
 msgid "%B"
-msgstr ""
+msgstr "%B"
 
 msgctxt "wdgt_va_month_name_short"
 msgid "%b"
-msgstr ""
+msgstr "%b"
 
 msgctxt "wdgt_va_pm"
 msgid "pm"
@@ -639,24 +641,25 @@ msgstr ""
 
 msgctxt "wdgt_va_seconds"
 msgid "%S"
-msgstr ""
+msgstr "%S"
 
 msgctxt "wdgt_va_week"
 msgid "%A"
-msgstr ""
+msgstr "%A"
 
 msgctxt "wdgt_va_week_name_short"
 msgid "%a"
-msgstr ""
+msgstr "%a"
 
 msgctxt "wdgt_va_week_number"
 msgid "%V"
-msgstr ""
+msgstr "%V"
 
 msgctxt "wdgt_va_week_number_sunday_first"
 msgid "%U"
-msgstr ""
+msgstr "%U"
 
 msgctxt "wdgt_va_year"
 msgid "%Y"
-msgstr ""
+msgstr "%Y"
+
