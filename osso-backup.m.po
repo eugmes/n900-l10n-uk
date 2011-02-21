@@ -28,7 +28,7 @@ msgstr "Так"
 
 msgctxt "back_bd_backup"
 msgid "New backup"
-msgstr "Новий бекапь"
+msgstr "Новий бекап"
 
 msgctxt "back_bd_delete"
 msgid "Delete"
