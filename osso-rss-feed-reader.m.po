@@ -1,20 +1,22 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-rss-feed-reader 20091102095705\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.02 09:57+0200\n"
-"PO-Revision-Date: 2009.11.02 09:57+0200\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-02-21 03:04+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
 
 msgctxt "rss_ap_news_reader"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 msgctxt "rss_bd_browse"
 msgid "Browse"
@@ -74,19 +76,19 @@ msgstr ""
 
 msgctxt "rss_ia_device_name"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "rss_ia_feed_address"
 msgid "Address"
-msgstr ""
+msgstr "Адреса"
 
 msgctxt "rss_ia_feed_folder"
 msgid "Folder"
-msgstr ""
+msgstr "Тека"
 
 msgctxt "rss_ia_feed_title"
 msgid "Title"
-msgstr ""
+msgstr "Заголовок"
 
 msgctxt "rss_ia_feeds_never_refreshed"
 msgid "Feeds have never been refreshed"
@@ -108,15 +110,15 @@ msgstr ""
 
 msgctxt "rss_ia_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Завантаження"
 
 msgctxt "rss_ia_location"
 msgid "Location"
-msgstr ""
+msgstr "Розташування"
 
 msgctxt "rss_ia_name"
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 msgctxt "rss_ia_news_feed_folders"
 msgid "RSS feed folders"
@@ -166,7 +168,7 @@ msgstr ""
 
 msgctxt "rss_ia_update_interval"
 msgid "Update interval"
-msgstr ""
+msgstr "Інтервал оновлення"
 
 msgctxt "rss_ia_update_when_connected"
 msgid "When connected to"
@@ -292,7 +294,7 @@ msgstr ""
 
 msgctxt "rss_me_add_a_feed"
 msgid "Add"
-msgstr ""
+msgstr "Додати"
 
 msgctxt "rss_me_clear_image_cache"
 msgid "Clear image cache"
@@ -300,15 +302,15 @@ msgstr ""
 
 msgctxt "rss_me_copy_link"
 msgid "Copy link location"
-msgstr ""
+msgstr "Копіювати адресу посилання"
 
 msgctxt "rss_me_delete"
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgctxt "rss_me_edit"
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 msgctxt "rss_me_feed"
 msgid "Feed"
@@ -336,7 +338,7 @@ msgstr ""
 
 msgctxt "rss_me_refresh"
 msgid "Refresh"
-msgstr ""
+msgstr "Оновити"
 
 msgctxt "rss_me_refresh_feeds"
 msgid "Refresh feeds"
@@ -344,7 +346,7 @@ msgstr ""
 
 msgctxt "rss_me_rename"
 msgid "Rename"
-msgstr ""
+msgstr "Перейменувати"
 
 msgctxt "rss_me_save_image"
 msgid "Save image as"
@@ -352,15 +354,15 @@ msgstr ""
 
 msgctxt "rss_me_search_results"
 msgid "Search results"
-msgstr ""
+msgstr "Результати пошуку"
 
 msgctxt "rss_me_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "rss_me_sort"
 msgid "Sort"
-msgstr ""
+msgstr "Сортування"
 
 msgctxt "rss_me_tools"
 msgid "Tools"
@@ -486,7 +488,7 @@ msgstr ""
 
 msgctxt "rss_ti_newsreader"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 msgctxt "rss_ti_refresh_feeds"
 msgid "Refresh feeds"
@@ -498,11 +500,11 @@ msgstr ""
 
 msgctxt "rss_ti_search"
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 msgctxt "rss_ti_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "rss_ti_updating"
 msgid "Updating"
@@ -510,55 +512,55 @@ msgstr ""
 
 msgctxt "rss_va_img_cache_1"
 msgid "1 MB"
-msgstr ""
+msgstr "1 МБ"
 
 msgctxt "rss_va_img_cache_2"
 msgid "2 MB"
-msgstr ""
+msgstr "2 МБ"
 
 msgctxt "rss_va_img_cache_4"
 msgid "4 MB"
-msgstr ""
+msgstr "4 МБ"
 
 msgctxt "rss_va_img_cache_8"
 msgid "8 MB"
-msgstr ""
+msgstr "8 МБ"
 
 msgctxt "rss_va_img_cache_off"
 msgid "Off"
-msgstr ""
+msgstr "Вимкнути"
 
 msgctxt "rss_va_open_posts_to_rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 msgctxt "rss_va_open_posts_to_web"
 msgid "Web"
-msgstr ""
+msgstr "Веб"
 
 msgctxt "rss_va_update_interval_1"
 msgid "1 hour"
-msgstr ""
+msgstr "1 година"
 
 msgctxt "rss_va_update_interval_15"
 msgid "15 minutes"
-msgstr ""
+msgstr "15 хвилин"
 
 msgctxt "rss_va_update_interval_2"
 msgid "2 hours"
-msgstr ""
+msgstr "2 години"
 
 msgctxt "rss_va_update_interval_30"
 msgid "30 minutes"
-msgstr ""
+msgstr "30 хвилин"
 
 msgctxt "rss_va_update_interval_4"
 msgid "4 hours"
-msgstr ""
+msgstr "4 години"
 
 msgctxt "rss_va_update_interval_8"
 msgid "8 hours"
-msgstr ""
+msgstr "8 годин"
 
 msgctxt "rss_va_update_when_connected_any"
 msgid "Any connection"
@@ -566,4 +568,5 @@ msgstr ""
 
 msgctxt "rss_va_update_when_connected_wlan"
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
+
