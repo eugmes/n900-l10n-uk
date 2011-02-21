@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: hildon-status-bar-usb 20090508135846\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.08 13:58+0300\n"
-"PO-Revision-Date: 2011-01-31 04:13+0100\n"
+"PO-Revision-Date: 2011-02-21 01:59+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
@@ -92,11 +92,11 @@ msgstr "Під'єднано до %s"
 
 msgctxt "usbh_bd_usb_mode_mass_storage"
 msgid "Mass storage mode"
-msgstr ""
+msgstr "Режим носія даних"
 
 msgctxt "usbh_bd_usb_mode_pc_suite"
 msgid "PC Suite mode"
-msgstr ""
+msgstr "Режим PC Suite"
 
 msgctxt "usbh_ib_mmc_usb_connected"
 msgid ""
@@ -124,11 +124,11 @@ msgstr "Під'єднано до %s"
 
 msgctxt "usbh_menu_plugin_li_mass_storage"
 msgid "Mass storage mode"
-msgstr ""
+msgstr "Режим носія даних"
 
 msgctxt "usbh_menu_plugin_li_pc_suite"
 msgid "PC Suite mode"
-msgstr ""
+msgstr "Версія Suite"
 
 msgctxt "usbh_menu_plugin_title"
 msgid "USB connected"
@@ -144,10 +144,10 @@ msgstr "Під'єднано до %s"
 
 msgctxt "usbh_menu_plugin_va_mass_storage"
 msgid "Mass storage mode"
-msgstr ""
+msgstr "Режим носія даних"
 
 msgctxt "usbh_menu_plugin_va_pc_suite"
 msgid "PC Suite mode"
-msgstr ""
+msgstr "Режим PC Suite"
 
 
