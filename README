@@ -1,0 +1,19 @@
+This is a Ukrainian UI translation for Nokia N900 smartphone
+that runs Maemo 5 operating system.
+
+Download
+========
+
+The package is available in extras-devel repository. Please see the
+following wiki page for information on how to enable the repository:
+
+> http://wiki.maemo.org/Extras-devel
+
+Contributing
+============
+
+The translation is not yet complete. You can help by contributing missing
+translations. It is possible to do here: https://launchpad.net/n900-l10n-uk .
+Not all files are imported yet. If you'd like to translate a file that is
+not there, please send me a mail (eugen@debian.org). Please report all mistakes
+to the issues tracker or by e-mail.
