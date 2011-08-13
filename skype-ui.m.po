@@ -1,24 +1,32 @@
-# 
+# Ukrainian translation for n900-l10n-uk
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the n900-l10n-uk package.
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: skype-ui 20090810095026\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
-"POT-Creation-Date: 2009.08.10 09:50+0300\n"
-"PO-Revision-Date: 2009.08.10 09:50+0300\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"Project-Id-Version: n900-l10n-uk\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2009-08-10 09:50+0300\n"
+"PO-Revision-Date: 2011-08-13 20:15+0200\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Launchpad-Export-Date: 2011-08-13 18:12+0000\n"
+"X-Generator: Lokalize 1.2\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "messaging_fi_another_participant_invited"
 msgid "%s invited %s to this group"
-msgstr ""
+msgstr "%s запросив %s до цієї групи"
 
 msgctxt "messaging_fi_another_participant_invited_unknown_invitor"
 msgid "%s is invited to this group."
-msgstr ""
+msgstr "%s запрошено в цю групу"
 
 msgctxt "messaging_fi_changed_room_topic"
 msgid "%s changed room topic to: %s"
@@ -26,79 +34,79 @@ msgstr ""
 
 msgctxt "messaging_fi_changed_room_topic_unknown_modifier"
 msgid "Room topic changed to: %s"
-msgstr ""
+msgstr "Тему змінено на: %s"
 
 msgctxt "messaging_fi_group_chat_launched"
 msgid "%s invited %s. New group chat started."
-msgstr ""
+msgstr "%s запросив %s. Початок нового групового чату."
 
 msgctxt "messaging_fi_group_chat_members_in_chat"
 msgid "This IM is between %s and you."
-msgstr ""
+msgstr "Обмін миттєвими повідомленнями між %s і вами."
 
 msgctxt "messaging_fi_group_chat_more_than_4_members"
 msgid "This IM is between %s people"
-msgstr ""
+msgstr "Обмін миттєвими повідомленнями між %s людьми"
 
 msgctxt "messaging_fi_participants_empty_list"
 msgid "No participants"
-msgstr ""
+msgstr "Немає співрозмовників"
 
 msgctxt "messaging_fi_person_has_left_room"
 msgid "%s has left"
-msgstr ""
+msgstr "%s вийшов"
 
 msgctxt "messaging_fi_you_have_left_room"
 msgid "You have left this group."
-msgstr ""
+msgstr "Ви залишили цю групу."
 
 msgctxt "messaging_me_invite"
 msgid "Invite"
-msgstr ""
+msgstr "Запросити"
 
 msgctxt "messaging_me_leave"
 msgid "Leave"
-msgstr ""
+msgstr "Вийти"
 
 msgctxt "messaging_me_participants"
 msgid "Participants"
-msgstr ""
+msgstr "Учасники"
 
 msgctxt "messaging_me_set_topic"
 msgid "Set topic"
-msgstr ""
+msgstr "Встановити тему"
 
 msgctxt "messaging_ti_group_chat_conversation"
 msgid "Topic (%d)"
-msgstr ""
+msgstr "Тема (%d)"
 
 msgctxt "messaging_ti_group_chat_participants"
 msgid "Participants (%s)"
-msgstr ""
+msgstr "Учасники (%s)"
 
 msgctxt "messaging_ti_topic_empty_group"
 msgid "Empty group"
-msgstr ""
+msgstr "Порожні групи"
 
 msgctxt "skype_bd_add_contact"
 msgid "Add"
-msgstr ""
+msgstr "Долучити"
 
 msgctxt "skype_bd_block"
 msgid "Block"
-msgstr ""
+msgstr "Заблокувати"
 
 msgctxt "skype_bd_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 msgctxt "skype_bd_export_export"
 msgid "Export"
-msgstr ""
+msgstr "Експортувати"
 
 msgctxt "skype_bd_import_import"
 msgid "Import"
-msgstr ""
+msgstr "Імпортувати"
 
 msgctxt "skype_bd_incoming_call_reply_with_chat"
 msgid "Reply with IM"
@@ -110,91 +118,91 @@ msgstr ""
 
 msgctxt "skype_bd_privacy_statement"
 msgid "Privacy statement"
-msgstr ""
+msgstr "Положення про конфіденційність"
 
 msgctxt "skype_bd_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgctxt "skype_bd_settings_blocking_list"
 msgid "Blocked list"
-msgstr ""
+msgstr "Заблоковані"
 
 msgctxt "skype_bd_settings_call_forwarding"
 msgid "Call forwarding"
-msgstr ""
+msgstr "Переадресація"
 
 msgctxt "skype_bd_settings_forward_to"
 msgid "Forward to"
-msgstr ""
+msgstr "Переслати"
 
 msgctxt "skype_bd_settings_no_blocked_users"
 msgid "No blocked Skype contacts"
-msgstr ""
+msgstr "Немає заблокованих контактів Skype"
 
 msgctxt "skype_bd_settings_privacy_call"
 msgid "Privacy for calls"
-msgstr ""
+msgstr "Конфіденційність для дзвінків"
 
 msgctxt "skype_bd_settings_privacy_chat"
 msgid "Privacy for instant messages"
-msgstr ""
+msgstr "Конфіденційність для обміну миттєвими повідомленнями"
 
 msgctxt "skype_bd_settings_unblock"
 msgid "Unblock"
-msgstr ""
+msgstr "Розблокувати"
 
 msgctxt "skype_bd_settings_use_skypeout"
 msgid "Enable calling phones"
-msgstr ""
+msgstr "Дозволити дзвінки на телефони"
 
 msgctxt "skype_bd_terms_of_service"
 msgid "Terms of service"
-msgstr ""
+msgstr "Умови надання послуг"
 
 msgctxt "skype_bd_terms_of_service_accept"
 msgid "Accept"
-msgstr ""
+msgstr "Прийняти"
 
 msgctxt "skype_bd_terms_of_service_decline"
 msgid "Decline"
-msgstr ""
+msgstr "Відхилити"
 
 msgctxt "skype_fi_about_me"
 msgid "About me"
-msgstr ""
+msgstr "Про мене"
 
 msgctxt "skype_fi_add_introductory_message"
 msgid "Enter introductory message about you"
-msgstr ""
+msgstr "Введіть вступне послання про вас"
 
 msgctxt "skype_fi_add_skype_age"
 msgid "Age"
-msgstr ""
+msgstr "Вік"
 
 msgctxt "skype_fi_add_skype_gender"
 msgid "Gender"
-msgstr ""
+msgstr "Стать"
 
 msgctxt "skype_fi_add_skype_language"
 msgid "Language"
-msgstr ""
+msgstr "Мова"
 
 msgctxt "skype_fi_add_skype_name"
 msgid "Skype Name"
-msgstr ""
+msgstr "Логін Skype"
 
 msgctxt "skype_fi_adding_contact_failed"
 msgid "Adding contact failed"
-msgstr ""
+msgstr "Додавання контакту не вдалося"
 
 msgctxt "skype_fi_agree_terms_of_usage"
 msgid "I have read and agree to the Skype terms and privacy policy."
-msgstr ""
+msgstr "Я прочитав і згоден з умовами Skype і політику конфіденційності."
 
 msgctxt "skype_fi_call_header_voicemail"
 msgid "Voicemail"
-msgstr ""
+msgstr "Голосова пошта"
 
 msgctxt "skype_fi_call_live_rate"
 msgid "Call rate %s"
@@ -202,43 +210,46 @@ msgstr ""
 
 msgctxt "skype_fi_call_old_voicemail_removed"
 msgid "Unable to open. Voicemail deleted from server."
-msgstr ""
+msgstr "Неможливо відкрити. Голосова пошта видалена з сервера."
 
 msgctxt "skype_fi_contact_is_already_in_list"
 msgid "Contact already in contact list"
-msgstr ""
+msgstr "Контакт вже є в контакт-листі"
 
 msgctxt "skype_fi_credit_is_low"
 msgid "Credit low"
-msgstr ""
+msgstr "Мало коштів"
 
 msgctxt "skype_fi_email"
 msgid "Email"
-msgstr ""
+msgstr "Ел. пошта"
 
 msgctxt "skype_fi_email_not_filled"
 msgid "Enter email address first"
-msgstr ""
+msgstr "Введіть адресу електронної пошти"
 
 msgctxt "skype_fi_enter_fields_first"
 msgid "Enter Skype name and password first"
-msgstr ""
+msgstr "Введіть Skype ім'я та пароль"
 
 msgctxt "skype_fi_export_failed"
 msgid "Export failed"
-msgstr ""
+msgstr "Помилка експорту"
 
 msgctxt "skype_fi_full_name"
 msgid "Full name"
-msgstr ""
+msgstr "Повне ім'я"
 
 msgctxt "skype_fi_info_terms_of_service"
-msgid "No Emergency calls. Skype is not a replacement for your ordinary telephone and cannot be used for emergency calls. I agree to the End User License, Terms of Service and Privacy Statement."
+msgid ""
+"No Emergency calls. Skype is not a replacement for your ordinary telephone "
+"and cannot be used for emergency calls. I agree to the End User License, "
+"Terms of Service and Privacy Statement."
 msgstr ""
 
 msgctxt "skype_fi_invalid_email_address"
 msgid "Email address is invalid"
-msgstr ""
+msgstr "Адреса електронної пошти є недійсним"
 
 msgctxt "skype_fi_lisence_agreement"
 msgid "Not available yet. Will be defined by Skype"
@@ -246,11 +257,11 @@ msgstr ""
 
 msgctxt "skype_fi_not_enough_credits"
 msgid "Not enough credit"
-msgstr ""
+msgstr "Не вистачає коштів"
 
 msgctxt "skype_fi_password_blacklisted"
 msgid "Password is blacklisted"
-msgstr ""
+msgstr "Пароль занесений в чорний список"
 
 msgctxt "skype_fi_password_invalid_format"
 msgid "Password is in invalid format"
@@ -262,19 +273,19 @@ msgstr ""
 
 msgctxt "skype_fi_password_too_long"
 msgid "Password is too long"
-msgstr ""
+msgstr "Задовгий пароль"
 
 msgctxt "skype_fi_password_too_short"
 msgid "Password is too short"
-msgstr ""
+msgstr "Занадто короткий пароль"
 
 msgctxt "skype_fi_password_too_simple"
 msgid "Password is too simple"
-msgstr ""
+msgstr "Занадто простий пароль"
 
 msgctxt "skype_fi_password_with_invalid_character"
 msgid "Password contains invalid character"
-msgstr ""
+msgstr "Пароль містить недозволений символ"
 
 msgctxt "skype_fi_privacy_statement"
 msgid "Not available yet. Will be defined by Skype"
@@ -322,7 +333,7 @@ msgstr ""
 
 msgctxt "skype_fi_skype_report_problem"
 msgid "Report problem"
-msgstr ""
+msgstr "Повідомити про проблему"
 
 msgctxt "skype_fi_terms_of_service"
 msgid "Not available yet. Will be defined by Skype"
@@ -330,7 +341,7 @@ msgstr ""
 
 msgctxt "skype_fi_too_short_pstn_number"
 msgid "Phone number is too short"
-msgstr ""
+msgstr "Закороткий номер телефону"
 
 msgctxt "skype_fi_unable_to_find_contact"
 msgid "Unable to find contact"
@@ -354,11 +365,11 @@ msgstr ""
 
 msgctxt "skype_me_export_skypeout_contacts"
 msgid "Export phone numbers"
-msgstr ""
+msgstr "Експортувати номери телефонів"
 
 msgctxt "skype_me_imort_skypeout_contacts"
 msgid "Import phone numbers"
-msgstr ""
+msgstr "Імпортувати номери телефонів"
 
 msgctxt "skype_me_search_skype_contacts"
 msgid "Search Skype contacts"
@@ -370,10 +381,12 @@ msgstr ""
 
 msgctxt "skype_nc_block_contact"
 msgid "Block %s?"
-msgstr ""
+msgstr "Заблокувати %s?"
 
 msgctxt "skype_nc_leave_chat"
-msgid "When you leave this group IM, you are unable to rejoin without an invitation. Do you want to leave this group?"
+msgid ""
+"When you leave this group IM, you are unable to rejoin without an "
+"invitation. Do you want to leave this group?"
 msgstr ""
 
 msgctxt "skype_ti_add_skype_contact"
@@ -382,7 +395,7 @@ msgstr ""
 
 msgctxt "skype_ti_conference_participants"
 msgid "Participants"
-msgstr ""
+msgstr "Учасники"
 
 msgctxt "skype_ti_edit_my_profile"
 msgid "Edit Skype profile"
@@ -390,15 +403,15 @@ msgstr ""
 
 msgctxt "skype_ti_export_skype_contacts"
 msgid "Export phone numbers"
-msgstr ""
+msgstr "Експортувати номери телефонів"
 
 msgctxt "skype_ti_import_skype_contacts"
 msgid "Import phone numbers"
-msgstr ""
+msgstr "Імпортувати номери телефонів"
 
 msgctxt "skype_ti_incoming_call_options"
 msgid "Reply"
-msgstr ""
+msgstr "Відповісти"
 
 msgctxt "skype_ti_new_skype_account"
 msgid "Account setup – New Skype account"
@@ -414,7 +427,7 @@ msgstr ""
 
 msgctxt "skype_ti_terms_of_service"
 msgid "Terms of service"
-msgstr ""
+msgstr "Умови надання послуг"
 
 msgctxt "skype_va_settings_not_available"
 msgid "Not available"
@@ -427,3 +440,4 @@ msgstr ""
 msgctxt "skype_va_settings_privacy_contact_only"
 msgid "Only allow contact from contacts"
 msgstr ""
+
