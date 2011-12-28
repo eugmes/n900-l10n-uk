@@ -1,112 +1,115 @@
-# 
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-statusbar-presence 20091026143826\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.10.26 14:38+0200\n"
-"PO-Revision-Date: 2009.10.26 14:38+0200\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2011-12-28 13:45+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
+"Language: uk\n"
+"X-Generator: Lokalize 1.2\n"
 
 msgctxt "pres_ap_feature_name"
 msgid "Availability"
-msgstr ""
+msgstr "Доступність"
 
 msgctxt "pres_bd_gtalk_available"
 msgid "Available"
-msgstr ""
+msgstr "Доступний"
 
 msgctxt "pres_bd_gtalk_away"
 msgid "Away"
-msgstr ""
+msgstr "Відсутній"
 
 msgctxt "pres_bd_gtalk_busy"
 msgid "Busy"
-msgstr ""
+msgstr "Зайнятий"
 
 msgctxt "pres_bd_gtalk_signout"
 msgid "Sign out"
-msgstr ""
+msgstr "Вийти"
 
 msgctxt "pres_bd_jabber_do_not_disturb"
 msgid "Do not disturb"
-msgstr ""
+msgstr "Не турбувати"
 
 msgctxt "pres_bd_jabber_invisible"
 msgid "Invisible"
-msgstr ""
+msgstr "Невидимий"
 
 msgctxt "pres_bd_jabber_offline"
 msgid "Offline"
-msgstr ""
+msgstr "Поза мережею"
 
 msgctxt "pres_bd_jabber_online"
 msgid "Online"
-msgstr ""
+msgstr "В мережі"
 
 msgctxt "pres_bd_location"
 msgid "My location"
-msgstr ""
+msgstr "Моє розташування"
 
 msgctxt "pres_bd_location_level"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "pres_bd_nokia_available"
 msgid "Available"
-msgstr ""
+msgstr "Доступний"
 
 msgctxt "pres_bd_nokia_do_not_disturb"
 msgid "Do not disturb"
-msgstr ""
+msgstr "Не турбувати"
 
 msgctxt "pres_bd_nokia_offline"
 msgid "Offline"
-msgstr ""
+msgstr "Поза мережею"
 
 msgctxt "pres_bd_presence_new_status"
 msgid "New status"
-msgstr ""
+msgstr "Новий стан"
 
 msgctxt "pres_bd_presence_personalise"
 msgid "Edit status"
-msgstr ""
+msgstr "Редагувати стан"
 
 msgctxt "pres_bd_sip_offline"
 msgid "Offline"
-msgstr ""
+msgstr "Поза мережею"
 
 msgctxt "pres_bd_sip_online"
 msgid "Online"
-msgstr ""
+msgstr "В мережі"
 
 msgctxt "pres_bd_skype_away"
 msgid "Away"
-msgstr ""
+msgstr "Відсутній"
 
 msgctxt "pres_bd_skype_do_not_disturb"
 msgid "Do not disturb"
-msgstr ""
+msgstr "Не турбувати"
 
 msgctxt "pres_bd_skype_invisible"
 msgid "Invisible"
-msgstr ""
+msgstr "Невидимий"
 
 msgctxt "pres_bd_skype_offline"
 msgid "Offline"
-msgstr ""
+msgstr "Поза мережею"
 
 msgctxt "pres_bd_skype_online"
 msgid "Online"
-msgstr ""
+msgstr "В мережі"
 
 msgctxt "pres_fi_accounts"
 msgid "Accounts"
-msgstr ""
+msgstr "Облікові записи"
 
 msgctxt "pres_fi_check_online_skype_accounts"
 msgid "Only one %s account can be active. Activate %s and disable others?"
@@ -114,34 +117,35 @@ msgstr ""
 
 msgctxt "pres_fi_do_not_show_this_anymore"
 msgid "Do not show this next time"
-msgstr ""
+msgstr "Не показувати наступного разу"
 
 msgctxt "pres_fi_location_level_city"
 msgid "City level"
-msgstr ""
+msgstr "Місто"
 
 msgctxt "pres_fi_location_level_district"
 msgid "District level"
-msgstr ""
+msgstr "Район міста"
 
 msgctxt "pres_fi_location_level_none"
 msgid "Do not show"
-msgstr ""
+msgstr "Не показувати"
 
 msgctxt "pres_fi_location_level_street"
 msgid "Street level"
-msgstr ""
+msgstr "Вулиця"
 
 msgctxt "pres_fi_location_turned_on"
 msgid ""
-"This location will be shared as part of your status message to contacts when signed into any service that supports it. \n"
+"This location will be shared as part of your status message to contacts when "
+"signed into any service that supports it. \n"
 "\n"
 "Read the applicable terms of use before using any such service."
 msgstr ""
 
 msgctxt "pres_fi_new_status_name"
 msgid "Name"
-msgstr ""
+msgstr "Назва"
 
 msgctxt "pres_fi_personalised_status_name"
 msgid "Input status name here"
@@ -149,7 +153,7 @@ msgstr ""
 
 msgctxt "pres_fi_status_busy"
 msgid "Busy"
-msgstr ""
+msgstr "Зайнятий"
 
 msgctxt "pres_fi_status_message_default_text"
 msgid "Type your status message"
@@ -157,15 +161,15 @@ msgstr ""
 
 msgctxt "pres_fi_status_offline"
 msgid "Offline"
-msgstr ""
+msgstr "Поза мережею"
 
 msgctxt "pres_fi_status_online"
 msgid "Online"
-msgstr ""
+msgstr "В мережі"
 
 msgctxt "pres_ib_authentication_error"
 msgid "Incorrect password"
-msgstr ""
+msgstr "Невірний пароль"
 
 msgctxt "pres_ib_error_certificate_expired"
 msgid "SSL certificate expired"
@@ -209,7 +213,7 @@ msgstr ""
 
 msgctxt "pres_ib_must_be_network_connected"
 msgid "Internet connection required"
-msgstr ""
+msgstr "Потрібне з'єднання з Інтернет"
 
 msgctxt "pres_ib_must_be_online"
 msgid "Availability must be online to perform this action"
@@ -225,11 +229,11 @@ msgstr ""
 
 msgctxt "pres_ib_unable_to_connect_to_service"
 msgid "Unable to connect to one or more accounts"
-msgstr ""
+msgstr "Не можливо під'єднатися до деяких облікових записів"
 
 msgctxt "pres_li_account_with_error"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "pres_li_authentication_error"
 msgid "Authentication failed."
@@ -253,11 +257,11 @@ msgstr ""
 
 msgctxt "pres_nc_delete_status"
 msgid "Delete status '%s'?"
-msgstr ""
+msgstr "Видалити стан '%s'?"
 
 msgctxt "pres_ni_error_no_name"
 msgid "Status name required"
-msgstr ""
+msgstr "Потрібно ввести назву стану"
 
 msgctxt "pres_ni_error_same_status_name"
 msgid "Status name already exists. Give another status."
@@ -265,27 +269,27 @@ msgstr ""
 
 msgctxt "pres_smplugin_fi_status_message"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgctxt "pres_smplugin_ti_presence_title"
 msgid "Availability"
-msgstr ""
+msgstr "Доступність"
 
 msgctxt "pres_ti_edit_status"
 msgid "Edit status"
-msgstr ""
+msgstr "Редагувати стан"
 
 msgctxt "pres_ti_location_level_title"
 msgid "My location"
-msgstr ""
+msgstr "Моє розташування"
 
 msgctxt "pres_ti_new_status"
 msgid "New status"
-msgstr ""
+msgstr "Новий стан"
 
 msgctxt "pres_ti_select_icon"
 msgid "Select icon"
-msgstr ""
+msgstr "Виберіть піктограму"
 
 msgctxt "pres_ti_select_status"
 msgid "Select status to edit"
@@ -293,8 +297,9 @@ msgstr ""
 
 msgctxt "pres_ti_set_presence_title"
 msgid "My availability"
-msgstr ""
+msgstr "Моя доступність"
 
 msgctxt "tncpa_li_plugin_sb_presence"
 msgid "Availability"
-msgstr ""
+msgstr "Доступність"
+
