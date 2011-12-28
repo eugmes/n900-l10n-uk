@@ -2,8 +2,10 @@ n900-l10n-uk (1:20119999+1228) fremantle; urgency=low
 
   * Updated translations
   * skype translation contributed by Dmitriy Mikheenko
+  * Build-depend on debhelper (>= 7) instead of debhelper7 and adjust
+    rules accordingly
 
- -- Євгеній Мещеряков <eugen@debian.org>  Wed, 28 Dec 2011 14:44:23 +0100
+ -- Євгеній Мещеряков <eugen@debian.org>  Wed, 28 Dec 2011 21:12:57 +0100
 
 n900-l10n-uk (1:20119999+0211) fremantle; urgency=low
 

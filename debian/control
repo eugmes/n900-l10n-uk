@@ -3,7 +3,7 @@ Section: user/system
 Priority: optional
 Maintainer: Eugeniy Meshcheryakov <eugen@debian.org>
 Standards-Version: 3.6.2
-Build-Depends: debhelper7 (>= 7), gettext
+Build-Depends: debhelper (>= 7), gettext
 Vcs-Git: git://github.com/eugmes/n900-l10n-uk.git
 Vcs-Browser: https://github.com/eugmes/n900-l10n-uk
 XSBC-Bugtracker: https://github.com/eugmes/n900-l10n-uk/issues
