@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: modest 20091109114412\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2011-12-28 14:40+0100\n"
+"PO-Revision-Date: 2011-12-28 15:49+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,6 @@ msgid ""
 msgstr ""
 
 # WTF? It will not wotk with 21 attachment.
-
 msgctxt "emev_nc_delete_attachment|emev_nc_delete_attachments"
 msgid ""
 "Remove attachment from message?\n"
@@ -70,7 +69,6 @@ msgid ""
 msgstr ""
 
 # WTF again?
-
 msgctxt "emev_nc_delete_message|emev_nc_delete_messages"
 msgid ""
 "Delete message?\n"
@@ -87,6 +85,8 @@ msgid ""
 "Online editing of e-mail account will cause it to disconnect and will cancel "
 "any current operations. Continue anyway?"
 msgstr ""
+"Редагування облікового запису призведе до від'єднання з відміною всіх "
+"поточних операцій. Всеодно продовжувати?"
 
 msgctxt "emev_nc_formatting_lost"
 msgid ""
@@ -103,7 +103,6 @@ msgid "E-mail account not available"
 msgstr ""
 
 # WTF?
-
 msgctxt "emev_nc_unabletomove_item|emev_nc_unabletomove_items"
 msgid "Unable to move item"
 msgid_plural "Unable to move %d items"
@@ -176,6 +175,8 @@ msgid ""
 "All changes made to the settings will be lost.\n"
 "Continue anyway?"
 msgstr ""
+"Всі зміни в налаштуваннях буде втрачено.\n"
+"Всеодно продовжувати?"
 
 msgctxt "mail_bd_external_images"
 msgid "Download external images"
@@ -363,7 +364,7 @@ msgstr ""
 
 msgctxt "mcen_bd_advsetup_optional_smtp"
 msgid "Edit SMTP servers"
-msgstr ""
+msgstr "Редагувати SMTP-сервери"
 
 msgctxt "mcen_bd_email_signature"
 msgid "Signature"
@@ -379,7 +380,7 @@ msgstr ""
 
 msgctxt "mcen_bd_show_toolbar"
 msgid "Show toolbar"
-msgstr ""
+msgstr "Показати панель"
 
 msgctxt "mcen_cn_availability_check"
 msgid "Connecting Nokia servers to check service availability"
@@ -387,7 +388,7 @@ msgstr ""
 
 msgctxt "mcen_fi_account_title"
 msgid "Account title"
-msgstr ""
+msgstr "Назва запису"
 
 msgctxt "mcen_fi_add_email_name"
 msgid "E-mail"
@@ -399,7 +400,7 @@ msgstr ""
 
 msgctxt "mcen_fi_advsetup_connection_smtp"
 msgid "Use connection-specific SMTP servers"
-msgstr ""
+msgstr "Використовувати залежні від з'єднання SMTP-сервери"
 
 msgctxt "mcen_fi_advsetup_leave_on_server"
 msgid "Leave messages on server"
@@ -479,7 +480,7 @@ msgstr ""
 
 msgctxt "mcen_fi_advsetup_smtp_none"
 msgid "None"
-msgstr ""
+msgstr "Немає"
 
 msgctxt "mcen_fi_country"
 msgid "Region"
@@ -487,7 +488,7 @@ msgstr ""
 
 msgctxt "mcen_fi_email_signatures_use_signature"
 msgid "Use signature"
-msgstr ""
+msgstr "Використовувати підпис"
 
 msgctxt "mcen_fi_emailsetup_every"
 msgid "Every"
@@ -515,11 +516,11 @@ msgstr "До"
 
 msgctxt "mcen_fi_folder_properties_foldername"
 msgid "Folder name"
-msgstr ""
+msgstr "Назва теки"
 
 msgctxt "mcen_fi_folder_properties_messages"
 msgid "Number of messages"
-msgstr ""
+msgstr "Кількість повідомлень"
 
 msgctxt "mcen_fi_folder_properties_size"
 msgid "Size"
@@ -563,7 +564,7 @@ msgstr "До: "
 
 msgctxt "mcen_fi_options_automatic_add"
 msgid "Automatically add to Contacts"
-msgstr ""
+msgstr "Автоматично додавати до Контактів"
 
 msgctxt "mcen_fi_options_autoupdate"
 msgid "Update automatically"
@@ -595,7 +596,7 @@ msgstr ""
 
 msgctxt "mcen_ia_add_email_name"
 msgid "Name"
-msgstr ""
+msgstr "Ім'я"
 
 msgctxt "mcen_ia_customsetup_complete"
 msgid ""
@@ -619,7 +620,7 @@ msgstr "--- Оригінальне повідомлення ---"
 
 msgctxt "mcen_ia_email_signatures_edit_dlg_label"
 msgid "Signature for account %s"
-msgstr ""
+msgstr "Підпис для облікового запису %s"
 
 msgctxt "mcen_ia_emailsetup_account_type"
 msgid "Note: Unable to edit account type once setup is complete"
@@ -674,7 +675,7 @@ msgstr ""
 
 msgctxt "mcen_ia_select_inline_image_title"
 msgid "Select inline image"
-msgstr ""
+msgstr "Виберіть зображення для вставки"
 
 msgctxt "mcen_ia_taptoread"
 msgid "(Tap to see messages)"
@@ -697,7 +698,6 @@ msgid "Invalid server name or IP address"
 msgstr ""
 
 # Another WTF.
-
 msgctxt "mcen_ib_message_sent|mcen_ib_messages_sent"
 msgid "Message sent"
 msgid_plural "Messages sent"
@@ -723,7 +723,7 @@ msgstr ""
 
 msgctxt "mcen_li_emailsetup_email_address"
 msgid "E-mail address"
-msgstr ""
+msgstr "Адреса E-mail"
 
 msgctxt "mcen_li_emailsetup_name"
 msgid "Name"
@@ -731,19 +731,19 @@ msgstr ""
 
 msgctxt "mcen_li_emailsetup_secure_authentication"
 msgid "Secure authentication"
-msgstr ""
+msgstr "Безпечна автентифікація"
 
 msgctxt "mcen_li_emailsetup_secure_connection"
 msgid "Secure connection"
-msgstr ""
+msgstr "Безпечне з'єднання"
 
 msgctxt "mcen_li_emailsetup_servertype"
 msgid "Incoming server"
-msgstr ""
+msgstr "Вхідний сервер"
 
 msgctxt "mcen_li_emailsetup_smtp"
 msgid "Outgoing server"
-msgstr ""
+msgstr "Вихідний сервер"
 
 msgctxt "mcen_li_emailsetup_type"
 msgid "Account type"
@@ -807,14 +807,13 @@ msgstr ""
 
 msgctxt "mcen_me_delete_folder"
 msgid "Delete folder"
-msgstr ""
+msgstr "Видалити теку"
 
 msgctxt "mcen_me_delete_messages"
 msgid "Delete messages"
-msgstr ""
+msgstr "Видалити повідомлення"
 
 # And one more WTF  :/
-
 msgctxt "mcen_me_edit_account|mcen_me_edit_accounts"
 msgid "Edit account"
 msgid_plural "Edit accounts"
@@ -900,23 +899,23 @@ msgstr ""
 
 msgctxt "mcen_me_folder_details"
 msgid "Folder details"
-msgstr ""
+msgstr "Інформація про теку"
 
 msgctxt "mcen_me_folder_drafts"
 msgid "Drafts"
-msgstr ""
+msgstr "Чернетки"
 
 msgctxt "mcen_me_folder_inbox"
 msgid "Inbox"
-msgstr ""
+msgstr "Вхідні"
 
 msgctxt "mcen_me_folder_outbox"
 msgid "Outbox"
-msgstr ""
+msgstr "Вихідні"
 
 msgctxt "mcen_me_folder_sent"
 msgid "Sent"
-msgstr ""
+msgstr "Надіслані"
 
 msgctxt "mcen_me_inbox_forward"
 msgid "Forward"
@@ -960,7 +959,7 @@ msgstr "Налаштування повідомлення"
 
 msgctxt "mcen_me_move_folder"
 msgid "Move folder"
-msgstr ""
+msgstr "Перемістити теку"
 
 msgctxt "mcen_me_move_message|mcen_me_move_messages"
 msgid "Move message"
@@ -987,7 +986,7 @@ msgstr ""
 
 msgctxt "mcen_me_rename_folder"
 msgid "Rename folder"
-msgstr ""
+msgstr "Перейменувати теку"
 
 msgctxt "mcen_me_sort"
 msgid "Sort"
@@ -995,7 +994,7 @@ msgstr ""
 
 msgctxt "mcen_me_viewer_addtocontacts"
 msgid "Add to Contacts"
-msgstr ""
+msgstr "Додати до контактів"
 
 msgctxt "mcen_me_viewer_find"
 msgid "Find in message"
@@ -1063,7 +1062,7 @@ msgstr ""
 
 msgctxt "mcen_ti_account_settings"
 msgid "%s account settings for %s"
-msgstr ""
+msgstr "Налатування облікового запису %s для %s"
 
 msgctxt "mcen_ti_accountdetails"
 msgid "Account details"
@@ -1083,27 +1082,27 @@ msgstr ""
 
 msgctxt "mcen_ti_edit_delete"
 msgid "Choose items to delete"
-msgstr ""
+msgstr "Виберіть елементи для видалення"
 
 msgctxt "mcen_ti_edit_folder_delete"
 msgid "Select folder to delete"
-msgstr ""
+msgstr "Виберіть теку для видалення"
 
 msgctxt "mcen_ti_edit_move"
 msgid "Choose messages to move"
-msgstr ""
+msgstr "Виберіть повідомлення для переміщення"
 
 msgctxt "mcen_ti_edit_move_folder"
 msgid "Select folder to move"
-msgstr ""
+msgstr "Виберіть теку для пересування"
 
 msgctxt "mcen_ti_edit_rename_folder"
 msgid "Select folder to rename"
-msgstr ""
+msgstr "Виберіть теку для перейменування"
 
 msgctxt "mcen_ti_email_signatures_edit_title"
 msgid "E-mail signature"
-msgstr ""
+msgstr "Підпис E-mail"
 
 msgctxt "mcen_ti_emailsetup"
 msgid "Account setup"
@@ -1139,11 +1138,11 @@ msgstr ""
 
 msgctxt "mcen_ti_font_face"
 msgid "Select font face"
-msgstr ""
+msgstr "Виберіть шрифт"
 
 msgctxt "mcen_ti_font_size"
 msgid "Select font size"
-msgstr ""
+msgstr "Виберіть розмір шрифту"
 
 msgctxt "mcen_ti_intellisync_settings"
 msgid "Account settings for Intellisync"
@@ -1154,7 +1153,6 @@ msgid "Last updated"
 msgstr "Востаннє оновлено"
 
 # The only correct use of plural forms?
-
 msgctxt "mcen_ti_message|mcen_ti_messages"
 msgid "%d message"
 msgid_plural "%d messages"
@@ -1164,11 +1162,11 @@ msgstr[2] "%d повідомлень"
 
 msgctxt "mcen_ti_message_properties"
 msgid "Message details"
-msgstr ""
+msgstr "Подробиці про повідомлення"
 
 msgctxt "mcen_ti_moveto_folders_title"
 msgid "Move to folder"
-msgstr ""
+msgstr "Перемістити в теку"
 
 msgctxt "mcen_ti_new_message"
 msgid "New message"
@@ -1200,7 +1198,7 @@ msgstr ""
 
 msgctxt "mcen_va_default_signature_tablet"
 msgid "Sent from my Nokia N900"
-msgstr ""
+msgstr "Надіслано з мого Nokia N900"
 
 msgctxt "mcen_va_example_email_address"
 msgid "first.last@example.com"
