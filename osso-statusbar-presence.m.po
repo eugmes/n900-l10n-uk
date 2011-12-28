@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: osso-statusbar-presence 20091026143826\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.10.26 14:38+0200\n"
-"PO-Revision-Date: 2011-12-28 13:45+0100\n"
+"PO-Revision-Date: 2011-12-28 20:55+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
@@ -49,11 +49,11 @@ msgstr "Поза мережею"
 
 msgctxt "pres_bd_jabber_online"
 msgid "Online"
-msgstr "В мережі"
+msgstr "Онлайн"
 
 msgctxt "pres_bd_location"
 msgid "My location"
-msgstr "Моє розташування"
+msgstr "Розташування"
 
 msgctxt "pres_bd_location_level"
 msgid "%s"
@@ -69,7 +69,7 @@ msgstr "Не турбувати"
 
 msgctxt "pres_bd_nokia_offline"
 msgid "Offline"
-msgstr "Поза мережею"
+msgstr "Офлайн"
 
 msgctxt "pres_bd_presence_new_status"
 msgid "New status"
@@ -81,11 +81,11 @@ msgstr "Редагувати стан"
 
 msgctxt "pres_bd_sip_offline"
 msgid "Offline"
-msgstr "Поза мережею"
+msgstr "Офлайн"
 
 msgctxt "pres_bd_sip_online"
 msgid "Online"
-msgstr "В мережі"
+msgstr "Онлайн"
 
 msgctxt "pres_bd_skype_away"
 msgid "Away"
@@ -101,11 +101,11 @@ msgstr "Невидимий"
 
 msgctxt "pres_bd_skype_offline"
 msgid "Offline"
-msgstr "Поза мережею"
+msgstr "Офлайн"
 
 msgctxt "pres_bd_skype_online"
 msgid "Online"
-msgstr "В мережі"
+msgstr "Онлайн"
 
 msgctxt "pres_fi_accounts"
 msgid "Accounts"
@@ -161,11 +161,11 @@ msgstr ""
 
 msgctxt "pres_fi_status_offline"
 msgid "Offline"
-msgstr "Поза мережею"
+msgstr "Офлайн"
 
 msgctxt "pres_fi_status_online"
 msgid "Online"
-msgstr "В мережі"
+msgstr "Онлайн"
 
 msgctxt "pres_ib_authentication_error"
 msgid "Incorrect password"
@@ -281,7 +281,7 @@ msgstr "Редагувати стан"
 
 msgctxt "pres_ti_location_level_title"
 msgid "My location"
-msgstr "Моє розташування"
+msgstr "Розташування"
 
 msgctxt "pres_ti_new_status"
 msgid "New status"
@@ -302,4 +302,5 @@ msgstr "Моя доступність"
 msgctxt "tncpa_li_plugin_sb_presence"
 msgid "Availability"
 msgstr "Доступність"
+
 
