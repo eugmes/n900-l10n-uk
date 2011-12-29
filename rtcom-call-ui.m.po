@@ -5,16 +5,18 @@ msgstr ""
 "Project-Id-Version: rtcom-call-ui 20091019161422\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.10.19 16:14+0300\n"
-"PO-Revision-Date: 2011-02-14 01:17+0100\n"
+"PO-Revision-Date: 2011-12-29 19:27+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
 "X-Source-Language: C\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Lokalize 1.2\n"
+"Language: uk\n"
 
 msgctxt "call_bd_call_duration_clear_timers"
 msgid "Clear timers"
@@ -34,7 +36,7 @@ msgstr "Відповісти"
 
 msgctxt "call_bd_incoming_call_reject"
 msgid "Reject"
-msgstr ""
+msgstr "Відхилити"
 
 msgctxt "call_bd_manual_dial_call_type"
 msgid "Call type"
@@ -90,11 +92,11 @@ msgstr "Пристрій заблоковано"
 
 msgctxt "call_fi_call_handling_emergency_call"
 msgid "Emergency call"
-msgstr ""
+msgstr "Екстрений виклик"
 
 msgctxt "call_fi_call_handling_emergency_call_number"
 msgid "%s – Emergency call"
-msgstr ""
+msgstr "%s – Екстрений виклик"
 
 msgctxt "call_fi_call_handling_end_call"
 msgid "End"
@@ -106,7 +108,7 @@ msgstr "Виклик"
 
 msgctxt "call_fi_call_handling_headset"
 msgid "Headset"
-msgstr ""
+msgstr "Навушники"
 
 msgctxt "call_fi_call_handling_held_call"
 msgid "On hold"
@@ -174,15 +176,15 @@ msgstr "Портрет"
 
 msgctxt "call_fi_manual_dial_no_accounts"
 msgid "No accounts"
-msgstr ""
+msgstr "Немає облікових записів"
 
 msgctxt "call_ia_idle_view_no_calls"
 msgid "No recent calls"
-msgstr ""
+msgstr "Немає нещодавніх викликів"
 
 msgctxt "call_ib_account_not_in_use"
 msgid "Account not in use"
-msgstr ""
+msgstr "Обліковий запис не використовується"
 
 msgctxt "call_ib_als_wrong_line"
 msgid "Line 2 of SIM card not supported. Change SIM card."
@@ -258,7 +260,7 @@ msgstr ""
 
 msgctxt "call_me_context_menu_contact_card"
 msgid "Open contact card"
-msgstr ""
+msgstr "Відкрити візитівку"
 
 msgctxt "call_me_context_menu_delete"
 msgid "Delete"
@@ -274,11 +276,11 @@ msgstr ""
 
 msgctxt "call_me_menu_call_speaker_off"
 msgid "Turn off speaker"
-msgstr ""
+msgstr "Вимкнути гучномовець"
 
 msgctxt "call_me_menu_call_speaker_on"
 msgid "Turn on speaker"
-msgstr ""
+msgstr "Увімкнути гучномовець"
 
 msgctxt "call_me_menu_call_start_conference"
 msgid "Start conference call"
@@ -286,7 +288,7 @@ msgstr ""
 
 msgctxt "call_me_menu_call_video_call"
 msgid "Turn on video"
-msgstr ""
+msgstr "Увімкнути відео"
 
 msgctxt "call_me_menu_merge_with"
 msgid "Merge with contact"
@@ -302,11 +304,11 @@ msgstr ""
 
 msgctxt "call_me_menu_tools_clear_list"
 msgid "Clear recent calls"
-msgstr ""
+msgstr "Очистити виклики"
 
 msgctxt "call_me_menu_tools_duration"
 msgid "Call timers"
-msgstr ""
+msgstr "Таймери виклику"
 
 msgctxt "call_me_menu_tools_end_held_call"
 msgid "End held call"
@@ -318,7 +320,7 @@ msgstr ""
 
 msgctxt "call_me_menu_turning_control"
 msgid "Turning control"
-msgstr ""
+msgstr "Керування обертанням"
 
 msgctxt "call_nc_clear_all_calls"
 msgid "Clear recent calls?"
@@ -342,7 +344,7 @@ msgstr ""
 
 msgctxt "call_ti_call_duration"
 msgid "Call timers"
-msgstr ""
+msgstr "Таймери виклику"
 
 msgctxt "call_ti_call_type"
 msgid "Call type"
@@ -354,7 +356,7 @@ msgstr "Повідомлення"
 
 msgctxt "call_ti_set_turning_control"
 msgid "Turning control"
-msgstr ""
+msgstr "Керування обертанням"
 
 msgctxt "voip_ap_feature_name"
 msgid "Phone"
@@ -370,7 +372,7 @@ msgstr "Виклик"
 
 msgctxt "voip_bv_call_handling_lock_enter_code"
 msgid "Unlock"
-msgstr ""
+msgstr "Розблокувати"
 
 msgctxt "voip_fi_call_header_connecting"
 msgid "Connecting"
@@ -386,7 +388,7 @@ msgstr ""
 
 msgctxt "voip_fi_call_summary_identifier_busy"
 msgid "Busy"
-msgstr ""
+msgstr "Зайнято"
 
 msgctxt "voip_fi_call_summary_identifier_call_rejected"
 msgid "Call not established"
@@ -410,7 +412,7 @@ msgstr ""
 
 msgctxt "voip_fi_caller_information_unknown_caller"
 msgid "Unknown number"
-msgstr ""
+msgstr "Невідомий номер"
 
 msgctxt "voip_ib_call_not_possible_maximum_num_of_calls"
 msgid "End current call to start new call"
@@ -448,11 +450,11 @@ msgstr ""
 
 msgctxt "voip_ib_undefined_error"
 msgid "General error"
-msgstr ""
+msgstr "Загальна помилка"
 
 msgctxt "voip_me_menu_tools_accounts"
 msgid "Accounts"
-msgstr ""
+msgstr "Облікові записи"
 
 msgctxt "voip_ni_unable_to_negotiate_codec"
 msgid ""
@@ -471,4 +473,5 @@ msgstr "Набір номеру"
 msgctxt "voip_ti_manual_dial_title_portrait"
 msgid "Dialing pad"
 msgstr "Набір номеру"
+
 
