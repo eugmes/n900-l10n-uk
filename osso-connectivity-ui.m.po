@@ -1,20 +1,22 @@
 #
-# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-connectivity-ui 20091102095704\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.02 09:57+0200\n"
-"PO-Revision-Date: 2011-02-21 02:29+0100\n"
+"PO-Revision-Date: 2012-01-02 23:52+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
 "X-Source-Language: C\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Lokalize 1.2\n"
+"Language: uk\n"
 
 msgctxt "conn_ap_connmanager"
 msgid "Connection manager"
@@ -147,7 +149,9 @@ msgid "Hidden Wi-Fi"
 msgstr "Прихований Wi-Fi"
 
 msgctxt "conn_fi_iap_select_text"
-msgid "Cellular access point settings received from operator. Select access point to save. Consult operator to receive settings again in future."
+msgid ""
+"Cellular access point settings received from operator. Select access point to "
+"save. Consult operator to receive settings again in future."
 msgstr ""
 
 msgctxt "conn_fi_no_conn_available"
@@ -184,7 +188,7 @@ msgstr ""
 
 msgctxt "conn_fi_phone_dc_reset_time"
 msgid "%c"
-msgstr ""
+msgstr "%c"
 
 msgctxt "conn_fi_phone_dc_sent"
 msgid "Sent"
@@ -208,11 +212,11 @@ msgstr "МБ"
 
 msgctxt "conn_fi_phone_network_data_roam"
 msgid "Data roaming"
-msgstr ""
+msgstr "Роумінг даних"
 
 msgctxt "conn_fi_phone_network_mode"
 msgid "Network mode"
-msgstr ""
+msgstr "Режим мережі"
 
 msgctxt "conn_fi_phone_network_pin"
 msgid "PIN code"
@@ -224,7 +228,7 @@ msgstr "Запит PIN-коду"
 
 msgctxt "conn_fi_phone_network_sel"
 msgid "Network selection"
-msgstr ""
+msgstr "Вибір мережі"
 
 msgctxt "conn_fi_phone_send_call_id"
 msgid "Send my caller ID"
@@ -522,7 +526,9 @@ msgid "Authentication failed"
 msgstr ""
 
 msgctxt "conn_in_ap_settings_equal"
-msgid "Cellular access point settings not updated. Received settings identical to current ones."
+msgid ""
+"Cellular access point settings not updated. Received settings identical to "
+"current ones."
 msgstr ""
 
 msgctxt "conn_li_device_details_d_a2dp"
@@ -563,7 +569,7 @@ msgstr "OPP"
 
 msgctxt "conn_li_device_details_d_profiles"
 msgid "Supported profiles:"
-msgstr ""
+msgstr "Підтримувані профілі:"
 
 msgctxt "conn_li_device_details_d_sap"
 msgid "SAP"
@@ -575,7 +581,7 @@ msgstr "SPP"
 
 msgctxt "conn_li_device_details_d_trust"
 msgid "Trusted device"
-msgstr ""
+msgstr "Довірений пристрій"
 
 msgctxt "conn_li_device_details_d_type"
 msgid "Device type:"
@@ -655,15 +661,15 @@ msgstr ""
 
 msgctxt "conn_mngr_bd_change_iap"
 msgid "Change"
-msgstr ""
+msgstr "Змінити"
 
 msgctxt "conn_mngr_bd_connect_iap"
 msgid "Select connection"
-msgstr ""
+msgstr "Виберіть з'єднання"
 
 msgctxt "conn_mngr_bd_disconnect_iap"
 msgid "Disconnect"
-msgstr ""
+msgstr "Від'єднатися"
 
 msgctxt "conn_mngr_dia_bd_ok"
 msgid "OK"
@@ -671,15 +677,15 @@ msgstr "Гаразд"
 
 msgctxt "conn_mngr_dia_fi_adv_ip_dns_prim"
 msgid "Primary DNS address:"
-msgstr ""
+msgstr "Адреса первинного DNS:"
 
 msgctxt "conn_mngr_dia_fi_adv_ip_dns_sec"
 msgid "Secondary DNS address:"
-msgstr ""
+msgstr "Адреса вторинного DNS:"
 
 msgctxt "conn_mngr_dia_fi_conn_name"
 msgid "Connection:"
-msgstr ""
+msgstr "З'єднання:"
 
 msgctxt "conn_mngr_dia_fi_default_router"
 msgid "Default gateway:"
@@ -687,7 +693,7 @@ msgstr ""
 
 msgctxt "conn_mngr_dia_fi_ip_address"
 msgid "IP address:"
-msgstr ""
+msgstr "IP-адреса:"
 
 msgctxt "conn_mngr_dia_fi_ip_netmask"
 msgid "Netmask:"
@@ -751,11 +757,11 @@ msgstr ""
 
 msgctxt "conn_mngr_fi_status_connecting"
 msgid "Connecting"
-msgstr ""
+msgstr "Триває з'єднання"
 
 msgctxt "conn_mngr_fi_status_inactive"
 msgid "Connected"
-msgstr ""
+msgstr "З'єднано"
 
 msgctxt "conn_mngr_fi_status_linklocal"
 msgid "%s using link-local IP address"
@@ -763,7 +769,7 @@ msgstr ""
 
 msgctxt "conn_mngr_fi_status_none"
 msgid "–"
-msgstr ""
+msgstr "–"
 
 msgctxt "conn_mngr_fi_title_internet_connection"
 msgid "Internet connection:"
@@ -799,7 +805,7 @@ msgstr "Bluetooth"
 
 msgctxt "conn_mngr_me_close"
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 msgctxt "conn_mngr_me_conn_help"
 msgid "Help"
@@ -847,7 +853,7 @@ msgstr ""
 
 msgctxt "conn_mngr_ti_title"
 msgid "Connection manager"
-msgstr ""
+msgstr "Менеджер з'єднань"
 
 msgctxt "conn_nc_bt_connect_device"
 msgid ""
@@ -915,7 +921,7 @@ msgstr ""
 
 msgctxt "conn_nc_phone_data_roaming"
 msgid "Allow data roaming?"
-msgstr ""
+msgstr "Дозволити роумінг даних?"
 
 msgctxt "conn_nc_power_saving_warning"
 msgid ""
@@ -928,6 +934,8 @@ msgid ""
 "Internet connection failed.\n"
 "Try again?"
 msgstr ""
+"Не вдалося приєднатися до Інтернет.\n"
+"Спробувати знову?"
 
 msgctxt "conn_nc_retry_connection_auth_failed"
 msgid ""
@@ -955,18 +963,27 @@ msgstr ""
 
 msgctxt "conn_nc_roaming"
 msgid ""
-"Automatically enable data connection when outside of your cellular operator’s network (roaming) and no Wi-Fi connection\n"
+"Automatically enable data connection when outside of your cellular operator’s "
+"network (roaming) and no Wi-Fi connection\n"
 "is available?\n"
 "\n"
-"Choosing 'Yes' automatically creates and maintains a data connection when roaming. This may involve additional costs. Choosing 'No' offers a prompt whenever a data connection to a foreign cellular network is required. You can change this later\n"
+"Choosing 'Yes' automatically creates and maintains a data connection when "
+"roaming. This may involve additional costs. Choosing 'No' offers a prompt "
+"whenever a data connection to a foreign cellular network is required. You can "
+"change this later\n"
 "via Settings."
 msgstr ""
 
 msgctxt "conn_nc_use_device_psd_auto"
 msgid ""
-" Automatically enable packet data connection (cellular data connection) when no Wi-Fi connection is available?\n"
+" Automatically enable packet data connection (cellular data connection) when "
+"no Wi-Fi connection is available?\n"
 "\n"
-"By choosing Yes, the device automatically creates and maintains a packet data connection to your network service operator’s network (where available). Contact your network service provider for information about data transmission charges. By choosing No, you will be informed whenever a packet data connection is needed. You can change this later via Settings."
+"By choosing Yes, the device automatically creates and maintains a packet data "
+"connection to your network service operator’s network (where available). "
+"Contact your network service provider for information about data transmission "
+"charges. By choosing No, you will be informed whenever a packet data "
+"connection is needed. You can change this later via Settings."
 msgstr ""
 
 msgctxt "conn_ni_connecting_bt_failed"
@@ -981,7 +998,8 @@ msgstr ""
 
 msgctxt "conn_ni_link_local_ip_wep"
 msgid ""
-"Internet connection failed. Unable to retrieve IP address from server. WEP key may be incorrect.\n"
+"Internet connection failed. Unable to retrieve IP address from server. WEP "
+"key may be incorrect.\n"
 "Try again?"
 msgstr ""
 
@@ -1007,7 +1025,7 @@ msgstr ""
 
 msgctxt "conn_ni_no_sim_card_in"
 msgid "No SIM card inserted"
-msgstr ""
+msgstr "SIM-карта не вставлена"
 
 msgctxt "conn_ni_pairing_failed"
 msgid "Pairing failed."
@@ -1038,7 +1056,9 @@ msgid "Select network in Phone settings."
 msgstr ""
 
 msgctxt "conn_ni_sim_failure"
-msgid "All telephony functions, including emergency calls, are disabled due to a communication error. To recover, you might have to reboot the device."
+msgid ""
+"All telephony functions, including emergency calls, are disabled due to a "
+"communication error. To recover, you might have to reboot the device."
 msgstr ""
 
 msgctxt "conn_ni_sim_lock"
@@ -1059,11 +1079,11 @@ msgstr ""
 
 msgctxt "conn_pb_btdevice_connecting"
 msgid "Connecting to %s"
-msgstr ""
+msgstr "З'єднання з %s"
 
 msgctxt "conn_pb_connecting"
 msgid "Connecting"
-msgstr ""
+msgstr "Триває з'єднання"
 
 msgctxt "conn_pb_pairing"
 msgid "Pairing"
@@ -1071,7 +1091,7 @@ msgstr ""
 
 msgctxt "conn_pb_searching"
 msgid "Searching"
-msgstr ""
+msgstr "Триває пошук"
 
 msgctxt "conn_pb_settings"
 msgid "Retrieving settings"
@@ -1083,15 +1103,15 @@ msgstr "З'єднання"
 
 msgctxt "conn_set_fi_conn_set_always_ask"
 msgid "Always ask"
-msgstr ""
+msgstr "Завжди запитувати"
 
 msgctxt "conn_set_fi_conn_set_any"
 msgid "Any connection"
-msgstr ""
+msgstr "Будь-яке з'єднання"
 
 msgctxt "conn_set_fi_conn_set_conn_no_ask"
 msgid "Connect automatically"
-msgstr ""
+msgstr "З'єднуватись автоматично"
 
 msgctxt "conn_set_fi_conn_set_device_psd"
 msgid "%s"
@@ -1103,11 +1123,11 @@ msgstr ""
 
 msgctxt "conn_set_fi_conn_set_search"
 msgid "Search interval"
-msgstr ""
+msgstr "Інтервал пошуку"
 
 msgctxt "conn_set_fi_conn_set_switch"
 msgid "Switch to Wi-Fi when available"
-msgstr ""
+msgstr "Перемикатися на Wi-Fi якщо можливо"
 
 msgctxt "conn_set_fi_conn_set_wlan"
 msgid "Wi-Fi"
@@ -1119,7 +1139,7 @@ msgstr ""
 
 msgctxt "conn_set_iap_bd_conn_type"
 msgid "Connection type:"
-msgstr ""
+msgstr "Тип з'єднання:"
 
 msgctxt "conn_set_iap_bd_wlan_wps_pin"
 msgid "PIN method"
@@ -1131,7 +1151,7 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_adv_autom_url"
 msgid "Web address"
-msgstr ""
+msgstr "Веб-адреса"
 
 msgctxt "conn_set_iap_fi_adv_ip_autoretr"
 msgid "Auto-retrieve IP address"
@@ -1139,15 +1159,15 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_adv_ip_dns_prim"
 msgid "Primary DNS address"
-msgstr ""
+msgstr "Адреса первинного DNS"
 
 msgctxt "conn_set_iap_fi_adv_ip_dns_sec"
 msgid "Secondary DNS address"
-msgstr ""
+msgstr "Адреса вторинного DNS"
 
 msgctxt "conn_set_iap_fi_adv_ip_ip"
 msgid "IP address"
-msgstr ""
+msgstr "IP-адреса"
 
 msgctxt "conn_set_iap_fi_adv_ip_router"
 msgid "Default gateway"
@@ -1207,31 +1227,31 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_adv_proxies_ftp"
 msgid "FTP proxy"
-msgstr ""
+msgstr "FTP-проксі"
 
 msgctxt "conn_set_iap_fi_adv_proxies_http"
 msgid "HTTP proxy"
-msgstr ""
+msgstr "HTTP-проксі"
 
 msgctxt "conn_set_iap_fi_adv_proxies_https"
 msgid "HTTPS proxy"
-msgstr ""
+msgstr "HTTPS-проксі"
 
 msgctxt "conn_set_iap_fi_adv_proxies_port"
 msgid "Port number"
-msgstr ""
+msgstr "Номер порту"
 
 msgctxt "conn_set_iap_fi_adv_proxies_rtsp"
 msgid "RTSP proxy"
-msgstr ""
+msgstr "RTSP-проксі"
 
 msgctxt "conn_set_iap_fi_adv_use_autom"
 msgid "Automatic configuration"
-msgstr ""
+msgstr "Автоматичне налаштування"
 
 msgctxt "conn_set_iap_fi_adv_useproxies"
 msgid "Use proxy"
-msgstr ""
+msgstr "Використовувати проксі"
 
 msgctxt "conn_set_iap_fi_ask_pw_every"
 msgid "Prompt password at every login"
@@ -1239,11 +1259,11 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_conn_name"
 msgid "Connection name"
-msgstr ""
+msgstr "Назва з'єднання"
 
 msgctxt "conn_set_iap_fi_conn_name_default"
 msgid "Connection %d"
-msgstr ""
+msgstr "З'єднання %d"
 
 msgctxt "conn_set_iap_fi_finish_text"
 msgid ""
@@ -1254,7 +1274,7 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_password"
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 msgctxt "conn_set_iap_fi_psd"
 msgid "GPRS"
@@ -1276,10 +1296,11 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_username"
 msgid "User name"
-msgstr ""
+msgstr "Ім'я користувача"
 
 msgctxt "conn_set_iap_fi_welcome_text"
-msgid "Connection setup wizard allows you to define a Wi-Fi connection on your device"
+msgid ""
+"Connection setup wizard allows you to define a Wi-Fi connection on your device"
 msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan"
@@ -1340,11 +1361,11 @@ msgstr "SSID"
 
 msgctxt "conn_set_iap_fi_wlan_network"
 msgid "Network"
-msgstr ""
+msgstr "Мережа"
 
 msgctxt "conn_set_iap_fi_wlan_password"
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 msgctxt "conn_set_iap_fi_wlan_peap_meth"
 msgid "EAP method"
@@ -1388,23 +1409,23 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_username"
 msgid "User name"
-msgstr ""
+msgstr "Ім'я користувача"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_data1"
 msgid "WEP key 1"
-msgstr ""
+msgstr "WEP-ключ 1"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_data2"
 msgid "WEP key 2"
-msgstr ""
+msgstr "WEP-ключ 2"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_data3"
 msgid "WEP key 3"
-msgstr ""
+msgstr "WEP-ключ 3"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_data4"
 msgid "WEP key 4"
-msgstr ""
+msgstr "WEP-ключ 4"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_ind"
 msgid "Default WEP key"
@@ -1432,23 +1453,23 @@ msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_wepk_length_value1"
 msgid "5 characters (ASCII 40/64 bits)"
-msgstr ""
+msgstr "5 символів (ASCII 40/64 бітів)"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_length_value2"
 msgid "10 characters (HEX 40/64 bits)"
-msgstr ""
+msgstr "10 символів (HEX 40/64 бітів)"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_length_value3"
 msgid "13 characters (ASCII 104/128 bits)"
-msgstr ""
+msgstr "13 символів (ASCII 104/128 бітів)"
 
 msgctxt "conn_set_iap_fi_wlan_wepk_length_value4"
 msgid "26 characters (HEX 104/128 bits)"
-msgstr ""
+msgstr "26 символів (HEX 104/128 бітів)"
 
 msgctxt "conn_set_iap_fi_wlan_wepkey"
 msgid "WEP key"
-msgstr ""
+msgstr "WEP-ключ"
 
 msgctxt "conn_set_iap_fi_wlan_wpa_eap_type_peap"
 msgid "PEAP"
@@ -1464,14 +1485,16 @@ msgstr "TTLS"
 
 msgctxt "conn_set_iap_fi_wlan_wpa_eap_type_txt"
 msgid "EAP type"
-msgstr ""
+msgstr "Тип EAP"
 
 msgctxt "conn_set_iap_fi_wlan_wpa_psk_txt"
 msgid "Pre-shared key"
 msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_wps"
-msgid "Push a button on wireless station to initiate easy setup process and tap 'Done'"
+msgid ""
+"Push a button on wireless station to initiate easy setup process and tap "
+"'Done'"
 msgstr ""
 
 msgctxt "conn_set_iap_fi_wlan_wps_passphrase"
@@ -1496,7 +1519,7 @@ msgstr "EAP"
 
 msgctxt "conn_set_iap_ti_adv_ip"
 msgid "IP Addresses"
-msgstr ""
+msgstr "IP-адреса"
 
 msgctxt "conn_set_iap_ti_adv_misc"
 msgid "Other"
@@ -1616,7 +1639,7 @@ msgstr "З'єднання з Інтернет"
 
 msgctxt "conn_set_va_conn_set_search_1"
 msgid "Never"
-msgstr ""
+msgstr "Ніколи"
 
 msgctxt "conn_set_va_conn_set_search_2"
 msgid "5 minutes"
@@ -1648,11 +1671,11 @@ msgstr ""
 
 msgctxt "conn_ti_connect_dialog_title"
 msgid "Select connection"
-msgstr ""
+msgstr "Виберіть з'єднання"
 
 msgctxt "conn_ti_connect_disconnect_dialog_title"
 msgid "Disconnect or change connection"
-msgstr ""
+msgstr "Від'єднання чи зміна з'єднання"
 
 msgctxt "conn_ti_device_details"
 msgid "Device details"
@@ -1696,7 +1719,7 @@ msgstr ""
 
 msgctxt "conn_ti_phone_call"
 msgid "Call"
-msgstr ""
+msgstr "Виклик"
 
 msgctxt "conn_ti_phone_cpa"
 msgid "Phone"
@@ -1712,7 +1735,7 @@ msgstr ""
 
 msgctxt "conn_ti_phone_network"
 msgid "Network"
-msgstr ""
+msgstr "Мережа"
 
 msgctxt "conn_ti_phone_roaming_data_counter"
 msgid "Roaming network data"
@@ -1724,7 +1747,7 @@ msgstr ""
 
 msgctxt "conn_ti_phone_sim"
 msgid "SIM card"
-msgstr ""
+msgstr "SIM-карта"
 
 msgctxt "conn_ti_re_enter_new_pin_code"
 msgid "Re-enter new PIN code"
@@ -1740,7 +1763,7 @@ msgstr ""
 
 msgctxt "conn_ti_roaming"
 msgid "Enable automatic data roaming?"
-msgstr ""
+msgstr "Увімкнути автоматичний роумінг даних?"
 
 msgctxt "conn_ti_select_device"
 msgid "Select a device"
@@ -1760,11 +1783,11 @@ msgstr ""
 
 msgctxt "conn_va_phone_clir_network"
 msgid "Let network choose"
-msgstr ""
+msgstr "Дозволити мережі вибрати"
 
 msgctxt "conn_va_phone_dc_never"
 msgid "Never"
-msgstr ""
+msgstr "Ніколи"
 
 msgctxt "conn_va_phone_network_mode_2g"
 msgid "GSM"
@@ -1776,23 +1799,23 @@ msgstr "3G"
 
 msgctxt "conn_va_phone_network_mode_b"
 msgid "Dual"
-msgstr ""
+msgstr "Подвійний"
 
 msgctxt "conn_va_phone_network_roam_allow"
 msgid "Always allow"
-msgstr ""
+msgstr "Завжди дозволяти"
 
 msgctxt "conn_va_phone_network_roam_ask"
 msgid "Always ask"
-msgstr ""
+msgstr "Завжди запитувати"
 
 msgctxt "conn_va_phone_network_sel_a"
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматичний"
 
 msgctxt "conn_va_phone_network_sel_m"
 msgid "Manual"
-msgstr ""
+msgstr "Ручний"
 
 msgctxt "conn_va_placeholder_iap_name"
 msgid "Cellular data"
