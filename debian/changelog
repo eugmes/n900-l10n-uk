@@ -1,3 +1,9 @@
+n900-l10n-uk (1:20120102) fremantle; urgency=low
+
+  * Update translations and fix some too long strings
+
+ -- Євгеній Мещеряков <eugen@debian.org>  Mon, 02 Jan 2012 23:09:04 +0100
+
 n900-l10n-uk (1:20119999+1229) fremantle; urgency=low
 
   * Update translations
