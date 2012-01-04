@@ -1,11 +1,11 @@
 #
-# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: calendar 20090629141145\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2011-12-29 19:50+0100\n"
+"PO-Revision-Date: 2012-01-04 19:58+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
@@ -144,9 +144,9 @@ msgstr "Від"
 msgctxt "cal_fi_tasks_undone_plural|cal_fi_tasks_undone"
 msgid "%d task undone"
 msgid_plural "%d tasks undone"
-msgstr[0] "%d задача відмінена"
-msgstr[1] "%d задачі відмінені"
-msgstr[2] "%d задач відмінені"
+msgstr[0] "%d незавершена задача"
+msgstr[1] "%d незавершені задачі"
+msgstr[2] "%d незавершених задач"
 
 msgctxt "cal_fi_visible"
 msgid "Visible"
