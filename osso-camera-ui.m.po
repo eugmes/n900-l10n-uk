@@ -1,18 +1,19 @@
 #
-# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-camera-ui 20091013120338\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.10.13 12:03+0300\n"
-"PO-Revision-Date: 2011-02-14 00:49+0100\n"
+"PO-Revision-Date: 2012-01-08 22:36+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Lokalize 1.2\n"
+"Language: uk\n"
 
 msgctxt "camera_ap_camera"
 msgid "Camera"
@@ -20,11 +21,11 @@ msgstr "Камера"
 
 msgctxt "camera_bd_flash_always_off"
 msgid "Always off"
-msgstr ""
+msgstr "Завжди вимкнений"
 
 msgctxt "camera_bd_flash_always_on"
 msgid "Always on"
-msgstr ""
+msgstr "Завжди увімкнений"
 
 msgctxt "camera_bd_flash_automatic"
 msgid "Automatic"
@@ -112,11 +113,11 @@ msgstr ""
 
 msgctxt "camera_bd_settings_exposure"
 msgid "Exposure"
-msgstr ""
+msgstr "Експозиція"
 
 msgctxt "camera_bd_settings_iso"
 msgid "ISO sensitivity"
-msgstr ""
+msgstr "Чутливість ISO"
 
 msgctxt "camera_bd_settings_resolution"
 msgid "Resolution"
@@ -171,23 +172,28 @@ msgid "Sticky tags"
 msgstr ""
 
 msgctxt "camera_ia_geotag"
-msgid "GPS co-ordinates and geotags can be recorded to images and video clips if GPS is available. Geotagging requires an internet connection and involves transmission of data. Contact your network service provider for information about data transmission charges."
+msgid ""
+"GPS co-ordinates and geotags can be recorded to images and video clips if GPS "
+"is available. Geotagging requires an internet connection and involves "
+"transmission of data. Contact your network service provider for information "
+"about data transmission charges."
 msgstr ""
 
 msgctxt "camera_ia_open_lens_cover"
 msgid "Open lens cover"
-msgstr ""
+msgstr "Відкрийте об'єктив"
 
 msgctxt "camera_ia_processing"
 msgid "Processing image"
-msgstr ""
+msgstr "Обробка зображення"
 
 msgctxt "camera_ia_standby"
 msgid "Standby"
-msgstr ""
+msgstr "Очікування"
 
 msgctxt "camera_ib_internal_memory_not_accessible"
-msgid "Internal memory not accessible. External memory card will be used instead."
+msgid ""
+"Internal memory not accessible. External memory card will be used instead."
 msgstr ""
 
 msgctxt "camera_ib_memory_card_corrupt"
@@ -207,7 +213,9 @@ msgid "Memory not accessible. Unable to save content."
 msgstr ""
 
 msgctxt "camera_ib_no_memory_card"
-msgid "Only internal storage memory available. Insert memory card to change this setting."
+msgid ""
+"Only internal storage memory available. Insert memory card to change this "
+"setting."
 msgstr ""
 
 msgctxt "camera_ib_not_able_to_change_settings"
@@ -215,7 +223,8 @@ msgid "Unable to change settings until previous item has been fully processed"
 msgstr ""
 
 msgctxt "camera_ib_not_able_to_change_to_video_mode"
-msgid "Video mode can not be activated before previous image has been fully processed"
+msgid ""
+"Video mode can not be activated before previous image has been fully processed"
 msgstr ""
 
 msgctxt "camera_ib_not_available"
@@ -304,15 +313,15 @@ msgstr "Камера"
 
 msgctxt "camera_ti_iso"
 msgid "ISO sensitivity"
-msgstr ""
+msgstr "Чутливість ISO"
 
 msgctxt "camera_ti_resolution"
 msgid "Resolution settings"
-msgstr ""
+msgstr "Роздільна здатність"
 
 msgctxt "camera_ti_video_capture_settings"
 msgid "Video capture settings"
-msgstr ""
+msgstr "Налаштування запису відео"
 
 msgctxt "camera_ti_video_mode"
 msgid "Video mode"
@@ -337,4 +346,5 @@ msgstr ""
 msgctxt "camera_va_show_post_capture_seconds"
 msgid "For %d seconds"
 msgstr ""
+
 
