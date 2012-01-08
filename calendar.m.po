@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: calendar 20090629141145\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2012-01-04 19:58+0100\n"
+"PO-Revision-Date: 2012-01-08 22:23+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
@@ -297,9 +297,11 @@ msgctxt "cal_me_previous_week"
 msgid "Previous week"
 msgstr "Попередній тиждень"
 
+# TODO Maybe there is a better translation?
+
 msgctxt "cal_me_toggle_agenda"
 msgid "Agenda"
-msgstr ""
+msgstr "Огляд"
 
 msgctxt "cal_me_toggle_month"
 msgid "Month"
