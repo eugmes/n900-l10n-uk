@@ -1,11 +1,11 @@
 #
-# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: modest 20091109114412\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2011-12-30 12:30+0100\n"
+"PO-Revision-Date: 2012-01-08 22:19+0100\n"
 "Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
 "Language-Team: Ukrainian <>\n"
 "MIME-Version: 1.0\n"
@@ -412,11 +412,11 @@ msgstr ""
 
 msgctxt "mcen_fi_advsetup_other_security_none"
 msgid "None"
-msgstr ""
+msgstr "Немає"
 
 msgctxt "mcen_fi_advsetup_other_security_normal"
 msgid "Normal (TLS)"
-msgstr ""
+msgstr "Нормальне (TLS)"
 
 msgctxt "mcen_fi_advsetup_other_security_secureimap4s"
 msgid "SSL (IMAP4S)"
@@ -476,7 +476,7 @@ msgstr "CRAM-MD5"
 
 msgctxt "mcen_fi_advsetup_smtp_login"
 msgid "Login"
-msgstr ""
+msgstr "Лоґін"
 
 msgctxt "mcen_fi_advsetup_smtp_none"
 msgid "None"
@@ -568,15 +568,15 @@ msgstr "Автоматично додавати до Контактів"
 
 msgctxt "mcen_fi_options_autoupdate"
 msgid "Update automatically"
-msgstr ""
+msgstr "Оновлювати автоматично"
 
 msgctxt "mcen_fi_options_connectiontype"
 msgid "Update when connected via"
-msgstr ""
+msgstr "Оновлювати при з'єднання через"
 
 msgctxt "mcen_fi_options_incoming_notifications"
 msgid "Incoming notifications"
-msgstr ""
+msgstr "Повідомлення про нову пошту"
 
 msgctxt "mcen_fi_options_messageformat"
 msgid "New message format"
@@ -584,7 +584,7 @@ msgstr "Формат нового повідомлення"
 
 msgctxt "mcen_fi_options_updateinterval"
 msgid "Update interval"
-msgstr ""
+msgstr "Інтервал оновлення"
 
 msgctxt "mcen_fi_serviceprovider"
 msgid "Service provider"
@@ -655,16 +655,18 @@ msgstr "(немає непрочитаних повідомлень)"
 
 msgctxt "mcen_ia_optionalsmtp_noconnection"
 msgid "(no connections)"
-msgstr ""
+msgstr "(немає з'єднань)"
 
 msgctxt "mcen_ia_optionalsmtp_notdefined"
 msgid "Not defined"
-msgstr ""
+msgstr "Невизначений"
 
 msgctxt "mcen_ia_optionalsmtp_note"
 msgid ""
 "Select connection and edit SMTP server to be used when connection is active"
 msgstr ""
+"Виберіть з'єднання і редагуйте сервер, який буде використовуватися при "
+"активуванні з'єднання."
 
 msgctxt "mcen_ia_privacy_notice"
 msgid ""
@@ -891,11 +893,11 @@ msgstr "Показати Cc"
 
 msgctxt "mcen_me_email_home_applet"
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 msgctxt "mcen_me_folder_archive"
 msgid "Archive"
-msgstr ""
+msgstr "Архів"
 
 msgctxt "mcen_me_folder_details"
 msgid "Folder details"
@@ -1074,11 +1076,11 @@ msgstr ""
 
 msgctxt "mcen_ti_connection_connection_name"
 msgid "Connection-specific SMTP server: %s"
-msgstr ""
+msgstr "Залежний від з'єднання SMTP-сервер: %s"
 
 msgctxt "mcen_ti_default_account"
 msgid "Default account"
-msgstr ""
+msgstr "Обліковий запис за замовчанням"
 
 msgctxt "mcen_ti_edit_delete"
 msgid "Choose items to delete"
@@ -1174,7 +1176,7 @@ msgstr "Нове повідомлення"
 
 msgctxt "mcen_ti_optionalsmtp_servers"
 msgid "Connection-specific SMTP servers"
-msgstr ""
+msgstr "Залежні від з'єднання SMTP-сервери"
 
 msgctxt "mcen_ti_options"
 msgid "Settings"
@@ -1194,7 +1196,7 @@ msgstr ""
 
 msgctxt "mcen_ti_updating"
 msgid "Updating IMAP and POP accounts"
-msgstr ""
+msgstr "Оновлення облікових записів IMAP і POP"
 
 msgctxt "mcen_va_default_signature_tablet"
 msgid "Sent from my Nokia N900"
@@ -1202,7 +1204,7 @@ msgstr "Надіслано з мого Nokia N900"
 
 msgctxt "mcen_va_example_email_address"
 msgid "first.last@example.com"
-msgstr ""
+msgstr "first.last@example.com"
 
 msgctxt "mcen_va_intellisync"
 msgid "Intellisync"
@@ -1233,7 +1235,7 @@ msgstr[2] "%d нових повідомлень"
 
 msgctxt "mcen_va_options_connectiontype_all"
 msgid "Any connection"
-msgstr ""
+msgstr "Будь-яке з'єднання"
 
 msgctxt "mcen_va_options_connectiontype_wlan"
 msgid "Wi-Fi"
@@ -1289,7 +1291,7 @@ msgstr "8 годин"
 
 msgctxt "mcen_va_refreshing"
 msgid "Refreshing"
-msgstr ""
+msgstr "Оновлення"
 
 msgctxt "mcen_va_serviceprovider_other"
 msgid "Other"
